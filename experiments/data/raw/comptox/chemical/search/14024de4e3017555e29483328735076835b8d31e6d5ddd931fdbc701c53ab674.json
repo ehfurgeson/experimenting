@@ -1,0 +1,25 @@
+{
+  "search_term": "OYIKARCXOQLFHF-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:23.195373+00:00",
+  "url": "/chemical/search/equal/OYIKARCXOQLFHF-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5034723",
+        "dtxcid": "DTXCID3014723",
+        "casrn": "141112-29-0",
+        "preferredName": "Isoxaflutole",
+        "hasStructureImage": 1,
+        "smiles": "CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C1=C(ON=C1)C1CC1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "OYIKARCXOQLFHF-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

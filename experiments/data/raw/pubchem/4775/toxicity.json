@@ -1,0 +1,111 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 4775,
+    "RecordTitle": "4-Phenylbutyric Acid",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Hepatotoxicity",
+                "Description": "This section provides a short description about the hepatotoxicity associated with this compound, the rate of serum enzyme elevations during use, and the frequency and character of the clinically apparent liver injury associated with the compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "While the urea cycle disorders are caused by deficiencies of hepatic enzymes responsible for the elimination of nitrogen, patients generally present with hyperammonemia without other features or biochemical evidence of hepatic injury. Thus, serum aminotransferase, alkaline phosphatase and bilirubin levels are generally normal or only mildly elevated. Newborns presenting with hyperammonemia may have hepatomegaly but other, non-urea cycle, liver function is normal as is hepatic histology. Phenylbutyrate can help to lower ammonia levels acutely and manage to keep them in the normal or near normal range, but generally does not affect other liver functions. In open label studies, a small proportion of patients (particularly with ornithine transcarbamylase [OTC] deficiency) have had ALT or AST elevations, but these have generally been attributed to the underlying condition or its complications. Phenylbutyrate has not been linked to instances of clinically apparent liver injury with jaundice.",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/urea",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1176"
+                            },
+                            {
+                              "Start": 112,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Nitrogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Nitrogen"
+                            },
+                            {
+                              "Start": 290,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bilirubin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280352"
+                            },
+                            {
+                              "Start": 430,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/urea",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1176"
+                            },
+                            {
+                              "Start": 492,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Phenylbutyrate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            },
+                            {
+                              "Start": 525,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ammonia",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-222"
+                            },
+                            {
+                              "Start": 734,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ornithine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6262"
+                            },
+                            {
+                              "Start": 902,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Phenylbutyrate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Likelihood score: E (unlikely cause of clinically apparent liver injury, but experience with its use is limited)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "LiverTox",
+        "SourceID": "Phenylbutyrate",
+        "Name": "Phenylbutyrate",
+        "Description": "LIVERTOX provides up-to-date, accurate, and easily accessed information on the diagnosis, cause, frequency, patterns, and management of liver injury attributable to prescription and nonprescription medications, herbals and dietary supplements.",
+        "URL": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Phenylbutyrate/",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 8444203
+      }
+    ]
+  }
+}

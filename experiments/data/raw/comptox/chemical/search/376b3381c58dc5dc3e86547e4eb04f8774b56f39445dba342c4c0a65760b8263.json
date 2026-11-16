@@ -1,0 +1,25 @@
+{
+  "search_term": "ASSKVPFEZFQQNQ-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:48.514980+00:00",
+  "url": "/chemical/search/equal/ASSKVPFEZFQQNQ-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9049324",
+        "dtxcid": "DTXCID8029280",
+        "casrn": "59-49-4",
+        "preferredName": "2-Benzoxazolinone",
+        "hasStructureImage": 1,
+        "smiles": "O=C1NC2=C(O1)C=CC=C2",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "ASSKVPFEZFQQNQ-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

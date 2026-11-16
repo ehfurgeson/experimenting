@@ -1,0 +1,31 @@
+{
+  "n": 154,
+  "observations": 157,
+  "critical_holds": [
+    "CHEMBL2253255"
+  ],
+  "released_reference_counts": {
+    "EXACT_FULL_STEREO_INCHIKEY": 15,
+    "CONNECTIVITY_ONLY_STEREOCHEMISTRY_NOT_ESTABLISHED": 1
+  },
+  "retrieved_reference_counts": {
+    "EXACT_FULL_STEREO_INCHIKEY": 15,
+    "CONNECTIVITY_ONLY_STEREOCHEMISTRY_NOT_ESTABLISHED": 1
+  },
+  "effective_conditional_counts_NOT_APPROVED": {
+    "not_assessed": 68,
+    "active": 46,
+    "unknown": 8,
+    "inactive": 31,
+    "identity_hold": 1
+  },
+  "approved_activity_labels": 0,
+  "approved_origin_labels": 0,
+  "model_fits": 0,
+  "activity_model_status": "blocked_unapproved_labels",
+  "original_source_field_changes": 0,
+  "new_lead_identity_status": {
+    "name_not_resolved": 6,
+    "name_lookup_candidate_requires_source_match": 5
+  }
+}

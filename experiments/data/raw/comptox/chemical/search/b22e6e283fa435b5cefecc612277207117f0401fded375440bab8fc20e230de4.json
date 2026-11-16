@@ -1,0 +1,25 @@
+{
+  "search_term": "WYEHFWKAOXOVJD-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:20.708959+00:00",
+  "url": "/chemical/search/equal/WYEHFWKAOXOVJD-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID4041494",
+        "dtxcid": "DTXCID2021494",
+        "casrn": "83164-33-4",
+        "preferredName": "Diflufenican",
+        "hasStructureImage": 1,
+        "smiles": "FC1=CC=C(NC(=O)C2=C(OC3=CC(=CC=C3)C(F)(F)F)N=CC=C2)C(F)=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "WYEHFWKAOXOVJD-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

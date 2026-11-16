@@ -1,0 +1,2560 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 4650,
+    "RecordTitle": "Quinone",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 122,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quinone is a cholinesterase or acetylcholinesterase (AChE) inhibitor. A cholinesterase inhibitor (or 'anticholinesterase') suppresses the action of acetylcholinesterase. Because of its essential function, chemicals that interfere with the action of acetylcholinesterase are potent neurotoxins, causing excessive salivation and eye-watering in low doses, followed by muscle spasms and ultimately death.  Nerve gases and many substances used in insecticides have been shown to act by binding a serine in the active site of acetylcholine esterase, inhibiting the enzyme completely. Acetylcholine esterase breaks down the neurotransmitter acetylcholine, which is released at nerve and muscle junctions, in order to allow the muscle or organ to relax. The result of acetylcholine esterase inhibition is that acetylcholine builds up and continues to act so that any nerve impulses are continually transmitted and muscle contractions do not stop. Among the most common acetylcholinesterase inhibitors are phosphorus-based compounds, which are designed to bind to the active site of the enzyme. The structural requirements are a phosphorus atom bearing two lipophilic groups, a leaving group (such as a halide or thiocyanate), and a terminal oxygen.",
+                          "Markup": [
+                            {
+                              "Start": 492,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/serine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5951"
+                            },
+                            {
+                              "Start": 521,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 579,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 635,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 761,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 803,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 998,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Phosphorus",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Phosphorus"
+                            },
+                            {
+                              "Start": 1121,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Phosphorus",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Phosphorus"
+                            },
+                            {
+                              "Start": 1205,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/thiocyanate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9322"
+                            },
+                            {
+                              "Start": 1234,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 39,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=509",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quinone"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Evaluation: No epidemiological data relevant to the carcinogenicity of 1,4-benzoquinone were available. There is inadequate evidence in experimental animals for the carcinogenicity of 1,4-benzoquinone. Overall evaluation: 1,4-Benzoquinone is not classifiable as to its carcinogenicity to humans (Group 3).",
+                          "Markup": [
+                            {
+                              "Start": 71,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 184,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 222,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 66,
+                    "Name": "IARC Carcinogenic Agent",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "para-Quinone"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 66,
+                    "Name": "IARC Carcinogenic Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Group 3: Not classifiable as to its carcinogenicity to humans"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 66,
+                    "Name": "IARC Monographs",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Volume 15: (1977) Some Fumigants, the Herbicides 2,4-D and 2,4,5-T, Chlorinated Dibenzodioxins and Miscellaneous Industrial Chemicals",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "http://publications.iarc.who.int/33"
+                            },
+                            {
+                              "Start": 49,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2%2C4-D",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1486"
+                            },
+                            {
+                              "Start": 59,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2%2C4%2C5-T",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1480"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Volume Sup 7: Overall Evaluations of Carcinogenicity: An Updating of IARC Monographs Volumes 1 to 42, 1987; 440 pages; ISBN 92-832-1411-0 (out of print)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "http://publications.iarc.who.int/139"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Volume 71: (1999) Re-evaluation of Some Organic Chemicals, Hydrazine and Hydrogen Peroxide (Part 1, Part 2, Part 3)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "http://publications.iarc.who.int/89"
+                            },
+                            {
+                              "Start": 59,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydrazine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9321"
+                            },
+                            {
+                              "Start": 73,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydrogen%20Peroxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-784"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 66,
+                    "Name": "Publication Year",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1999"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 66,
+                    "Name": "Evaluation Year",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1998"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 122,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php",
+                        "Matched": {
+                          "PCLID": 900177075,
+                          "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3, not classifiable as to its carcinogenicity to humans. (L135)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Health Effects",
+                "Description": "Principal effect(s) of exposure to each substance, listed by OSHA Health Code, Health Effects from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 122,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Acute exposure to cholinesterase inhibitors can cause a cholinergic crisis characterized by severe nausea/vomiting, salivation, sweating, bradycardia, hypotension, collapse, and convulsions. Increasing muscle weakness is a possibility and may result in death if respiratory muscles are involved.  Accumulation of ACh at motor nerves causes overstimulation of nicotinic expression at the neuromuscular junction. When this occurs symptoms such as muscle weakness, fatigue, muscle cramps, fasciculation, and paralysis can be seen. When there is an accumulation of ACh at autonomic ganglia this causes overstimulation of nicotinic expression in the sympathetic system. Symptoms associated with this are hypertension, and hypoglycemia. Overstimulation of nicotinic acetylcholine receptors in the central nervous system, due to accumulation of ACh, results in anxiety, headache, convulsions, ataxia, depression of respiration and circulation, tremor, general weakness, and potentially coma. When there is expression of muscarinic overstimulation due to excess acetylcholine at muscarinic acetylcholine receptors symptoms of visual disturbances, tightness in chest, wheezing due to bronchoconstriction, increased bronchial secretions, increased salivation, lacrimation, sweating, peristalsis, and urination can occur.  Certain reproductive effects in fertility, growth, and development for males and females have been linked specifically to organophosphate pesticide exposure. Most of the research on reproductive effects has been conducted on farmers working with pesticides and insecticdes in rural areas. In females menstrual cycle disturbances, longer pregnancies, spontaneous abortions, stillbirths, and some developmental effects in offspring have been linked to organophosphate pesticide exposure. Prenatal exposure has been linked to impaired fetal growth and development. Neurotoxic effects have also been linked to poisoning with OP pesticides causing four neurotoxic effects in humans: cholinergic syndrome, intermediate syndrome, organophosphate-induced delayed polyneuropathy (OPIDP), and chronic organophosphate-induced neuropsychiatric disorder (COPIND). These syndromes result after acute and chronic exposure to OP pesticides.",
+                          "Markup": [
+                            {
+                              "Start": 760,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 1054,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 1082,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exposure Routes",
+                "Description": "The way people or other living organisms may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The substance can be absorbed into the body by inhalation and by ingestion."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 118,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "inhalation, ingestion, skin and/or eye contact"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "Inhalation Exposure",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Burning sensation. Cough. Laboured breathing. Shortness of breath. Sore throat."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "Skin Exposure",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Redness. Pain. Skin discoloration. Blisters."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "Eye Exposure",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Redness. Pain. Blurred vision. Brown staining."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "Ingestion Exposure",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Abdominal pain. Burning sensation. Diarrhoea. Vomiting."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 118,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Eye irritation, conjunctivitis; keratitis (inflammation of the cornea); skin irritation"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 122,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Symptoms of low dose exposure include excessive salivation and eye-watering.  Acute dose symptoms include severe nausea/vomiting, salivation, sweating, bradycardia, hypotension, collapse, and convulsions. Increasing muscle weakness is a possibility and may result in death if respiratory muscles are involved.  Hypertension, hypoglycemia, anxiety, headache, tremor and ataxia may also result."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 118,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Eyes, skin"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 49,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dermatotoxin - Skin burns."
+                        },
+                        {
+                          "String": "Skin Sensitizer - An agent that can induce an allergic reaction in the skin."
+                        },
+                        {
+                          "String": "ACGIH Carcinogen - Not Classifiable."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134971775"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "NIOSH Toxicity Data",
+                    "Description": "Toxicity data for this compound, from the National Institute for Occupational Safety and Health (NIOSH).",
+                    "URL": "https://www.cdc.gov/niosh/index.htm",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 119,
+                        "Name": "NIOSH Toxicity Data",
+                        "Value": {
+                          "ExternalTableName": "niosh"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 51,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1331"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1331",
+                            "Matched": {
+                              "PCLID": 900163199,
+                              "Citation": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1331"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 130 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 51,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1331"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1331",
+                            "Matched": {
+                              "PCLID": 900163199,
+                              "Citation": "American Conference of Governmental Industrial Hygienists, Inc. Documentation of the Threshold Limit Values and Biological Exposure Indices. 6th ed. Volumes I, II, III. Cincinnati, OH: ACGIH, 1991., p. 1331"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat iv 25 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 40,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 40,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Treatment",
+                "Description": "Treatment when exposed to toxin",
+                "Information": [
+                  {
+                    "ReferenceNumber": 122,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "If the compound has been ingested, rapid gastric lavage should be performed using 5% sodium bicarbonate. For skin contact, the skin should be washed with soap and water. If the compound has entered the eyes, they should be washed with large quantities of isotonic saline or water. In serious cases, atropine and/or pralidoxime should be administered. Anti-cholinergic drugs work to counteract the effects of excess acetylcholine and reactivate AChE. Atropine can be used as an antidote in conjunction with pralidoxime or other pyridinium oximes (such as trimedoxime or obidoxime), though the use of '-oximes' has been found to be of no benefit, or possibly harmful, in at least two meta-analyses. Atropine is a muscarinic antagonist, and thus blocks the action of acetylcholine peripherally.",
+                          "Markup": [
+                            {
+                              "Start": 85,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20bicarbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-516892"
+                            },
+                            {
+                              "Start": 163,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 299,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/atropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-174174"
+                            },
+                            {
+                              "Start": 315,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pralidoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398747"
+                            },
+                            {
+                              "Start": 415,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 450,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Atropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-174174"
+                            },
+                            {
+                              "Start": 506,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pralidoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398747"
+                            },
+                            {
+                              "Start": 554,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/trimedoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135539427"
+                            },
+                            {
+                              "Start": 569,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/obidoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135412781"
+                            },
+                            {
+                              "Start": 697,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Atropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-174174"
+                            },
+                            {
+                              "Start": 764,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "LUCCI GC, LANDI S; AGROCHIMICA 25 (1): 20-8 (1981)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "LUCCI GC, LANDI S; AGROCHIMICA 25 (1): 20-8 (1981)",
+                        "Matched": {
+                          "PCLID": 906275642,
+                          "Citation": "LUCCI GC, LANDI S; AGROCHIMICA 25 (1): 20-8 (1981)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "THE INFLUENCE OF P-BENZOQUINONE ON POTASSIUM UPTAKE BY EXCISED SUGAR BEET & WHEAT ROOTS WAS STUDIED. WHEN P-BENZOQUINONE WAS ADDED TO NUTRIENT SOLUTION, IT ENHANCED ABSORPTION RATES OF BOTH SPECIES AT VERY LOW CONCN WHILE INHIBITION OCCURRED FOR HIGHER CONCN.",
+                          "Markup": [
+                            {
+                              "Start": 106,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/P-BENZOQUINONE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Medical Surveillance",
+                "Description": "Medical surveillance information for this compound.  Medical surveillance is the systematic assessment of employees exposed or potentially exposed to occupational hazards. This assessment monitors individuals for adverse health effects and determines the effectiveness of exposure prevention strategies.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Sittig, M. Handbook of Toxic and Hazardous Chemicals and   Carcinogens, 1985. 2nd ed. Park Ridge, NJ: Noyes Data   Corporation, 1985., p. 765"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Sittig, M. Handbook of Toxic and Hazardous Chemicals and   Carcinogens, 1985. 2nd ed. Park Ridge, NJ: Noyes Data   Corporation, 1985., p. 765",
+                        "Matched": {
+                          "PCLID": 900008650,
+                          "Citation": "Sittig, M. Handbook of Toxic and Hazardous Chemicals and   Carcinogens, 1985. 2nd ed. Park Ridge, NJ: Noyes Data   Corporation, 1985., p. 765"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Careful examination of eyes, incl visual acuity & slit lamp examinations, should be done during placement & periodic examinations. Also evaluate skin."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "ITII. Toxic and Hazardous Industrial Chemicals Safety Manual. Tokyo, Japan: The International Technical Information Institute, 1988., p. 67"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "ITII. Toxic and Hazardous Industrial Chemicals Safety Manual. Tokyo, Japan: The International Technical Information Institute, 1988., p. 67",
+                        "Matched": {
+                          "PCLID": 900152167,
+                          "Citation": "ITII. Toxic and Hazardous Industrial Chemicals Safety Manual. Tokyo, Japan: The International Technical Information Institute, 1988., p. 67"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Carry out medical examination for the workers every year, especially on eyes and skin. Workers must be /protected/ against eye and skin irritation."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2594"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2594",
+                        "Matched": {
+                          "PCLID": 900059273,
+                          "Citation": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2594"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ULCERATION OF CORNEA HAS RESULTED FROM ONE BRIEF EXPOSURE TO HIGH CONCN OF VAPOR OF QUINONE, AS WELL AS FROM REPEATED EXPOSURES TO MODERATELY HIGH CONCN. FOLLOWING DISCONTINUATION OF EXPOSURE, RECOVERY OCCURRED PROMPTLY & SPONTANEOUSLY ... THERE WERE NO SYSTEMIC EFFECTS OR CHANGES IN COMPOSITION OF BLOOD OR URINE."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "The Merck Index. 10th ed. Rahway, New Jersey: Merck Co., Inc., 1983., p. 1168"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "The Merck Index. 10th ed. Rahway, New Jersey: Merck Co., Inc., 1983., p. 1168",
+                        "Matched": {
+                          "PCLID": 900061897,
+                          "Citation": "The Merck Index. 10th ed. Rahway, New Jersey: Merck Co., Inc., 1983., p. 1168"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CAN CAUSE DERMATITIS WITH DISCOLORATION, ERYTHEMA, FORMATION OF PAPULES & VESICLES. IN SEVERE CASES THERE CAN BE NECROTIC CHANGES IN SKIN. VAPORS ACTING ON EYE CAN CAUSE SERIOUS DISTURBANCES, INCL CONJUNCTIVITIS ... DISCOLORATION OF CONJUNCTIVA & CORNEA HAVE BEEN REPORTED."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 498"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 498",
+                        "Matched": {
+                          "PCLID": 900017048,
+                          "Citation": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 498"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... Ocular disturbance without acute reaction was observed in numerous workers who were exposed chronically to vapors of benzoquinone or dust of hydroquinone. These workers developed in course of 2 years a brownish tinge overlying the sclera in the palpebral fissure. At this stage, the conjunctival surface appeared slightly dry, & deeper layers of conjunctiva had a light brownish stain visible biomicroscopically, but no discrete colored particles. After another 2 or 3 years, the conjunctiva appeared more thickened & more dry, with superficial white flecks & brown stain. In deeper layers, brown discoloration was ... seen ... as discrete brown granules or globules. Pigment was observed to begin to migrate from limbus into cornea.",
+                          "Markup": [
+                            {
+                              "Start": 121,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 145,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-785"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 498"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 498",
+                        "Matched": {
+                          "PCLID": 900017048,
+                          "Citation": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 498"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... In several cases /of chronic exposure to quinone/ vision became seriously reduced from permanent fine opacities & much astigmatism & irregularity in the cornea. After exposure to quinone vapor was discontinued, the discoloration decreased, but the visual disturbance was permanent. Many years later in such cases a Hudson-Stahli pigment line in the epithelium & severe astigmatism from formation of facets in cornea have been observed."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Human Toxicity Excerpts (Complete) data for 1,4-BENZOQUINONE (8 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 98,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1111#section=Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 53,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-BENZOQUINONE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A GROUP OF MICE WERE PAINTED WITH A 0.25% SOLN OF P-QUINONE IN BENZENE EVERY 1 OR 2 DAYS. OF 44 MICE THAT SURVIVED MORE THAN 200 DAYS, 3 DEVELOPED SKIN PAPILLOMAS, 1 DEVELOPED A SKIN CARCINOMA & 5 DEVELOPED LUNG ADENOCARCINOMAS. WHEN 0.1% SOLN WAS USED, 41 MICE SURVIVED MORE THAN 200 DAYS, & 6 DEVELOPED SKIN PAPILLOMAS, 2 DEVELOPED SKIN CARCINOMAS & 10 DEVELOPED LUNG ADENOCARCINOMAS (P < 0.05). OF 46 SURVIVING CONTROLS TREATED WITH BENZENE, 1 DEVELOPED SKIN PAPILLOMA, & 2 DEVELOPED LUNG ADENOCARCINOMAS (THE WORKING GROUP NOTED THAT THE SEX & STRAIN OF ANIMALS & DURATION OF EXPT WERE NOT SPECIFIED).",
+                          "Markup": [
+                            {
+                              "Start": 63,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BENZENE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-241"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GROUP OF 25 MICE (SEX & STRAIN UNSPECIFIED) WERE EXPOSED /BY INHALATION/ TO 5 MG PARA-QUINONE IN 130 L CHAMBER FOR 1 HR, 6 TIMES/WK; 25 MICE WERE UNTREATED ... . IN 11 TREATED MICE THAT SURVIVED MORE THAN 100 DAYS, 2 LUNG ADENOCARCINOMAS WERE OBSERVED. AMONG 12 CONTROLS THAT DIED AFTER MORE THAN 100 DAYS, 2 LUNG ADENOMAS WERE OBSERVED. IN ANOTHER EXPT CARRIED OUT UNDER SAME CONDITIONS OF EXPOSURE, 2 LUNG ADENOCARCINOMAS WERE FOUND IN 25 TREATED MICE, COMPARED WITH 1 LUNG ADENOMA AMONG 25 CONTROLS. THE SAME EXPT WAS REPEATED & 2 LUNG ADENOCARCINOMAS WERE OBSERVED IN 25 MICE & 1 LUNG ADENOMA IN 25 CONTROLS.",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PARA-QUINONE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A GROUP OF 24 RATS (15 WISTAR STRAIN & 9 HYBRIDS), WEIGHING ABOUT 200 G EACH, WERE INJECTED SC WITH 0.5 ML SOLN OF P-QUINONE IN PROPYLENE GLYCOL AT WEEKLY INTERVALS. CONCN GIVEN DURING THE FIRST 53 DAYS WAS 1%; THIS WAS REDUCED TO 0.2% FROM DAYS 54-173 & AGAIN INCREASED TO 0.4% AFTER 173 DAYS. 17 RATS SURVIVED THE INJECTION PERIOD OF 394 DAYS & RECEIVED A TOTAL OF 32 INJECTIONS (P-QUINONE 81 MG, PROPYLENE GLYCOL 16.5 ML) DURING THIS PERIOD. INJECTION SITE FIBROSARCOMAS DEVELOPED IN 2 RATS. NO LOCAL TUMORS WERE OBSERVED AMONG 11 RATS OF SAITAMA MIXED STRAIN INJECTED WEEKLY WITH 1 ML PROPYLENE GLYCOL FOR 15 MO, THEN 0.5 ML, & SURVIVING 300 OR MORE DAYS (P > 0.05).",
+                          "Markup": [
+                            {
+                              "Start": 399,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PROPYLENE%20GLYCOL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1030"
+                            },
+                            {
+                              "Start": 589,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PROPYLENE%20GLYCOL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1030"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2593"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2593",
+                        "Matched": {
+                          "PCLID": 900092861,
+                          "Citation": "Clayton, G. D. and F. E. Clayton (eds.). Patty's Industrial Hygiene and Toxicology: Volume 2A, 2B, 2C: Toxicology. 3rd ed. New York: John Wiley Sons, 1981-1982., p. 2593"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ASPHYXIA APPEARS TO PLAY IMPORTANT ROLE IN TERMINAL /CASES/ ... BECAUSE OF PULMONARY DAMAGE RESULTING FROM EXCRETION OF QUINONE INTO ALVEOLI & BECAUSE OF CERTAIN NOT TOO WELL-DEFINED EFFECTS OF QUINONE UPON HEMOGLOBIN. URINE OF SEVERELY POISONED ANIMALS MAY CONTAIN PROTEIN, BLOOD /&/ CASTS ... ."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for 1,4-BENZOQUINONE (14 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 103,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1111#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-BENZOQUINONE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "TSCA Test Submissions",
+                "Description": "Under the Toxic Substances Control Act (TSCA), EPA has broad authority to issue regulations designed to require manufacturers (including importers) or processors to test chemical substances and mixtures for health and environmental effects.  This section provides information on test reports submitted for this chemical under TSCA.",
+                "URL": "https://www.epa.gov/assessing-and-managing-chemicals-under-tsca",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "Goodyear Tire and Rubber Co.; Laboratory Report No 80-6-10 Mutagenicity Evaluation of Benzoquinone, Salmonella typhimurium/Microsome Bioassay, EPA Document No. 878210381, Fiche No. OTS0205941"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Goodyear Tire and Rubber Co.; Laboratory Report No 80-6-10 Mutagenicity Evaluation of Benzoquinone, Salmonella typhimurium/Microsome Bioassay, EPA Document No. 878210381, Fiche No. OTS0205941",
+                        "Matched": {
+                          "PCLID": 900005735,
+                          "Citation": "Goodyear Tire and Rubber Co.; Laboratory Report No 80-6-10 Mutagenicity Evaluation of Benzoquinone, Salmonella typhimurium/Microsome Bioassay, EPA Document No. 878210381, Fiche No. OTS0205941"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1,4-Benzoquinone was examined for mutagenic activity in Salmonella typhimurium tester strains TA1535, TA98, TA1537, TA100 in the presence and absence of metabolic activation provided by Aroclor-induced rat liver S9 fraction. The test article was not mutagenic at concentrations ranging from 0.1 to 32 ug/plate in the absence of activation, or from 0.1 to 100 ug/plate in the presence of activation. Cytotoxicity data was not reported.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "Goodyear Research Division; DNA Damage by Benzoquinone (Sublimed) Sample No 8349-34 in the E. Coli Pol A1- Assay (1980), EPA Document No. 878210380, Fiche No. OTS0205941"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Goodyear Research Division; DNA Damage by Benzoquinone (Sublimed) Sample No 8349-34 in the E. Coli Pol A1- Assay (1980), EPA Document No. 878210380, Fiche No. OTS0205941",
+                        "Matched": {
+                          "PCLID": 900134381,
+                          "Citation": "Goodyear Research Division; DNA Damage by Benzoquinone (Sublimed) Sample No 8349-34 in the E. Coli Pol A1- Assay (1980), EPA Document No. 878210380, Fiche No. OTS0205941"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Benzoquinone was examined for DNA modifying activity in Escherichia coli strains W3110 polA+ and P3478 polA- (DNA repair deficiency assay ). The test article was administered to cells by the preincubation method at concentrations of 0.01, 0.032, 0.04, 0.05 and 0.1 ug/plate in the absence of metabolic activation. The test article induced differential toxicity, as indicated by a decrease in the survival index (percent pol A- survivors divided by the percent pol A+ survivors) from 1.02 at 0.01 ug/plate to 0.07 at 0.05 ug/plate. Extreme toxicity was observed at concentrations >= 0.1 ug/ml in both E. coli strains.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "George Washington University; The Toxicity, Mechanism of Action, and Metabolism of Hydroquinone with Attachment, (1951), EPA Doc. No. 40-5169110, Fiche No. OTS0517910"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "George Washington University; The Toxicity, Mechanism of Action, and Metabolism of Hydroquinone with Attachment, (1951), EPA Doc. No. 40-5169110, Fiche No. OTS0517910",
+                        "Matched": {
+                          "PCLID": 900122189,
+                          "Citation": "George Washington University; The Toxicity, Mechanism of Action, and Metabolism of Hydroquinone with Attachment, (1951), EPA Doc. No. 40-5169110, Fiche No. OTS0517910"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1,4-benzoquinone (CAS # 106-51-4) was evaluated for acute oral toxicity was evaluated in groups of 2, 3, 5, or 12 rats (sex and strain not reported) administered single doses of quinone by gavage at levels of 50, 100, 125, 150, and 200 mg/kg. Mortality was observed in 2 of 12 animals at 100 mg/kg, 2 of 5 at 125 mg/kg and in all animals receiving doses of 150 (2 rats) and 200 mg/kg (3 rats) (period of observation not reported); the LD50 was not reported. Clinical observations included tremors and convulsions. Gross necropsy was not reported.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 24,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/106-51-4",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "EASTMAN KODAK CO; Toxicity and Health Hazard Summary with Cover Letters; 06/05/73; EPA Doc. No. 878214394; Fiche No. OTS0206544"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "EASTMAN KODAK CO; Toxicity and Health Hazard Summary with Cover Letters; 06/05/73; EPA Doc. No. 878214394; Fiche No. OTS0206544",
+                        "Matched": {
+                          "PCLID": 900009564,
+                          "Citation": "EASTMAN KODAK CO; Toxicity and Health Hazard Summary with Cover Letters; 06/05/73; EPA Doc. No. 878214394; Fiche No. OTS0206544"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1,4-benzoquinone (CAS # 106-51-4) was evaluated for acute oral toxicity. The test substance was determined to be moderately toxic with the LD50 being 100 mg/kg. No further information was submitted.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 24,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/106-51-4",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "EASTMAN KODAK CO; Toxicity and Health Hazard Summary with Cover Letters; 06/05/73; EPA Doc. No. 878214394; Fiche No. OTS0206544"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "EASTMAN KODAK CO; Toxicity and Health Hazard Summary with Cover Letters; 06/05/73; EPA Doc. No. 878214394; Fiche No. OTS0206544",
+                        "Matched": {
+                          "PCLID": 900009564,
+                          "Citation": "EASTMAN KODAK CO; Toxicity and Health Hazard Summary with Cover Letters; 06/05/73; EPA Doc. No. 878214394; Fiche No. OTS0206544"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1,4-benzoquinone (CAS # 106-51-4) was evaluated for acute oral toxicity. The test substance was determined to be moderately toxic with the LD50 being 25-50 mg/kg. No further information was submitted.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 24,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/106-51-4",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Populations at Special Risk",
+                "Description": "People within the general population vary greatly in their sensitivity to chemical agents on an individual or mixture basis.  Some segments of the general population may be at greatest risk for adverse outcomes.  Well-known groups at special risk include children, women of childbearing age, the elderly and are also defined by nutritional status, occupations, contamination of local food supplies, gender and genetic inheritance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 1",
+                        "Matched": {
+                          "PCLID": 906275927,
+                          "Citation": "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Persons with a history of congenital or acquired eye defects would be expected to be at increased risk from exposure. Persons with poor visual acuity from high degrees of astigmatism, keratoconus, or existing corneal injury should be /protected/ from repeated, uncontrolled exposure to quinone vapor."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "ITII. Toxic and Hazarous Industrial Chemicals Safety Manual. Tokyo, Japan: The International Technical Information Institute, 1982., p. 67"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "ITII. Toxic and Hazarous Industrial Chemicals Safety Manual. Tokyo, Japan: The International Technical Information Institute, 1982., p. 67",
+                        "Matched": {
+                          "PCLID": 900121077,
+                          "Citation": "ITII. Toxic and Hazarous Industrial Chemicals Safety Manual. Tokyo, Japan: The International Technical Information Institute, 1982., p. 67"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Workers who have ... /injuries or diseases of the/ skin must be protected from /exposure to 1,4-benzoquinone/.",
+                          "Markup": [
+                            {
+                              "Start": 92,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 124,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf",
+                      "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf",
+                      "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf",
+                        "Matched": {
+                          "PCLID": 906318732,
+                          "Citation": "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf"
+                        }
+                      },
+                      {
+                        "Citation": "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf",
+                        "Matched": {
+                          "PCLID": 906318726,
+                          "Citation": "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf"
+                        }
+                      },
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf",
+                        "Matched": {
+                          "PCLID": 906318723,
+                          "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^106-51-4$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ICSC Environmental Data",
+                "Description": "Environmental effects of this chemical, provided by the International Labour Organization's (ILO's) International Chemical Safety Cards (ICSC).",
+                "URL": "https://www.ilo.org/safework/info/publications/WCMS_113134/lang--en/index.htm",
+                "Information": [
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The substance is very toxic to aquatic organisms."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1,4-Benzoquinone may be released to the environment in effluents during its commercial production; and use; and in waste waters from the coal industry. If released to soil it is likely to leach (estimated Koc of 30) and may volatilize and photodegrade on soil surfaces. A single degradation study found 1,4-benzoquinone to be rapidly degraded in a chernozem soil to stable metabolites. If released to the aquatic environment, it may be degraded by photolysis as it absorbs UV radiation. In water, 1,4-benzoquinone is not expected to volatilize, adsorb to particulate matter or sediment, or bioaccumulate in aquatic organisms. Biodegradation in water may be important based upon the rapid degradation of 1,4-benzoquinone in soil. If released to the atmosphere, it will react rapidly in the vapor phase with both hydroxyl radicals and ozone with half- 0lives of 3.6 and 3.3 days, respectively, and may be susceptible to direct photolysis. The ambient atmospheric concentration of 1,4-benzoquinone has been reported to be less than 15 to 80 ng/cu m and benzoquinone has been detected in tobacco smoke. Inhalation appears to be the most significant route of human exposure. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 303,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 490,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 497,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 644,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 703,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 811,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 833,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 978,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 1050,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) IARC; Some Fumigants, the Herbicides 2,4-D and 2,4,5-T, Chlorinated Dibenzodioxins and Miscellaneous Industrial Chemicals 15: 255 (1977)",
+                      "(2) Thirtle JR; Kirk-Othmer Encycl Chem Tech 2nd ed John Wiley & Sons 16: 900-1 (1968)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) IARC; Some Fumigants, the Herbicides 2,4-D and 2,4,5-T, Chlorinated Dibenzodioxins and Miscellaneous Industrial Chemicals 15: 255 (1977)"
+                      },
+                      {
+                        "Citation": "(2) Thirtle JR; Kirk-Othmer Encycl Chem Tech 2nd ed John Wiley & Sons 16: 900-1 (1968)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1,4-Benzoquinone occurs naturally in a variety of arthropods(1). Many insects synthesize simple benzoquinones(2).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) IARC; Some Fumigants, the Herbicides 2,4-D and 2,4,5-T, Chlorinated Dibenzodioxins and Miscellaneous Industrial Chemicals 15: 255 (1977)",
+                      "(2) Thielemann H; Z Wasser Abwasser Forsch 7: 91-3",
+                      "(3) Graedel T; Chemical Compounds in the Atmosphere NY Academic Press (1978)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) IARC; Some Fumigants, the Herbicides 2,4-D and 2,4,5-T, Chlorinated Dibenzodioxins and Miscellaneous Industrial Chemicals 15: 255 (1977)"
+                      },
+                      {
+                        "Citation": "(2) Thielemann H; Z Wasser Abwasser Forsch 7: 91-3"
+                      },
+                      {
+                        "Citation": "(3) Graedel T; Chemical Compounds in the Atmosphere NY Academic Press (1978)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1,4-Benzoquinone's production and use as a chemical intermediate in the manufacture of hydroquinone as a photographic chemical, and a tanning agent(1) may result in its release to various waste streams(SRC). 1,4-Benzoquinone can also be released to various waste streams from the coal industry(2). It has been found in tobacco smoke(3).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 87,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-785"
+                            },
+                            {
+                              "Start": 208,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Medvedev VA, Davydov VD; Pochvovedenie 1: 133-7 (1974)",
+                      "(2) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Profess Ref Book, Amer Chem Soc, Washington, DC (1995)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(4) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5 (1992)",
+                      "(5) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals: Data Compilation. Design Institute for Physical Property Data, American Institute of Chemical Engineers. Hemisphere Pub Corp., NY,NY 4 Vol. (1989)",
+                      "(6) Sadtler; UV 248",
+                      "(7) Thirtle JR; Kirk-Othmer Encycl Chem Technol 2nd ed NY,NY: John Wiley and Sons 16: 900-1 (1968)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Medvedev VA, Davydov VD; Pochvovedenie 1: 133-7 (1974)"
+                      },
+                      {
+                        "Citation": "(2) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Profess Ref Book, Amer Chem Soc, Washington, DC (1995)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(4) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5 (1992)"
+                      },
+                      {
+                        "Citation": "(5) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals: Data Compilation. Design Institute for Physical Property Data, American Institute of Chemical Engineers. Hemisphere Pub Corp., NY,NY 4 Vol. (1989)"
+                      },
+                      {
+                        "Citation": "(6) Sadtler; UV 248"
+                      },
+                      {
+                        "Citation": "(7) Thirtle JR; Kirk-Othmer Encycl Chem Technol 2nd ed NY,NY: John Wiley and Sons 16: 900-1 (1968)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: 1,4-Benzoquinone was degraded very fast in a chernozem soil (persistence time not reported) leaving soil-stable metabolite residues(1); the fate processes by which the 1,4-benzoquinone was degraded in this chernozem soil were not reported(SRC). Based on a log Kow value of 0.20(2), 1,4-benzoquinone should have high mobility in soil(SRC) based on a suggested classification scheme(3). 1,4-Benzoquinone on soil surfaces may be susceptible to volatilization based on a Henry's Law constant of 4.79X10-4 atm-cu m/mol(SRC) calculated from a water solubility of 1.113X10+4 mg/l(4) and a vapor pressure of 37.5 mm Hg(5). 1,4-Benzoquinone on soil surfaces may also be susceptible to photodegradation(6,7,SRC).",
+                          "Markup": [
+                            {
+                              "Start": 18,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 186,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 300,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 403,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 555,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 633,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5 (1992)",
+                      "(2) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals: Data Compilation. Design Institute for Physical Property Data, American Institute of Chemical Engineers. Hemisphere Pub Corp., New York, NY 4 Vol. (1989)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10, 15-1, 15-29 (1990)",
+                      "(4) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Professional Reference Book, Amer Chem Soc, Washington, DC (1995)",
+                      "(5) Franke C et al; Chemosphere 29:1501-14 (1994)",
+                      "(6) Sadtler; UV 248",
+                      "(7) Thirtle JR; Kirk-Othmer Encycl Chem Technol 2nd ed John Wiley and Sons NY 16: 900-1 (1968)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5 (1992)"
+                      },
+                      {
+                        "Citation": "(2) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals: Data Compilation. Design Institute for Physical Property Data, American Institute of Chemical Engineers. Hemisphere Pub Corp., New York, NY 4 Vol. (1989)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10, 15-1, 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Professional Reference Book, Amer Chem Soc, Washington, DC (1995)"
+                      },
+                      {
+                        "Citation": "(5) Franke C et al; Chemosphere 29:1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(6) Sadtler; UV 248"
+                      },
+                      {
+                        "Citation": "(7) Thirtle JR; Kirk-Othmer Encycl Chem Technol 2nd ed John Wiley and Sons NY 16: 900-1 (1968)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: 1,4-Benzoquinone released to the aquatic environment is not expected to significantly volatilize(SRC) based on a Henry's Law constant of 4.79X10-4 atm-cu m/mol(SRC) calculated from a water solubility of 1.113X10+4 mg/l(1) and a vapor pressure of 37.5 mm Hg(2). Adsorption to suspended solids and sediment should also not be important based upon the high water solubility of 1,4-benzoquinone(SRC). An estimated BCF value of 0.84(3,SRC), from an experimental Kow of 0.20(4), suggests that 1,4-benzoquinone will not bioaccumulate in aquatic organisms(SRC) according to a recommended classification scheme(5). Since it absorbs UV radiation in environmentally significant wavelengths(6,7), direct photolysis is possible(SRC). Sufficient data are not available to predict the significance of biodegradation but its rapid loss in soil suggests that biodegradation may be important(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 197,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 368,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 388,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 501,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-7 (1988)",
+                      "(2) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals: Data Compilation. Design Institute for Physical Property Data, Amer Instit Chem Eng. Hemisphere Pub Corp., NY, NY 4 Vol. (1989)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-9 (1993)",
+                      "(4) Sadtler; UV 248",
+                      "(5) Thirtle JR; Kirk-Othmer Encycl Chem Technol 2nd ed NY,NY: John Wiley and Sons 16: 900-1 (1968)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-7 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals: Data Compilation. Design Institute for Physical Property Data, Amer Instit Chem Eng. Hemisphere Pub Corp., NY, NY 4 Vol. (1989)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-9 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Sadtler; UV 248"
+                      },
+                      {
+                        "Citation": "(5) Thirtle JR; Kirk-Othmer Encycl Chem Technol 2nd ed NY,NY: John Wiley and Sons 16: 900-1 (1968)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a suggested classification scheme(1), a vapor pressure of 37.5 mm Hg at 25 °C(2) indicates that 1,4-benzoquinone will exist in the vapor phase in the ambient atmosphere. Vapor phase 1,4-benzoquinone is degraded in the atmosphere by reaction with photochemically produced hydroxyl radicals and ozone(SRC); the combined half-life for this reaction in air is estimated to be about 33.6 minutes(3,SRC). Since it absorbs UV radiation in environmentally significant wavelengths(4,5), photolysis is also possible(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 127,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 213,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 302,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 324,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Kramer N, Doetsch RN; Arch Biochem Biophys 26: 401-5 (1950)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Kramer N, Doetsch RN; Arch Biochem Biophys 26: 401-5 (1950)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fourteen strains of phenol-utilizing bacteria isolated from soil did not visibly grow when using 1,4-benzoquinone as a carbon source in an aqueous mineral salts media over 5 days of incubation(1).",
+                          "Markup": [
+                            {
+                              "Start": 20,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-996"
+                            },
+                            {
+                              "Start": 97,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 119,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-9 (1993)",
+                      "(2) Sadtler; UV 248",
+                      "(3) Thirtle JR; Kirk-Othmer Encycl Chem Technol 2nd ed NY,NY: John Wiley and Sons 16: 900-1 (1968)",
+                      "(4) Ware GW et al; Arch Environ Contam Toxicol 9: 135-46 (1980)",
+                      "(5) Spicer CW et al; A Literature Review of Atmospheric Transformation Products of Clean Air Act. Title III Hazardous Air Pollutants. USEPA/600/R-94/088. US EPA Contract No 68-D80082 Final Report, Research Triangle Park (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-9 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Sadtler; UV 248"
+                      },
+                      {
+                        "Citation": "(3) Thirtle JR; Kirk-Othmer Encycl Chem Technol 2nd ed NY,NY: John Wiley and Sons 16: 900-1 (1968)"
+                      },
+                      {
+                        "Citation": "(4) Ware GW et al; Arch Environ Contam Toxicol 9: 135-46 (1980)"
+                      },
+                      {
+                        "Citation": "(5) Spicer CW et al; A Literature Review of Atmospheric Transformation Products of Clean Air Act. Title III Hazardous Air Pollutants. USEPA/600/R-94/088. US EPA Contract No 68-D80082 Final Report, Research Triangle Park (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of 1,4-benzoquinone with photochemically produced hydroxyl radicals has been estimated as 4.5X10-12 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1,SRC). This corresponds to an atmospheric half-life of about 3.6 days at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1,SRC). The rate constant for the vapor-phase reaction of 1,4-benzoquinone with atmospheric ozone has been estimated to be 3.5X10-16 cu cm/molecule-sec(SRC) using a structure estimation method(1,SRC). This corresponds to an atmospheric half-life of 3.3 days at an atmospheric concentration of 7X10+11 ozone molecules/cu cm(1,SRC). Although 1,4-benzoquinone absorbs UV radiation between 300 nm to well over 400 nm(3,2), photolysis rate constants are not available for environmental parameters(SRC). Photolysis of 1,4-benzoquinone in aqueous solution using natural sunlight and artificial light in excess of 290 nm wavelength has yielded unidentifiable polar products(4). The major process for the removal of 1,4-benzoquinone from the atmosphere is its reaction with OH radicals with a reported atmospheric lifetime of greater than 5 days(5).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 97,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 329,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 415,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 449,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 658,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 697,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 869,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 1064,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Professional Reference Book, Amer Chem Soc, Washington, DC (1995)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Professional Reference Book, Amer Chem Soc, Washington, DC (1995)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF value of 0.84 was calculated for 1,4-benzoquinone(SRC), using an experimental log Kow value of 0.20(1) and a recommended regression derived equation(2). According to a recommended classification scheme(3), this BCF value suggests that bioconcentration in aquatic organisms will not be an important fate process(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Professional Reference Book, Amer Chem Soc, Washington, DC (1995)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990)",
+                      "(3) Swann RL et al; Res Rev 85:23 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Professional Reference Book, Amer Chem Soc, Washington, DC (1995)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85:23 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Based on a log Kow value of 0.20(1) and a regression-derived equation(2,SRC), the Koc value for 1,4-benzoquinone can be estimated to be about 30(SRC). According to a suggested classification scheme(3),this estimated Koc value suggests that 1,4-benzoquinone has high mobility in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 240,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5 (1992)",
+                      "(2) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals: Data Compilation. Design Institute for Physical Property Data, Amer Instit Chem Eng. Hemisphere Pub Corp., NY, NY 4 Vol. (1989)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5 (1992)"
+                      },
+                      {
+                        "Citation": "(2) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals: Data Compilation. Design Institute for Physical Property Data, Amer Instit Chem Eng. Hemisphere Pub Corp., NY, NY 4 Vol. (1989)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for 1,4-benzoquinone has been estimated to be 4.79X10-4 atm-cu m/mol(SRC) from an experimental water solubility of 1.113X10+4 mg/l at 18 °C(1) and a vapor pressure of 37.5 mm Hg at 20 °C(2). This value indicates that 1,4-benzoquinone will volatilize from water surfaces(3,SRC). Based on this Henry's Law constant, the volatilization half-life from a model river (1 m deep flowing 1 m/sec, wind velocity of 3 m/sec) is estimated as approximately 4.9 hours(3,SRC). The volatilization half-life from a model lake (1 m deep, flowing 0.5 m/sec, wind velocity of 0.5 m/sec) is estimated as approximately 4.7 days(3,SRC). 1,4-Benzoquinone's vapor pressure(2), and Henry's Law constant indicate that volatilization from dry and moist soil may occur(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 120,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 242,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 280,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 640,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATER: /1,4-Benzoquinone/ ... has been found as a pollutant in filtered surface ... water at a water treatment plant.",
+                          "Markup": [
+                            {
+                              "Start": 8,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 16,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 92,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 103,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GROUNDWATER: /1,4-Benzoquinone/ ... has been found as a pollutant in filtered ... ground water at a water treatment plant.",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 89,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 100,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Atmospheric Concentrations",
+                "Description": "Concentrations of this compound in the atmosphere. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Graedel TE; Chemical Compounds in the Atmosphere New York, NY Academic Press (1978)",
+                      "(2) Ang KP et al; Intern J Environmental Studies 29:163-170 (1987)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Graedel TE; Chemical Compounds in the Atmosphere New York, NY Academic Press (1978)"
+                      },
+                      {
+                        "Citation": "(2) Ang KP et al; Intern J Environmental Studies 29:163-170 (1987)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "URBAN/SUBURBAN: The ambient atmospheric concentration of 1,4-benzoquinone has been reported to be less than 15 to 80 ng/cu m(1). SOURCE DOMINATED: 1,4-Benzoquinone has been detected in tobacco smoke(1). Samples of ambient air were collected at two sites situated close to roads which had a high volume of traffic in Singapore(2). The concentration of 1,4-benzoquinone in the two samples were 0.10 and 0.13 ug/1000 cu m using a reductive electrochemical detection methods which had a detection limit in the subnanogram range(2).",
+                          "Markup": [
+                            {
+                              "Start": 57,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 147,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            },
+                            {
+                              "Start": 351,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C4-benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Grant, W. M. Toxicology of the Eye. 2nd ed. Springfield, Illinois: Charles C. Thomas, 1974., p. 878"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Grant, W. M. Toxicology of the Eye. 2nd ed. Springfield, Illinois: Charles C. Thomas, 1974., p. 878",
+                        "Matched": {
+                          "PCLID": 900022859,
+                          "Citation": "Grant, W. M. Toxicology of the Eye. 2nd ed. Springfield, Illinois: Charles C. Thomas, 1974., p. 878"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... Corneal & conjuctival irritation & pigmentation have been observed many times in workmen employed in mfr of hydroquinone from aniline. Benzoquinone has been found specifically responsible for this disturbance ... .",
+                          "Markup": [
+                            {
+                              "Start": 112,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-785"
+                            },
+                            {
+                              "Start": 130,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aniline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6115"
+                            },
+                            {
+                              "Start": 139,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Benzoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4650"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Inhalation of contaminated air, especially near areas of use and production, may result in exposure. Inhalation exposure is possible as a result of tobacco smoking. (SRC)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 1",
+                        "Matched": {
+                          "PCLID": 906275927,
+                          "Citation": "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quinone can affect the body if it ... comes in contact with the eyes or skin. It can also affect the body if it is swallowed."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 3"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 3",
+                        "Matched": {
+                          "PCLID": 906289258,
+                          "Citation": "Mackison, F. W., R. S. Stricoff, and L. J. Partridge, Jr. (eds.). NIOSH/OSHA - Occupational Health Guidelines for Chemical Hazards. DHHS(NIOSH) Publication No. 81-123 (3 VOLS). Washington, DC: U.S. Government Printing Office, Jan. 1981., p. 3"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The following list includes some common operations in which exposure to quinone may occur ... : Use as oxidizing agent ... in photography ... in agriculture production of insecticides & fungicides; in pharmaceutical industry for production of cortisone & addition cmpd with barbiturates; use in polymer & resins industry; ... use as toner & intensifier in photographic industry; as a tanning agent for leather industry; use in mfr of quinhydrone electrodes for use for pH determinations.",
+                          "Markup": [
+                            {
+                              "Start": 243,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cortisone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-222786"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134971775",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000106514",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19463737
+      },
+      {
+        "ReferenceNumber": 39,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_509",
+        "Name": "Quinone",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=509",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895482
+      },
+      {
+        "ReferenceNumber": 40,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID6020145",
+        "Name": "1,4-Benzoquinone",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57022373
+      },
+      {
+        "ReferenceNumber": 49,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz303",
+        "Name": "Quinone",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17276122
+      },
+      {
+        "ReferenceNumber": 51,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "1111",
+        "Name": "1,4-BENZOQUINONE",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1111",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 1013
+      },
+      {
+        "ReferenceNumber": 65,
+        "SourceName": "ILO-WHO International Chemical Safety Cards (ICSCs)",
+        "SourceID": "0779",
+        "Name": "p-BENZOQUINONE",
+        "Description": "The International Chemical Safety Cards (ICSCs) are data sheets intended to provide essential safety and health information on chemicals in a clear and concise way. The primary aim of the Cards is to promote the safe use of chemicals in the workplace.",
+        "URL": "https://chemicalsafety.ilo.org/dyn/icsc/showcard.display?p_card_id=0779",
+        "LicenseNote": "Creative Commons CC BY 4.0",
+        "LicenseURL": "https://www.ilo.org/global/copyright/lang--en/index.htm",
+        "ANID": 2260659
+      },
+      {
+        "ReferenceNumber": 118,
+        "SourceName": "The National Institute for Occupational Safety and Health (NIOSH)",
+        "SourceID": "npgd0542",
+        "Name": "Quinone",
+        "Description": "The NIOSH Pocket Guide to Chemical Hazards is intended as a source of general industrial hygiene information on several hundred chemicals/classes for workers, employers, and occupational health professionals. Read more: https://www.cdc.gov/niosh/npg/",
+        "URL": "https://www.cdc.gov/niosh/npg/npgd0542.html",
+        "LicenseNote": "The information provided using CDC Web site is only intended to be general summary information to the public. It is not intended to take the place of either the written law or regulations.",
+        "LicenseURL": "https://www.cdc.gov/Other/disclaimer.html",
+        "ANID": 2266837
+      },
+      {
+        "ReferenceNumber": 122,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4578",
+        "Name": "Quinone",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4578",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443741
+      },
+      {
+        "ReferenceNumber": 66,
+        "SourceName": "International Agency for Research on Cancer (IARC)",
+        "SourceID": "2586719645",
+        "Name": "para-Quinone",
+        "Description": "",
+        "URL": "https://monographs.iarc.who.int/list-of-classifications",
+        "LicenseNote": "Materials made available by IARC/WHO enjoy copyright protection under the Berne Convention for the Protection of Literature and Artistic Works, under other international conventions, and under national laws on copyright and neighbouring rights. IARC exercises copyright over its Materials to make sure that they are used in accordance with the Agency's principles. All rights are reserved.",
+        "LicenseURL": "https://publications.iarc.who.int/Terms-Of-Use",
+        "ANID": 39310604
+      },
+      {
+        "ReferenceNumber": 119,
+        "SourceName": "The National Institute for Occupational Safety and Health (NIOSH)",
+        "SourceID": "DK2625000",
+        "Name": "p-Benzoquinone",
+        "Description": "The NIOSH Pocket Guide to Chemical Hazards (NPG) provides general industrial hygiene information for workers, employers, and occupational health professionals. It contains safety information and hazard data related to chemical substances or mixtures.",
+        "URL": "https://www.cdc.gov/niosh-rtecs/DK280DE8.html",
+        "LicenseNote": "The information provided using CDC Web site is only intended to be general summary information to the public. It is not intended to take the place of either the written law or regulations.",
+        "LicenseURL": "https://www.cdc.gov/Other/disclaimer.html",
+        "ANID": 2267427
+      },
+      {
+        "ReferenceNumber": 124,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "1868379305",
+        "Name": "Benzoquinone",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49292095
+      }
+    ]
+  }
+}

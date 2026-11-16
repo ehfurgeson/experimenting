@@ -1,0 +1,16 @@
+{
+  "query": "Myristic acid",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Myristic%20acid/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:11.310616+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 11005,
+          "SMILES": "CCCCCCCCCCCCCC(=O)O",
+          "InChIKey": "TUNFSRHWOTWDNC-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "IENZCGNHSIMFJE-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:52.036770+00:00",
+  "url": "/chemical/search/equal/IENZCGNHSIMFJE-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Indole-5-carboxylic acid",
+        "dtxsid": "DTXSID80168218",
+        "dtxcid": "DTXCID5090709",
+        "casrn": "1670-81-1",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CC2=C(NC=C2)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "IENZCGNHSIMFJE-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

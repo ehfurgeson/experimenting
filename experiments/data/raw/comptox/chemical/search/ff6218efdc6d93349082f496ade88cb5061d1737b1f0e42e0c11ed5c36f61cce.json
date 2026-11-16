@@ -1,0 +1,25 @@
+{
+  "search_term": "Diuron",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:47.889097+00:00",
+  "url": "/chemical/search/equal/Diuron",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0020446",
+        "dtxcid": "DTXCID00446",
+        "casrn": "330-54-1",
+        "preferredName": "Diuron",
+        "hasStructureImage": 1,
+        "smiles": "CN(C)C(=O)NC1=CC(Cl)=C(Cl)C=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Diuron",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

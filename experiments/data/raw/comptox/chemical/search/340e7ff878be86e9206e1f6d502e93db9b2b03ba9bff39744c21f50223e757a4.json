@@ -1,0 +1,25 @@
+{
+  "search_term": "Ethylene",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:32.198286+00:00",
+  "url": "/chemical/search/equal/Ethylene",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Ethylene",
+        "dtxsid": "DTXSID1026378",
+        "dtxcid": "DTXCID605931",
+        "casrn": "74-85-1",
+        "hasStructureImage": 1,
+        "smiles": "C=C",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Ethylene",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

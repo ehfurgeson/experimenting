@@ -1,0 +1,25 @@
+{
+  "search_term": "Camphor",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:09.695981+00:00",
+  "url": "/chemical/search/equal/Camphor",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5030955",
+        "dtxcid": "DTXCID3010955",
+        "casrn": "76-22-2",
+        "preferredName": "Camphor",
+        "hasStructureImage": 1,
+        "smiles": "CC1(C)C2CCC1(C)C(=O)C2",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Camphor",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

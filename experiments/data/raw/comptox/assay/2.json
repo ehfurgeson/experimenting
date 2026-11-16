@@ -1,0 +1,102 @@
+{
+  "aeid": 2,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:38:08.184068+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/2",
+  "status": 200,
+  "response": {
+    "aeid": 2,
+    "assayList": [
+      {
+        "name": "ToxCast ER Pathway Model",
+        "description": "Estrogen receptor assays used in ToxCast ER Pathway model. See 10.1093/toxsci/kfv168"
+      }
+    ],
+    "assayName": "ACEA_ER",
+    "assayComponentName": "ACEA_ER_80hr",
+    "assayComponentEndpointName": "ACEA_ER_80hr",
+    "assayComponentEndpointDesc": "Data from the assay component ACEA_ER_80hr was analyzed into 1 assay endpoint. \nThis assay endpoint, ACEA_ER_80hr_Positive, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. \nUsing a type of growth reporter, measures of the cells for gain-of-signal activity can be used to understand the signaling at the pathway-level as they relate to the gene ESR1. \nFurthermore, this assay endpoint can be referred to as a primary readout, because this assay has produced multiple assay endpoints where this one serves a signaling function. \nTo generalize the intended target to other relatable targets, this assay endpoint is annotated to the nuclear receptor intended target family, where the subfamily is steroidal.",
+    "assayFunctionType": "signaling",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "17b-Estradiol",
+    "signalDirection": "gain",
+    "intendedTargetType": "pathway",
+    "intendedTargetTypeSub": "pathway-specified",
+    "intendedTargetFamily": "nuclear receptor",
+    "intendedTargetFamilySub": "steroidal",
+    "cellViabilityAssay": 0,
+    "acid": 1,
+    "assayComponentDesc": "ACEA_ER_80hr is one of two assay component(s) measured or calculated from the ACEA_ER assay. It is designed to make measurements of real-time cell-growth kinetics, a form of growth reporter, as detected with electrical impedance signals by Real-Time Cell Electrode Sensor (RT-CES) technology.",
+    "assayComponentTargetDesc": "Electrical impedance is used to quantify changes to the growth of the cells where increase impedance is positively correlated with increased cell growth.",
+    "parameterReadoutType": "single",
+    "assayDesignType": "growth reporter",
+    "assayDesignTypeSub": "real-time cell-growth kinetics",
+    "biologicalProcessTarget": "cell proliferation",
+    "detectionTechnologyType": "label free technology",
+    "detectionTechnologyTypeSub": "electrical sensor: impedance",
+    "detectionTechnology": "Real-Time Cell Electronic Sensing (RT-CES)",
+    "keyAssayReagentType": "NA",
+    "keyAssayReagent": "NA",
+    "technologicalTargetType": "cellular",
+    "technologicalTargetTypeSub": "cellular",
+    "aid": 1,
+    "assayDesc": "ACEA_ER is a cell-based, single-readout assay that uses T47D, a human breast cell line, with measurements taken at 80 hours after chemical dosing in a 96-well plate, although TO2 (mc0.srcf) used a 384-well plate. Differences in plate size can be ignored given data normalization.",
+    "timepointHr": 80.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "breast",
+    "cellFormat": "cell line",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "T47D",
+    "cellGrowthMode": "adherent",
+    "assayFootprint": "microplate: 96-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "cell-based format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 0.5,
+    "asid": 1,
+    "assaySourceName": "ACEA",
+    "assaySourceLongName": "ACEA Biosciences",
+    "assaySourceDesc": "ACEA Biosciences, Inc. (ACEA) is a privately owned biotechnology company that developed a realtime, label free, cell growth assay system called xCELLigence based on a microelectronic impedance readout.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "estrogen receptor 1",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 2099,
+        "officialSymbol": "ESR1",
+        "officialFullName": "estrogen receptor 1",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "NA",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/16481145",
+        "pmid": 16481145,
+        "title": "Microelectronic cell sensor assay for detection of cytotoxicity and prediction of acute toxicity",
+        "author": "Xing JZ, Zhu L, Gabos S, Xie L",
+        "citation": "Xing JZ, Zhu L, Gabos S, Xie L. Microelectronic cell sensor assay for detection of cytotoxicity and prediction of acute toxicity. Toxicol In Vitro. 2006 Sep;20(6):995-1004. Epub 2006 Feb 14. PubMed PMID: 16481145.",
+        "otherId": "NA",
+        "citationId": 209,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1021/tx400117y",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/23682706",
+        "pmid": 23682706,
+        "title": "Real-time growth kinetics measuring hormone mimicry for ToxCast chemicals in T-47D human ductal carcinoma cells",
+        "author": "Rotroff DM, Dix DJ, Houck KA, Kavlock RJ, Knudsen TB, Martin MT, Reif DM, Richard AM, Sipes NS, Abassi YA, Jin C, Stampfl M, Judson RS",
+        "citation": "Rotroff DM, Dix DJ, Houck KA, Kavlock RJ, Knudsen TB, Martin MT, Reif DM, Richard AM, Sipes NS, Abassi YA, Jin C, Stampfl M, Judson RS. Real-time growth kinetics measuring hormone mimicry for ToxCast chemicals in T-47D human ductal carcinoma cells. Chem Res Toxicol. 2013 Jul 15;26(7):1097-107. doi:10.1021/tx400117y. Epub 2013 Jun 10. PubMed PMID: 23682706.",
+        "otherId": "NA",
+        "citationId": 210,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

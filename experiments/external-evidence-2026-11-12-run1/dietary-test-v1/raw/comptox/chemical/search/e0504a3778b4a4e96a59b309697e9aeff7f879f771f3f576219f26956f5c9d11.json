@@ -1,0 +1,37 @@
+{
+  "search_term": "L-Arginine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:13.927311+00:00",
+  "url": "/chemical/search/equal/L-Arginine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6041056",
+        "dtxcid": "DTXCID4021056",
+        "casrn": "74-79-3",
+        "preferredName": "L-Arginine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CCCNC(N)=N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Arginine",
+        "rank": 9,
+        "searchName": "Approved Name"
+      },
+      {
+        "dtxsid": "DTXSID201031042",
+        "dtxcid": "DTXCID101516085",
+        "casrn": "17806-42-7",
+        "preferredName": "L-Arginine, conjugate acid (1:1)",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CCCNC(N)=[NH2+])C([O-])=O",
+        "isMarkush": false,
+        "searchValue": "L-Arginine",
+        "rank": 12,
+        "searchName": "Systematic Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

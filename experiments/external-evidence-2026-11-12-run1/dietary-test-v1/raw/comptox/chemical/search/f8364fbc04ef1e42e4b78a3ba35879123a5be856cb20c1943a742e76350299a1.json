@@ -1,0 +1,25 @@
+{
+  "search_term": "QNAYBMKLOCPYGJ-REOHCLBHSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:11.383828+00:00",
+  "url": "/chemical/search/equal/QNAYBMKLOCPYGJ-REOHCLBHSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID20873899",
+        "dtxcid": "DTXCID001012092",
+        "casrn": "56-41-7",
+        "preferredName": "L-​Alanine",
+        "hasStructureImage": 1,
+        "smiles": "C[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "QNAYBMKLOCPYGJ-REOHCLBHSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

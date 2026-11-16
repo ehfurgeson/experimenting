@@ -1,0 +1,401 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Research guide A: comparable toxicity evidence</title><style>body{font:17px/1.6 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#17212b;background:#fff;max-width:1120px;margin:32px auto;padding:0 24px}h1,h2,h3{line-height:1.25;color:#163d52;scroll-margin-top:20px}h1{font-size:2rem}h2{margin-top:2rem;border-top:1px solid #dbe3e8;padding-top:1rem}h3{margin-top:1.6rem}a{color:#075c8d}nav{padding:12px 0 20px;border-bottom:2px solid #163d52;display:flex;flex-wrap:wrap;gap:10px 20px}table{border-collapse:collapse;width:100%;table-layout:auto;margin:20px 0;font-size:.91rem}th,td{border:1px solid #cbd5dd;padding:9px 11px;text-align:left;vertical-align:top;overflow-wrap:anywhere}th{background:#edf3f6}tr:nth-child(even){background:#fafcfd}code{font-size:.87em;overflow-wrap:anywhere;background:#f1f4f6;padding:1px 3px}pre{padding:14px;background:#f1f4f6;overflow:auto;line-height:1.4}pre code{padding:0;white-space:pre;overflow-wrap:normal}li{margin:6px 0}.toc{background:#f5f8fa;padding:12px 20px;border:1px solid #dbe3e8}.toc ul{margin:5px 0}.checkpoint{color:#546675;font-size:.9rem}footer{margin-top:40px;border-top:1px solid #dbe3e8;padding-top:16px;color:#546675}@media(max-width:650px){body{padding:0 12px;font-size:16px}table{font-size:.8rem}th,td{padding:6px}}@media print{body{max-width:none;margin:0;font-size:10pt}nav,.toc{display:none}h2,h3{break-after:avoid}tr{break-inside:avoid}pre,pre code{white-space:pre-wrap;overflow-wrap:anywhere}a{color:inherit;text-decoration:underline}@page{margin:14mm}}</style></head><body><nav aria-label="Handoff documents"><a href="./index.html">Start</a><a href="./01_PROJECT_HANDOFF.html">Project handoff</a><a href="./02_TOXICITY_RESEARCH_GUIDE.html">Toxicity guide</a><a href="./03_BIOLOGICAL_EVIDENCE_GUIDE.html">Biological guide</a></nav><main><div class="toc">
+<ul>
+<li><a href="#research-guide-a-comparable-toxicity-evidence">Research guide A: comparable toxicity evidence</a><ul>
+<li><a href="#1-the-deliverable-and-the-order-of-work">1. The deliverable and the order of work</a></li>
+<li><a href="#2-your-starting-files">2. Your starting files</a></li>
+<li><a href="#3-first-assignment-recover-aquatic-context-by-publication">3. First assignment: recover aquatic context by publication</a><ul>
+<li><a href="#first-three-papers">First three papers</a></li>
+<li><a href="#work-through-one-paper-completely">Work through one paper completely</a></li>
+<li><a href="#comparison-rules">Comparison rules</a></li>
+</ul>
+</li>
+<li><a href="#4-second-assignment-evaluate-the-16-rat-ld50-cases">4. Second assignment: evaluate the 16 rat LD50 cases</a></li>
+<li><a href="#5-third-assignment-study-overlap-adjudication">5. Third assignment: study-overlap adjudication</a></li>
+<li><a href="#6-what-to-write-and-how-to-hand-it-back">6. What to write and how to hand it back</a><ul>
+<li><a href="#existing-commands-versus-missing-integration">Existing commands versus missing integration</a></li>
+<li><a href="#completion-and-stop-rules">Completion and stop rules</a></li>
+</ul>
+</li>
+<li><a href="#7-publication-appendix">7. Publication appendix</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h1 id="research-guide-a-comparable-toxicity-evidence">Research guide A: comparable toxicity evidence</h1>
+<p><strong>Assignment:</strong> turn source-linked but incompletely documented toxicity records into defensible study-level comparisons. Start with the <a href="01_PROJECT_HANDOFF.html">project handoff</a>. This guide can be followed from the portable package without the full repository; optional integration commands require the authorized checkout.</p>
+<h2 id="1-the-deliverable-and-the-order-of-work">1. The deliverable and the order of work</h2>
+<p>Return a new working folder containing:</p>
+<ol>
+<li>A source-acquisition log and saved permitted source files with hashes.</li>
+<li>Context extraction and proposed eligibility records for all <strong>41 aquatic observations</strong>.</li>
+<li>Context/eligibility records for all <strong>16 rat LD50 cases</strong>.</li>
+<li>Decisions for the <strong>26 priority overlap pairs</strong>, or explicit unresolved reasons.</li>
+<li>A brief results note listing supported additions, exclusions, unresolved items, exact/bounded counts and integration changes needed.</li>
+</ol>
+<p>Begin with natural-overlap aquatic studies, then high-yield rat studies, then overlap adjudication while those papers are open. Do not start by manually reviewing all 18,992 candidate pairs.</p>
+<p>A completed assignment may conclude that a value remains unusable. Do not convert missing exposure information into a guessed duration or approve an observation merely to increase coverage.</p>
+<h2 id="2-your-starting-files">2. Your starting files</h2>
+<table>
+<thead>
+<tr>
+<th>File in <code>reference_inputs/toxicity/</code></th>
+<th>How to use it</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="reference_inputs/toxicity/aquatic_observations.csv">aquatic_observations.csv</a></td>
+<td>All 41 identity-approved core-policy rows, locators, concentrations, qualifiers and context gaps</td>
+</tr>
+<tr>
+<td><a href="reference_inputs/toxicity/policy_coverage.csv">policy_coverage.csv</a>, <a href="reference_inputs/toxicity/sensitivity.csv">sensitivity.csv</a></td>
+<td>28 trout / 13 Daphnia; additional reported-context subset zero / one</td>
+</tr>
+<tr>
+<td><a href="reference_inputs/toxicity/rat_ld50_review.csv">rat_ld50_review.csv</a></td>
+<td>Sixteen rat cases with raw units/value text, source reference and exclusion reasons</td>
+</tr>
+<tr>
+<td><a href="reference_inputs/toxicity/ecotox_native_context_excerpt.json">ecotox_native_context_excerpt.json</a></td>
+<td>All 57 relevant native source records; decode their <code>test_json</code>, <code>result_json</code>, <code>reference_json</code>, <code>species_json</code> and <code>chemical_json</code></td>
+</tr>
+<tr>
+<td><a href="reference_inputs/toxicity/source_reference_index.json">source_reference_index.json</a></td>
+<td>Twenty publication leads with authors, year, title, DOI where present and counts</td>
+</tr>
+<tr>
+<td><a href="reference_inputs/toxicity/rat_priority_overlap_pairs.json">rat_priority_overlap_pairs.json</a></td>
+<td>Twenty-six unchanged candidate pair records</td>
+</tr>
+<tr>
+<td><a href="reference_inputs/toxicity/epa_rat_overlap_counterparts.json">epa_rat_overlap_counterparts.json</a></td>
+<td>Fourteen EPA records on the other side of those pairs, with raw context JSON</td>
+</tr>
+<tr>
+<td><a href="reference_inputs/toxicity/retained_epa_observations.json">retained_epa_observations.json</a></td>
+<td>Existing 43 exact / 25 censored rat baseline observations</td>
+</tr>
+<tr>
+<td><a href="reference_inputs/toxicity/historical_ld50_compounds.csv">historical_ld50_compounds.csv</a>, <a href="reference_inputs/toxicity/historical_censored_bins.csv">historical_censored_bins.csv</a></td>
+<td>Existing medians and bound-compatible bins; read-only reference</td>
+</tr>
+<tr>
+<td><a href="reference_inputs/toxicity/approved_crosswalk.csv">approved_crosswalk.csv</a>, <a href="reference_inputs/toxicity/source_policy_coverage.csv">source_policy_coverage.csv</a></td>
+<td>Approved identity mapping and assessed zero-hit coverage; Acacetin has no results</td>
+</tr>
+</tbody>
+</table>
+<p>Native JSON strings preserve missing source values such as <code>NR</code> and <code>NC</code>. Their presence is not zero and does not mean a study was necessarily inadequate; the primary paper may contain information the database omitted.</p>
+<p>The source-reference appendix below is copied from the frozen database, <strong>not a new bibliographic or full-text verification</strong>. Check that the retrieved publication and exact table/organism/treatment match the record. A paper may quote a value from an earlier study; trace that lineage rather than counting a secondary citation as a new experiment.</p>
+<h2 id="3-first-assignment-recover-aquatic-context-by-publication">3. First assignment: recover aquatic context by publication</h2>
+<h3 id="first-three-papers">First three papers</h3>
+<table>
+<thead>
+<tr>
+<th>ECOTOX reference</th>
+<th>Why first</th>
+<th>What to resolve</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>990</strong>, Marking 1970, juglone</td>
+<td>Six trout records from the approved natural-active group</td>
+<td>Actual exposure duration versus 96 h observation, controls, fish/test conditions, six distinct treatments and primary result cells</td>
+</tr>
+<tr>
+<td><strong>19294</strong>, Stroh et al. 1998, essential oils/carrier</td>
+<td>One eugenol trout record</td>
+<td>Exact ingredient/product versus carrier, dose basis, exposure duration, carrier controls, relevant salmonid species</td>
+</tr>
+<tr>
+<td><strong>80404</strong>, Kamaya et al. 2005, benzoic acids</td>
+<td>Eight Daphnia rows, including approved-natural benzoic/salicylic acids</td>
+<td>Actual 48 h exposure protocol, controls, immobilization endpoint, pH/medium and compound-specific table mappings</td>
+</tr>
+</tbody>
+</table>
+<p>Together these cover <strong>15 of the 41 records</strong>, including all nine approved-natural overlaps. Next inspect reference <strong>12170</strong> (11 fluridone records), <strong>924</strong> (five glyphosate records) and <strong>4070</strong> (one glyphosate record) to improve comparator context. Finish the remaining references in the appendix.</p>
+<h3 id="work-through-one-paper-completely">Work through one paper completely</h3>
+<ol>
+<li>Locate the publisher/DOI record, library full text or legitimate author manuscript. Confirm author, year and title. Save the source or its stable link, retrieval date, access outcome and file SHA-256. Check for corrections/retractions and follow the measurement's original source if the paper is secondary.</li>
+<li>Match the exact chemical and tested form, organism, table row, concentration slot and reported endpoint to each source result. The approved chemical mapping is already done; a new contradiction still must be logged rather than overwritten.</li>
+<li>Extract the protocol once, then attach it to every applicable treatment using explicit IDs. Do not apply a fish protocol to a Daphnia result merely because both appear in one paper.</li>
+<li>Resolve actual exposure duration independently of observation/assessment time. “LC50 at 96 h” alone is not a verified description of continuous 96 h exposure. Record static, renewal or flow-through conditions and renewal schedule where reported.</li>
+<li>Extract concentration analysis: measured versus nominal/unmeasured, sampling times, chemical stability and active ingredient/product/acid-equivalent basis. Preserve original units and qualifiers before proposing conversions.</li>
+<li>Record controls and study conditions: untreated and matched vehicle controls, control mortality/immobilization, vehicle composition, replication units, animal numbers, life stage/size, temperature, pH, water hardness and other medium details. “20 animals” is not necessarily 20 independent replicates.</li>
+<li>Record the reported estimate and uncertainty: equality, inequality, interval/range, confidence interval, estimation method and any graphical-only result. <code>=</code> means an uncensored reported estimate, not zero statistical uncertainty.</li>
+<li>Propose a disposition with a source locator and a second check for consequential mappings/conversions. Keep “not reported,” “not accessible,” “ambiguous” and “contradicts database” distinct.</li>
+</ol>
+<h3 id="comparison-rules">Comparison rules</h3>
+<p>Keep trout <strong>mortality LC50</strong> and Daphnia <strong>immobilization EC50</strong> separate. The frozen Daphnia code combination is effect <code>ITX</code>, measurement <code>IMBL</code>; <code>IMM</code> means immunological. Both may use mg/L, but they measure different organism/effect contexts.</p>
+<p>Keep measured/unmeasured exposure, concentration basis, formulation, exposure type, medium and actual exposure duration in separate strata. Do not average across the six juglone records and call that one universally comparable toxicity value. pH, age and temperature may still matter even after these fields match. Any relaxation needs an explicit sensitivity scenario, not a silently pooled primary result.</p>
+<p>For a lower bound such as <code>EC50 &gt; x</code>, retain the bound. Do not substitute <code>x</code> into a median. A range is not an exact midpoint. Preserve distinct source result IDs even when numbers agree.</p>
+<h2 id="4-second-assignment-evaluate-the-16-rat-ld50-cases">4. Second assignment: evaluate the 16 rat LD50 cases</h2>
+<p>Use this publication-level schedule:</p>
+<table>
+<thead>
+<tr>
+<th>Ref.</th>
+<th style="text-align: right;">Cases</th>
+<th>Main question</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>119928</strong>, Boyd &amp; Carsky 1969</td>
+<td style="text-align: right;">5</td>
+<td>Chlorpropham gavage with protein-diet conditions; confirm acute administration, dose denominator/form and experimental groups; <code>g/kg bdwt</code> currently unsupported</td>
+</tr>
+<tr>
+<td><strong>101989</strong>, Boyd &amp; Krupa 1970</td>
+<td style="text-align: right;">3</td>
+<td>Diuron gavage and protein-deficient diets; distinguish each diet group and acute versus repeated exposure</td>
+</tr>
+<tr>
+<td><strong>73113</strong>, Worth 1970</td>
+<td style="text-align: right;">3</td>
+<td>Benefin/trifluralin chapter; locate original experimental table, substance/form, acute design and body-weight doses, including the censored result</td>
+</tr>
+<tr>
+<td><strong>93388</strong>, Gorzinski et al. 1987</td>
+<td style="text-align: right;">2</td>
+<td>2,4-D acute/pharmacokinetic/subchronic sections; identify which experiment supplied each value, route and acid-equivalent basis</td>
+</tr>
+<tr>
+<td><strong>102055</strong>, Hodge et al. 1967</td>
+<td style="text-align: right;">1</td>
+<td>Diuron oral/metabolism paper; current row is dietary exposure and concentration basis <code>F</code>; establish what 3.4 g/kg means before treating normalized 3,400 mg/kg as an acute body-weight dose</td>
+</tr>
+<tr>
+<td><strong>105511</strong>, Elo et al. 1988</td>
+<td style="text-align: right;">1</td>
+<td>Identify the original LD50 source and route/form in a cerebrovascular study; confirm whether the value is primary or cited</td>
+</tr>
+<tr>
+<td><strong>35008</strong>, Ambrose et al. 1972</td>
+<td style="text-align: right;">1</td>
+<td>Propanil; inspect raw <code>+ 1384</code> against the original table and qualifier before proposing a numeric parse</td>
+</tr>
+</tbody>
+</table>
+<p>The queue lacks an explicit acute test-type code for every case. <strong>Do not infer acute context from a title alone. Conversely, do not permanently reject a study just because the database says <code>NC</code>: full primary methods can establish context through a documented overlay.</strong></p>
+<p>A proposed addition must support experimental <strong>acute rat oral LD50</strong>, exact tested identity/form, interpretable body-weight dose, original qualifier, appropriate treatment conditions and source location. Gavage/capsule, dietary concentration and repeated daily intake are not interchangeable.</p>
+<p>Unit handling requires dimensional reasoning:</p>
+<ul>
+<li><code>g/kg body weight</code> to <code>mg/kg body weight</code> has factor 1,000 after confirming both denominators and the chemical basis.</li>
+<li><code>mg/kg diet</code> is concentration in feed, not dose per animal body weight. Do not convert it to a bolus dose by a unit label alone.</li>
+<li>Acid-equivalent and formulated-product doses require the tested form and conversion basis. Do not assume all <code>mg/kg</code> values describe the same material.</li>
+<li>An approximate sign, inequality or footnote must not be stripped to manufacture an exact value.</li>
+</ul>
+<p>Propose <strong>eligible</strong>, <strong>out of scope</strong>, or <strong>unresolved</strong>, with all reasons. None of the 16 cases has been added automatically. The historical 34 medians and 1,080/3,400 mg/kg cutoffs stay frozen; an expanded cohort needs separately named summaries and any new tertiles.</p>
+<h2 id="5-third-assignment-study-overlap-adjudication">5. Third assignment: study-overlap adjudication</h2>
+<p>The full queue has 18,992 pairs. The packaged 26-pair subset touches pending rat records; no current queue pair touches the retained 68 EPA baseline observations or 41 admitted aquatic records. This prioritization does not detect every possible duplicate: missing publication metadata, secondary citations and within-ECOTOX reporting remain blind spots.</p>
+<p>For each priority pair, compare the primary publication lineage, exact compound/form, species/sex/strain, dose basis, route, duration, endpoint, diet/vehicle, actual experiment/table cell, response/qualifier and uncertainty. Automatic <code>match_count</code> is an agreement count, not confidence; false flags may reflect naming or unit differences. In particular, the current route-match heuristic is not an exhaustive gavage resolver.</p>
+<p>Use these states:</p>
+<table>
+<thead>
+<tr>
+<th>Decision</th>
+<th>Required evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>same_observation</code></td>
+<td>Demonstrably the same original experiment/result reported twice; specify which ID to retain and why</td>
+</tr>
+<tr>
+<td><code>different_observation</code></td>
+<td>A documented difference establishing distinct experiments/conditions</td>
+</tr>
+<tr>
+<td><code>unresolved</code></td>
+<td>Available evidence cannot establish identity or difference</td>
+</tr>
+<tr>
+<td><code>unreviewed</code></td>
+<td>Not yet examined</td>
+</tr>
+</tbody>
+</table>
+<p>Same paper, same compound or same number alone is insufficient. Keep different diet groups, species, times, concentration slots and genuinely independent experiments separate. Do not collapse reporting chains through contradictory pair decisions; the importer rejects IDs simultaneously retained and dropped. Return a cluster-level explanation if the pair format cannot represent your proposed resolution.</p>
+<p>The existing duplicate-decision importer expects these exact fields:</p>
+<pre><code class="language-text">pair_id,decision,retain_id,reviewer,review_date,decision_reference
+</code></pre>
+<p>Copy <code>pair_id</code> unchanged from the queue. A reviewed same/different decision needs reviewer, ISO date and supporting citation/locator. <code>retain_id</code> for <code>same_observation</code> must be one of that pair's IDs. Cross-source collapse requires approved identity; that requirement is now met for this cohort, but the observation decision still needs evidence.</p>
+<h2 id="6-what-to-write-and-how-to-hand-it-back">6. What to write and how to hand it back</h2>
+<p>Create <code>work/&lt;initials&gt;-&lt;date&gt;-&lt;run&gt;/toxicity/</code> with the following logical files. Markdown tables, JSON or a plain spreadsheet are acceptable for research collection; include a machine-readable export when returning structured decisions.</p>
+<table>
+<thead>
+<tr>
+<th>Output</th>
+<th>Required fields/content</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sources</code></td>
+<td>source ID, author/year/title/DOI, retrieved URL, access state/date, local filename/hash, primary-versus-secondary lineage, correction/retraction result</td>
+</tr>
+<tr>
+<td><code>context_decisions</code></td>
+<td>snapshot/source result/measurement/test IDs; field being reviewed; original value/unit; proposed value/unit; status; source hash; page/table/row/treatment; rationale; extractor and checker/date</td>
+</tr>
+<tr>
+<td><code>rat_eligibility</code></td>
+<td>measurement ID; primary study; acute administration and observation times; species/sex/strain; route; chemical/dose basis; raw and proposed normalized value/qualifier/unit; eligible/out-of-scope/unresolved; reasons and locator</td>
+</tr>
+<tr>
+<td><code>duplicate_decisions</code></td>
+<td>Exact six importer columns above, plus optional companion evidence notes</td>
+</tr>
+<tr>
+<td><code>summary.md</code></td>
+<td>records reviewed, supported additions, unresolved counts, changes in coverage under each context rule, files changed, integration needs and highest-value remaining source</td>
+</tr>
+</tbody>
+</table>
+<p>Suggested statuses for context fields: <code>verified_from_primary_source</code>, <code>not_reported</code>, <code>access_gap</code>, <code>ambiguous</code>, <code>contradiction</code>. Record one coherent field decision per stable key. For test-level facts spanning several results, list all affected IDs and reject inconsistent overlays rather than using “last edit wins.”</p>
+<p>Example structure, with placeholders rather than asserted values:</p>
+<pre><code class="language-json">{
+  &quot;measurement_id&quot;: &quot;COPY_EXISTING_ID&quot;,
+  &quot;field&quot;: &quot;exposure_duration&quot;,
+  &quot;original&quot;: {&quot;value&quot;: null, &quot;unit&quot;: null},
+  &quot;proposed&quot;: {&quot;value&quot;: null, &quot;unit&quot;: null},
+  &quot;status&quot;: &quot;not_reported&quot;,
+  &quot;source_file_sha256&quot;: &quot;SOURCE_HASH&quot;,
+  &quot;source_locator&quot;: &quot;methods page / table / treatment&quot;,
+  &quot;rationale&quot;: &quot;What was checked and why this remains unresolved&quot;,
+  &quot;reviewer&quot;: &quot;REVIEWER&quot;,
+  &quot;review_date&quot;: &quot;YYYY-MM-DD&quot;
+}
+</code></pre>
+<h3 id="existing-commands-versus-missing-integration">Existing commands versus missing integration</h3>
+<p>Research overlays are <strong>not</strong> automatically consumed by the current importer. Do not edit native <code>test_json</code>, raw result values or frozen dictionaries to make a row pass. A tested overlay reader and a new versioned context/eligibility analysis are needed before recovered information affects admitted measurements. It must preserve raw fields, carry source/review provenance, expose contradictions, and separate original from source-adjudicated eligibility.</p>
+<p>With the full checkout, the existing EPA duplicate sensitivity can consume reviewed pair decisions:</p>
+<pre><code class="language-bash">uv run --project analysis --locked python analysis/expansion_toxicity.py \
+  --baseline analysis/outputs/weekly-toxicity-2026-11-10 \
+  --ecotox analysis/outputs/ecotox-selected-approved-2026-11-11 \
+  --crosswalk analysis/outputs/ecotox-identities-approved-2026-11-11/approved_crosswalk.csv \
+  --decisions YOUR_WORK_DIRECTORY/duplicate_decisions.csv \
+  --output analysis/outputs/REPLACE_WITH_NEW_RUN_DIRECTORY
+</code></pre>
+<p>Replace both placeholder paths; output must not already exist. This command does <strong>not</strong> ingest new rat observations or source-context overlays.</p>
+<p>There is also an integration gap for aquatic duplicate decisions: <code>expansion_toxicity.py</code> computes exclusions from the supplied decisions but writes the original candidate states into its queue export; <code>ecotox_comparison.py</code> reads queue states and has no direct decisions argument. A new reconciliation run alone is not proof that aquatic reviewed exclusions propagated. The integrating analyst must preserve/adopt explicit decisions and test end-to-end removal before claiming post-adjudication aquatic summaries. Do not repair this by editing a frozen queue.</p>
+<h3 id="completion-and-stop-rules">Completion and stop rules</h3>
+<p>A useful complete first pass has 41 aquatic context records, 16 rat dispositions and 26 pair dispositions, each verified or explicitly unresolved with locators/access logs. Ask a qualified teammate to check consequential conversions, source mappings and same-observation decisions. Escalate scientific contradictions through the written record, not silent edits.</p>
+<p>Time-box unavailable papers after two legitimate retrieval routes and an initial approximately 45-minute search; log the exact missing source and move to another paper. Do not bypass access controls or contact authors on someone else's behalf without authorization. No new endpoint pooling, imputation, label assignment, model training, push or publication follows from completing this research log.</p>
+<h2 id="7-publication-appendix">7. Publication appendix</h2>
+<p>The following references and counts are extracted from the frozen native records supplied with this package. Full-text verification is your assignment. Rows whose titles mention another organism may contain comparative or cited values; verify the actual target experiment and lineage.</p>
+<table>
+<thead>
+<tr>
+<th>ECOTOX ref.</th>
+<th>Citation / retrieval lead</th>
+<th>Aquatic / rat records</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>101989</td>
+<td>Boyd,E.M., and V. Krupa (1970). <strong>Protein-Deficient Diet and Diuron Toxicity</strong>. J. Agric. Food Chem.18(6): 1104-1107 <a href="https://doi.org/10.1021/jf60172a015">DOI</a></td>
+<td>0 / 3</td>
+</tr>
+<tr>
+<td>102055</td>
+<td>Hodge,H.C., W.L. Downs, B.S. Panner, D.W. Smith, E.A. Maynard, J.W.,Jr. Clayton, and R.C. Rhodes (1967). <strong>Oral Toxicity and Metabolism of Diuron (N-(3,4-Dichlorophenyl)-N',N'-Dimethylurea) in Rats and Dogs</strong>. Food Cosmet. Toxicol.5(4): 513-531 <a href="https://doi.org/10.1016/S0015-6264%2867%2983153-5">DOI</a></td>
+<td>0 / 1</td>
+</tr>
+<tr>
+<td>105511</td>
+<td>Elo,H.A., H. Hervonen, and P. Ylitalo (1988). <strong>Comparative Study on Cerebrovascular Injuries by Three Chlorophenoxyacetic Acids (2,4-D, 2,4,5'-T and MCPA)</strong>. Comp. Biochem. Physiol. C Comp. Pharmacol.90(1): 65-68 <a href="https://doi.org/10.1016/0742-8413%2888%2990098-9">DOI</a></td>
+<td>0 / 1</td>
+</tr>
+<tr>
+<td>106981</td>
+<td>Mendes,C.D., J.L. Pereira, and F. Goncalves (2007). <strong>Acute and Chronic Effects of Stam Novel Flo (Commercial Solution) and Its Active Ingredient Propanil in Daphnia magna</strong>. Fresenius Environ. Bull.16(5): 537-542 No DOI in the frozen record; search exact title/author/year.</td>
+<td>1 / 0</td>
+</tr>
+<tr>
+<td>108323</td>
+<td>Palma,P., V.L. Palma, R.M. Fernandes, A.M.V.M. Soares, and I.R. Barbosa (2008). <strong>Acute Toxicity of Atrazine, Endosulfan Sulphate and Chlorpyrifos to Vibrio fischeri, Thamnocephalus platyurus and Daphnia magna, Relative to Their Concentrations in Surface Waters from the Alentejo Region of Portugal</strong>. Bull. Environ. Contam. Toxicol.81(5): 485-489 <a href="https://doi.org/10.1007/s00128-008-9517-3">DOI</a></td>
+<td>1 / 0</td>
+</tr>
+<tr>
+<td>11504</td>
+<td>Alexander,H.C., F.M. Gersich, and M.A. Mayes (1985). <strong>Acute Toxicity of Four Phenoxy Herbicides to Aquatic Organisms</strong>. Bull. Environ. Contam. Toxicol.35(3): 314-321 <a href="https://doi.org/10.1007/BF01636516">DOI</a></td>
+<td>1 / 0</td>
+</tr>
+<tr>
+<td>119928</td>
+<td>Boyd,E.M., and E. Carsky (1969). <strong>The Acute Oral Toxicity of the Herbicide Chlorpropham in Albino Rats.  Effect of Diets Containing Varying Amounts of Protein</strong>. Arch. Environ. Health19(5): 621-627 <a href="https://doi.org/10.1080/00039896.1969.10666900">DOI</a></td>
+<td>0 / 5</td>
+</tr>
+<tr>
+<td>12170</td>
+<td>Hamelink,J.L., D.R. Buckler, F.L. Mayer, D.U. Palawski, and H.O. Sanders (1986). <strong>Toxicity of Fluridone to Aquatic Invertebrates and Fish</strong>. Environ. Toxicol. Chem.5(1): 87-94 <a href="https://doi.org/10.1002/etc.5620050112">DOI</a></td>
+<td>11 / 0</td>
+</tr>
+<tr>
+<td>13154</td>
+<td>Marchini,S., L. Passerini, D. Cesareo, and M.L. Tosato (1988). <strong>Herbicidal Triazines: Acute Toxicity on Daphnia, Fish, and Plants and Analysis of its Relationships with Structural Factors</strong>. Ecotoxicol. Environ. Saf.16(2): 148-157 <a href="https://doi.org/10.1016/0147-6513%2888%2990029-2">DOI</a></td>
+<td>2 / 0</td>
+</tr>
+<tr>
+<td>167254</td>
+<td>Pereira,J.L., C.D. Mendes, and F. Goncalves (2009). <strong>Acute and Chronic Effects of a Mixture of Formulated Pesticides and Its Corresponding Active Ingredients in Daphnia magna</strong>. Fresenius Environ. Bull.18(7b): 1281-1288 No DOI in the frozen record; search exact title/author/year.</td>
+<td>1 / 0</td>
+</tr>
+<tr>
+<td>18805</td>
+<td>Howe,G.E., R. Gillis, and R.C. Mowbray (1998). <strong>Effect of Chemical Synergy and Larval Stage on the Toxicity of Atrazine and Alachlor to Amphibian Larvae</strong>. Environ. Toxicol. Chem.17(3): 519-525 <a href="https://doi.org/10.1002/etc.5620170324">DOI</a></td>
+<td>1 / 0</td>
+</tr>
+<tr>
+<td>19294</td>
+<td>Stroh,J., M.T. Wan, M.B. Isman, and D.J. Moul (1998). <strong>Evaluation of the Acute Toxicity to Juvenile Pacific Coho Salmon and Rainbow Trout of Some Plant Essential Oils, a Formulated Product, and the Carrier</strong>. Bull. Environ. Contam. Toxicol.60(6): 923-930 <a href="https://doi.org/10.1007/s001289900716">DOI</a></td>
+<td>1 / 0</td>
+</tr>
+<tr>
+<td>35008</td>
+<td>Ambrose,A.M., P.S. Larson, J.F. Borzelleca, and G.R.,Jr. Hennigar (1972). <strong>Toxicologic Studies on 3',4'-Dichloropropionanilide</strong>. Toxicol. Appl. Pharmacol.23:650-659 <a href="https://doi.org/10.1016/0041-008X%2872%2990106-8">DOI</a></td>
+<td>0 / 1</td>
+</tr>
+<tr>
+<td>4070</td>
+<td>Anton,F.A., E. Laborda, and M. De Ariz (1994). <strong>Acute Toxicity of the Herbicide Glyphosate to Fish</strong>. Chemosphere28(4): 745-753 <a href="https://doi.org/10.1016/0045-6535%2894%2990228-3">DOI</a></td>
+<td>1 / 0</td>
+</tr>
+<tr>
+<td>73113</td>
+<td>Worth,H.M. (1970). <strong>The Toxicologic Evaluation of Benefin and Trifluralin</strong>. In: W.B.Deichmann, et.al.(Eds.), Pesticides Symposia.  Inter-American Conferences on Toxicology and Occupational Medicine, University of Miami, Miami, FL:263-267 No DOI in the frozen record; search exact title/author/year.</td>
+<td>0 / 3</td>
+</tr>
+<tr>
+<td>80404</td>
+<td>Kamaya,Y., Y. Fukaya, and K. Suzuki (2005). <strong>Acute Toxicity of Benzoic Acids to the Crustacean Daphnia magna</strong>. Chemosphere59(2): 255-261 <a href="https://doi.org/10.1016/j.chemosphere.2004.11.003">DOI</a></td>
+<td>8 / 0</td>
+</tr>
+<tr>
+<td>89626</td>
+<td>Wan,M.T., C. Buday, G. Schroeder, J. Kuo, and J. Pasternak (2006). <strong>Toxicity to Daphnia magna, Hyalella azteca, Oncorhynchus kisutch, Oncorhynchus mykiss, Oncorhynchus tshawytscha, and Rana catesbeiana of Atrazine, Metolachlor, Simazine, and Their Formulated Products</strong>. Bull. Environ. Contam. Toxicol.76(1): 52-58 <a href="https://doi.org/10.1007/s00128-005-0888-4">DOI</a></td>
+<td>2 / 0</td>
+</tr>
+<tr>
+<td>924</td>
+<td>Wan,W.T., R.G. Watts, and D.J. Moul (1989). <strong>Effects of Different Dilution Water Types on the Acute Toxicity to Juvenile Pacific Salmonids and Rainbow Trout of Glyphosate and Its Formulated Products</strong>. Bull. Environ. Contam. Toxicol.43(3): 378-385 <a href="https://doi.org/10.1007/BF01701872">DOI</a></td>
+<td>5 / 0</td>
+</tr>
+<tr>
+<td>93388</td>
+<td>Gorzinski,S.J., R.J. Kociba, R.A. Campbell, F.A. Smith, R.J. Nolan, and D.L. Eisenbrandt (1987). <strong>Acute, Pharmacokinetic, and Subchronic Toxicological Studies of 2,4-Dichlorphenoxyacetic Acid</strong>. Fundam. Appl. Toxicol.9(3): 423-435 <a href="https://doi.org/10.1016/0272-0590%2887%2990025-X">DOI</a></td>
+<td>0 / 2</td>
+</tr>
+<tr>
+<td>990</td>
+<td>Marking,L.L. (1970). <strong>Juglone (5-Hydroxy-1,4-Naphthoquinone) As a Fish Toxicant</strong>. Trans. Am. Fish. Soc.99(3): 510-514 <a href="https://doi.org/10.1577/1548-8659%281970%2999%3C510:JHAAFT%3E2.0.CO%3B2">DOI</a></td>
+<td>6 / 0</td>
+</tr>
+</tbody>
+</table></main><footer>Prepared 11 November 2026. Read-only reference inputs; new research belongs in the work folder. No runtime network dependencies.</footer></body></html>

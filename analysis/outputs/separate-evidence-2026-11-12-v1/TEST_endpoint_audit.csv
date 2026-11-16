@@ -1,0 +1,33 @@
+endpoint,source_name,unit,ad_conclusion,finite,records
+48 Hour Daphnia Magna LC50,TEST5.1.3,mol/L,Inside,True,125
+48 Hour Daphnia Magna LC50,TEST5.1.3,mol/L,Outside,False,11
+48 Hour Tetrahymena Pyriformis IGC50,TEST5.1.3,mol/L,Inside,True,90
+48 Hour Tetrahymena Pyriformis IGC50,TEST5.1.3,mol/L,Outside,False,46
+96 Hour Fathead Minnow LC50,TEST5.1.3,mol/L,Inside,True,122
+96 Hour Fathead Minnow LC50,TEST5.1.3,mol/L,Outside,False,14
+Ames Mutagenicity,TEST5.1.3,Binary 0/1,Inside,True,128
+Ames Mutagenicity,TEST5.1.3,Binary 0/1,Outside,False,8
+Bioconcentration Factor,TEST5.1.3,L/kg,Inside,True,104
+Bioconcentration Factor,TEST5.1.3,L/kg,Outside,False,32
+Boiling Point,TEST5.1.3,°C,Inside,True,123
+Boiling Point,TEST5.1.3,°C,Outside,False,13
+Density,TEST5.1.3,g/cm^3,Inside,True,129
+Density,TEST5.1.3,g/cm^3,Outside,False,7
+Developmental Toxicity,TEST5.1.3,Binary 0/1,Inside,True,130
+Developmental Toxicity,TEST5.1.3,Binary 0/1,Outside,False,6
+Flash Point,TEST5.1.3,°C,Inside,True,127
+Flash Point,TEST5.1.3,°C,Outside,False,9
+Melting Point,TEST5.1.3,°C,Inside,True,132
+Melting Point,TEST5.1.3,°C,Outside,False,4
+Oral Rat LD50,TEST5.1.3,mol/kg,Inside,True,120
+Oral Rat LD50,TEST5.1.3,mol/kg,Outside,False,16
+Surface Tension,TEST5.1.3,dyn/cm,Inside,True,51
+Surface Tension,TEST5.1.3,dyn/cm,Outside,False,85
+Thermal Conductivity,TEST5.1.3,mW/(m*K),Inside,True,50
+Thermal Conductivity,TEST5.1.3,mW/(m*K),Outside,False,86
+Vapor Pressure,TEST5.1.3,mmHg,Inside,True,125
+Vapor Pressure,TEST5.1.3,mmHg,Outside,False,11
+Viscosity,TEST5.1.3,cP,Inside,True,71
+Viscosity,TEST5.1.3,cP,Outside,False,65
+Water Solubility,TEST5.1.3,mol/L,Inside,True,132
+Water Solubility,TEST5.1.3,mol/L,Outside,False,4

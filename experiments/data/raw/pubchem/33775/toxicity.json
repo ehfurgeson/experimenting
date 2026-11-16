@@ -1,0 +1,2855 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 33775,
+    "RecordTitle": "Norflurazon",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=82",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Norflurazon"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Critical Effect Systems",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Endocrine"
+                        },
+                        {
+                          "String": "Hepatic"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Reference Dose (RfD), chronic",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4 x 10 ^-2 mg/kg-day"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "USGS Health-Based Screening Levels for Evaluating Water-Quality",
+                "Description": "This section provides the USGS Health-Based Screening Levels for Evaluating Water-Quality data.",
+                "URL": "https://water.usgs.gov/water-resources/hbsl/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 59,
+                    "Name": "Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Norflurazon"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 59,
+                    "Name": "USGS Parameter Code",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "67685"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 59,
+                    "Name": "Chemical Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pesticide"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 59,
+                    "Name": "Chronic Noncancer HHBP (Human Health Benchmarks for Pesticides)[μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8.9"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 59,
+                    "Name": "Reference",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Smith, C.D. and Nowell, L.H., 2024. Health-Based Screening Levels for evaluating water-quality data (3rd ed.). DOI:10.5066/F71C1TWP",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Group C Possible Human Carcinogen"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 57,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Endocrine"
+                        },
+                        {
+                          "String": "Hepatic"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134997715"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 52,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0015"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 52,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document?D=EPA-HQ-OPP-2012-0565-0025",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Norflurazon"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0015"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "8.9"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 24,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 608"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 608",
+                            "Matched": {
+                              "PCLID": 900143112,
+                              "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 608"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit percutaneous >20,000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 24,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A868/Aug 87"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A868/Aug 87",
+                            "Matched": {
+                              "PCLID": 900116903,
+                              "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A868/Aug 87"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat percutaneous >5000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 24,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 608"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 608",
+                            "Matched": {
+                              "PCLID": 900143112,
+                              "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 608"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral >8000 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Other Toxicity Values",
+                    "Description": "Other toxicity values that are less commonly used in toxicological studies.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^Other$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:9118639",
+                      "Leow U-H and Maibach HI;  Contact Dermatitis 35 (6): 369-70 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9118639",
+                        "Matched": {
+                          "PCLID": 6356476,
+                          "Citation": "Leow YH, Maibach HL. Allergic contact dermatitis from norflurazon (Predict). Contact Dermatitis. 1996 Dec;35(6):369–70. doi: 10.1111/j.1600-0536.1996.tb02425.x. PMID: 9118639.",
+                          "PMID": 9118639,
+                          "DOI": "10.1111/j.1600-0536.1996.tb02425.x"
+                        }
+                      },
+                      {
+                        "Citation": "Leow U-H and Maibach HI;  Contact Dermatitis 35 (6): 369-70 (1996)",
+                        "Matched": {
+                          "PCLID": 6356476,
+                          "Citation": "Leow YH, Maibach HL. Allergic contact dermatitis from norflurazon (Predict). Contact Dermatitis. 1996 Dec;35(6):369–70. doi: 10.1111/j.1600-0536.1996.tb02425.x. PMID: 9118639.",
+                          "PMID": 9118639,
+                          "DOI": "10.1111/j.1600-0536.1996.tb02425.x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/CASE REPORTS/ This report concerned a 53 year old professional weed sprayer who was referred for patch testing. He had an acute episode that resembled sunburn and caused his eyes to almost completely close, followed several days later by urticaria like lesions. He had been using the Predict formulation of norflurazon around that time. Patch testing with Predict at 1.0% and 0.1% produced a ++ reaction at 2 and 4 days after dosing. Tests in 20 control subjects were negative. The concentration of norflurazon in the preparation was 78.6%, but information on inert ingredients was not available.",
+                          "Markup": [
+                            {
+                              "Start": 308,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 500,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ In studies using laboratory animals, norflurazon generally has been shown to be of low acute toxicity. It is practically nontoxic by the oral and dermal routes, as well as in terms of eye and dermal irritation in rabbits. It has been placed in Toxicity Category IV (the lowest of four categories) for these effects.[EPA/OPPTS; R.E.D. Facts for Norflurazone. EPA-738-F-96-012, 14 p. (July 1996). Available from, as of February 28, 2007: http://www.epa.gov/REDs/factsheet/0229fact.pdf]",
+                          "Markup": [
+                            {
+                              "Start": 74,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 381,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A twenty-one day dermal toxicity study was conducted with norflurazon 80% wettable powder (WP). In this study, male and female New Zealand white rabbits (3 males and 3 females) received repeated dermal application of norflurazon 80% WP at doses of 150 mg 80% WP/mL (approximately 375 mg/kg/day) and 400 mg 80% WP/mL (approximately 1000 mg/kg/day), 5 days per week, 6-8 hours per day, for 21 days. The systemic NOEL is 375 mg/kg/day for males and females, and the systemic LEL is 1000 mg/kg/day for males and females, based on increases in alkaline phosphatase activity, liver weight, and liver to body weight ratio in both sexes. The dermal NOEL is 375 mg/kg/day for both sexes, and the dermal LEL is 1000 mg/kg/day for both sexes, based on slight erythema observed immediately after bandage removal.[USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision Document - Norflurazon. p 5 (1996) Available from, as of February 28, 2007: http://www.epa.gov/pesticides/reregistration/status.htm]",
+                          "Markup": [
+                            {
+                              "Start": 114,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 273,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 940,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ 90-Day Feeding - rat: NOEL=500 ppm (25 mg/kg/day); LEL=2500 ppm (250 mg/kg/day) (increased liver-to-body weight ratios); ... (Sandoz, Inc., 1971);[U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS) on Norflurazon (CAS 27314-13-2). Available from the Database Query page at: http://www.epa.gov/iris/subst/index.html on the Substance File List as of February 28, 2007]",
+                          "Markup": [
+                            {
+                              "Start": 287,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 304,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/27314-13-2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Four groups of 4 male and 4 female beagle dogs were exposed to 0, 50, 150, or 450 ppm Norflurazon in the diet for 6-months. At 450 ppm, effects were seen in the liver and the thyroid. Liver effects were increased weights, congestion, and swelling of the hepatocytes. Thyroid changes involved a slight increase in colloidal vacuoles. The NOEL for Norflurazon in this study was 150 ppm.[U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS) on Norflurazon (CAS 27314-13-2). Available from the Database Query page at: http://www.epa.gov/iris/subst/index.html on the Substance File List as of February 28, 2007]",
+                          "Markup": [
+                            {
+                              "Start": 142,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 402,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 525,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 542,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/27314-13-2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for NORFLURAZON (18 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 98,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6845#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NORFLURAZON",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 48
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A868/Aug 87"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A868/Aug 87",
+                        "Matched": {
+                          "PCLID": 900116903,
+                          "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A868/Aug 87"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 /Colinus virginianus/ (Bobwhite quail) oral >1250 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A868/Aug 87"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A868/Aug 87",
+                        "Matched": {
+                          "PCLID": 900116903,
+                          "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A868/Aug 87"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 /Anas platyrhynchos/ (Mallard duck) oral >1250 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 4-Chloro-5-(methylamino)-2-(3-(trifluoromethyl)phenyl)-3(2H)-pyridazinone (27314-13-2). Available from, as of December 21, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 4-Chloro-5-(methylamino)-2-(3-(trifluoromethyl)phenyl)-3(2H)-pyridazinone (27314-13-2). Available from, as of December 21, 2006",
+                        "Matched": {
+                          "PCLID": 900142330,
+                          "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 4-Chloro-5-(methylamino)-2-(3-(trifluoromethyl)phenyl)-3(2H)-pyridazinone (27314-13-2). Available from, as of December 21, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50; Species: Apis mellifera (Honey bee) topical >90.6 ug/bee"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 4-Chloro-5-(methylamino)-2-(3-(trifluoromethyl)phenyl)-3(2H)-pyridazinone (27314-13-2). Available from, as of December 21, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 4-Chloro-5-(methylamino)-2-(3-(trifluoromethyl)phenyl)-3(2H)-pyridazinone (27314-13-2). Available from, as of December 21, 2006",
+                        "Matched": {
+                          "PCLID": 900142330,
+                          "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 4-Chloro-5-(methylamino)-2-(3-(trifluoromethyl)phenyl)-3(2H)-pyridazinone (27314-13-2). Available from, as of December 21, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: Lepomis macrochirus (Bluegill, juvenile); Conditions: freshwater; static; Concentration: 16.3 ppm for 96 hr (95% confidence interval: 13.3-19.9 ppm)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for NORFLURAZON (6 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 88,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6845#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NORFLURAZON",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "EPA/OPPTS; R.E.D. Facts for Norflurazone. EPA-738-F-96-012, 14 p. (July 1996). Available from, as of February 28, 2007: https://www.epa.gov/REDs/factsheet/0229fact.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "EPA/OPPTS; R.E.D. Facts for Norflurazone. EPA-738-F-96-012, 14 p. (July 1996). Available from, as of February 28, 2007: https://www.epa.gov/REDs/factsheet/0229fact.pdf",
+                        "Matched": {
+                          "PCLID": 900056152,
+                          "Citation": "EPA/OPPTS; R.E.D. Facts for Norflurazone. EPA-738-F-96-012, 14 p. (July 1996). Available from, as of February 28, 2007: https://www.epa.gov/REDs/factsheet/0229fact.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/BIRDS and MAMMALS/ Norflurazon is practically nontoxic to ... /adult birds/ on an acute oral and subacute dietary basis ... Causes reproductive effects in birds. Norflurazon is also practically nontoxic to /adult/ mammals...",
+                          "Markup": [
+                            {
+                              "Start": 20,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 163,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:15899527",
+                      "Horvat T et al; Aquat Toxicol 73 (4): 342-52 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:15899527",
+                        "Matched": {
+                          "PCLID": 27477207,
+                          "Citation": "Horvat T, Kalafatić M, Kopjar N, Kovacević G. Toxicity testing of herbicide norflurazon on an aquatic bioindicator species--the planarian Polycelis felina (Daly.). Aquat Toxicol. 2005 Jul 30;73(4):342–52. doi: 10.1016/j.aquatox.2005.03.023. PMID: 15899527.",
+                          "PMID": 15899527,
+                          "DOI": "10.1016/j.aquatox.2005.03.023"
+                        }
+                      },
+                      {
+                        "Citation": "Horvat T et al; Aquat Toxicol 73 (4): 342-52 (2005)",
+                        "Matched": {
+                          "PCLID": 900066715,
+                          "Citation": "Horvat T et al; Aquat Toxicol 73 (4): 342-52 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ ... Due to its mobility and long half-life it presents a potential for groundwater contamination. The aim of /the/ study was to investigate toxic effects of norflurazon on non-targeted aquatic bioindicator organism, the planarian Polycelis felina (Daly.). Animals were exposed to water solutions of norflurazon in concentrations 200, 20, 2 and 0.2 uM. ... The results showed that norflurazon caused mortality, locomotive, morphological and histological changes in treated animals compared to corresponding controls. The most prominent histological changes were damage of the outer mucous layer, lack of rhabdites, damage to epidermis and extensive damage to parenchyma cells. The results of alkaline comet assay indicated that norflurazon in concentrations of 2 and 0.2 uM induces significant increase of primary DNA damage in planarian cells compared to the corresponding control animals. The mean values of all three measured parameters were significantly elevated on the fourth day of the treatment compared with the first and the seventh day.",
+                          "Markup": [
+                            {
+                              "Start": 175,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 298,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 317,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 398,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 745,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "EPA/OPPTS; R.E.D. Facts for Norflurazone. EPA-738-F-96-012, 14 p. (July 1996). Available from, as of February 28, 2007: https://www.epa.gov/REDs/factsheet/0229fact.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "EPA/OPPTS; R.E.D. Facts for Norflurazone. EPA-738-F-96-012, 14 p. (July 1996). Available from, as of February 28, 2007: https://www.epa.gov/REDs/factsheet/0229fact.pdf",
+                        "Matched": {
+                          "PCLID": 900056152,
+                          "Citation": "EPA/OPPTS; R.E.D. Facts for Norflurazone. EPA-738-F-96-012, 14 p. (July 1996). Available from, as of February 28, 2007: https://www.epa.gov/REDs/factsheet/0229fact.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ In acute oral toxicity studies, norflurazon is moderately to slightly toxic to both cold and warm water fish. In a fish early life stage study, norflurazon caused chronic effects to fish at levels as low as 1.5 ppm. In an aquatic invertebrate study, norflurazon was slightly toxic. It may cause chronic effects on aquatic invertebrate survival and offspring production. Norflurazon is slightly to moderately toxic to estuarine/marine organisms.",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 116,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 162,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 268,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 388,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision Document - Norflurazon. p 8 (1996) Available from, as of February 28, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision Document - Norflurazon. p 8 (1996) Available from, as of February 28, 2007: https://www.epa.gov/pesticides/reregistration/status.htm",
+                        "Matched": {
+                          "PCLID": 900080750,
+                          "Citation": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision Document - Norflurazon. p 8 (1996) Available from, as of February 28, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/OTHER TERRESTRIAL SPECIES/ Norflurazon is also practically nontoxic to ...  insects (honeybees). (a.i. 97.6 & 80%, LD50 > 235 & > 90 ug a.i. per bee,respectively",
+                          "Markup": [
+                            {
+                              "Start": 28,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Excerpts (Complete) data for NORFLURAZON (6 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 90,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6845#section=Ecotoxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 50,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NORFLURAZON",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "9.50e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.20e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.90e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.00e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.90e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.50e-03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.80e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.70e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "8.70e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.00e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.50e-03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Norflurazon's production may result in its release to the environment through various waste streams; it's use as a herbicide will result in its direct release to the environment. If released to air, a vapor pressure of 2.89X10-8 mm Hg at 25 °C indicates norflurazon will exist in both the vapor and particulate phases in the atmosphere. Vapor-phase norflurazon will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 39 hrs. Particulate-phase norflurazon will be removed from the atmosphere by wet or dry deposition. Norflurazon is primarily dissipated by photodegradation, with a direct photolysis half-life of less than 3 days in water, 12-15 days in soil. If released to soil, norflurazon is expected to have moderate mobility based upon an estimated Koc of 420. It is suggested that the adsorption mechanism may be due primarily to hydrophobic association of the organic molecule with the soil organic matter surface as is indicated by measured outlier Kocs of 1,914 and 3,311. Generally, norflurazone is expected to be mobile in soil. A reported soil biodegradation half-life of 130 days indicates that biodegradation is a slow environmental fate process in soil. If released into water, norflurazon is expected to adsorb to suspended solids and sediment based upon the estimated Koc. Volatilization from moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 3.43X10-10 atm-cu m/mole. A reported aquatic biodegradation half-life of 6 to 8 months indicates that biodegradation is a slow environmental fate process in water. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's estimated Henry's Law constant. An estimated BCF of 12 suggests the potential for bioconcentration in aquatic organisms is low. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions. The primary route of dissipation of norflurazon is photodegradation in water. Occupational exposure to norflurazon may occur through inhalation. Monitoring data indicate that the general population may be exposed to norflurazon via dermal contact with contaminated surface water. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 254,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 349,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 438,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 541,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 615,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 730,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1091,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1284,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1291,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1681,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1708,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2126,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 2161,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2193,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 2306,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 2363,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; Norflurazon (27314-13-2). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; Norflurazon (27314-13-2). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Norflurazon's production may result in its release to the environment through various waste streams; it's use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 96 (1995)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(4) Carringer RD et al; J Agr Food Chem 23: 568-72 (1975)",
+                      "(5) Tomlin CDS, ed; Norflurazon (27314-13-2). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                      "(6) USEPA/OPPTS; R.E.D Facts. Norflurazon (27314-13-2). Reregistration Eligibility Decisions (REDs) Database. USEPA 738-F-96-012. July, 1996. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 14, 2007."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 96 (1995)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Carringer RD et al; J Agr Food Chem 23: 568-72 (1975)"
+                      },
+                      {
+                        "Citation": "(5) Tomlin CDS, ed; Norflurazon (27314-13-2). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                      },
+                      {
+                        "Citation": "(6) USEPA/OPPTS; R.E.D Facts. Norflurazon (27314-13-2). Reregistration Eligibility Decisions (REDs) Database. USEPA 738-F-96-012. July, 1996. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 14, 2007."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 420(SRC), determined from a log Kow of 2.30(2) and a regression-derived equation(3), indicates that norflurazon is expected to have moderate mobility in soil(SRC). It is suggested that the adsorption mechanism may be due primarily to hydrophobic association of the organic molecule with the soil organic matter surface(4). Volatilization of norflurazon from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 3.43X10-10 atm-cu m/mole(SRC), derived from its vapor pressure, 2.89X10-8 mm Hg(5), and water solubility, 33.7 mg/L(5). Norflurazon is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(5). A reported soil biodegradation half-life of 130 days(6) indicates that biodegradation is not an important environmental fate process in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 181,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 422,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 643,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 675,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Menzie CM; Metabolism of Pesticides-Update III. Special Scientific Report- Wildlife No. 232. Washington, DC: U.S.Department of the Interior, Fish and Wildlife Service, NTIS PB83-165498. p. 402 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Menzie CM; Metabolism of Pesticides-Update III. Special Scientific Report- Wildlife No. 232. Washington, DC: U.S.Department of the Interior, Fish and Wildlife Service, NTIS PB83-165498. p. 402 (1980)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: In sandy loam soil, at 5, 20, and 35 °C, norflurazon dissipation was 10, 80 and 97 percent of total applied (not specified) after 210 days and was converted to its monomethyl and demethylated metabolites. At 20 and 35 °C, the compound exhibited a half-life of 50 and 9 days, respectively. The half-life of norflurazon in soil was about 8 months and the demethylated metabolite of norflurazon was observed(1).",
+                          "Markup": [
+                            {
+                              "Start": 59,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 324,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 398,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Willian WT et al; Weed Sci 45: 301-6 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Willian WT et al; Weed Sci 45: 301-6 (1997)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: In a field study using plots of Lexington silt loam (Tennessee), Beulah silt loam (Mississippi), and Dothan loamy sand (Georgia), norflurazon exhibited half-lives ranging from 7 to 79 days in the 0-8 cm soil horizons(1). Dry field conditions slowed the rate of dissipation and the chemical was not detected below the 15 cm horizon. Concentrations in the 8 to 15 cm zone were <36 ppbw 112 days after treatment with 1.7 kg active ingredient/ha(1).",
+                          "Markup": [
+                            {
+                              "Start": 148,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 351"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 351",
+                        "Matched": {
+                          "PCLID": 900015383,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 351"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: The average half life of norflurazon residues in soil from the Delta and Southeast is 45 to 180 days depending on clay and organic content.",
+                          "Markup": [
+                            {
+                              "Start": 43,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Environmental Fate (Complete) data for NORFLURAZON (7 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 88,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6845#section=Environmental-Fate-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NORFLURAZON",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA/OPPTS; R.E.D Facts. Norflurazon (27314-13-2). Reregistration Eligibility Decisions (REDs) Database. USEPA 738-F-96-012. July, 1996. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 14, 2007.",
+                      "(2) Willian WT et al; Weed Sci 45: 301-6 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA/OPPTS; R.E.D Facts. Norflurazon (27314-13-2). Reregistration Eligibility Decisions (REDs) Database. USEPA 738-F-96-012. July, 1996. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 14, 2007."
+                      },
+                      {
+                        "Citation": "(2) Willian WT et al; Weed Sci 45: 301-6 (1997)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Norflurazon degrades slowly in aerobic soil, with a reported half-life of 130 days(1). The biodegradation half-life under aquatic conditions is 6-8 months(1). It has been found that biodegradation in soil is influenced by environmental conditions, with the rate increasing with increasing depth (5 cm, half-life 100 days; 80 cm, half-life 260 days), increasing with increasing pH (pH 5.25, half-life 105 days; pH 7.0, half-life 225 days), and decreasing with increasing soil organic matter (0.75% OM, half-life 210 days; 2.20% OM, half-life 75 days)(2). The soil types used in this study were a Lexington silt loam (Tennessee), a Beulah silt loam (Mississippi), and a Dothan loamy sand (Georgia)(2).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA/OPPTS; R.E.D Facts. Norflurazon (27314-13-2). Reregistration Eligibility Decisions (REDs) Database. USEPA 738-F-96-012. July, 1996. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 14, 2007."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA/OPPTS; R.E.D Facts. Norflurazon (27314-13-2). Reregistration Eligibility Decisions (REDs) Database. USEPA 738-F-96-012. July, 1996. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 14, 2007."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: Norflurazon has a reported biodegradation half-life of 8 months under anaerobic conditions(1).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)",
+                      "(4) USEPA/OPPTS; R.E.D Facts. Norflurazon (27314-13-2). Reregistration Eligibility Decisions (REDs) Database. USEPA 738-F-96-012. July, 1996. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 14, 2007.",
+                      "(5) Hubbs CW, Lavy TL; Weed Science 38: 81-8 (1990)",
+                      "(6) Ying GG, Williams B; Toxicol Environ Chem 7: 261-9 (1999)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)"
+                      },
+                      {
+                        "Citation": "(4) USEPA/OPPTS; R.E.D Facts. Norflurazon (27314-13-2). Reregistration Eligibility Decisions (REDs) Database. USEPA 738-F-96-012. July, 1996. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 14, 2007."
+                      },
+                      {
+                        "Citation": "(5) Hubbs CW, Lavy TL; Weed Science 38: 81-8 (1990)"
+                      },
+                      {
+                        "Citation": "(6) Ying GG, Williams B; Toxicol Environ Chem 7: 261-9 (1999)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of norflurazon with photochemically-produced hydroxyl radicals has been estimated as 9.93X10-12 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 39 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). The rate constant for the vapor-phase reaction of norflurazon with ozone has been estimated as 1.6X10-16 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(1). This corresponds to an atmospheric half-life of about 7 days at an atmospheric concentration of 7X10+11 ozone molecules per cu cm(2). Norflurazon is stable to hydrolysis in the environment(4) due to the lack of functional groups that hydrolyze under environmental conditions(3). Norflurazon contains chromophores that absorb at wavelengths >290 nm and therefore may be susceptible to direct photolysis by sunlight(3). The main route of dissipation is photodegradation of norflurazon in water(4). Low volatilization but significant photolytic losses occurred when norflurazon-treated soil coated slides were exposed to ultraviolet or sunlight(5). February photodegradation half-life of norflorazon in natural water taken from the Murray River in South Australia, a vineyard region, was 2.34 days, using borosilicate glass flasks and employing incident sunlight; the average temperature was 17 to 32 °C(6). No April photodegradation was observed, average temperature of 10 to 21 °C(6).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 92,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 321,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 403,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 420,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 652,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 682,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 827,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1019,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1034,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1111,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1233,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norfluorazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1256,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 96 (1995)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 96 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 12 was calculated in fish for norflurazon(SRC), using a log Kow of 2.30(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 96 (1995)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(4) USEPA; Reregistration Eligibility Decisions (REDs) Database on Norflurazon (27314-13-2). USEPA Case No. 0229. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 28, 2007.",
+                      "(5) Lohninger H; Chemosphere 29: 1611-26 (1994)",
+                      "(6) Kenaga EE; Ecotoxicol Environ Safety 4: 26-38 (1980)",
+                      "(7) USEPA/OPPTS; R.E.D Facts. Norflurazon (27314-13-2). Reregistration Eligibility Decisions (REDs) Database. USEPA 738-F-96-012. July, 1996. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 14, 2007."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 96 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(4) USEPA; Reregistration Eligibility Decisions (REDs) Database on Norflurazon (27314-13-2). USEPA Case No. 0229. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 28, 2007."
+                      },
+                      {
+                        "Citation": "(5) Lohninger H; Chemosphere 29: 1611-26 (1994)"
+                      },
+                      {
+                        "Citation": "(6) Kenaga EE; Ecotoxicol Environ Safety 4: 26-38 (1980)"
+                      },
+                      {
+                        "Citation": "(7) USEPA/OPPTS; R.E.D Facts. Norflurazon (27314-13-2). Reregistration Eligibility Decisions (REDs) Database. USEPA 738-F-96-012. July, 1996. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Mar 14, 2007."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of norflurazon is estimated as 420(SRC), using a log Kow of 2.30(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that norflurazon is expected to have moderate mobility in soil. Binding does appear to be influenced by organic matter, clay content and cation exchange capacity(4). Koc values of 3,311(5) and 1,914(6) have been reported for norflurazon although it is generally observed that norflurazon is expected to be mobile to highly mobile in soil(7).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 194,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 414,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 465,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Alva AK, Singh M; Bull Environ Contam Toxicol 45: 365-74 (1990)",
+                      "(2) Hubbs CW, Lavy TL; Weed Science 38: 81-8 (1990)",
+                      "(3) Reddy KN, Singh M; Bull Environ Contam Toxicol 50: 449-57 (1993)",
+                      "(4) Singh M et al; Bull Environ Contam Toxicol 35: 279-84 (1985)",
+                      "(5) Southwick LM et al; Bull Environ Contam Toxicol 50: 441-48 (1993)",
+                      "(6) Schroeder J, Banks PA; Weed Science 34: 595-99 (1986)",
+                      "(7) Schroeder J, Banks PA; Weed Science 34: 599-606 (1986)",
+                      "(8) Herbicide Handbook of the Weed Science Society of America 6th ed. Champaign, Il: Weed Science Society of America (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Alva AK, Singh M; Bull Environ Contam Toxicol 45: 365-74 (1990)"
+                      },
+                      {
+                        "Citation": "(2) Hubbs CW, Lavy TL; Weed Science 38: 81-8 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Reddy KN, Singh M; Bull Environ Contam Toxicol 50: 449-57 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Singh M et al; Bull Environ Contam Toxicol 35: 279-84 (1985)"
+                      },
+                      {
+                        "Citation": "(5) Southwick LM et al; Bull Environ Contam Toxicol 50: 441-48 (1993)"
+                      },
+                      {
+                        "Citation": "(6) Schroeder J, Banks PA; Weed Science 34: 595-99 (1986)"
+                      },
+                      {
+                        "Citation": "(7) Schroeder J, Banks PA; Weed Science 34: 599-606 (1986)"
+                      },
+                      {
+                        "Citation": "(8) Herbicide Handbook of the Weed Science Society of America 6th ed. Champaign, Il: Weed Science Society of America (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Norflurazon adsorption increases and therefore mobility decreases as soil organic matter and clay content increases(2). Of 5 ug/g soil of norflurazon applied on the surface of Myakka sand, approximately 0.30 ug/g soil was not sorbed in the top 25 cm horizon of soil and 0.02 ug/g soil of norflurazon was not adsorbed below 150 cm; therefore, it is considered as potentially leachable(1). A study using Commerce clay loam (36% sand, 31% silt, 33% clay) near Baton Rouge, LA found cumulative loss of norflurazon through leaching to be 0.68g/ha(0.03% of applied) with 1000 mm rain in 302 days, and 3.66 g/ha (0.16% of applied) with 2084 mm rain in 308 days for the 1988-89 and 1989-90 seasons, respectively, which suggested to the investigators that soil leaching of this herbicide could be an important disappearance pathway(5). It appears that out of 5 ug/g applied, 1.43 ug/g norflurazon is leachable below 120 cm depth of soil in Candler fine sand(1). Upward movement (an excess of 5 cm in 8 weeks) occurred in subirrigated columns containing herbicide-treated Herbert silt loams(2). Norflurazon leached a total of approximately 65% of applied in 5 pore volumes (equal to 15.2 cm rainfall) in Candler fine sand (97% sand, 1.1% organic matter)(3). A study using ryegrass dry matter production as a measure of herbicide movement through soil found that norflurazon had very slow movement by leaching in Astatula fine sand soil (96.5% sand, 2.0% silt, 1.5% clay, and 0.6% organic matter) which was attributed to its relatively low water solubility(4). Two studies using five different Georgia soils, found that disappearance and leaching of norflurazon was slow and that leaching did not appear to be an important method of norflurazon loss(6,7). Norflurazon does not leach appreciably(8).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 138,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 288,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 498,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 876,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1085,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1352,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1529,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1639,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1722,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1745,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Dragun J, Helling CS; Land Disposal: Hazardous Waste, Proc Annu Res, 7th Washington DC: USEPA. USEPA-600/9-81-026 pp 58-70 (1981)",
+                      "(2) Giry G, Ayele J; J Eur Hydrol 29: 17-32 (1998)",
+                      "(3) Reddy KN et al; Water Air Soil Pollut 64: 487-94 (1992)",
+                      "(4) Southwick LM et al; Bull Environ Contam Toxicol 50: 441-8 (1993)",
+                      "(5) Ying GG, Williams B; Pest Manag Sci 56: 277-83 (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Dragun J, Helling CS; Land Disposal: Hazardous Waste, Proc Annu Res, 7th Washington DC: USEPA. USEPA-600/9-81-026 pp 58-70 (1981)"
+                      },
+                      {
+                        "Citation": "(2) Giry G, Ayele J; J Eur Hydrol 29: 17-32 (1998)"
+                      },
+                      {
+                        "Citation": "(3) Reddy KN et al; Water Air Soil Pollut 64: 487-94 (1992)"
+                      },
+                      {
+                        "Citation": "(4) Southwick LM et al; Bull Environ Contam Toxicol 50: 441-8 (1993)"
+                      },
+                      {
+                        "Citation": "(5) Ying GG, Williams B; Pest Manag Sci 56: 277-83 (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Using a soil TLC study, the Rf for norflurazon was determined to be 0.40(1). Norflurazon is easily carried off applied fields by runoff or percolation(2). Using soils representative of the southern citrus-belt of Florida (La Belle, Hendry Co.), Kd values ranging from 0.63 to 2.20 mL/g were obtained, indicating weak to moderate binding; the Kd was significantly related to organic C content, soil pH, and cation exchange capacity(3). Kd values of 1.21, 1.49, 0.63, 1.34, 1.55, 2.20, and 1.94 mL/g were measured using Riveria (fine sand, pH 6.2, 0.94% OC, 5.1% clay, 4.11 cmol/kg CEC), Wabasso (sand, pH 6.62, 0.61% OC, 2.4% clay, 2.54 cmol/kg CEC), Holopaw (fine sand, pH 6.10, 0.50% OC, 1.3% clay, 2.03 cmol/kg CEC), Basinger (fine sand, pH 5.75, 0.61% OC, 1.9% clay, 1.52 cmol/kg CEC), Pineda (fine sand, pH 7.11, 1.22% OC, 0.5% clay, 8.40 cmol/kg CEC), Chobee (fine sandy loam, pH 7,18, 1.39% OC, 16.1% clay, 8.10 cmol/kg CEC), and Boca (fine sand, pH 7.05, 1.67% OC, 3.5% clay, 10.79 cmol/kg CEC), respectively(3). Using Commerce clay loam field plots, Baton Rouge, LA (36% sand, 31% silt, 33% clay) norflurazon concentrations in the top 15 cm of soil following 2.24 kg/ha application on 6.1.88 were (day, concn in ng/g): 1, 372; 20, 224; 44, 167; 106, 160; 169, 29; 293, 39; results following application on 4/26/89 were (day, concn in ng/g): 5, 404; 34, 301; 76, 30; 134, 187; 224, 150; 352, 119(4). Leaching studies using the South Australian Barossa Valley viticultural region soils which are generally low in organic carbon content indicate that norflurazon does leach more readily in sandy soils than clayey soils(5).",
+                          "Markup": [
+                            {
+                              "Start": 35,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 77,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1105,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1527,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1556,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Dragun J, Helling CS; Land Disposal: Hazardous Waste, Proc Annu Res, 7th Washington DC: USEPA USEPA-600/9-81-026. pp 58-70 (1981)",
+                      "(2) Pereira WE, Hostettler FD; Environ Sci Technol 27: 1542-52 (1993)",
+                      "(3) Alva AK, Singh M; J Environ Sci Health B26: 147-63 (1991)",
+                      "(4) Carringer RD et al; J Agr Food Chem 23: 568-72 (1975)",
+                      "(5) Reddy KN et al; Water Air Soil Pollut 64: 487-94 (1992)",
+                      "(6) Wauchope RD et al; Rev Environ Contam Toxicol 123: 1-36 (1991)",
+                      "(7) Pereira WE, Hostettler FD; Environ Sci Technol 27: 1542-52 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Dragun J, Helling CS; Land Disposal: Hazardous Waste, Proc Annu Res, 7th Washington DC: USEPA USEPA-600/9-81-026. pp 58-70 (1981)"
+                      },
+                      {
+                        "Citation": "(2) Pereira WE, Hostettler FD; Environ Sci Technol 27: 1542-52 (1993)"
+                      },
+                      {
+                        "Citation": "(3) Alva AK, Singh M; J Environ Sci Health B26: 147-63 (1991)"
+                      },
+                      {
+                        "Citation": "(4) Carringer RD et al; J Agr Food Chem 23: 568-72 (1975)"
+                      },
+                      {
+                        "Citation": "(5) Reddy KN et al; Water Air Soil Pollut 64: 487-94 (1992)"
+                      },
+                      {
+                        "Citation": "(6) Wauchope RD et al; Rev Environ Contam Toxicol 123: 1-36 (1991)"
+                      },
+                      {
+                        "Citation": "(7) Pereira WE, Hostettler FD; Environ Sci Technol 27: 1542-52 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The trifluoromethyl group may enhance the mobility of norflurazon(1). Norflurazon adsorption increases, thereby decreasing mobility with increasing soil organic matter and clay content(2). Sorption of norflurazon on Candler fine sand increases with increasing ionic strength of electrolyte(3). Sorption of norflurazon also varies with the cation species in the electrolyte in the following order: Fe >> Al = Cu > K = Ca = Mg = Na(3). The adsorption isotherm of norflurazon appears to be curvilinear(4). It is suggested that the adsorption mechanism may be due primarily to hydrophobic association of the organic molecule with the soil organic matter surface(4). The sorption coefficient (0.63-2.2 mL/g in Citrus soils indicating weak to moderate binding to soil) is strongly related to organic C content, soil pH, and cation exchange capacity(5). The half-lives estimated for norflurazon in soil are 30 and 90 days(6,7).",
+                          "Markup": [
+                            {
+                              "Start": 54,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 70,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 201,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 306,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 461,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 876,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; Norflurazon (27314-13-2). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; Norflurazon (27314-13-2). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for norflurazon is estimated as 3.4X10-10 atm-cu m/mole(SRC) derived from its vapor pressure, 2.89X10-8 mm Hg(1), and water solubility, 33.7 mg/L(1). This Henry's Law constant indicates that norflurazon is expected to be essentially nonvolatile from water surfaces(2). Norflurazon is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 143,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 216,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 275,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 294,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Cohen S et al; J Environ Qual 28: 798-809 (1999)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Cohen S et al; J Environ Qual 28: 798-809 (1999)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GROUNDWATER: Norflurazon was not detected in groundwater samples analyzed as part of a comprehensive survey of literature addressing pesticide use on golf courses conducted in 1996(1).",
+                          "Markup": [
+                            {
+                              "Start": 13,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; National Pesticide Survey: Survey Analytes. USEPA Off Water Off Pest Toxic Sub Fall 1990. NTIS 1B93-116 010, 17 pp. (1990)",
+                      "(2) USEPA; Pesticides in Groundwater Database. A compilation of monitoring studies: 1971-1991. National Summary. USEPA Off Pest Programs Prevention Pesticides and Toxic Substances (H7507C). USEPA-734-12-92-001 (1992)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; National Pesticide Survey: Survey Analytes. USEPA Off Water Off Pest Toxic Sub Fall 1990. NTIS 1B93-116 010, 17 pp. (1990)"
+                      },
+                      {
+                        "Citation": "(2) USEPA; Pesticides in Groundwater Database. A compilation of monitoring studies: 1971-1991. National Summary. USEPA Off Pest Programs Prevention Pesticides and Toxic Substances (H7507C). USEPA-734-12-92-001 (1992)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DRINKING WATER: A study of 783 rural domestic wells and 566 community water system wells (detection limit = 0.18 ug/L)(1), and another study of 68,824 wells in 45 states (detection limit not reported), did not detect norflurazon in any samples(2).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 70,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 217,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Pereira WE, Hostettler FD; Environ Sci Technol 27: 1542-52 (1993)",
+                      "(2) Coupe RH et al; Environ Sci Technol 32: 3673-80 (1998)",
+                      "(3) Dubrovsky NM et al; pp 306-33 in Agrochemical Fate and Movement. Steinheim T et al, eds. Washington, DC: Amer Chem Soc (2000)",
+                      "(4) Miles CJ, Pfeuffer RJ; Arch Environ Contam Toxicol 32: 337-345 (1997)",
+                      "(5) Oskam G et al; Water Supply 11: 1-17 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Pereira WE, Hostettler FD; Environ Sci Technol 27: 1542-52 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Coupe RH et al; Environ Sci Technol 32: 3673-80 (1998)"
+                      },
+                      {
+                        "Citation": "(3) Dubrovsky NM et al; pp 306-33 in Agrochemical Fate and Movement. Steinheim T et al, eds. Washington, DC: Amer Chem Soc (2000)"
+                      },
+                      {
+                        "Citation": "(4) Miles CJ, Pfeuffer RJ; Arch Environ Contam Toxicol 32: 337-345 (1997)"
+                      },
+                      {
+                        "Citation": "(5) Oskam G et al; Water Supply 11: 1-17 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATER: In a study of the Mississippi River, norflurazon was detected in the Yazoo River (Mississippi) going into the Mississippi at concentrations of 0.3 ug/L, 0.15 ug/L and 0.32 ug/L for Jul-Aug, 1991, Oct-Nov, 1991, and Mar-Apr, 1992, respectively; in the Mississippi River below Vicksburg, MS - 0.2 ug/L, 0.3 ug/L and not detected for Jul-Aug, 1991, Oct-Nov, 1991, and Mar-Apr, 1992, respectively; 0.3 ug/L, 0.3 ug/L and 0.2 ug/L near St. Francisville, LA for Jul-Aug, 1991, Oct-Nov, 1991, and Mar-Apr, 1992, respectively; below Belle Chasse, LA 0.3 ug/L, 0.4 ug/L and not detected for Jul-Aug, 1991, Oct-Nov, 1991, and Mar-Apr, 1992, respectively(1). It is estimated that the annual mass transport of norflurazon in the dissolved phase from the Mississippi River into the Gulf of Mexico is 10 metric tons based on two sampling trips(1). Norflurazon concentrations in three streams in the Mississippi River Delta in a region of rice and cotton operations were as follows: not detected to 35 ng/L, 2.5-28 ng/L and not detected to 58 ng/L in samples from the Steele Bayou near Rolling Fork, Deer Creek near Hollandale and the Big Sunflower River near Anguilla, respectively(2). Samples were analyzed during 1995 with highest norflurazon concentrations occurring early in the growing season (April and May) and then decreasing later in the season(2). Data was collected on the San Joachim River Valley during January through December 1993 with pesticides being detected in all but one of the 143 surface-water samples collected from the San Joachim River, Orestimba Creek, Salt Slough, and the Merced River(3). Norflurazon (detection limit 0.024 ug/L) was detected in 1.3% of 76 samples with a maximum concentration of 0.44 ug/L(3). In a survey of south Florida canals conducted from November 1991 to June 1995, norflurazon was one of the most frequently detected pesticides, being identified in 54 samples with a maximum concentration of 3.9 ug/L (detection limit 0.2-0.3 ug/L)(4). Norflurazon was detected in the Rhine River at Basel at a concentration of 0.2 ug/L, the result of a spill in 1988-1989(5).",
+                          "Markup": [
+                            {
+                              "Start": 8,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 52,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 713,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 849,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1234,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1512,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1619,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1820,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 1991,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Sediment/Soil Concentrations",
+                "Description": "Concentrations of this compound in sediment/soil. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:9175497",
+                      "(1) Miles CJ, Pfeuffer RJ; Arch Environ Contam Toxicol 32: 337-345 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9175497",
+                        "Matched": {
+                          "PCLID": 23267190,
+                          "Citation": "Miles CJ, Pfeuffer RJ. Pesticides in Canals of South Florida. Archives of Environmental Contamination and Toxicology. 1997 Dec 01;32(4):337–45. doi: 10.1007/s002449900194.",
+                          "PMID": 9175497,
+                          "DOI": "10.1007/s002449900194"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Miles CJ, Pfeuffer RJ; Arch Environ Contam Toxicol 32: 337-345 (1997)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SEDIMENT: Norflurazon was not detected in sediment samples from  a survey of south Florida canals conducted from November 1991 to June 1995 (detection limit 10 ug/kg)(1).",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Other Environmental Concentrations",
+                "Description": "Other environmental concentrations reported for this chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Reddy KN et al; J Agric Food Chem 42: 2338-43 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Reddy KN et al; J Agric Food Chem 42: 2338-43 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Norflurazon runoff following 3.8 cm of rainfall applied at 24 hours after application of both norflurazon and fluometuron as 0.4 kg active ingredient/ha from non-crop runoff trays with Bosket sandy loam soil at 1.1% slope was 6.0 mg/L of first liter of runoff, 4.4% of applied compounds(1). No loss was noted from crop-residue trays(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 94,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 110,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluometuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16562"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to norflurazon may occur through inhalation. Monitoring data indicate that the general population may be exposed to norflurazon via dermal contact with contaminated surface water. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 138,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 195,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134997715",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0027314132",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19480291
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_82",
+        "Name": "Norflurazon",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=82",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895416
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID33775",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125422
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_541",
+        "Name": "Norflurazon",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2436147
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_540",
+        "Name": "Norflurazon",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8258944
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "2503dfe445b8db77642d1c02fbd7920e",
+        "Name": "Norflurazon",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667448
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID8024234",
+        "Name": "Norflurazon",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57031485
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "6845",
+        "Name": "NORFLURAZON",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6845",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4501
+      },
+      {
+        "ReferenceNumber": 52,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Norflurazon",
+        "Name": "Norflurazon",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401586
+      },
+      {
+        "ReferenceNumber": 57,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D3893",
+        "Name": "Norflurazon",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D3893",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443326
+      },
+      {
+        "ReferenceNumber": 59,
+        "SourceName": "USGS Health-Based Screening Levels for Evaluating Water-Quality Data",
+        "SourceID": "55cb504ea616c81c70a7cfa8359bd70c",
+        "Name": "Norflurazon",
+        "Description": "The USGS Health-Based Screening Levels for Evaluating Water-Quality Data contains Health-Based Screening Levels (HBSLs) that are non-enforceable water-quality benchmarks that can be used to (1) supplement U.S. Environmental Protection Agency (USEPA) Maximum Contaminant Levels (MCLs) and Human Health Benchmarks for Pesticides (HHBPs), (2) determine whether contaminants found in surface-water or groundwater sources of drinking water may indicate a potential human-health concern, and (3) help prioritize monitoring efforts. HBSLs were developed by the U.S. Geological Survey (USGS).",
+        "URL": "https://water.usgs.gov/water-resources/hbsl/index.html",
+        "LicenseURL": "https://www.usgs.gov/legal",
+        "ANID": 39668234
+      }
+    ]
+  }
+}

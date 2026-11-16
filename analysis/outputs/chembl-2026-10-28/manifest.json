@@ -1,0 +1,51 @@
+{
+  "scope": "Raw ChEMBL plant assays and review candidates; no reviewed activity or natural-origin labels assigned.",
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/discovery.json": "f5c72d6fb90a7f80c04d91ca426018d7a86b81744ee4ac685eab9f7f9355d3ea",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3047330.json": "1254e69c8c714cfbc345805feb250b493386006591fc7202126f355be7cc8fa6",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3047983.json": "4f872c764810bd97e8ef4430fbd0f5ddf6162f5d006088c33039200dfe6fb898",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3048455.json": "d9f2d5244c1ff938eaf2947135a0a8b60b5a8264ee5da00864bdb3aad9c71ebe",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3049732.json": "349a45dee134f7a867661d36ebd0dfc2968a788f974ce1574c5e717f26af55e6",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3050086.json": "17d7f449709a96d3cf4abbc44abfe23aed4198a69a63949aa3c98de8744eb12b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3050227.json": "34d83321e466bc2e84f27ec85ca94cf5363550bba22efaf934e3ab958b34b611",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3050362.json": "499b0bb2472440cd7ff260fa3b5d3a0fc0377075762c1509d7cbfee35820c306",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3050580.json": "90fabc53184ee38fa87c0f8e8afe042dcf07ce93ede97621275a10e42c284de1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3051568.json": "cf8fcbebb3bcc9e400736388dca4f270ce9e4f507709e65e8b1f907812600fff",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3053086.json": "801bc47d9e542e1f966795bbcab5acb30b626b61f206c3a8faa642d4151dc5c0",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3066645.json": "7cf65ca59aba80013d6a3afde42c71fd18d9689901205cfb93102f2170e9b9ee",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3066743.json": "07f75786b551fe7872c8aa37f3776b7179cfb937daeb1bb07d71e5d63a0aec6a",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3079324.json": "3791bc73be0df91bbdc9be972ef4a58a643d72e29020b234a7e2ff41749e73c1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL970505.json": "117b0c1bed8844dcbca2d7f90bffc1b4ea381d1167ba1e39c416abe412226c45"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/formula.py": "d326c65e8740a46232c8c2ae15a5211e03c97d356a48f74e12dc6eea8a661bad",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/screen.py": "5db7a6d1c7cf992b858211284c576c91eabc68ba47adce3234dafa52847efa74",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure.py": "763fd952f2c4c57ed16136cf6efb58d7454daf8106cc9075a8064114578dae4c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure_models.py": "35c230d96fce4c378addf13c14d9a72fc548d3d523945807c6067afb272b224b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/notes/audit_chembl_expansion.py": "2e6c5a7206a0124f388af66525860f268bbbcec766628de8482908f8fa958c0b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/chembl.py": "4241163a20c0bab0552dbbf85cfea3fd4ca8920722c924e0276dc65aadd2c69b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/storage.py": "29ccefa685750de884af31db35e8ea487a8a1a640f935abe8ef1f0d1f910045e"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/uv.lock": "e991f172f05b53b0ff2e1faa542638494728c3258728b9b595500818ae52a16c"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/acquisition_audit.json": "f7d1096462549cb78798d95d5b952193a581f143acb17b000ab42f5c886696c5",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/activity_review.csv": "44ef735088939e44ee09e96ffc2e228f8ca4d5aba8d8ed03f93ff870a805e894",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/candidates.csv": "3db8eba7c84fc8ccba0fbcd2043ff6306faf273d7e3534dc2cd279ab4a368687",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-2026-10-28/reported_response_diagnostics.json": "53da98a3b2d0e525a47253c29a07cf7d8f2bde486bb199950be3e0ba1aa58ea3"
+  },
+  "assays": 14,
+  "activity_records": 157,
+  "molecules": 154,
+  "canonical_structures": 154,
+  "scaffolds": 28,
+  "overlap_with_selected_structures": 5,
+  "pagination_check": {
+    "assay": "CHEMBL970505",
+    "pages": 4,
+    "records": 25,
+    "identical_to_initial": true
+  }
+}

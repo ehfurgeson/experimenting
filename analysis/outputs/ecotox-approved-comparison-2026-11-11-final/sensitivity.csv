@@ -1,0 +1,9 @@
+scenario,policy,slots,distinct_results,distinct_compounds,exact_slots,bounded_or_range_slots
+all_core_policy_admitted,daphnia_immobilization_ec50_48h,13,13,11,11,2
+all_core_policy_admitted,trout_lc50_96h,28,28,7,28,0
+exclude_unresolved_overlap_candidates,daphnia_immobilization_ec50_48h,13,13,11,11,2
+exclude_unresolved_overlap_candidates,trout_lc50_96h,28,28,7,28,0
+reported_context_only,daphnia_immobilization_ec50_48h,1,1,1,1,0
+reported_context_only,trout_lc50_96h,0,0,0,0,0
+reported_context_exclude_overlap,daphnia_immobilization_ec50_48h,1,1,1,1,0
+reported_context_exclude_overlap,trout_lc50_96h,0,0,0,0,0

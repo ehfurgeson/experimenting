@@ -1,0 +1,25 @@
+{
+  "search_term": "Metolachlor",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:57.162383+00:00",
+  "url": "/chemical/search/equal/Metolachlor",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID4022448",
+        "dtxcid": "DTXCID402448",
+        "casrn": "51218-45-2",
+        "preferredName": "Metolachlor",
+        "hasStructureImage": 1,
+        "smiles": "CCC1=C(N(C(C)COC)C(=O)CCl)C(C)=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Metolachlor",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "KZJWDPNRJALLNS-VJSFXXLFSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:44.389575+00:00",
+  "url": "/chemical/search/equal/KZJWDPNRJALLNS-VJSFXXLFSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5022481",
+        "dtxcid": "DTXCID802481",
+        "casrn": "83-46-5",
+        "preferredName": "(-)-beta-Sitosterol",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC=C4C[C@@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CC[C@@H](CC)C(C)C",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KZJWDPNRJALLNS-VJSFXXLFSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

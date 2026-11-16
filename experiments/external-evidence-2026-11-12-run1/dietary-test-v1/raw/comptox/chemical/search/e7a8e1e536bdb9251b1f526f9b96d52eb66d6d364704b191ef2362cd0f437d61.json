@@ -1,0 +1,25 @@
+{
+  "search_term": "GUBGYTABKSRVRQ-PICCSMPSSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:05.558728+00:00",
+  "url": "/chemical/search/equal/GUBGYTABKSRVRQ-PICCSMPSSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID101018093",
+        "dtxcid": "DTXCID901476324",
+        "casrn": "16984-36-4",
+        "preferredName": "4-O-alpha-D-Glucopyranosyl-D-glucopyranose",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@]1(O[C@H]2[C@H](O)[C@@H](O)C(O)O[C@@H]2CO)O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O",
+        "isMarkush": false,
+        "searchValue": "GUBGYTABKSRVRQ-PICCSMPSSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

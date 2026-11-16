@@ -1,0 +1,25 @@
+{
+  "search_term": "Salicylaldehyde",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:05.332378+00:00",
+  "url": "/chemical/search/equal/Salicylaldehyde",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1021792",
+        "dtxcid": "DTXCID001792",
+        "casrn": "90-02-8",
+        "preferredName": "Salicylaldehyde",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC=CC=C1C=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Salicylaldehyde",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

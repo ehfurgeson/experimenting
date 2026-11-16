@@ -1,0 +1,25 @@
+{
+  "search_term": "Artemisia ketone",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:24.053360+00:00",
+  "url": "/chemical/search/equal/Artemisia ketone",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "3,3,6-Trimethylhepta-1,5-dien-4-one",
+        "dtxsid": "DTXSID60203030",
+        "dtxcid": "DTXCID60125521",
+        "casrn": "546-49-6",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)=CC(=O)C(C)(C)C=C",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Artemisia ketone",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,553 @@
+{
+  "prepared_date": "2026-11-11",
+  "checkpoint_commit": "b771c87",
+  "purpose": "Portable research documentation and compact evidence references; no scientific approvals or source files modified.",
+  "files": [
+    {
+      "path": "01_PROJECT_HANDOFF.html",
+      "bytes": 23100,
+      "sha256": "74c6cf3a5f72c6aac6834284655b5b85842f4facb6facd66211e9f591da74be0"
+    },
+    {
+      "path": "01_PROJECT_HANDOFF.md",
+      "bytes": 16098,
+      "sha256": "458df1ce6da139c0da2ed3adcbe009047c7a161f3bd6a3e2593d193c04846f0c"
+    },
+    {
+      "path": "02_TOXICITY_RESEARCH_GUIDE.html",
+      "bytes": 31565,
+      "sha256": "2f38fd47918f7544178b5d602d9fc3bb06f9a39edf8122a2497e9cee37b1fe28"
+    },
+    {
+      "path": "02_TOXICITY_RESEARCH_GUIDE.md",
+      "bytes": 23465,
+      "sha256": "2f51800206c45121d0529217f7a862e85f325fdd4c29a1676f3cda27b1adb329"
+    },
+    {
+      "path": "03_BIOLOGICAL_EVIDENCE_GUIDE.html",
+      "bytes": 27764,
+      "sha256": "dd9d925edbc8b10fb516cf25369068ab35a5dc3700ba20078d4d3638d6ceb9d9"
+    },
+    {
+      "path": "03_BIOLOGICAL_EVIDENCE_GUIDE.md",
+      "bytes": 21015,
+      "sha256": "279a7a78d62127b705e01667181cf68424f97a538296b8028d69cdd6fbf039b6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4323,
+      "sha256": "2794607fbc9dbaf140a1a25a0673b34af48bc96da4493234972f2dda86ea348b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 7452,
+      "sha256": "abd6e510789bb84e49e78546608a43db57a760e52f552855e943f8863c53909f"
+    },
+    {
+      "path": "reference_inputs/README.html",
+      "bytes": 4004,
+      "sha256": "60ae9e7da8462d44ef286fc6ef014e1440d9a4686c6023da5cb36b235d0b1f1c"
+    },
+    {
+      "path": "reference_inputs/README.md",
+      "bytes": 1606,
+      "sha256": "9f24ce664e3c5aef91c04981ed7274cb8810805197935a3610c180896a59a79f"
+    },
+    {
+      "path": "reference_inputs/biology/accepted_activity_features.csv",
+      "bytes": 92142,
+      "sha256": "02f2b960ab05fdb274a9ef851a11d8cadcc4d9f1e319f432bb68237d710414df"
+    },
+    {
+      "path": "reference_inputs/biology/activity_model_support.csv",
+      "bytes": 3791,
+      "sha256": "d41d2dd41aeaace9627010818964215383b782b8372c954157a7ed1f9f37effc"
+    },
+    {
+      "path": "reference_inputs/biology/additional_literature_leads.csv",
+      "bytes": 2879,
+      "sha256": "e0cf4a2bb92979de9cda00bb43ce07e98696ffbbd19693e6c18521797f1da7fa"
+    },
+    {
+      "path": "reference_inputs/biology/adoption_ledger.csv",
+      "bytes": 42906,
+      "sha256": "98357c0555e2ca3074ded93127c61293f4ab64ae4acafb8069b407dba3ce46eb"
+    },
+    {
+      "path": "reference_inputs/biology/biological_approval_statement.json",
+      "bytes": 810,
+      "sha256": "c67ae7cff6829692ab19b08eedf5a440a3987688366eb7725da6b058cf93749a"
+    },
+    {
+      "path": "reference_inputs/biology/descriptor_summary.csv",
+      "bytes": 1820,
+      "sha256": "11dfcded663b24edd19481e9b4ba3648cc4bb1e43bd177212b4e471a72f74deb"
+    },
+    {
+      "path": "reference_inputs/biology/identity_holds.csv",
+      "bytes": 115,
+      "sha256": "59af347c76d5db3f130f5f79a4764cc27cf8d02c93b9ee2015ef14d86c6328f1"
+    },
+    {
+      "path": "reference_inputs/biology/legacy_adoption_ledger.csv",
+      "bytes": 27152,
+      "sha256": "ff95c65f0d4395eddf6764bebb61cef348ca6068b393fa0b848342777c9390a9"
+    },
+    {
+      "path": "reference_inputs/biology/li_source_crosswalk.csv",
+      "bytes": 13265,
+      "sha256": "859e82c7434ef30815a2273b0c6907541a321d0e1e432dd68b1970b32c2b8a48"
+    },
+    {
+      "path": "reference_inputs/biology/origin_labels.csv",
+      "bytes": 10341,
+      "sha256": "be17e7a41b36e2457636d752e7790b726e4466f6f846a55de2f9b228e71dec62"
+    },
+    {
+      "path": "reference_inputs/biology/original_assay_evidence_history.csv",
+      "bytes": 359381,
+      "sha256": "31fae454625ba532a098a45d3a0223b8a19a188d5308496b05d423980e7e678e"
+    },
+    {
+      "path": "reference_inputs/biology/policies/HUMAN-D2015-PIGWEED-7DAY-v1.csv",
+      "bytes": 4305,
+      "sha256": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07"
+    },
+    {
+      "path": "reference_inputs/biology/policies/HUMAN-HE2011-AR-1500G-POST-BANDS-v0.1.csv",
+      "bytes": 36216,
+      "sha256": "9445909961edd69f33f0ba684cf3d346a81171ae84b2d122f7ac57b2a529f07a"
+    },
+    {
+      "path": "reference_inputs/biology/policies/HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1.csv",
+      "bytes": 8279,
+      "sha256": "a51dcda7b6c160ff299116d91c17149b3b7099e498c1ff258a150a9d0479e010"
+    },
+    {
+      "path": "reference_inputs/biology/policies/HUMAN-LI2006-AR-150G-POST-BOUNDS-v0.1.csv",
+      "bytes": 16925,
+      "sha256": "54291843ce8c1bfc8cee508ca52c2e2bf6e54f2832de132bf090b2df2cb4f056"
+    },
+    {
+      "path": "reference_inputs/biology/policies/HUMAN-M2020-AMARANTHUS-1DAY-v1.csv",
+      "bytes": 4305,
+      "sha256": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07"
+    },
+    {
+      "path": "reference_inputs/biology/policies/HUMAN-OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1.csv",
+      "bytes": 8296,
+      "sha256": "a30667c7bb6f020cb58ad99bc2123fa7ce21bd05435e83f51233bf3f89f201c4"
+    },
+    {
+      "path": "reference_inputs/biology/policies/HUMAN-T2024-UPV-4WAT-BASE-v1.csv",
+      "bytes": 4305,
+      "sha256": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07"
+    },
+    {
+      "path": "reference_inputs/biology/reviewed_group_membership.csv",
+      "bytes": 21756,
+      "sha256": "626cbb47b3b959f8ed6b271ff263806b8fdd5864c97d2d88ec2196882e6536e6"
+    },
+    {
+      "path": "reference_inputs/biology/second_pass_observations.csv",
+      "bytes": 196436,
+      "sha256": "e1a55f2f71f9a438abbdb835029b14376a68220b48ce2d0c03e366619941c7da"
+    },
+    {
+      "path": "reference_inputs/models/historical_171_reports.csv",
+      "bytes": 1365,
+      "sha256": "f9051332a6d99de524986c51ccb4693fec9e51be0f551d49158d879b517d2238"
+    },
+    {
+      "path": "reference_inputs/models/historical_171_weights.csv",
+      "bytes": 1473,
+      "sha256": "bad5beb2a4ca52a63be7e1026c0d0069d40cdc6642b4ae68a56f193770f2e121"
+    },
+    {
+      "path": "reference_inputs/models/reviewed_30_coefficients.csv",
+      "bytes": 10434,
+      "sha256": "9b305569529f22fed028b74ea17b221ac898b67f2153dcca9bbea3e9c779a22b"
+    },
+    {
+      "path": "reference_inputs/models/reviewed_30_oob_importance.csv",
+      "bytes": 80136,
+      "sha256": "f614dcfa381323cf41e0e5366101c58222c37276a13ff49b73a7fb6c7dd288b8"
+    },
+    {
+      "path": "reference_inputs/models/reviewed_30_reports.csv",
+      "bytes": 1305,
+      "sha256": "b179098ac4a090acb87f8914f324043bce1c0ab6941c3d8e96a9c213c55dbe78"
+    },
+    {
+      "path": "reference_inputs/toxicity/approved_crosswalk.csv",
+      "bytes": 37521,
+      "sha256": "e943006a6fa86fec06d586fa13b7ccdcba746e137c7716ecf30f61b929327ca9"
+    },
+    {
+      "path": "reference_inputs/toxicity/aquatic_observations.csv",
+      "bytes": 30016,
+      "sha256": "024d93f2ba6cf4d9fd4dbd9182bc6d54f89d79d1207c7c62f63c3efb93f1ba5d"
+    },
+    {
+      "path": "reference_inputs/toxicity/ecotox_native_context_excerpt.json",
+      "bytes": 556355,
+      "sha256": "c4ff6fd16b9c2b70d4f05604e59389847345a2d0c5b25c64cafc468bf8f337c3"
+    },
+    {
+      "path": "reference_inputs/toxicity/epa_rat_overlap_counterparts.json",
+      "bytes": 41459,
+      "sha256": "d566f5489bdf7cce385095f9991240fe08e0fc90a5f1f0f51cb829294663fd03"
+    },
+    {
+      "path": "reference_inputs/toxicity/exposure_contexts.csv",
+      "bytes": 335,
+      "sha256": "44f2c55f33cf10333dba10b7096e714a00c734358b6fad69238b9c38343d7bcd"
+    },
+    {
+      "path": "reference_inputs/toxicity/historical_censored_bins.csv",
+      "bytes": 4117,
+      "sha256": "3f919c6b8f8eda69a361185bc527b5966a4f32f13ac7ec616d952736ea754a01"
+    },
+    {
+      "path": "reference_inputs/toxicity/historical_ld50_compounds.csv",
+      "bytes": 3950,
+      "sha256": "ab49bc5b1278893f088037cfcf4b82173a8b10afcf5534a091a6586e17f416e8"
+    },
+    {
+      "path": "reference_inputs/toxicity/identity_approval_ledger.csv",
+      "bytes": 37493,
+      "sha256": "b4a6ed89c81e526fca37bf1f026f536e6f773a657304fe47a37a3c2b28c302ea"
+    },
+    {
+      "path": "reference_inputs/toxicity/identity_approval_statement.json",
+      "bytes": 594,
+      "sha256": "096352f54a6cce8deb291606e307393c37793e32eea4c5f0ec7fbe237025fa23"
+    },
+    {
+      "path": "reference_inputs/toxicity/ld50_reviewed_groups.csv",
+      "bytes": 6145,
+      "sha256": "5eba62cf419b761a2cdadf738d2d9aa96ba315b2f398d7df6764336fc48ebc68"
+    },
+    {
+      "path": "reference_inputs/toxicity/policy_coverage.csv",
+      "bytes": 321,
+      "sha256": "f14b7f4a65ce2a8a10ccb17010b29fa517b50ed098e021b6d414d1b97f42048a"
+    },
+    {
+      "path": "reference_inputs/toxicity/rat_ld50_review.csv",
+      "bytes": 7980,
+      "sha256": "fb5b3c53f780971d8bce47a28fedce7bed6f35dee6aad065014c1b5c0978a81e"
+    },
+    {
+      "path": "reference_inputs/toxicity/rat_priority_overlap_pairs.json",
+      "bytes": 23004,
+      "sha256": "4f0f1effb6c56acdc455435ab069aa4bc9f0b1ff8375dee66436714b2c87c631"
+    },
+    {
+      "path": "reference_inputs/toxicity/retained_epa_observations.json",
+      "bytes": 148642,
+      "sha256": "586a38a1c2a456c022deec4998908f129c214f9dd276619bfc2ed044f085645f"
+    },
+    {
+      "path": "reference_inputs/toxicity/row_accounting.csv",
+      "bytes": 134,
+      "sha256": "9b3979c44e6952f60c03c7904f689663ba55c31a03456885e30de333b052f60c"
+    },
+    {
+      "path": "reference_inputs/toxicity/sensitivity.csv",
+      "bytes": 620,
+      "sha256": "a23185414cffd22c4d5bc69e8884e4d39ae445ff03b0b4c7eec6d08c1c42eece"
+    },
+    {
+      "path": "reference_inputs/toxicity/source_policy_coverage.csv",
+      "bytes": 16646,
+      "sha256": "246b3013de28945c2ae364b6618c62a86f0565e2d026b93eb5f0188bffd16b1b"
+    },
+    {
+      "path": "reference_inputs/toxicity/source_reference_index.json",
+      "bytes": 10179,
+      "sha256": "5d515268f1fe9d924c3c6e73e821cf3df78a398adb76efdb41b6fb0d5c8acee6"
+    }
+  ],
+  "source_provenance": [
+    {
+      "packaged_file": "reference_inputs/toxicity/aquatic_observations.csv",
+      "source_repo_path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/aquatic_observations.csv",
+      "sha256": "024d93f2ba6cf4d9fd4dbd9182bc6d54f89d79d1207c7c62f63c3efb93f1ba5d",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/rat_ld50_review.csv",
+      "source_repo_path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/rat_ld50_review.csv",
+      "sha256": "fb5b3c53f780971d8bce47a28fedce7bed6f35dee6aad065014c1b5c0978a81e",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/policy_coverage.csv",
+      "source_repo_path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/policy_coverage.csv",
+      "sha256": "f14b7f4a65ce2a8a10ccb17010b29fa517b50ed098e021b6d414d1b97f42048a",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/sensitivity.csv",
+      "source_repo_path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/sensitivity.csv",
+      "sha256": "a23185414cffd22c4d5bc69e8884e4d39ae445ff03b0b4c7eec6d08c1c42eece",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/exposure_contexts.csv",
+      "source_repo_path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/exposure_contexts.csv",
+      "sha256": "44f2c55f33cf10333dba10b7096e714a00c734358b6fad69238b9c38343d7bcd",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/row_accounting.csv",
+      "source_repo_path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/row_accounting.csv",
+      "sha256": "9b3979c44e6952f60c03c7904f689663ba55c31a03456885e30de333b052f60c",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/approved_crosswalk.csv",
+      "source_repo_path": "analysis/outputs/ecotox-identities-approved-2026-11-11/approved_crosswalk.csv",
+      "sha256": "e943006a6fa86fec06d586fa13b7ccdcba746e137c7716ecf30f61b929327ca9",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/identity_approval_ledger.csv",
+      "source_repo_path": "analysis/outputs/ecotox-identities-approved-2026-11-11/identity_approval_ledger.csv",
+      "sha256": "b4a6ed89c81e526fca37bf1f026f536e6f773a657304fe47a37a3c2b28c302ea",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/identity_approval_statement.json",
+      "source_repo_path": "analysis/outputs/ecotox-identities-approved-2026-11-11/approval_statement.json",
+      "sha256": "096352f54a6cce8deb291606e307393c37793e32eea4c5f0ec7fbe237025fa23",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/source_policy_coverage.csv",
+      "source_repo_path": "analysis/outputs/ecotox-selected-approved-2026-11-11/coverage.csv",
+      "sha256": "246b3013de28945c2ae364b6618c62a86f0565e2d026b93eb5f0188bffd16b1b",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/historical_ld50_compounds.csv",
+      "source_repo_path": "analysis/outputs/weekly-toxicity-2026-11-10/compounds.csv",
+      "sha256": "ab49bc5b1278893f088037cfcf4b82173a8b10afcf5534a091a6586e17f416e8",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/historical_censored_bins.csv",
+      "source_repo_path": "analysis/outputs/expansion-toxicity-2026-11-11-final/censored_bins.csv",
+      "sha256": "3f919c6b8f8eda69a361185bc527b5966a4f32f13ac7ec616d952736ea754a01",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/ld50_reviewed_groups.csv",
+      "source_repo_path": "analysis/outputs/human-reviewed-progress-2026-11-11-complete/ld50_reclassified_compounds.csv",
+      "sha256": "5eba62cf419b761a2cdadf738d2d9aa96ba315b2f398d7df6764336fc48ebc68",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/adoption_ledger.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/adoption_ledger.csv",
+      "sha256": "98357c0555e2ca3074ded93127c61293f4ab64ae4acafb8069b407dba3ce46eb",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/legacy_adoption_ledger.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/legacy_adoption_ledger.csv",
+      "sha256": "ff95c65f0d4395eddf6764bebb61cef348ca6068b393fa0b848342777c9390a9",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/activity_model_support.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/activity_models.csv",
+      "sha256": "d41d2dd41aeaace9627010818964215383b782b8372c954157a7ed1f9f37effc",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/accepted_activity_features.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/accepted_activity_features.csv",
+      "sha256": "02f2b960ab05fdb274a9ef851a11d8cadcc4d9f1e319f432bb68237d710414df",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/second_pass_observations.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/activity_observations.csv",
+      "sha256": "e1a55f2f71f9a438abbdb835029b14376a68220b48ce2d0c03e366619941c7da",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/origin_labels.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/origin_labels.csv",
+      "sha256": "be17e7a41b36e2457636d752e7790b726e4466f6f846a55de2f9b228e71dec62",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/identity_holds.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/identity_holds.csv",
+      "sha256": "59af347c76d5db3f130f5f79a4764cc27cf8d02c93b9ee2015ef14d86c6328f1",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/biological_approval_statement.json",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/approval_statement.json",
+      "sha256": "c67ae7cff6829692ab19b08eedf5a440a3987688366eb7725da6b058cf93749a",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/policies/HUMAN-D2015-PIGWEED-7DAY-v1.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-D2015-PIGWEED-7DAY-v1.csv",
+      "sha256": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/policies/HUMAN-HE2011-AR-1500G-POST-BANDS-v0.1.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-HE2011-AR-1500G-POST-BANDS-v0.1.csv",
+      "sha256": "9445909961edd69f33f0ba684cf3d346a81171ae84b2d122f7ac57b2a529f07a",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/policies/HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1.csv",
+      "sha256": "a51dcda7b6c160ff299116d91c17149b3b7099e498c1ff258a150a9d0479e010",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/policies/HUMAN-LI2006-AR-150G-POST-BOUNDS-v0.1.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-LI2006-AR-150G-POST-BOUNDS-v0.1.csv",
+      "sha256": "54291843ce8c1bfc8cee508ca52c2e2bf6e54f2832de132bf090b2df2cb4f056",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/policies/HUMAN-M2020-AMARANTHUS-1DAY-v1.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-M2020-AMARANTHUS-1DAY-v1.csv",
+      "sha256": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/policies/HUMAN-OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1.csv",
+      "sha256": "a30667c7bb6f020cb58ad99bc2123fa7ce21bd05435e83f51233bf3f89f201c4",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/policies/HUMAN-T2024-UPV-4WAT-BASE-v1.csv",
+      "source_repo_path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-T2024-UPV-4WAT-BASE-v1.csv",
+      "sha256": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/reviewed_group_membership.csv",
+      "source_repo_path": "analysis/outputs/human-reviewed-progress-2026-11-11-complete/group_membership.csv",
+      "sha256": "626cbb47b3b959f8ed6b271ff263806b8fdd5864c97d2d88ec2196882e6536e6",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/descriptor_summary.csv",
+      "source_repo_path": "analysis/outputs/human-reviewed-progress-2026-11-11-complete/descriptor_summary.csv",
+      "sha256": "11dfcded663b24edd19481e9b4ba3648cc4bb1e43bd177212b4e471a72f74deb",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/li_source_crosswalk.csv",
+      "source_repo_path": "notes/compound_verification_release_2026-11-05/li_2006_24_compound_source_crosswalk.csv",
+      "sha256": "859e82c7434ef30815a2273b0c6907541a321d0e1e432dd68b1970b32c2b8a48",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/original_assay_evidence_history.csv",
+      "source_repo_path": "notes/compound_verification_release_2026-11-05/evidence_log_with_verification.csv",
+      "sha256": "31fae454625ba532a098a45d3a0223b8a19a188d5308496b05d423980e7e678e",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/biology/additional_literature_leads.csv",
+      "source_repo_path": "notes/compound_verification_release_2026-11-05/new_primary_study_provenance.csv",
+      "sha256": "e0cf4a2bb92979de9cda00bb43ce07e98696ffbbd19693e6c18521797f1da7fa",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/models/historical_171_reports.csv",
+      "source_repo_path": "analysis/outputs/weekly-models-2026-11-10/reports.csv",
+      "sha256": "f9051332a6d99de524986c51ccb4693fec9e51be0f551d49158d879b517d2238",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/models/reviewed_30_reports.csv",
+      "source_repo_path": "analysis/outputs/reviewed-cohort-models-2026-11-11-final/reports.csv",
+      "sha256": "b179098ac4a090acb87f8914f324043bce1c0ab6941c3d8e96a9c213c55dbe78",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/models/reviewed_30_coefficients.csv",
+      "source_repo_path": "analysis/outputs/reviewed-cohort-models-2026-11-11-final/coefficients.csv",
+      "sha256": "9b305569529f22fed028b74ea17b221ac898b67f2153dcca9bbea3e9c779a22b",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/models/reviewed_30_oob_importance.csv",
+      "source_repo_path": "analysis/outputs/reviewed-cohort-models-2026-11-11-final/oob_importance.csv",
+      "sha256": "f614dcfa381323cf41e0e5366101c58222c37276a13ff49b73a7fb6c7dd288b8",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/models/historical_171_weights.csv",
+      "source_repo_path": "analysis/outputs/weekly-research-2026-11-10-final/logistic_weight_summary.csv",
+      "sha256": "bad5beb2a4ca52a63be7e1026c0d0069d40cdc6642b4ae68a56f193770f2e121",
+      "kind": "byte_identical_source_copy"
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/ecotox_native_context_excerpt.json",
+      "sha256": "c4ff6fd16b9c2b70d4f05604e59389847345a2d0c5b25c64cafc468bf8f337c3",
+      "kind": "derived_read_only_excerpt",
+      "source_repo_paths": [
+        "analysis/outputs/ecotox-selected-approved-2026-11-11/native_observations.parquet"
+      ]
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/source_reference_index.json",
+      "sha256": "5d515268f1fe9d924c3c6e73e821cf3df78a398adb76efdb41b6fb0d5c8acee6",
+      "kind": "derived_read_only_excerpt",
+      "source_repo_paths": [
+        "analysis/outputs/ecotox-selected-approved-2026-11-11/native_observations.parquet"
+      ]
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/rat_priority_overlap_pairs.json",
+      "sha256": "4f0f1effb6c56acdc455435ab069aa4bc9f0b1ff8375dee66436714b2c87c631",
+      "kind": "derived_read_only_excerpt",
+      "source_repo_paths": [
+        "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/study_overlap_review.csv"
+      ]
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/retained_epa_observations.json",
+      "sha256": "586a38a1c2a456c022deec4998908f129c214f9dd276619bfc2ed044f085645f",
+      "kind": "derived_read_only_excerpt",
+      "source_repo_paths": [
+        "analysis/outputs/weekly-toxicity-2026-11-10/evidence.csv"
+      ]
+    },
+    {
+      "packaged_file": "reference_inputs/toxicity/epa_rat_overlap_counterparts.json",
+      "sha256": "d566f5489bdf7cce385095f9991240fe08e0fc90a5f1f0f51cb829294663fd03",
+      "kind": "derived_read_only_excerpt",
+      "source_repo_paths": [
+        "analysis/outputs/weekly-toxicity-2026-11-10/evidence.csv",
+        "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/study_overlap_review.csv"
+      ]
+    }
+  ],
+  "excerpt_accounting": {
+    "aquatic_observations": 41,
+    "rat_review_observations": 16,
+    "native_context_records": 57,
+    "publication_leads": 20,
+    "rat_priority_pairs": 26,
+    "epa_counterpart_records": 14,
+    "retained_epa_observations": 68
+  },
+  "verification_scope": "Exact source-copy hashes and derived excerpt IDs/counts; inventory checks packaged bytes. Full historical caches/code are not included. The inventory does not include its own hash."
+}

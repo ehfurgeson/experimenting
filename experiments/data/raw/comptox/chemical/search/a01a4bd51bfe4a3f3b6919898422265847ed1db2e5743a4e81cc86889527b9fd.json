@@ -1,0 +1,25 @@
+{
+  "search_term": "RHGKLRLOHDJJDR-BYPYZUCNSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:27.394388+00:00",
+  "url": "/chemical/search/equal/RHGKLRLOHDJJDR-BYPYZUCNSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID80883373",
+        "dtxcid": "DTXCID301022909",
+        "casrn": "372-75-8",
+        "preferredName": "Citrulline",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CCCNC(N)=O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "RHGKLRLOHDJJDR-BYPYZUCNSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

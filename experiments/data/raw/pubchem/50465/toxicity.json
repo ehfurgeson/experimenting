@@ -1,0 +1,2350 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 50465,
+    "RecordTitle": "Fluroxypyr",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 26, 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 26, 2006)",
+                        "Matched": {
+                          "PCLID": 900159093,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 26, 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Not Likely to be Carcinogenic to Humans"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 109,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135009461"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 103,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 103,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) > 6,200 mg/m3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 506"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 506",
+                            "Matched": {
+                              "PCLID": 900003905,
+                              "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 506"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 2405 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                            "Matched": {
+                              "PCLID": 900007867,
+                              "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral > 5000 mg/kg /Fluroxypyr-1-methylheptyl ester/",
+                              "Markup": [
+                                {
+                                  "Start": 28,
+                                  "Length": 31,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr-1-methylheptyl%20ester",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-54745"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                            "Matched": {
+                              "PCLID": 900007867,
+                              "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat, male, Fischer 344 oral 3738 mg/kg bw  /Fluroxypyr-1-methylheptyl ester/",
+                              "Markup": [
+                                {
+                                  "Start": 49,
+                                  "Length": 31,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr-1-methylheptyl%20ester",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-54745"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                            "Matched": {
+                              "PCLID": 900007867,
+                              "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat, female, Fischer 344 oral 3162 mg/kg /Fluroxypyr-1-methylheptyl ester/",
+                              "Markup": [
+                                {
+                                  "Start": 47,
+                                  "Length": 31,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr-1-methylheptyl%20ester",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-54745"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "For more Non-Human Toxicity Values (Complete) data for Fluroxypyr (6 total), please visit the HSDB record page.",
+                              "Markup": [
+                                {
+                                  "Start": 94,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6655#section=Non-Human-Toxicity-Values-(Complete)"
+                                },
+                                {
+                                  "Start": 55,
+                                  "Length": 10,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-50465"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Immediate first aid: Ensure that adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR if necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on the left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 324,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 mL/kg up to 200 mL of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 216,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 468,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 637,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1",
+                        "Matched": {
+                          "PCLID": 900090294,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in severe respiratory distress. Positive-pressure ventilation techniques with a bag valve mask device may be beneficial. Consider drug therapy for pulmonary edema ... . Consider administering a beta agonist such as albuterol for severe bronchospasm ... . Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start IV administration of D5W /SRP: \"To keep open\", minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's if signs of hypovolemia are present. For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam or lorazepam ... . Use proparacaine hydrochloride to assist eye irrigation ... .  /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 378,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/albuterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2083"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 798,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 900007867,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Rats (Fischer 344, 6 to 7-wks-old, 175-184 g (males), 120-129 g (females), 5/sex/group, fasted) were given XRM-5316 (fluroxypyr 25.6%) [fluroxypyr-MHE], gavage dose levels: 500, 2000, or 5000 mg XRM/kg body weight /followed by a/ 14-day observation period. Mortality: 4/5 males and 5/5 females in high-dose group. All of the high dose females and one of the high dose males died on Day 1; remaining males died on Day 2. Signs of toxicity: decreased activity, lacrimation, salivation, incoordination, labored breathing, and closed eyelids. No adverse findings at necropsy. /Fluroxypyr-1-methylheptyl ester/",
+                          "Markup": [
+                            {
+                              "Start": 154,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 173,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 610,
+                              "Length": 31,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr-1-methylheptyl%20ester",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54745"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-21 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-21 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 900009228,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-21 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Guinea Pig (Hartley Albino, 10 males, weight not specified) received XRM-5316 (25.6% fluroxypyr MHE) for a test of dermal sensitization. Induction Phase Dermal application of 0.4 mL (10% dilution) applied to shaved, intact skin of left side of each guinea pig and covered with a gauze patch. Challenge Phase 2 weeks after the induction phase, similar approach was taken: 0.4mL of 1% test material or 5% positive control were applied to the right side (clipped free of hair) of each guinea pig) for a 6-hour exposure period. Application sites were graded for sensitization 24 and 48 hours after the challenge application. Results: XRM-5316 was not a dermal sensitizer under the conditions of the study. Edema was not observed in any of the guinea pigs in either group during the induction and challenges phases of the experiment. All of the positive control guinea pigs displayed a positive response, as expected. NOTE: Concentration of the test material was decreased from 10% to 5% due to erythema observed at the application site of two guinea pigs after the first induction application and again reduced from 5% to 1% due to erythema observed in one guinea pig after the second induction application. The concentration of the positive control was decreased from 10% to 7.5% due to erythema observed in one guinea pig after the second induction application. /Fluroxypyr-1-methylheptyl ester/",
+                          "Markup": [
+                            {
+                              "Start": 122,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 1398,
+                              "Length": 31,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr-1-methylheptyl%20ester",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54745"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-22 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-22 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 900109885,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-22 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Rabbits (New Zealand White, 5 male and 1 female , 2.5-2.9 kg bw) received XRM-5316 (25.6% fluroxypyr MHE) for dermal irritation test. Dosing: 0.5 mL aliquot for 4 hours to 6.25 sq cm on backs/flanks. Post treatment observations for dermal irritation took place at 15 and 30 minutes, 4, 24, 48, and 72 hours. Irritation scored via Draize method. XRM found to be a slight dermal irritant; all observations of erythema and edema resolved within 48 hours. Primary irritation index: 0.75. /Fluroxypyr-1-methylheptyl ester/",
+                          "Markup": [
+                            {
+                              "Start": 127,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 522,
+                              "Length": 31,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr-1-methylheptyl%20ester",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54745"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-22 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-22 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 900109885,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 2-22 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Rabbits (New Zealand, 2.3-3.1 kg, 5/sex/group) received XRM-5316 (25.6% fluroxypyr MHE) dermally. Dose: 2000 mg XRM/kg bw applied to shaved back; test material held in contact with skin by gauze dressing and non-irritating tape. 24-hour exposure period, after which the skin was washed with mild soap and water. 2 week observation period; body weights recorded on Days 1, 2, 8, and 15. Results: No mortality; clinical signs observed at application site included burn, edema, erythema, and scaling in all rabbits of each gender. /Fluroxypyr-1-methylheptyl ester/",
+                          "Markup": [
+                            {
+                              "Start": 109,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 342,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 566,
+                              "Length": 31,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr-1-methylheptyl%20ester",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54745"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for Fluroxypyr (42 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 97,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6655#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 52
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 900160987,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Northern Bobwhite Quail (Colinus virginianus) oral gavage > 2000 mg a.i./kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 906275169,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Northern Bobwhite Quail (Colinus virginianus) oral > 5000 mg a.i./kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 906275169,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Mallard duck (Anas platyrhynchos) oral gavage > 2000 mg a.i./kg /Fluroxypyr-1-methylheptyl ester/",
+                          "Markup": [
+                            {
+                              "Start": 70,
+                              "Length": 31,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr-1-methylheptyl%20ester",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54745"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 4-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 4-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 900081847,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 4-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Honeybee (Apis mellifera) contact > 25ug a.i./bee for 48 hr /Fluroxypyr acid (technical grade) (98.3% a.i.)/",
+                          "Markup": [
+                            {
+                              "Start": 66,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for Fluroxypyr (38 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 88,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6655#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 900160987,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/BIRDS and MAMMALS/ Northern Bobwhite Quail (Colinus virginianus), > 16 weeks old, 5/sex/group, were given Fluroxypyr acid (98.8% a.i.) in a corn oil vehicle by gastric gavage. There was one mortality at 2000 mg/kg within 24 hours of dosing and one mortality in control group 7 days after dosing. No signs of toxicity during 14 day observation period; no treatment-related effects on body weight or food consumption. /From table/",
+                          "Markup": [
+                            {
+                              "Start": 107,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 900160987,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-1 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/BIRDS and MAMMALS/ Mallard Duck (Anas platyrhynchos), >16-wks-old, 5/sex/group, were given Fluroxypyr acid (Dowco 433 acid) in corn oil vehicle: 0, 500, 1000, or 2000 mg/kg bw gavage. No mortality attributed to treatment; no dose-related effects on bodyweights, which were considered to be within normal limits; and no dose-related effects on food consumption, which was variable. Upon post-mortem examination, some birds had enlarged and discolored livers. Full study indicates that a number of birds in Groups 2, (4/10), 3 (3/10), and 4 (2/4) were found to have enlarged livers which were orange-yellow in color and hard to the touch. In two birds in Group 3 the body cavity was found to be filled with clear fluid. /From table/",
+                          "Markup": [
+                            {
+                              "Start": 92,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 109,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dowco%20433",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54745"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 906275169,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/BIRDS and MAMMALS/ Northern Bobwhite Quail (Colinus virginianus), 12-days-old at test initiation, 10/dose group. 30 in control group, were fed Fluroxypyr acid (Dowco 433 acid): Dietary concentrations: Nominal: 0, 658, 988, 1481, 2222, 3333 or 5000 mg/kg of diet for 5 days followed by basal diet only for 5 days followed by a 5 day post-treatment period. Average body weights: about 24 g/bird. Average food consumption: about 8 g/bird. Food consumption factor: about 0.3. Mortality: 1/10 at concentrations of 658 ppm, 2222 ppm, and 3333 ppm. No mortality in controls or in the 988 ppm, 1481 ppm, and 5000 ppm dose groups. Mortality was not dose-related and none of the control to dose group mortalities are statistically significant. No treatment-related effects were observed on food consumption or body weight ... No changes in gross tissue examination. /From table/",
+                          "Markup": [
+                            {
+                              "Start": 144,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 161,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dowco%20433",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54745"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml",
+                        "Matched": {
+                          "PCLID": 906275169,
+                          "Citation": "U.S. Dept. of Agriculture/Forest Service, Human Health and Ecological Risk Assessment for Fluroxypyr (69377-81-1) SERA TR-052-13-13a, Appendix 3-2 (June 12, 2009). Available from, as of May 25, 2010: https://www.fs.fed.us/foresthealth/pesticide/risk.shtml"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/BIRDS and MAMMALS/ Northern Bobwhite Quail (Colinus virginianus), 11-days-old at test initiation, 10 birds/dose group, were fed Fluroxypyr MHE ( Dowco 433 ester): Dietary levels of 658, 988, 1481, 2222, 3333, or 5000 ppm for 5 days with a 5 day post-treatment period. Average body weights: about 20 g/bird. Average food consumption: about 3 g/bird. Food consumption factor: about 0.15. One mortality occurred at doses of 988, 1481, and 2222 ppm, and two mortalities occurred at 3333 ppm; no mortality at 5000 ppm. No dose-related effects on general bird health, bodyweight, or food consumption; and no abnormalities were found at post-mortem examination. /Fluroxypyr-1-methylheptyl ester/ /From table/",
+                          "Markup": [
+                            {
+                              "Start": 129,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 146,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dowco%20433",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54745"
+                            },
+                            {
+                              "Start": 657,
+                              "Length": 31,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr-1-methylheptyl%20ester",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54745"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Excerpts (Complete) data for Fluroxypyr (30 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 90,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6655#section=Ecotoxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 50,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fluroxypyr's production may result in its release to the environment through various waste streams; its use as a herbicide to control broadleaf weeds will result in its direct release to the environment. Fluroxypyr will be formed in the environment through use of meptyl fluroxypyr herbicide which hydrolyzes rapidly in the environment to form fluroxypyr. If released to air, a vapor pressure of 3.75X10-7 mm Hg at 25 °C indicates fluroxypyr will exist in both the vapor and particulate phases in the atmosphere. Vapor-phase fluroxypyr will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 13 hours. Particulate-phase fluroxypyr will be removed from the atmosphere by wet or dry deposition. Photolysis studies have indicated that fluroxypyr does not undergo direct photolysis under typical environmental conditions. If released to soil, fluroxypyr is expected to have high mobility based upon observed Koc ranges of 50-136 in a variety of different soils. Lysimeter and field studies have demonstrated that leaching may not be an important fate process for fluroxypyr in the soil environment; although fluroxypyr may be highly mobile in soil, degradation via microbial metabolism may attenuate the importance of leaching. Biodegradation is the important environmental fate process on soil with observed half-lives ranging from 1 to 3 weeks. Microbial degradation yields a dichloropyridinol and a methoxypyridine metabolite as major products. Soil dissipation half-lives in laboratory studies range from 5-9 days (at 23 °C) and 6.6-21.3 days in a variety of soil types. Volatilization from moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 1.72X10-11 atm-cu m/mole. If released into water, fluroxypyr is not expected to adsorb to suspended solids and sediment based upon the Koc. Biodegradation is the important environmental fate process in water. In aqueous laboratory studies at 25 °C using river sediment inocula, fluroxypyr had biological half-lives of 0.5-2 weeks; rates were similar under both aerobic and anaerobic conditions. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's estimated Henry's Law constant. An estimated BCF of 3.2 suggests the potential for bioconcentration in aquatic organisms is low. Abiotic hydrolysis and direct photolysis are not important fate processes in water; the fluroxypyr half-life in deionized aqueous solutions exposed to sunlight is about one year. Occupational exposure to fluroxypyr may occur through inhalation and dermal contact with this compound at workplaces where fluroxypyr is produced or used. Use data indicate that the general population may be exposed to fluroxypyr via inhalation and dermal contact with consumer products containing fluroxypyr. Consumers could be exposed to fluroxypyr when using lawn-care products containing it or following applications at golf courses, parks, or other grassy areas. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 204,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 271,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 344,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 431,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 525,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 613,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 718,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 830,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 937,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 1157,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 1202,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 1496,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methoxypyridine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-74201"
+                            },
+                            {
+                              "Start": 1848,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1855,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 2007,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2083,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 2220,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2516,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2527,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 2643,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 2741,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 2837,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 2916,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 2958,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fluoxypyr's production may result in its release to the environment through various waste streams; its use as a herbicide to control broadleaf weeds(1) will result in its direct release to the environment(SRC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Lehmann RG et al; Weed Res 30: 383-388 (1990)",
+                      "(3) Kah M et al; J Agric Food Chem 55: 4487-4492 (2007)",
+                      "(4) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council",
+                      "(5) Bergstrom L, Shirmohammadi A;  Review of herbicide leaching studies in Sweden: field, lysimeter, and laboratory measurements. In: The Lysimeter concept: envirnmental behavior of pesicides, Fuhr,F et al. Eds., ACS: Washington, DC, Ch 6, pp. 76-87 (1998)",
+                      "(6) Fuhr F; Comprehensive tracer studies on the environmental behavior of pesticides: The Lysimeter concept. In: Lysimeter concept: Environmental behavior of pesticides, Fuhr,F et al. Eds., ACS: Washington, DC, Ch 1, PP. 1-20 (1998)",
+                      "(7) Lehmann RG et al; Weed Res 30: 375-82 (1990)",
+                      "(8) Lehmann RG et al; Weed Research 31: 347-355 (1991)",
+                      "(9) Kah M et al; J Agric Food Chem 55: 4487-92 (2007)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Lehmann RG et al; Weed Res 30: 383-388 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Kah M et al; J Agric Food Chem 55: 4487-4492 (2007)"
+                      },
+                      {
+                        "Citation": "(4) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council"
+                      },
+                      {
+                        "Citation": "(5) Bergstrom L, Shirmohammadi A;  Review of herbicide leaching studies in Sweden: field, lysimeter, and laboratory measurements. In: The Lysimeter concept: envirnmental behavior of pesicides, Fuhr,F et al. Eds., ACS: Washington, DC, Ch 6, pp. 76-87 (1998)"
+                      },
+                      {
+                        "Citation": "(6) Fuhr F; Comprehensive tracer studies on the environmental behavior of pesticides: The Lysimeter concept. In: Lysimeter concept: Environmental behavior of pesticides, Fuhr,F et al. Eds., ACS: Washington, DC, Ch 1, PP. 1-20 (1998)"
+                      },
+                      {
+                        "Citation": "(7) Lehmann RG et al; Weed Res 30: 375-82 (1990)"
+                      },
+                      {
+                        "Citation": "(8) Lehmann RG et al; Weed Research 31: 347-355 (1991)"
+                      },
+                      {
+                        "Citation": "(9) Kah M et al; J Agric Food Chem 55: 4487-92 (2007)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), Koc ranges of 53-91 (avg of 74)(2) and 50-136(3), measured in a variety of different soils, indicate that fluroxypyr is expected to have high mobility in soil(SRC). Lysimeter and field studies have demonstrated that leaching may not be an important fate process for fluroxypyr in the soil environment(4-6); although fluroxypyr may be highly mobile in soil(5,6), degradation via microbial metabolism may attenuate the importance of leaching(SRC). Volatilization of fluroxypyr from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 1.72X10-11 atm-cu m/mole(SRC) based upon its vapor pressure, 3.75X10-7 mm Hg(4), and water solubility, 7300 mg/L(4). Biodegradation is the important fate process in soil(7,8) with observed half-lives ranging from 1 to 3 weeks(7). Microbial degradation metabolites include 4-amino-3,5-dichloro-6-fluoropyrid-2-ol,4-amino-3,5-dichloro-2-methoxypyridine, and carbon dioxide(8). Soil dissipation half-lives in laboratory studies have been observed to range from 5-9 days (at 23 °C)(4) and 6.6-21.3 days(9) in a variety of soil types.",
+                          "Markup": [
+                            {
+                              "Start": 161,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 321,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 371,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 519,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 736,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1007,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Dow Chemical Company, Product Safety Assessment - Fluroxypyr, Feb 11, 2010. Available from: https://www.dow.com/PublishedLiterature/dh_0417/0901b80380417b1f.pdf?filepath=productsafety/pdfs/noreg/233-00655.pdf&fromPage=GetDoc",
+                      "(2) Lehmann RG et al; Weed Research 33: 197-204 (1993)",
+                      "(3) Lehmann RG, Miller JR; Weed Research 29 :385-389 (1989)",
+                      "(4) Kah M, Brown CD; Chemosphere 68: 1335-1343 (2007)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Dow Chemical Company, Product Safety Assessment - Fluroxypyr, Feb 11, 2010. Available from: https://www.dow.com/PublishedLiterature/dh_0417/0901b80380417b1f.pdf?filepath=productsafety/pdfs/noreg/233-00655.pdf&fromPage=GetDoc"
+                      },
+                      {
+                        "Citation": "(2) Lehmann RG et al; Weed Research 33: 197-204 (1993)"
+                      },
+                      {
+                        "Citation": "(3) Lehmann RG, Miller JR; Weed Research 29 :385-389 (1989)"
+                      },
+                      {
+                        "Citation": "(4) Kah M, Brown CD; Chemosphere 68: 1335-1343 (2007)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: The methylheptyl derivative form of fluroxypyr (also known as meptyl fluroxypyr) is a registered herbicide and the common commercial form of fluroxypyr(1). When applied as a herbicide, meptyl fluroxypyr metabolizes rapidly via hydrolysis to form fluroxypyr(2,4); in soil slurries, the half-life hydrolysis rate of meptyl fluroxypyr to fluroxypyr is reported as 2-5 hours at pH6-7, 22-24 °C(4).",
+                          "Markup": [
+                            {
+                              "Start": 54,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 87,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 159,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 210,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 264,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 339,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 353,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Lehmann RG et al; Weed Res 30: 383-388 (1990)",
+                      "(3) Kah M et al; J Agric Food Chem 55: 4487-4492 (2007)",
+                      "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)",
+                      "(5) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council",
+                      "(6) Lehmann RG et al; Weed Research 33: 197-204 (1993)",
+                      "(7) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(8) Kah M, Brown CD; Chemosphere 72: 1401-1408 (2008)",
+                      "(9) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from, as of April 27, 2010: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Lehmann RG et al; Weed Res 30: 383-388 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Kah M et al; J Agric Food Chem 55: 4487-4492 (2007)"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(5) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council"
+                      },
+                      {
+                        "Citation": "(6) Lehmann RG et al; Weed Research 33: 197-204 (1993)"
+                      },
+                      {
+                        "Citation": "(7) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(8) Kah M, Brown CD; Chemosphere 72: 1401-1408 (2008)"
+                      },
+                      {
+                        "Citation": "(9) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from, as of April 27, 2010: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), measured Koc ranges of 50-136(2-3), indicate that fluroxypyr is not expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(4) based upon an estimated Henry's Law constant of 1.72X10-11 atm-cu m/mole(SRC), derived from its vapor pressure, 3.75X10-7 mm Hg(5), and water solubility, 7300 mg/L(5). Abiotic hydrolysis and direct photolysis are not important fate processes in water(6); the fluroxypyr half-life in deionized aqueous solutions exposed to sunlight is about one year(6). According to a classification scheme(7), an estimated BCF of 3.2(SRC), derived from its log Kow of 2.20(8) and a regression-derived equation(9), suggests the potential for bioconcentration in aquatic organisms is low. Biodegradation is the important fate process in water(6). In aqueous laboratory studies at 25 °C using river sediment inocula, fluroxypyr had biological half-lives of 0.5-2 weeks(6); rates were similar under both aerobic and anaerobic conditions(6).",
+                          "Markup": [
+                            {
+                              "Start": 101,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 197,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 367,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 476,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 490,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 850,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 929,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(4) Lehmann RG et al; Weed Research 33: 197-204 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Lehmann RG et al; Weed Research 33: 197-204 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), fluroxypyr, which has a vapor pressure of 3.75X10-7 mm Hg at 25 °C(2), will exist in both the vapor and particulate phases in the ambient atmosphere. Vapor-phase fluroxypyr is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 13 hours(SRC), calculated from its rate constant of 2.88X10-11 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(3). Particulate-phase fluroxypyr may be removed from the air by wet or dry deposition(SRC). The results of one study that measured direct photolysis of fluroxypyr in aqueous solution by sunlight (half-life of one year) suggest direct photolysis in the atmosphere with not be an important fate process(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 286,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 369,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 622,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 752,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lehmann RG et al; Weed Res 31: 347-55 (1991)",
+                      "(2) Lehmann RG et al; Weed Res 33: 197-204 (1993)",
+                      "(3) Brumhard B, Fuhr F; Lysimeter Studies of Pesticides in the Soil. Brit Crop Prot Council Monograph No. 53 (1992)",
+                      "(4) Lehmann RG et al; Weed Res 30: 375-82 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lehmann RG et al; Weed Res 31: 347-55 (1991)"
+                      },
+                      {
+                        "Citation": "(2) Lehmann RG et al; Weed Res 33: 197-204 (1993)"
+                      },
+                      {
+                        "Citation": "(3) Brumhard B, Fuhr F; Lysimeter Studies of Pesticides in the Soil. Brit Crop Prot Council Monograph No. 53 (1992)"
+                      },
+                      {
+                        "Citation": "(4) Lehmann RG et al; Weed Res 30: 375-82 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: In soil, fluroxypyr is rapidly degraded by microorganisms to 4-amino-3,5-dichloro-6-fluoropyrid-2-ol,4-amino-3,5-dichloro-2-methoxypyridine, and carbon dioxide. Half-lives ranged from 1 to 3 weeks(1). In sediment/soil solutions, under aerobic conditions, 4-amino-3,5-dichloro-6-fluoropyrid-2-ol, 4-amino-3-chloro-6-fluoropyrid-2-ol, and carbon dioxide were formed(2). In a two-year study of the metabolism of C14-radiolabeled fluroxypyr on two types of soil in lysimeters, fluroxypyr was rapidly metabolized and by the end of 3 months, only 1% of the applied parent was detected(3). In a study of C14-radiolabeled fluroxypyr-methylheptyl ester on four types of soils, the ester rapidly hydrolyzed to fluroxypyr, and fluroxypyr was then found to degrade with half-lives from 7 to 23 days, depending on soil type(4).",
+                          "Markup": [
+                            {
+                              "Start": 18,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 154,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 346,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 435,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 482,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 623,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 709,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 725,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lehmann RG et al; Weed Res 33: 197-204 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lehmann RG et al; Weed Res 33: 197-204 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: In sediment/soil solutions, under anaerobic conditions, 4-amino-3,5-dichloro-6-fluoropyrid-2-ol, 4-amino-3-chloro-6-fluoropyrid-2-ol, 4-amino-5-chloro-6-fluoropyrid-2-ol, and carbon dioxide were formed. Degradation half-lives of 0.5-2 weeks were observed(1).",
+                          "Markup": [
+                            {
+                              "Start": 186,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)",
+                      "(3) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council",
+                      "(4) Lehmann RG et al; Weed Research 33: 197-204 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council"
+                      },
+                      {
+                        "Citation": "(4) Lehmann RG et al; Weed Research 33: 197-204 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of fluroxypyr with photochemically-produced hydroxyl radicals has been estimated as 2.88X10-11 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 13 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). Fluroxypyr is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(2). Fluroxypyr is reported to be stable in acidic media and have a half-life of 185 days in water at pH9 and 20 °C(3). A photolysis degradation study using deionized water solutions in vials exposed to sunlight for 35 days (and dark controls) determined a fluroxypyr photolysis half-life of one year(4).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 91,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 320,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 352,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 507,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 595,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 669,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 759,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Kah M, Brown CD; Chemosphere 72: 1401-1408 (2008)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from, as of April 27, 2010: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Kah M, Brown CD; Chemosphere 72: 1401-1408 (2008)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.0. Jan, 2009. Available from, as of April 27, 2010: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 3.2 was calculated in fish for fluroxypyr(SRC), using a log Kow of 2.20(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low.",
+                          "Markup": [
+                            {
+                              "Start": 51,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lehmann RG et al; Weed Res 30: 383-388 (1990)",
+                      "(2) Kah M et al; J Agric Food Chem 55: 4487-4492 (2007)",
+                      "(3) Swann RL et al; Res Rev 85: 23 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lehmann RG et al; Weed Res 30: 383-388 (1990)"
+                      },
+                      {
+                        "Citation": "(2) Kah M et al; J Agric Food Chem 55: 4487-4492 (2007)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 23 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A batch adsorption study using four different soil types (organic carbon content range of 0.22-3.08%) experimentally determined a Koc range of 53-91 for fluroxypyr with an average Koc of 74(1). A Koc range of 50-136 was measured in nine arable soils from southern England(2). According to the classification scheme(3), these measured Koc values suggest that fluroxypyr is expected to have a high mobility in soil.",
+                          "Markup": [
+                            {
+                              "Start": 66,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 153,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 358,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council",
+                      "(2) Bergstrom L, Shirmohammadi A; in Lysimeter concept: Environmental behavior of pesticides., Fuhr F et al, eds., Washington, DC: Amer Chem, Chpt 6, pp. 76-87 (1998)",
+                      "(3) Fuhr F; in Lysimeter concept: Environmental behavior of pesticides., Fuhr F et al, eds., Washington, DC: Amer Chem, Chpt 1, pp. 1-20 (1998)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council"
+                      },
+                      {
+                        "Citation": "(2) Bergstrom L, Shirmohammadi A; in Lysimeter concept: Environmental behavior of pesticides., Fuhr F et al, eds., Washington, DC: Amer Chem, Chpt 6, pp. 76-87 (1998)"
+                      },
+                      {
+                        "Citation": "(3) Fuhr F; in Lysimeter concept: Environmental behavior of pesticides., Fuhr F et al, eds., Washington, DC: Amer Chem, Chpt 1, pp. 1-20 (1998)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Lysimeter and field studies have demonstrated that leaching may not be an important fate process for fluroxypyr in the soil environment(1-3); although fluroxypyr may be mobile in soil(2,3), degradation via microbial metabolism may attenuate the importance of leaching(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 101,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 151,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed. Fluroxypyr (69377-81-7). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for fluroxypyr is estimated as 1.72X10-11 atm-cu m/mole(SRC) derived from its vapor pressure, 3.75X10-7 mm Hg(1), and water solubility, 7300 mg/L(1). This Henry's Law constant indicates that fluroxypyr is expected to be essentially nonvolatile from water surfaces(2). Fluroxypyr is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of 3.75X10-7 mm Hg(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 143,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 216,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 293,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Plant Concentrations",
+                "Description": "Concentrations of this compound in plants.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lehmann RG et al; Weed Res 31: 347-55 (1991)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lehmann RG et al; Weed Res 31: 347-55 (1991)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In a study to determine C-14 uptake in rotational crops 1, 4 and 12 months after application of the formulation, fluroxypyr dissipated too rapidly to be taken up by most of the rotational crops. Wheat plants absorbed only small quantities through the roots, and these residues were not deposited in the grain, but in the straw/chaff fraction, which is recycled back to the field(1).",
+                          "Markup": [
+                            {
+                              "Start": 113,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to fluroxypyr may occur through inhalation and dermal contact with this compound at workplaces where fluroxypyr is produced or used. Use data indicate that the general population may be exposed to fluroxypyr via inhalation and dermal contact with consumer products containing fluroxypyr. Consumers could be exposed to fluroxypyr when using lawn-care products containing it or following applications at golf courses, parks, or other grassy areas. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 123,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 219,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 298,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 340,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Dow Chemical Company, Product Safety Assessment - Fluroxypyr, Feb 11, 2010. Available from, as of April 29, 2010: https://www.dow.com/PublishedLiterature/dh_0417/0901b80380417b1f.pdf?filepath=productsafety/pdfs/noreg/233-00655.pdf&fromPage=GetDoc"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Dow Chemical Company, Product Safety Assessment - Fluroxypyr, Feb 11, 2010. Available from, as of April 29, 2010: https://www.dow.com/PublishedLiterature/dh_0417/0901b80380417b1f.pdf?filepath=productsafety/pdfs/noreg/233-00655.pdf&fromPage=GetDoc",
+                        "Matched": {
+                          "PCLID": 900027882,
+                          "Citation": "Dow Chemical Company, Product Safety Assessment - Fluroxypyr, Feb 11, 2010. Available from, as of April 29, 2010: https://www.dow.com/PublishedLiterature/dh_0417/0901b80380417b1f.pdf?filepath=productsafety/pdfs/noreg/233-00655.pdf&fromPage=GetDoc"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Each /manufacturing or formulating/ facility should have a thorough training program for employees and appropriate work processes and safety equipment in place to limit unnecessary exposure. Agricultural workers, roadside-maintenance workers, greens keepers, and others using this product could be exposed while applying herbicide in the field."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Dow Chemical Company, Product Safety Assessment - Fluroxypyr, Feb 11, 2010. Available from, as of April 29, 2010: https://www.dow.com/PublishedLiterature/dh_0417/0901b80380417b1f.pdf?filepath=productsafety/pdfs/noreg/233-00655.pdf&fromPage=GetDoc"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Dow Chemical Company, Product Safety Assessment - Fluroxypyr, Feb 11, 2010. Available from, as of April 29, 2010: https://www.dow.com/PublishedLiterature/dh_0417/0901b80380417b1f.pdf?filepath=productsafety/pdfs/noreg/233-00655.pdf&fromPage=GetDoc",
+                        "Matched": {
+                          "PCLID": 900027882,
+                          "Citation": "Dow Chemical Company, Product Safety Assessment - Fluroxypyr, Feb 11, 2010. Available from, as of April 29, 2010: https://www.dow.com/PublishedLiterature/dh_0417/0901b80380417b1f.pdf?filepath=productsafety/pdfs/noreg/233-00655.pdf&fromPage=GetDoc"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The U.S. Environmental Protection Agency (EPA) has performed aggregate risk assessment analyses on fluroxypyr to determine the public's safety with respect to combined dietary and nondietary exposures. Acute (short-term) and chronic (long-term) aggregate risk calculations were determined. The EPA has concluded with reasonable certainty that \"no harm will result to the general population and to infants and children from aggregate exposure to fluroxypyr and its residues.\"",
+                          "Markup": [
+                            {
+                              "Start": 99,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            },
+                            {
+                              "Start": 445,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluroxypyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50465"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Fluroxypyr$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Fluroxypyr$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Fluroxypyr$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Fluroxypyr$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135009461",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0069377817",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19488904
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "cd4bee8c9beb5a372d369e06049f0c56",
+        "Name": "Fluroxypyr",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49738224
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID50465",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125549
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID2034627",
+        "Name": "Fluroxypyr",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57006652
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz5360",
+        "Name": "Fluroxypyr",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17279496
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "6655",
+        "Name": "Fluroxypyr",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6655",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4380
+      },
+      {
+        "ReferenceNumber": 103,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Fluroxypyr acid",
+        "Name": "Fluroxypyr acid",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401064
+      },
+      {
+        "ReferenceNumber": 109,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D3848",
+        "Name": "Fluroxypyr",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D3848",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443283
+      }
+    ]
+  }
+}

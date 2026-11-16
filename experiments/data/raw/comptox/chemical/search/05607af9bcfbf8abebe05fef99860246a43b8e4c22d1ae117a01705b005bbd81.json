@@ -1,0 +1,25 @@
+{
+  "search_term": "LFULEKSKNZEWOE-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:48.942067+00:00",
+  "url": "/chemical/search/equal/LFULEKSKNZEWOE-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8022111",
+        "dtxcid": "DTXCID102111",
+        "casrn": "709-98-8",
+        "preferredName": "N-(3,4-Dichlorophenyl)propanamide",
+        "hasStructureImage": 1,
+        "smiles": "CCC(=O)NC1=CC=C(Cl)C(Cl)=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "LFULEKSKNZEWOE-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

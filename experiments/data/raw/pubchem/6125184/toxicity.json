@@ -1,0 +1,1466 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 6125184,
+    "RecordTitle": "Diflufenzopyr",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "USGS Health-Based Screening Levels for Evaluating Water-Quality",
+                "Description": "This section provides the USGS Health-Based Screening Levels for Evaluating Water-Quality data.",
+                "URL": "https://water.usgs.gov/water-resources/hbsl/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Diflufenzopyr"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "USGS Parameter Code",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "68577"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Chemical Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pesticide"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Chronic Noncancer HHBP (Human Health Benchmarks for Pesticides)[μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1500"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Benchmark Remarks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Listed as diflufenzopyr + sodium salt",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 26,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 33,
+                    "Name": "Reference",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Smith, C.D. and Nowell, L.H., 2024. Health-Based Screening Levels for evaluating water-quality data (3rd ed.). DOI:10.5066/F71C1TWP",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 30,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 30,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 30,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.26"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 30,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 7,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document?D=EPA-HQ-OPP-2011-0911-0016",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Diflufenzopyr + sodium salt",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 13,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-6125184"
+                                },
+                                {
+                                  "Start": 16,
+                                  "Length": 6,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "Element-Sodium"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 7,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 7,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "30000"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 7,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Females 13-49 yrs"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 7,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.26"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 7,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1500"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 7,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 7,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 8,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) >2,930 mg/m3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 13,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf",
+                            "Matched": {
+                              "PCLID": 906282568,
+                              "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral >5000 mg/kg /Diflufenzopyr technical/",
+                              "Markup": [
+                                {
+                                  "Start": 27,
+                                  "Length": 13,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-6125184"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf",
+                            "Matched": {
+                              "PCLID": 906282568,
+                              "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit dermal >5000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf",
+                            "Matched": {
+                              "PCLID": 906282568,
+                              "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral (male) 4800 mg/kg /Diflufenzopyr manufacturing use product/",
+                              "Markup": [
+                                {
+                                  "Start": 33,
+                                  "Length": 13,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-6125184"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf",
+                            "Matched": {
+                              "PCLID": 906282568,
+                              "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral (female) 3300 mg/kg /Diflufenzopyr manufacturing use product/",
+                              "Markup": [
+                                {
+                                  "Start": 35,
+                                  "Length": 13,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-6125184"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 8,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 8,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Immediate first aid: Ensure that adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR if necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on the left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 324,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 mL/kg up to 200 mL of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 216,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 468,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 637,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1",
+                        "Matched": {
+                          "PCLID": 900090294,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in severe respiratory distress. Positive-pressure ventilation techniques with a bag valve mask device may be beneficial. Consider drug therapy for pulmonary edema ... . Consider administering a beta agonist such as albuterol for severe bronchospasm ... . Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start IV administration of D5W /SRP: \"To keep open\", minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's if signs of hypovolemia are present. For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam or lorazepam ... . Use proparacaine hydrochloride to assist eye irrigation ... .  /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 378,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/albuterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2083"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 798,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of June 6, 2011: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of June 6, 2011: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf",
+                        "Matched": {
+                          "PCLID": 900082426,
+                          "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of June 6, 2011: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Primary Eye Irritation in Rabbits; mild to moderate irritation (resolved within 7 days)."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of June 6, 2011: https://www.epa.gov/opprd001/factsheets/clodinafop.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of June 6, 2011: https://www.epa.gov/opprd001/factsheets/clodinafop.pdf",
+                        "Matched": {
+                          "PCLID": 900152993,
+                          "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of June 6, 2011: https://www.epa.gov/opprd001/factsheets/clodinafop.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Primary Dermal Irritation in Rabbits; very slightly irritating (resolved within 48 hours in 5/6 rabbits and within 72 hours in all rabbits)."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Diflufenzopyr (109293-97-2) p.9 (July 13, 2000). Available from, as of May 16, 2011: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Diflufenzopyr (109293-97-2) p.9 (July 13, 2000). Available from, as of May 16, 2011: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm",
+                        "Matched": {
+                          "PCLID": 906290956,
+                          "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summary for Diflufenzopyr (109293-97-2) p.9 (July 13, 2000). Available from, as of May 16, 2011: https://www.cdpr.ca.gov/docs/risk/toxsums/toxsumlist.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Diflufenzopyr (SAN 835 H Technical, purity: 96.4%), moistened with distilled water, was placed on the clipped dorsal surface of 5 New Zealand White rabbits per sex per dose at dose levels of 0 (2 mL/kg distilled water), 100, 300, or 1000 mg/kg/day for 6 hours per day for 22 to 24 consecutive days covered with an impervious bandage. No mortalities occurred. No treatment-related skin irritation or clinical signs were observed. No treatment-related effects on body weight or serum chemistry were observed. Microscopic examination revealed no treatment-related abnormalities. NOEL (M/F, systemic and skin)=1000 mg/kg/day both based on no treatment-related effects at HDT.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 133,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 268,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf",
+                        "Matched": {
+                          "PCLID": 906282568,
+                          "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a subchronic study in rats, Wistar rats were fed test diets containing technical diflufenzopyr at dose levels of 0, 1000, 5000, 10,000 & 20,000 ppm for a period of 13 wks. The NOAEL was set at 5000 ppm (equal to 352 mg/kg bw/day for males, & 431 mg/kg bw/day for females) based on lower mean body weight gain & decreased food efficiency in the 10,000 & 20,000 ppm groups, both sexes. Additional findings were decreased food intake; slight increases in cholesterol & alanine aminotransferase (ALAT); & slightly lower chloride. Histopathological findings were an increased incidence of foamy macrophages in the lungs in the 10,000 & 20,000 ppm groups & testicular atrophy in the 20,000 ppm group. Following the 4-wk recovery period, the only treatment-related effects which showed partial or no evidence of recovery were foamy macrophages in the lungs & testicular atrophy.",
+                          "Markup": [
+                            {
+                              "Start": 140,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 511,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cholesterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5997"
+                            },
+                            {
+                              "Start": 525,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5950"
+                            },
+                            {
+                              "Start": 575,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-312"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for DIFLUFENZOPYR (19 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 100,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7010#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DIFLUFENZOPYR",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 4
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf",
+                        "Matched": {
+                          "PCLID": 906282568,
+                          "Citation": "USEPA; Pesticide Fact Sheet. Diflufenzopyr. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/diflufenzopr.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50; Species: Honey bees >25 ug ae/bee /Conditions of bioassay not specified./"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Diflufenzopyr's production may result in its release to the environment through various waste streams; its use as a herbicide will result in its direct release to the environment. If released to air, a vapor pressure of <9.7X10-8 mm Hg at 20 °C indicates diflufenzopyr will exist solely in the particulate phase in the atmosphere. Particulate-phase diflufenzopyr will be removed from the atmosphere by wet or dry deposition. If released to soil, diflufenzopyr is expected to have very high mobility based upon a Koc range of 18 to 156. The pKa of diflufenzopyr is 3.18, indicating that this compound will exist almost entirely in the anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts. Volatilization from moist soil is not expected because the compound exists as an anion and ions do not volatilize. Diflufenzopyr may not volatilize from dry soil surfaces based upon its vapor pressure. The photolysis half-life on soil is 14 days. A biodegradation half-life in soil of 8-10 days suggests that biodegradation is an important environmental fate process in soil. If released into water, diflufenzopyr is not expected to adsorb to suspended solids and sediment based upon the Koc values. An aquatic biodegradation half-life of 25-26 days suggests that biodegradation may be an important environmental fate process in water. The pKa indicates diflufenzopyr will exist almost entirely in the anion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process. An estimated BCF of 3 suggests the potential for bioconcentration in aquatic organisms is low. The hydrolysis degradation half-life in water is 13 days at pH 5, 24 days at pH 7, and 26 days at pH 9. The photolysis  half-life in water is 7 days at pH 5, 17 days at pH 7, and 13 days at pH 9. Occupational exposure to diflufenzopyr may occur through inhalation and dermal contact with this compound at workplaces where diflufenzopyr is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Diflufenzopyr's production may result in its release to the environment through various waste streams; it's use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/",
+                      "(3) MacBean C, ed; The e-Pesticide Manual, 15th ed., Version 5.0.1. Surrey UK, British Crop Protection Council. Diflufenzopyr (109293-97-2) (2010)",
+                      "(4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(5) O'Neil MJ, ed; The Merck Index. 14th ed. Whitehouse Station, NJ: Merck and Co., Inc. p. 533 (2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      },
+                      {
+                        "Citation": "(3) MacBean C, ed; The e-Pesticide Manual, 15th ed., Version 5.0.1. Surrey UK, British Crop Protection Council. Diflufenzopyr (109293-97-2) (2010)"
+                      },
+                      {
+                        "Citation": "(4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(5) O'Neil MJ, ed; The Merck Index. 14th ed. Whitehouse Station, NJ: Merck and Co., Inc. p. 533 (2006)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), Koc values of 19 to 156(2) indicate that diflufenzopyr is expected to have very high mobility in soil(SRC). The pKa of diflufenzopyr is 3.18(3), indicating that this compound will exist almost entirely in the anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(4). Volatilization from moist soil is not expected because the compound exists as an anion and ions do not volatilize. Diflufenzopyr is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of <9.7X10-8 mm Hg at 20 °C(5). A biodegradation half-life in soil of 8-10 days(2) suggests that biodegradation is an important environmental fate process in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 174,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 371,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 538,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/",
+                      "(3) MacBean C, ed; The e-Pesticide Manual, 15th ed., Version 5.0.1. Surrey UK, British Crop Protection Council. Diflufenzopyr (109293-97-2) (2010)",
+                      "(4) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(5) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 6, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      },
+                      {
+                        "Citation": "(3) MacBean C, ed; The e-Pesticide Manual, 15th ed., Version 5.0.1. Surrey UK, British Crop Protection Council. Diflufenzopyr (109293-97-2) (2010)"
+                      },
+                      {
+                        "Citation": "(4) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(5) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 6, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), Koc values of 18 to 156(2) indicate that diflufenzopyr is not expected to adsorb to suspended solids and sediment(SRC). A pKa of 3.18(3) indicates diflufenzopyr will exist almost entirely in the anion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process(SRC). According to a classification scheme(4), an estimated BCF of 3(SRC), from its log Kow of 1.09(2) and a regression-derived equation(5), suggests the potential for bioconcentration in aquatic organisms is low(SRC). An aquatic biodegradation half-life of 25-26 days(2) suggests that biodegradation may be an important environmental fate process in water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 92,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 198,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 314,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 728,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) O'Neil MJ, ed; The Merck Index. 14th ed. Whitehouse Station, NJ: Merck and Co., Inc. p. 533 (2006)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) O'Neil MJ, ed; The Merck Index. 14th ed. Whitehouse Station, NJ: Merck and Co., Inc. p. 533 (2006)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), diflufenzopyr, which has a vapor pressure of less than 9.75X10-8 mm Hg at 20 °C(2), will exist primarily in the particulate phase in the ambient atmosphere. Particulate-phase diflufenzopyr may be removed from the air by wet and dry deposition(SRC). Diflufenzopyr contains chromophores that absorb at wavelengths >290 nm(3), and therefore may be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 299,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 373,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: The aerobic soil metabolism half-life of diflufenzopyr is reported as 8-10 days(1). The aerobic aquatic metabolism half-life of diflufenzopyr is reported as 25-26 days(1).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 137,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: The anaerobic aquatic metabolism half-life of diflufenzopyr is reported as 20 days(1).",
+                          "Markup": [
+                            {
+                              "Start": 57,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The aqueous hydrolysis half-life of diflufenzopyr is 13 days at pH 5, 24 days at pH 7, and 26 days at pH 9. The photolysis half-life in water is 7 days at pH 5, 17 days at pH 7, and 13 days at pH 9. The photolysis half-life on soil is 14 days(1).",
+                          "Markup": [
+                            {
+                              "Start": 36,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 136,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 6, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 6, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 3 was calculated for diflufenzopyr(SRC), using an experimental log Kow of 1.09(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 41,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/",
+                      "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Pesticide Fact Sheet - Diflufenzopyr. Conditional Registration. January 29, 1999. Washington, DC: US EPA, Off Prevent Pest Toxic Sub. Available from, as of July 6, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      },
+                      {
+                        "Citation": "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Diflufenzopyr has measured Koc values of 18 to 156(1). According to a classification scheme(2), these Koc values suggest that diflufenzopyr is expected to have very high mobility in soil.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 126,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; The e-Pesticide Manual, 15th Edition, Version 5.0.1. Surrey UK, British Crop Protection Council. Diflufenzopyr (109293-97-2) (2010)",
+                      "(2) O'Neil MJ, ed; The Merck Index. 14th ed. Whitehouse Station, NJ: Merck and Co., Inc. p. 533 (2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; The e-Pesticide Manual, 15th Edition, Version 5.0.1. Surrey UK, British Crop Protection Council. Diflufenzopyr (109293-97-2) (2010)"
+                      },
+                      {
+                        "Citation": "(2) O'Neil MJ, ed; The Merck Index. 14th ed. Whitehouse Station, NJ: Merck and Co., Inc. p. 533 (2006)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A pKa of 3.18(1) indicates diflufenzopyr will exist almost entirely in the anion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process. Diflufenzopyr is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of <9.7X10-8 mm Hg(2).",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 143,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 207,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to diflufenzopyr may occur through inhalation of dust and dermal contact with this compound at workplaces where diflufenzopyr is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            },
+                            {
+                              "Start": 134,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diflufenzopyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6125184"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID6125184",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125696
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "37f358e4d420a3f6baad32d22fd0067a",
+        "Name": "Diflufenzopyr + sodium salt",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667281
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID8034538",
+        "Name": "Diflufenzopyr",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57031821
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz4857",
+        "Name": "Diflufenzopyr",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17278560
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7010",
+        "Name": "DIFLUFENZOPYR",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7010",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4624
+      },
+      {
+        "ReferenceNumber": 30,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Diflufenzopyr",
+        "Name": "Diflufenzopyr",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45400790
+      },
+      {
+        "ReferenceNumber": 33,
+        "SourceName": "USGS Health-Based Screening Levels for Evaluating Water-Quality Data",
+        "SourceID": "6da770f54a5d698bd573102f1da56a94",
+        "Name": "Diflufenzopyr",
+        "Description": "The USGS Health-Based Screening Levels for Evaluating Water-Quality Data contains Health-Based Screening Levels (HBSLs) that are non-enforceable water-quality benchmarks that can be used to (1) supplement U.S. Environmental Protection Agency (USEPA) Maximum Contaminant Levels (MCLs) and Human Health Benchmarks for Pesticides (HHBPs), (2) determine whether contaminants found in surface-water or groundwater sources of drinking water may indicate a potential human-health concern, and (3) help prioritize monitoring efforts. HBSLs were developed by the U.S. Geological Survey (USGS).",
+        "URL": "https://water.usgs.gov/water-resources/hbsl/index.html",
+        "LicenseURL": "https://www.usgs.gov/legal",
+        "ANID": 39667988
+      }
+    ]
+  }
+}

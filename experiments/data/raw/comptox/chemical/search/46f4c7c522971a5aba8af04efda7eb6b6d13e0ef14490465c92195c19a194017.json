@@ -1,0 +1,25 @@
+{
+  "search_term": "OQMBBFQZGJFLBU-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:21.563408+00:00",
+  "url": "/chemical/search/equal/OQMBBFQZGJFLBU-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7024241",
+        "dtxcid": "DTXCID404241",
+        "casrn": "42874-03-3",
+        "preferredName": "Oxyfluorfen",
+        "hasStructureImage": 1,
+        "smiles": "CCOC1=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=CC=C1[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "OQMBBFQZGJFLBU-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "SEOVTRFCIGRIMH-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:28.689867+00:00",
+  "url": "/chemical/search/equal/SEOVTRFCIGRIMH-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5020738",
+        "dtxcid": "DTXCID70738",
+        "casrn": "87-51-4",
+        "preferredName": "Indole-3-acetic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)CC1=CNC2=C1C=CC=C2",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "SEOVTRFCIGRIMH-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

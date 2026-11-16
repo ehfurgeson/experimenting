@@ -1,0 +1,25 @@
+{
+  "search_term": "GXEGJTGWYVZSNR-SJRHNVSNSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:42.365393+00:00",
+  "url": "/chemical/search/equal/GXEGJTGWYVZSNR-SJRHNVSNSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Germacrene B",
+        "dtxsid": "DTXSID701037033",
+        "dtxcid": "DTXCID501838706",
+        "casrn": "15423-57-1",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)=C1CC\\C(C)=C\\CC\\C(C)=C\\C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "GXEGJTGWYVZSNR-SJRHNVSNSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-ecotox-2026-11-10/manifest.json": "eac3a37b662a5cc1f792bacb64795aacd420ab69584a8da3e2e91bba15e3a58b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-2026-11-10-reviewed/manifest.json": "ad63c34e7c7355a65ab21c53becb0fab0b0db8d49d195a1ebda62447007f7a06",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-acquisition-input-2026-11-10/manifest.json": "d42335996719ddbaa07501af9142d4c3f303cec18799e0e0ddfaea9004e04be1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-pdfs-2026-11-10/manifest.json": "1bcde0cc21b709ee534898c00fce0176dca6efef659b0db6d02764cc416bf2bb",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/manifest.json": "4b402a25249fc661c9f921b3101f954f0a83dd9c8e0496bfaaf1ce6a76a798ea",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-models-2026-11-10/manifest.json": "3831566e7326cb5188b3e77f8b3a8dcfc6a552845757a6d94b421a570a05837b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/manifest.json": "fd2248e11af947fd90ed0f39bf8b459d4b75bb10afc0938f3066fd23189cb2ac"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_report.py": "da72ca26118ded379cc2b4b7737ca33fa8efe3d0afd97481415276afc0514a0b"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/pyproject.toml": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-research-2026-11-10-final/README.md": "e50d5c86690a2ad51216797e3eec6a61e313faf38080f17aa39e15de41675cd7",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-research-2026-11-10-final/ecotox_literature_candidates.csv": "bb67d752b55514d175625ac234497edd1be26a0e6591aff9c636704d37dcf77f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-research-2026-11-10-final/literature_ld50_overlap.csv": "c9e5e1de655ec46ff70957a4f398ec232b08a733f9e7a4ed1f4f119e2f5d6fe6",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-research-2026-11-10-final/logistic_weight_summary.csv": "bad5beb2a4ca52a63be7e1026c0d0069d40cdc6642b4ae68a56f193770f2e121",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-research-2026-11-10-final/model_f1.svg": "37ee0bb01311a239c445fbbec60991c1ed015b4aceac63ce11ab0451db430c71",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-research-2026-11-10-final/walkthrough.html": "90b59ff80df3b5032e817cff4abd8aeab02a8284b635981ab9b4f4ece583fd4b"
+  },
+  "verified_upstream_bundles": [
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-2026-11-10-reviewed",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-models-2026-11-10",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-ecotox-2026-11-10",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-pdfs-2026-11-10",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-acquisition-input-2026-11-10"
+  ],
+  "archived_input_resolutions": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/resources/weekly_literature.json": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-acquisition-input-2026-11-10/acquisition_resource.json"
+  },
+  "activity_model": "unavailable_unapproved_labels",
+  "literature_ld50_overlap": 4,
+  "ecotox_literature_candidates": 9
+}

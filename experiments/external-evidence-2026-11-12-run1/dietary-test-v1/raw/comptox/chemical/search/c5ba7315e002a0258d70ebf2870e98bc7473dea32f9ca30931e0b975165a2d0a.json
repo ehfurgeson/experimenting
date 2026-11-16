@@ -1,0 +1,25 @@
+{
+  "search_term": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:54.619247+00:00",
+  "url": "/chemical/search/equal/WQZGKKKJIJFFOK-GASJEMHNSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID501015215",
+        "dtxcid": "DTXCID302910",
+        "casrn": "2280-44-6",
+        "preferredName": "D-​Glucopyranose",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "WQZGKKKJIJFFOK-GASJEMHNSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

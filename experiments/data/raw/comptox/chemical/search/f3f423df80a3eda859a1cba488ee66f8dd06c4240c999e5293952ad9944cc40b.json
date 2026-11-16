@@ -1,0 +1,25 @@
+{
+  "search_term": "Diquat",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:03.458055+00:00",
+  "url": "/chemical/search/equal/Diquat",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6034554",
+        "dtxcid": "DTXCID4014554",
+        "casrn": "2764-72-9",
+        "preferredName": "Diquat",
+        "hasStructureImage": 1,
+        "smiles": "C1C[N+]2=CC=CC=C2C2=CC=CC=[N+]12",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Diquat",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

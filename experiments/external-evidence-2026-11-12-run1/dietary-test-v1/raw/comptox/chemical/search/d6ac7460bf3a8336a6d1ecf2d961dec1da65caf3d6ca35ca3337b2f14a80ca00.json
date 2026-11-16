@@ -1,0 +1,25 @@
+{
+  "search_term": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:15.932913+00:00",
+  "url": "/chemical/search/equal/PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9020663",
+        "dtxcid": "DTXCID40662",
+        "casrn": "56-81-5",
+        "preferredName": "Glycerol",
+        "hasStructureImage": 1,
+        "smiles": "OCC(O)CO",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "PEDCQBHIVMGVHV-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

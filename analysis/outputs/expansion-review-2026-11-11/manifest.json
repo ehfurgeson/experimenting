@@ -1,0 +1,86 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11/manifest.json": "ff0ec43315ad41c3e9cfa3ebfbcf10c885c595eacab47ad65ab94346ecfa4cb2",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/verification-release-audit-2026-11-05-final/identity_holds.csv": "59af347c76d5db3f130f5f79a4764cc27cf8d02c93b9ee2015ef14d86c6328f1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-2026-11-10-reviewed/manifest.json": "ad63c34e7c7355a65ab21c53becb0fab0b0db8d49d195a1ebda62447007f7a06",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/resources/expansion_review.json": "b30da12c2170b2b84b99f6cf3d314570e84693fc9d6d55db782e11f3be5f2434"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_review.py": "7830189afc517129219e2e3c7ace198a67cb629321fdb64829665771b5a832fc",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/labels.py": "de58a73de3beac73a2a3eb81f2f636706814fc63d4acd470e4e9d88acbc0e6c1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure.py": "763fd952f2c4c57ed16136cf6efb58d7454daf8106cc9075a8064114578dae4c"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/README.md": "e218f708a934a8381e5b21784ffbd4644834540e99c5ce207342ceeed99dbf6f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/approval_worksheet.csv": "18d0db9af3030f1b1b616b12aaa9ae1f4ed1867ddcf4ba8baec8ba1216f0657b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/compound_packets.csv": "ddb5787e1f13dbd9d6169c449f2df7cc7a2801bc711d552f30d9a8fa2d3833aa",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/database_structure_reference.svg": "fd0f8296a0bd968008dbf9d3304eb0db1439fa4e57bfa80a2a03eebec8cccb97",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/policy_proposals.json": "3d41941bd116114bd4a5d9c9389b1b07bb0a69d8d1676f7e7356d628fb44bc2e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/policy_readiness.csv": "bf05b6e28d1ccac71246b66f289ce84bdc7c0b56968c268adb9797e3ed2571c9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/preserved_identity_holds.csv": "59af347c76d5db3f130f5f79a4764cc27cf8d02c93b9ee2015ef14d86c6328f1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/reviewed_labels.csv": "8e07204d3dc419bbcc09da8c695c7b0f4939f48f557b278715f1d9728e0bb9c5",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/source_index.json": "edd24de8e49586d4c8659698ef7531865976fb54bc23e5462f0c820b2e00fed2",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/study_observations.csv": "9828743e925dcaed3848f08ce84bba71012b864bdb7160aa7f5eaf0c6a2bcb18"
+  },
+  "counts": {
+    "compounds": 15,
+    "observations": 81,
+    "worksheet_rows": 32
+  },
+  "accepted_origin_labels": 0,
+  "accepted_activity_labels": 0,
+  "models_fitted": 0,
+  "policy_support": [
+    {
+      "policy": "PROPOSED-K1998-LETTUCE-1MM-6D-v1",
+      "accepted_active": 0,
+      "accepted_low_response": 0,
+      "proposed_active": 5,
+      "proposed_low_response": 0,
+      "proposed_unknown": 3,
+      "active_scaffolds": 3,
+      "low_response_scaffolds": 0,
+      "five_fold_proposed_support": false,
+      "status": "unapproved_labels_no_models_fitted"
+    },
+    {
+      "policy": "PROPOSED-M2020-AMARANTHUS-1DAY-v1",
+      "accepted_active": 0,
+      "accepted_low_response": 0,
+      "proposed_active": 3,
+      "proposed_low_response": 0,
+      "proposed_unknown": 0,
+      "active_scaffolds": 2,
+      "low_response_scaffolds": 0,
+      "five_fold_proposed_support": false,
+      "status": "unapproved_labels_no_models_fitted"
+    },
+    {
+      "policy": "PROPOSED-T2024-UPV-4WAT-BASE-v1",
+      "accepted_active": 0,
+      "accepted_low_response": 0,
+      "proposed_active": 1,
+      "proposed_low_response": 4,
+      "proposed_unknown": 0,
+      "active_scaffolds": 1,
+      "low_response_scaffolds": 1,
+      "five_fold_proposed_support": false,
+      "status": "unapproved_labels_no_models_fitted"
+    },
+    {
+      "policy": "PROPOSED-D2015-PIGWEED-7DAY-v1",
+      "accepted_active": 0,
+      "accepted_low_response": 0,
+      "proposed_active": 0,
+      "proposed_low_response": 0,
+      "proposed_unknown": 1,
+      "active_scaffolds": 0,
+      "low_response_scaffolds": 0,
+      "five_fold_proposed_support": false,
+      "status": "unapproved_labels_no_models_fitted"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "query": "L-Valine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Valine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:03.295012+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6287,
+          "SMILES": "CC(C)[C@@H](C(=O)O)N",
+          "InChIKey": "KZSNJWFQEVHDMF-BYPYZUCNSA-N"
+        }
+      ]
+    }
+  }
+}

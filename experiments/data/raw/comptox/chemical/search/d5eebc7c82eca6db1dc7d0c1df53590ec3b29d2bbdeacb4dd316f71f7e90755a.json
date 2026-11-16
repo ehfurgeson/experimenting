@@ -1,0 +1,25 @@
+{
+  "search_term": "NVEQFIOZRFFVFW-RGCMKSIDSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:40.194712+00:00",
+  "url": "/chemical/search/equal/NVEQFIOZRFFVFW-RGCMKSIDSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "(-)Carophyllene oxide",
+        "dtxsid": "DTXSID4051586",
+        "dtxcid": "DTXCID8030138",
+        "casrn": "1139-30-6",
+        "hasStructureImage": 1,
+        "smiles": "C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "NVEQFIOZRFFVFW-RGCMKSIDSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

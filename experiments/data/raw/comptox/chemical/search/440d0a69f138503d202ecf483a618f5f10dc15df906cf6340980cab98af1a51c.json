@@ -1,0 +1,37 @@
+{
+  "search_term": "Pinoxaden",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:28:10.488740+00:00",
+  "url": "/chemical/search/equal/Pinoxaden",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Pinoxaden",
+        "dtxsid": "DTXSID8034823",
+        "dtxcid": "DTXCID6014823",
+        "casrn": "243973-20-8",
+        "hasStructureImage": 1,
+        "smiles": "CCC1=CC(C)=CC(CC)=C1C1=C(OC(=O)C(C)(C)C)N2CCOCCN2C1=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Pinoxaden",
+        "rank": 9
+      },
+      {
+        "preferredName": "Cloquintocet-mexyl",
+        "dtxsid": "DTXSID3041794",
+        "dtxcid": "DTXCID1021794",
+        "casrn": "99607-70-2",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCC(C)OC(=O)COC1=C2N=CC=CC2=C(Cl)C=C1",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Pinoxaden",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

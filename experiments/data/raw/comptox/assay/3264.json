@@ -1,0 +1,91 @@
+{
+  "aeid": 3264,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:38:17.114545+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/3264",
+  "status": 200,
+  "response": {
+    "aeid": 3264,
+    "assayList": [
+      {
+        "name": "Thyroid Bioactivity",
+        "description": "Assays related to the thyroid adverse outcome pathway network"
+      }
+    ],
+    "assayName": "CCTE_GLTED_hTTR",
+    "assayComponentName": "CCTE_GLTED_hTTR_0.125uM",
+    "assayComponentEndpointName": "CCTE_GLTED_hTTR_0.125uM",
+    "assayComponentEndpointDesc": "Data from the assay component CCTE_GLTED_hTTR_0.125uM was analyzed at the assay endpoint CCTE_GLTED_hTTR_0.125uM in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of binding reporter, loss-of-signal activity can be used to understand a chemical's ability to displace T4 from transthyretin. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the 'transporter' intended target family, where the subfamily is 'hormone carrier protein'.",
+    "assayFunctionType": "binding",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "3,5,3,5-tetraiodothyronine (T4)",
+    "signalDirection": "loss",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "transporter",
+    "intendedTargetFamily": "transporter",
+    "intendedTargetFamilySub": "hormone carrier protein",
+    "cellViabilityAssay": 0,
+    "acid": 2986,
+    "assayComponentDesc": "CCTE_GLTED_hTTR_0.125uM is the assay component measured from the CCTE_GLTED_hTTR assay. It is designed to make measurements of fluorescent polarization, using a form of binding reporter, as detected with Fluorescence signals by Fluorescence technology.",
+    "assayComponentTargetDesc": "Transthyretin (TTR) is one the major transport proteins responsible for binding to and transporting thyroid hormones to the necessary tissues.",
+    "parameterReadoutType": "single",
+    "assayDesignType": "binding reporter",
+    "assayDesignTypeSub": "fluorescent polarization",
+    "biologicalProcessTarget": "receptor binding",
+    "detectionTechnologyType": "fluorescence",
+    "detectionTechnologyTypeSub": "fluorescence intensity",
+    "detectionTechnology": "spectrophotometry",
+    "keyAssayReagentType": "substrate",
+    "keyAssayReagent": "ANSA",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "transporter",
+    "aid": 871,
+    "assayDesc": "CCTE_GLTED_hTTR is a cell-free, single-readout assay designed to test the chemicals' ability to displace T4 from the human transthyretin (TTR) protein. TTR (at 0.125uM or 0.5uM) is incubated in presence of test chemical for 2 hours during which disrupting chemicals displace ANSA from the TTR protein. Results read fluorescence at 380 excitation and 475 emission.",
+    "timepointHr": 2.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "NA",
+    "cellFormat": "cell-free",
+    "cellFreeComponentSource": "human plasma",
+    "cellShortName": "NA",
+    "cellGrowthMode": "NA",
+    "assayFootprint": "microplate: 96-well plate",
+    "assayFormatType": "biochemical",
+    "assayFormatTypeSub": "protein single format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 0.5,
+    "asid": 24,
+    "assaySourceName": "CCTE_GLTED",
+    "assaySourceLongName": "CCTE Great Lakes Toxicology and Ecology Division",
+    "assaySourceDesc": "The laboratories at EPA CCTE Great Lakes Toxicology and Ecology Division focus on ecotoxicology and stressors of water resources, including development and implementation of in vitro and in vivo assays.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "transthyretin",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 7276,
+        "officialSymbol": "TTR",
+        "officialFullName": "transthyretin",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1016/j.tiv.2023.105762.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38072180/",
+        "pmid": 38072180,
+        "title": "In vitro screening of per- and polyfluorinated substances (PFAS) for interference with seven thyroid hormone system targets across nine assays.",
+        "author": "Degitz, S. J., Olker, J. H., Denny, J. S., Degoey, P. P., Hartig, P. C., Cardon, M. C., Eytcheson, S. A., Haselman, J. T., Mayasich, S. A., & Hornung, M. W.",
+        "citation": "Degitz, S. J., Olker, J. H., Denny, J. S., Degoey, P. P., Hartig, P. C., Cardon, M. C., Eytcheson, S. A., Haselman, J. T., Mayasich, S. A., & Hornung, M. W. (2024). In vitro screening of per- and polyfluorinated substances (PFAS) for interference with seven thyroid hormone system targets across nine assays. Toxicology in vitro : an international journal published in association with BIBRA, 95, 105762. https://doi.org/10.1016/j.tiv.2023.105762",
+        "otherId": "NA",
+        "citationId": 305,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

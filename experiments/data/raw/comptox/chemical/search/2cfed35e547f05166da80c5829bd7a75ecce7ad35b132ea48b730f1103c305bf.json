@@ -1,0 +1,25 @@
+{
+  "search_term": "Gallic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:52.168877+00:00",
+  "url": "/chemical/search/equal/Gallic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0020650",
+        "dtxcid": "DTXCID60650",
+        "casrn": "149-91-7",
+        "preferredName": "Gallic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CC(O)=C(O)C(O)=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Gallic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

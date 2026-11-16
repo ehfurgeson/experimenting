@@ -1,0 +1,25 @@
+{
+  "AMBROSIA2019": {
+    "policy": "EXPERIMENT-AMBROSIA2019-LETTUCE-1MM-7D-ORDINAL-v1",
+    "species": "Lactuca sativa",
+    "dose": "1000 micromolar",
+    "time": "7 days",
+    "endpoint": "ordinal germination/growth 0-5",
+    "active": "grade >=4",
+    "low_response": "grade <=1",
+    "unknown": "grades2/3 or missing/conflicting response",
+    "status": "AI experimental adoption only; source structure mappings provisional"
+  },
+  "OPHIOBOLINS2021": {
+    "policy": "EXPERIMENT-OPHIOBOLINS2021-INTACT-1MGML-48H-v1",
+    "species": "Setaria viridis",
+    "dose": "1 mg/mL; 5 microliters per droplet",
+    "time": "48 hours",
+    "endpoint": "lesion diameter in mm on intact detached leaf",
+    "active": "exact value >=2 mm or entire reported interval >=2 mm",
+    "low_response": "exact0 mm only",
+    "unknown": "intermediate or ambiguous bounded response; do not assign <1 a zero",
+    "controls": "0.1% Tween-80 plus1% acetone; 3droplets per segment,3segments,3experimental repetitions",
+    "status": "AI experimental adoption only; three missing machine structures excluded from modeling"
+  }
+}

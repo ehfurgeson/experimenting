@@ -1,0 +1,69 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 10743,
+    "RecordTitle": "Sinapic acid",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^4-Hydroxy-3,5-dimethoxycinnamic acid$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^4-Hydroxy-3,5-dimethoxycinnamic acid$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^4-Hydroxy-3,5-dimethoxycinnamic acid$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "c8f55a085b0547e78a1a8af48a590af9",
+        "Name": "4-Hydroxy-3,5-dimethoxycinnamic acid",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49734512
+      }
+    ]
+  }
+}

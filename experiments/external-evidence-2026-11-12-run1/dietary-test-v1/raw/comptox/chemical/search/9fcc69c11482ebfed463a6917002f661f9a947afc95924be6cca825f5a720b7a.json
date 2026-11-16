@@ -1,0 +1,25 @@
+{
+  "search_term": "FBPFZTCFMRRESA-KVTDHHQDSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:11.834907+00:00",
+  "url": "/chemical/search/equal/FBPFZTCFMRRESA-KVTDHHQDSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1023235",
+        "dtxcid": "DTXCID603235",
+        "casrn": "69-65-8",
+        "preferredName": "D-Mannitol",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "FBPFZTCFMRRESA-KVTDHHQDSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,1882 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 23664719,
+    "RecordTitle": "Monosodium methanearsonate",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A17: Kitchin KT, Wallace K: The role of protein binding of trivalent arsenicals in arsenic carcinogenesis and toxicity. J Inorg Biochem. 2008 Mar;102(3):532-9. doi: 10.1016/j.jinorgbio.2007.10.021. Epub 2007 Nov 22. PMID:18164070",
+                        "Matched": {
+                          "PCLID": 28834896,
+                          "Citation": "A17: Kitchin KT, Wallace K: The role of protein binding of trivalent arsenicals in arsenic carcinogenesis and toxicity. J Inorg Biochem. 2008 Mar;102(3):532-9. doi: 10.1016/j.jinorgbio.2007.10.021. Epub 2007 Nov 22. PMID:18164070",
+                          "PMID": 18164070,
+                          "DOI": "10.1016/j.jinorgbio.2007.10.021"
+                        }
+                      },
+                      {
+                        "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill.",
+                        "Matched": {
+                          "PCLID": 900177807,
+                          "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Arsenic and its metabolites disrupt ATP production through several mechanisms. At the level of the citric acid cycle, arsenic inhibits pyruvate dehydrogenase and by competing with phosphate it uncouples oxidative phosphorylation, thus inhibiting energy-linked reduction of NAD+, mitochondrial respiration, and ATP synthesis. Hydrogen peroxide production is also increased, which might form reactive oxygen species and oxidative stress. Arsenic's carginogenicity is influenced by the arsenical binding of tubulin, which results in aneuploidy, polyploidy and mitotic arrests. The binding of other arsenic protein targets may also cause altered DNA repair enzyme activity, altered DNA methylation patterns and cell proliferation. (T1, A17)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 36,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5957"
+                            },
+                            {
+                              "Start": 99,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/citric%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-311"
+                            },
+                            {
+                              "Start": 118,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 135,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pyruvate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-107735"
+                            },
+                            {
+                              "Start": 180,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phosphate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1061"
+                            },
+                            {
+                              "Start": 273,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NAD%2B",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            },
+                            {
+                              "Start": 310,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5957"
+                            },
+                            {
+                              "Start": 325,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydrogen%20peroxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-784"
+                            },
+                            {
+                              "Start": 436,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 595,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A17: Kitchin KT, Wallace K: The role of protein binding of trivalent arsenicals in arsenic carcinogenesis and toxicity. J Inorg Biochem. 2008 Mar;102(3):532-9. doi: 10.1016/j.jinorgbio.2007.10.021. Epub 2007 Nov 22. PMID:18164070",
+                        "Matched": {
+                          "PCLID": 28834896,
+                          "Citation": "A17: Kitchin KT, Wallace K: The role of protein binding of trivalent arsenicals in arsenic carcinogenesis and toxicity. J Inorg Biochem. 2008 Mar;102(3):532-9. doi: 10.1016/j.jinorgbio.2007.10.021. Epub 2007 Nov 22. PMID:18164070",
+                          "PMID": 18164070,
+                          "DOI": "10.1016/j.jinorgbio.2007.10.021"
+                        }
+                      },
+                      {
+                        "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill.",
+                        "Matched": {
+                          "PCLID": 900177807,
+                          "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Arsenic and its metabolites disrupt ATP production through several mechanisms. At the level of the citric acid cycle, arsenic inhibits pyruvate dehydrogenase and by competing with phosphate it uncouples oxidative phosphorylation, thus inhibiting energy-linked reduction of NAD+, mitochondrial respiration, and ATP synthesis. Hydrogen peroxide production is also increased, which might form reactive oxygen species and oxidative stress. Arsenic's carginogenicity is influenced by the arsenical binding of tubulin, which results in aneuploidy, polyploidy and mitotic arrests. The binding of other arsenic protein targets may also cause altered DNA repair enzyme activity, altered DNA methylation patterns and cell proliferation. (T1, A17)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 36,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5957"
+                            },
+                            {
+                              "Start": 99,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/citric%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-311"
+                            },
+                            {
+                              "Start": 118,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 135,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pyruvate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-107735"
+                            },
+                            {
+                              "Start": 180,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phosphate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1061"
+                            },
+                            {
+                              "Start": 273,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NAD%2B",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            },
+                            {
+                              "Start": 310,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5957"
+                            },
+                            {
+                              "Start": 325,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydrogen%20peroxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-784"
+                            },
+                            {
+                              "Start": 436,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 595,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Not Likely to be Carcinogenic to Humans"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php",
+                        "Matched": {
+                          "PCLID": 900177075,
+                          "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3, not classifiable as to its carcinogenicity to humans. (L135)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php",
+                        "Matched": {
+                          "PCLID": 900177075,
+                          "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3, not classifiable as to its carcinogenicity to humans. (L135)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Health Effects",
+                "Description": "Principal effect(s) of exposure to each substance, listed by OSHA Health Code, Health Effects from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L20: Wikipedia. Arsenic toxicity. Last Updated 22 February 2009. http://en.wikipedia.org/wiki/Arsenic_toxicity",
+                        "Matched": {
+                          "PCLID": 906299796,
+                          "Citation": "L20: Wikipedia. Arsenic toxicity. Last Updated 22 February 2009. http://en.wikipedia.org/wiki/Arsenic_toxicity"
+                        }
+                      },
+                      {
+                        "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill.",
+                        "Matched": {
+                          "PCLID": 900177807,
+                          "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Arsenic poisoning can lead to death from multi-system organ failure, probably from necrotic cell death, not apoptosis. Arsenic is also a known carcinogen, esepcially in skin, liver, bladder and lung cancers. (T1, L20)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 119,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L20: Wikipedia. Arsenic toxicity. Last Updated 22 February 2009. http://en.wikipedia.org/wiki/Arsenic_toxicity",
+                        "Matched": {
+                          "PCLID": 906299796,
+                          "Citation": "L20: Wikipedia. Arsenic toxicity. Last Updated 22 February 2009. http://en.wikipedia.org/wiki/Arsenic_toxicity"
+                        }
+                      },
+                      {
+                        "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill.",
+                        "Matched": {
+                          "PCLID": 900177807,
+                          "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Arsenic poisoning can lead to death from multi-system organ failure, probably from necrotic cell death, not apoptosis. Arsenic is also a known carcinogen, esepcially in skin, liver, bladder and lung cancers. (T1, L20)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 119,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exposure Routes",
+                "Description": "The way people or other living organisms may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L2: ATSDR - Agency for Toxic Substances and Disease Registry (2007). Toxicological profile for arsenic. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp2.html",
+                        "Matched": {
+                          "PCLID": 900176985,
+                          "Citation": "L2: ATSDR - Agency for Toxic Substances and Disease Registry (2007). Toxicological profile for arsenic. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp2.html"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Oral (L2) ; inhalation (L2);  dermal (L2)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L2: ATSDR - Agency for Toxic Substances and Disease Registry (2007). Toxicological profile for arsenic. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp2.html",
+                        "Matched": {
+                          "PCLID": 900176985,
+                          "Citation": "L2: ATSDR - Agency for Toxic Substances and Disease Registry (2007). Toxicological profile for arsenic. U.S. Public Health Service in collaboration with U.S. Environmental Protection Agency (EPA). http://www.atsdr.cdc.gov/toxprofiles/tp2.html"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Oral (L2) ; inhalation (L2);  dermal (L2)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill.",
+                        "Matched": {
+                          "PCLID": 900177807,
+                          "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Exposure to lower levels of arsenic can cause nausea and vomiting, decreased production of red and white blood cells, abnormal heart rhythm, damage to blood vessels, and a sensation of burn (T1).",
+                          "Markup": [
+                            {
+                              "Start": 28,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill.",
+                        "Matched": {
+                          "PCLID": 900177807,
+                          "Citation": "T1: Klaassen C and Watkins J (2003). Casarett and Doull's Essentials of Toxicology. New York, NY: McGraw-Hill."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Exposure to lower levels of arsenic can cause nausea and vomiting, decreased production of red and white blood cells, abnormal heart rhythm, damage to blood vessels, and a sensation of burn (T1).",
+                          "Markup": [
+                            {
+                              "Start": 28,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Toxicity Link",
+                "Description": "This section provides the link to the aquatic acute toxicity test results, available at the Acute Toxicity Database at the U.S. Geological Survey (USGS) Columbia Environmental Research Center (CERC).",
+                "URL": "https://www.cerc.usgs.gov/data/acute/acute.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "URL": "https://www.cerc.usgs.gov/data/acute/qryboth.asp?Chemical=MSMA",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: MSMA"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134983945"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 9,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document?D=EPA-HQ-OPP-2006-0201-0078",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Monosodium acid methanearsonate (MMA)",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 31,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Monosodium%20acid%20methanearsonate",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-23664719"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 9,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 9,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "700"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 9,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Children"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 9,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 9,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "200"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 9,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 9,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 10,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) > 2,200 mg/m3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 685"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 685",
+                            "Matched": {
+                              "PCLID": 900021602,
+                              "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 685"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 900 mg/kg (young, albino)"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 886"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 886",
+                            "Matched": {
+                              "PCLID": 900074486,
+                              "Citation": "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 886"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse oral 1800 mg/kg (white)"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2353"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2353",
+                            "Matched": {
+                              "PCLID": 906284539,
+                              "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2353"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 700 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2353"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2353",
+                            "Matched": {
+                              "PCLID": 906284539,
+                              "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2353"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit oral 102 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 685"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 685",
+                            "Matched": {
+                              "PCLID": 900021602,
+                              "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 685"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 Rat inhalation >20 mg/l/4 hr"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 10,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 10,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 10,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 10,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Treatment",
+                "Description": "Treatment when exposed to toxin",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L20: Wikipedia. Arsenic toxicity. Last Updated 22 February 2009. http://en.wikipedia.org/wiki/Arsenic_toxicity",
+                        "Matched": {
+                          "PCLID": 906299796,
+                          "Citation": "L20: Wikipedia. Arsenic toxicity. Last Updated 22 February 2009. http://en.wikipedia.org/wiki/Arsenic_toxicity"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Arsenic poisoning can be treated by chelation therapy, using chelating agents such as dimercaprol, EDTA or DMSA. Charcoal tablets may also be used for less severe cases. In addition, maintaining a diet high in sulfur helps eliminate arsenic from the body. (L20)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 86,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimercaprol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3080"
+                            },
+                            {
+                              "Start": 99,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/EDTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6049"
+                            },
+                            {
+                              "Start": 107,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DMSA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724354"
+                            },
+                            {
+                              "Start": 113,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 210,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sulfur",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sulfur"
+                            },
+                            {
+                              "Start": 233,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L20: Wikipedia. Arsenic toxicity. Last Updated 22 February 2009. http://en.wikipedia.org/wiki/Arsenic_toxicity",
+                        "Matched": {
+                          "PCLID": 906299796,
+                          "Citation": "L20: Wikipedia. Arsenic toxicity. Last Updated 22 February 2009. http://en.wikipedia.org/wiki/Arsenic_toxicity"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Arsenic poisoning can be treated by chelation therapy, using chelating agents such as dimercaprol, EDTA or DMSA. Charcoal tablets may also be used for less severe cases. In addition, maintaining a diet high in sulfur helps eliminate arsenic from the body. (L20)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 86,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimercaprol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3080"
+                            },
+                            {
+                              "Start": 99,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/EDTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6049"
+                            },
+                            {
+                              "Start": 107,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DMSA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724354"
+                            },
+                            {
+                              "Start": 113,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 210,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sulfur",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sulfur"
+                            },
+                            {
+                              "Start": 233,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:161110",
+                      "PEOPLES ET AL; VET HUM TOXICOL 21 (6): 417-21 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:161110",
+                        "Matched": {
+                          "PCLID": 5472933,
+                          "Citation": "Peoples SA, Maddy KT, Peifer WR, Edmiston S. Occupational exposures to pesticides containing organoarsenicals in California. Vet Hum Toxicol. 1979 Dec;21(6):417–21. PMID: 161110.",
+                          "PMID": 161110
+                        }
+                      },
+                      {
+                        "Citation": "PEOPLES ET AL; VET HUM TOXICOL 21 (6): 417-21 (1979)",
+                        "Matched": {
+                          "PCLID": 5472933,
+                          "Citation": "Peoples SA, Maddy KT, Peifer WR, Edmiston S. Occupational exposures to pesticides containing organoarsenicals in California. Vet Hum Toxicol. 1979 Dec;21(6):417–21. PMID: 161110.",
+                          "PMID": 161110
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "COMPOUNDS INCLUDED METHANEARSONIC ACID & ITS SODIUM SALTS; 9/34 CASES SHOWED SYSTEMIC SYMPTOMS & REMAINDER HAD EYE & SKIN IRRITATION.",
+                          "Markup": [
+                            {
+                              "Start": 19,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/METHANEARSONIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8948"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "International Labour Office. Encyclopedia of Occupational Health and Safety. Volumes I and II. New York: McGraw-Hill Book Co., 1971., p. 664"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "International Labour Office. Encyclopedia of Occupational Health and Safety. Volumes I and II. New York: McGraw-Hill Book Co., 1971., p. 664",
+                        "Matched": {
+                          "PCLID": 900064334,
+                          "Citation": "International Labour Office. Encyclopedia of Occupational Health and Safety. Volumes I and II. New York: McGraw-Hill Book Co., 1971., p. 664"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ORGANIC ARSENICALS INCLUDE DISODIUM METHYLARSONATE ... AND AMINE METHYLARSONATE.TOXICITY OF THESE CMPD TO HUMANS IS CONSIDERABLY LESS THAN ... INORGANIC ARSENICALS; HOWEVER THEY ARE HARMFUL IF INHALED, SWALLOWED, OR IF THEY COME IN CONTACT WITH EYES OR SKIN. /DISODIUM METHYLARSONATE/",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 23,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DISODIUM%20METHYLARSONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8947"
+                            },
+                            {
+                              "Start": 65,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/METHYLARSONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            },
+                            {
+                              "Start": 260,
+                              "Length": 23,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DISODIUM%20METHYLARSONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8947"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 761"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 761",
+                        "Matched": {
+                          "PCLID": 900006228,
+                          "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 761"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... GAVE MONOSODIUM METHANEARSONATE TO CATTLE THROUGH RENAL TUBULES @ DOSE OF 10 MG/KG DAILY. FOUR OF 5 ... TREATED DIED AFTER 8-10 DAYS OF TREATMENT. CAUSE OF DEATH WAS APPARENT KIDNEY FAILURE. HIGH LEVELS OF ARSENIC WERE FOUND IN KIDNEY & LIVER. ... 100 & 1000 PPM BY WT OF ... MONOSODIUM METHANEARSONATE /IN 60% SUCROSE SYRUP/ WERE EXTREMELY TOXIC TO NEWLY EMERGED WORKER BEES ... NO DIFFERENCES IN TOXICITY WERE OBSERVED BETWEEN PURIFIED & COMMERCIALLY FORMULATED HERBICIDES.",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MONOSODIUM%20METHANEARSONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            },
+                            {
+                              "Start": 210,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 280,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MONOSODIUM%20METHANEARSONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            },
+                            {
+                              "Start": 315,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SUCROSE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5988"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 755"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 755",
+                        "Matched": {
+                          "PCLID": 900067252,
+                          "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 755"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... EXAMINED EFFECTS OF MONOSODIUM METHANEARSONATE & CACODYLIC ACID ON INSECT MORTALITY IN TREATED PONDEROSA PINES ... DIFFERENCES OF INSECT SURVIVAL BETWEEN CMPD WERE NOTED.",
+                          "Markup": [
+                            {
+                              "Start": 24,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MONOSODIUM%20METHANEARSONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            },
+                            {
+                              "Start": 53,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CACODYLIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2513"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 766"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 766",
+                        "Matched": {
+                          "PCLID": 906289368,
+                          "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 766"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "COTTON ... INJURED BY MONOSODIUM METHANEARSONATE APPLICATION 3.36 KG/HA ... @ 13 OR 20 °C. NO INJURY @ 31 °C.",
+                          "Markup": [
+                            {
+                              "Start": 22,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MONOSODIUM%20METHANEARSONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Long term feeding of 50 mg/kg of diet of methanearsonic acid, monosodium salt (1.5 mg/kg bw/day as arsenic) to rabbits produced toxic hepatitis.",
+                          "Markup": [
+                            {
+                              "Start": 41,
+                              "Length": 36,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methanearsonic%20acid%2C%20monosodium%20salt",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            },
+                            {
+                              "Start": 99,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for SODIUM METHANEARSONATE (11 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 109,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/754#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 22,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SODIUM%20METHANEARSONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 57
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54",
+                        "Matched": {
+                          "PCLID": 900036124,
+                          "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 GAMMARUS FASCIATUS GREATER THAN 100 MG/L/96 HR @ 15 °C, MATURE. STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /LIQUID FORMULATION, 34.8%/",
+                          "Markup": [
+                            {
+                              "Start": 115,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 144,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CALCIUM%20CARBONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10112"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54",
+                        "Matched": {
+                          "PCLID": 900036124,
+                          "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 SALMO CLARKI (CUTTHROAT TROUT) GREATER THAN 100 MG/L/96 HR @ 10 °C, WT 0.6 G STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L ASCALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /LIQUID FORMULATION, 34.8%/",
+                          "Markup": [
+                            {
+                              "Start": 128,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 164,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CARBONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21388941"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54",
+                        "Matched": {
+                          "PCLID": 900036124,
+                          "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 CARASSIUS AURATUS (GOLDFISH) 31.1 MG/L/96 HR @ 18 °C (95% CONFIDENCE LIMIT 24.4-38.8 MG/L), WT 0.9 G STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /LIQUID FORMULATION, 34.8%/",
+                          "Markup": [
+                            {
+                              "Start": 152,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 181,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CALCIUM%20CARBONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10112"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54",
+                        "Matched": {
+                          "PCLID": 900036124,
+                          "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 54"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 PIMEPHALES PROMELAS (FATHEAD MINNOW) 13.3 MG/L/96 HR @ 18 °C (95% CONFIDENCE LIMIT 5.1-35.8 MG/L), WT 0.9 G STATIC BIOASSAY WITHOUT AERATION, PH 7.2-7.5, WATER HARDNESS 40-50 MG/L AS CALCIUM CARBONATE AND ALKALINITY OF 30-35 MG/L. /LIQUID FORMULATION, 34.8%/",
+                          "Markup": [
+                            {
+                              "Start": 159,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 188,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CALCIUM%20CARBONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10112"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for SODIUM METHANEARSONATE (8 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 99,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/754#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 22,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SODIUM%20METHANEARSONATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 757"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 757",
+                        "Matched": {
+                          "PCLID": 900108723,
+                          "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 757"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... DEGRADATION OF MSMA ... /IN/ SOILS. ... SOIL MICROORGANISMS APPEARED TO PLAYSOME ROLE IN DECOMP PROCESS. A FUNGUS, SEVERAL ACTINOMYCETES, & SEVERAL BACTERIA WERE ISOLATED ... THE ORGANISMS DEGRADED 3, 13 OR 9, & 20% OF MSMA IN 11 DAYS, RESPECTIVELY. ... IN THE ABSENCE OF AN ENERGY SOURCE, MICROBIAL METAB ... WAS NONEXISTENT. THE PRODUCTS OF METAB WERE CO2 & ARSENATE. NO ARSENITE COULD BE DETECTED.",
+                          "Markup": [
+                            {
+                              "Start": 19,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MSMA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            },
+                            {
+                              "Start": 223,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MSMA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            },
+                            {
+                              "Start": 364,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ARSENATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27401"
+                            },
+                            {
+                              "Start": 377,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ARSENITE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-544"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Organoarsenicals, such as ... methanearsonic acid, monosodium ... salt ... are adsorbed by clay soils. After rapid initial adsorption, changes occur which result in the redistribution of dimethylarsinic acid into a less sol form assoc with aluminum in the soil. Downward leaching of the methanearsonic acid salts has also been reported. The ... salts are fixed by iron and aluminum in the soil, although not as strongly as inorg arsenate.",
+                          "Markup": [
+                            {
+                              "Start": 30,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methanearsonic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8948"
+                            },
+                            {
+                              "Start": 51,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/monosodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5360545"
+                            },
+                            {
+                              "Start": 187,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethylarsinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2513"
+                            },
+                            {
+                              "Start": 240,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Aluminum",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Aluminum"
+                            },
+                            {
+                              "Start": 287,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methanearsonic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8948"
+                            },
+                            {
+                              "Start": 364,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 373,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Aluminum",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Aluminum"
+                            },
+                            {
+                              "Start": 429,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/arsenate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27401"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... Urinary arsenic levels of up to 0.93 mg/l /were found/ in forestry workers using the monosodium salt of methanearsonic acid, compared with a level of up to 0.14 mg/l in the urine of nonexposed controls.",
+                          "Markup": [
+                            {
+                              "Start": 12,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 89,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/monosodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5360545"
+                            },
+                            {
+                              "Start": 108,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methanearsonic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8948"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134983945",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0002163806",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19471556
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID23664719",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125225
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "8724a55c0b86d1120a4129f83d65e45e",
+        "Name": "Monosodium acid methanearsonate (MMA)",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667441
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID2025686",
+        "Name": "Monosodium methanearsonate",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57006420
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz7136",
+        "Name": "Monosodium methanearsonate",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17280306
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "754",
+        "Name": "SODIUM METHANEARSONATE",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/754",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 678
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_MSMA",
+        "Name": "MSMA",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401296
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D0308",
+        "Name": "Methylarsonic acid, disodium salt",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D0308",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20440643
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D0309",
+        "Name": "Methylarsonic acid, monosodium salt",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D0309",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20440644
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "USGS Columbia Environmental Research Center",
+        "SourceID": "M0300",
+        "Name": "MSMA",
+        "Description": "The Acute Toxicity Database at the USGS Columbia Environmental Research Center (CERC) provides the results from aquatic acute toxicity tests.",
+        "URL": "https://www.cerc.usgs.gov/data/acute/qrychemdesc.asp?Chemical=M0300",
+        "LicenseURL": "https://www.usgs.gov/foia",
+        "ANID": 2284455
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Difenzoquat",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:27.113872+00:00",
+  "url": "/chemical/search/equal/Difenzoquat",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6043965",
+        "dtxcid": "DTXCID4023965",
+        "casrn": "49866-87-7",
+        "preferredName": "Difenzoquat",
+        "hasStructureImage": 1,
+        "smiles": "CN1C(=CC(C2=CC=CC=C2)=[N+]1C)C1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Difenzoquat",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

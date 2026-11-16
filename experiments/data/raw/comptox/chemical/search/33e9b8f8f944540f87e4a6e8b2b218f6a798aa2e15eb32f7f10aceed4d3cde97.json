@@ -1,0 +1,25 @@
+{
+  "search_term": "Juglone",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:25.142094+00:00",
+  "url": "/chemical/search/equal/Juglone",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0031504",
+        "dtxcid": "DTXCID8011504",
+        "casrn": "481-39-0",
+        "preferredName": "Juglone",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC=CC2=C1C(=O)C=CC2=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Juglone",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

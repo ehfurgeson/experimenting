@@ -1,0 +1,43 @@
+warning: `VIRTUAL_ENV=/Users/ehfurgeson/Documents/GitHub/ffoptim/.venv` does not match the project environment path `pipeline/.venv` and will be ignored; use `--active` to target the active environment instead
+EPA key loaded from the file; it is never printed or stored.
+compounds with a resolved identity: 176
+/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/03_fetch_epa.py:66: PolarsInefficientMapWarning: 
+Expr.map_elements is significantly slower than the native expressions API.
+Only use if you absolutely CANNOT implement your logic otherwise.
+Replace this expression...
+  - pl.col("provider_suggestions").map_elements(str)
+with this one instead:
+  + pl.col("provider_suggestions").cast(pl.String)
+
+  pl.col(column).map_elements(str, return_dtype = pl.String).alias(column)
+/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/03_fetch_epa.py:66: PolarsInefficientMapWarning: 
+Expr.map_elements is significantly slower than the native expressions API.
+Only use if you absolutely CANNOT implement your logic otherwise.
+Replace this expression...
+  - pl.col("input_queries").map_elements(str)
+with this one instead:
+  + pl.col("input_queries").cast(pl.String)
+
+  pl.col(column).map_elements(str, return_dtype = pl.String).alias(column)
+identity status:
+shape: (3, 2)
+┌──────────────┬─────┐
+│ status       ┆ len │
+│ ---          ┆ --- │
+│ str          ┆ u32 │
+╞══════════════╪═════╡
+│ approved     ┆ 136 │
+│ needs_review ┆ 24  │
+│ unresolved   ┆ 16  │
+└──────────────┴─────┘
+identity took 181s
+toxcast rows: 49738 in 916s
+hazard rows: 5814 in 57s
+property rows: 13294 in 151s
+TEST prediction rows: 2176
+{
+  "compounds": 176,
+  "approved": 136,
+  "needs_review": 24,
+  "unresolved": 16
+}

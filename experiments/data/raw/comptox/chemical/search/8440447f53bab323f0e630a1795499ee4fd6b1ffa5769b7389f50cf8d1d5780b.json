@@ -1,0 +1,25 @@
+{
+  "search_term": "QJVXKWHHAMZTBY-GCPOEHJPSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:33.436003+00:00",
+  "url": "/chemical/search/equal/QJVXKWHHAMZTBY-GCPOEHJPSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2042438",
+        "dtxcid": "DTXCID0022438",
+        "casrn": "118-34-3",
+        "preferredName": "Syringin",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(\\C=C\\CO)=CC(OC)=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "QJVXKWHHAMZTBY-GCPOEHJPSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

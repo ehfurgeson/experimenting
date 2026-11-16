@@ -1,0 +1,125 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 40521,
+    "RecordTitle": "Flamprop-methyl",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Acute Toxicity Link",
+                "Description": "This section provides the link to the aquatic acute toxicity test results, available at the Acute Toxicity Database at the U.S. Geological Survey (USGS) Columbia Environmental Research Center (CERC).",
+                "URL": "https://www.cerc.usgs.gov/data/acute/acute.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "URL": "https://www.cerc.usgs.gov/data/acute/qryboth.asp?Chemical=FLAMPROP-METHYL",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: FLAMPROP-METHYL"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135260430"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 7,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 7,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Other Toxicity Values",
+                    "Description": "Other toxicity values that are less commonly used in toxicological studies.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 7,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^Other$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135260430",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0052756259",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19569379
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID8040353",
+        "Name": "Flamprop-methyl",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57031895
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "USGS Columbia Environmental Research Center",
+        "SourceID": "F0105",
+        "Name": "FLAMPROP-METHYL",
+        "Description": "The Acute Toxicity Database at the USGS Columbia Environmental Research Center (CERC) provides the results from aquatic acute toxicity tests.",
+        "URL": "https://www.cerc.usgs.gov/data/acute/qrychemdesc.asp?Chemical=F0105",
+        "LicenseURL": "https://www.usgs.gov/foia",
+        "ANID": 2284388
+      }
+    ]
+  }
+}

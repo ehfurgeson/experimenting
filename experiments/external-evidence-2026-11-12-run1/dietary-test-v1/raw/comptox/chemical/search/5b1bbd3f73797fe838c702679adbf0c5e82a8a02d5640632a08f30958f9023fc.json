@@ -1,0 +1,25 @@
+{
+  "search_term": "LKDRXBCSQODPBY-VRPWFDPXSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:57.784664+00:00",
+  "url": "/chemical/search/equal/LKDRXBCSQODPBY-VRPWFDPXSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID201371662",
+        "dtxcid": "DTXCID201849956",
+        "casrn": "NOCAS_1371662",
+        "preferredName": "D-Fructopyranoside",
+        "hasStructureImage": 1,
+        "smiles": "OCC1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "LKDRXBCSQODPBY-VRPWFDPXSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

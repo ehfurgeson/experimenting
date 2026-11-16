@@ -1,0 +1,16 @@
+{
+  "query": "Glycerol",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Glycerol/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:08.600667+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 753,
+          "SMILES": "C(C(CO)O)O",
+          "InChIKey": "PEDCQBHIVMGVHV-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

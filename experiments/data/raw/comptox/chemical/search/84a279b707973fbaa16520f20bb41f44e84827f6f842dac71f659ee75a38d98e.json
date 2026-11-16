@@ -1,0 +1,25 @@
+{
+  "search_term": "QEGVVEOAVNHRAA-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:38.525797+00:00",
+  "url": "/chemical/search/equal/QEGVVEOAVNHRAA-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Pyrithiobac",
+        "dtxsid": "DTXSID3037703",
+        "dtxcid": "DTXCID1017703",
+        "casrn": "123342-93-8",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(OC)=NC(SC2=C(C(O)=O)C(Cl)=CC=C2)=N1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "QEGVVEOAVNHRAA-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

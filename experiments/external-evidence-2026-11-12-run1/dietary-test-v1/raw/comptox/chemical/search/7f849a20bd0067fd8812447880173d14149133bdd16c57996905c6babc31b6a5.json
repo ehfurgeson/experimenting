@@ -1,0 +1,25 @@
+{
+  "search_term": "ROHFNLRQFUQHCH-YFKPBYRVSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:31.755981+00:00",
+  "url": "/chemical/search/equal/ROHFNLRQFUQHCH-YFKPBYRVSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9023203",
+        "dtxcid": "DTXCID903203",
+        "casrn": "61-90-5",
+        "preferredName": "L-Leucine",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)C[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "ROHFNLRQFUQHCH-YFKPBYRVSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

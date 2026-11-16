@@ -1,0 +1,25 @@
+{
+  "search_term": "Dichlobenil",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:13.758965+00:00",
+  "url": "/chemical/search/equal/Dichlobenil",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5032365",
+        "dtxcid": "DTXCID3012365",
+        "casrn": "1194-65-6",
+        "preferredName": "2,6-Dichlorobenzonitrile",
+        "hasStructureImage": 1,
+        "smiles": "ClC1=CC=CC(Cl)=C1C#N",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Dichlobenil",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

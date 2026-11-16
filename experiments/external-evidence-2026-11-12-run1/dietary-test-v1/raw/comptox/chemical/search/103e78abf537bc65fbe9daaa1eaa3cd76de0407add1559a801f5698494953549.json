@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Leucine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:32.307354+00:00",
+  "url": "/chemical/search/equal/L-Leucine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9023203",
+        "dtxcid": "DTXCID903203",
+        "casrn": "61-90-5",
+        "preferredName": "L-Leucine",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)C[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Leucine",
+        "rank": 9,
+        "searchName": "Approved Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Physcion",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:39.147667+00:00",
+  "url": "/chemical/search/equal/Physcion",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Physcione",
+        "dtxsid": "DTXSID20200101",
+        "dtxcid": "DTXCID80122592",
+        "casrn": "521-61-9",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC2=C(C(O)=C1)C(=O)C1=C(C=C(C)C=C1O)C2=O",
+        "isMarkush": false,
+        "searchName": "Synonym from Valid Source",
+        "searchValue": "Physcion",
+        "rank": 11
+      }
+    ],
+    "suggestions": []
+  }
+}

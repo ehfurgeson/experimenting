@@ -1,0 +1,113 @@
+{
+  "aeid": 2532,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:40:59.258976+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/2532",
+  "status": 200,
+  "response": {
+    "aeid": 2532,
+    "assayList": [
+      {
+        "name": "Thyroid Bioactivity",
+        "description": "Assays related to the thyroid adverse outcome pathway network"
+      }
+    ],
+    "assayName": "CCTE_GLTED_hDIO2",
+    "assayComponentName": "CCTE_GLTED_hDIO2",
+    "assayComponentEndpointName": "CCTE_GLTED_hDIO2",
+    "assayComponentEndpointDesc": "Data from the assay component CCTE_GLTED_hDIO2 was analyzed into 1 assay endpoint. This assay endpoint, CCTE_GLTED_hDIO2, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of enzyme reporter, loss-of-signal activity can be used to understand changes in the enzymatic activity as they relate to the gene DIO2. Furthermore, this assay endpoint can be referred to as a primary readout, because the performed assay has only produced 1 assay endpoint. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the 'deiodinase' intended target family, where the subfamily is 'deiodinase Type 2'.",
+    "assayFunctionType": "enzymatic activity",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "xanthohumol",
+    "signalDirection": "loss",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "enzyme",
+    "intendedTargetFamily": "deiodinase",
+    "intendedTargetFamilySub": "deiodinase Type 2",
+    "cellViabilityAssay": 0,
+    "acid": 2490,
+    "assayComponentDesc": "CCTE_GLTED_hDIO2 is the assay component measured from the CCTE_GLTED_hDIO2 assay. It is designed to make measurements of enzyme activity, a form of enzyme reporter, as detected with absorbance signals by spectrophotometry.",
+    "assayComponentTargetDesc": "Deiodinase enzymes play an essential role in converting thyroid hormones between active and inactive forms by deiodinating the pro-hormone thyroxine (T4) to the active hormone triiodothyronine (T3) and modifying T4 and T3 to inactive forms. DIO2 is important for converting T4 to T3 though the removal of the 5' outer ring iodine.",
+    "parameterReadoutType": "single",
+    "assayDesignType": "enzyme reporter",
+    "assayDesignTypeSub": "enzyme activity",
+    "biologicalProcessTarget": "regulation of catalytic activity",
+    "detectionTechnologyType": "absorbance",
+    "detectionTechnologyTypeSub": "colorimetric",
+    "detectionTechnology": "spectrophotometry",
+    "keyAssayReagentType": "substrate",
+    "keyAssayReagent": "thyroxine (T4)",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "enzyme",
+    "aid": 686,
+    "assayDesc": "CCTE_GLTED_hDIO2 is a cell-free, single-readout assay designed to test the inhibitory activity of chemicals toward human iodothyronine Deiodinase type 2 (DIO2) enzyme.  Enzyme is incubated in presence of test chemical for 3 hours during which uninhibited enzyme liberates free iodide from substrate. Free iodide is measured in a second step using the Sandell-Kolthoff method.",
+    "timepointHr": 3.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "NA",
+    "cellFormat": "cell-free",
+    "cellFreeComponentSource": "HEK293 cells",
+    "cellShortName": "NA",
+    "cellGrowthMode": "NA",
+    "assayFootprint": "microplate: 96-well plate",
+    "assayFormatType": "biochemical",
+    "assayFormatTypeSub": "protein single format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 1.0,
+    "asid": 24,
+    "assaySourceName": "CCTE_GLTED",
+    "assaySourceLongName": "CCTE Great Lakes Toxicology and Ecology Division",
+    "assaySourceDesc": "The laboratories at EPA CCTE Great Lakes Toxicology and Ecology Division focus on ecotoxicology and stressors of water resources, including development and implementation of in vitro and in vivo assays.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "iodothyronine deiodinase 2",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 1734,
+        "officialSymbol": "DIO2",
+        "officialFullName": "iodothyronine deiodinase 2",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1093/toxsci/kfx27",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29228274/",
+        "pmid": 29228274,
+        "title": "Screening the ToxCast Phase 1 Chemical Library for Inhibition of Deiodinase Type 1 Activity",
+        "author": "Hornung MW, Korte JJ, Olker JH, Denny JS, Knutsen C, Hartig PC, Cardon MC, Degitz SJ",
+        "citation": "Hornung MW, Korte JJ, Olker JH, Denny JS, Knutsen C, Hartig PC, Cardon MC, Degitz SJ. Screening the ToxCast Phase 1 Chemical Library for Inhibition of Deiodinase Type 1 Activity. Toxicol Sci. 2018 Apr 1;162(2):570-581. doi: 10.1093/toxsci/kfx279. PMID: 29228274; PMCID: PMC6639810.",
+        "otherId": "NA",
+        "citationId": 238,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1093/toxsci/kfy302",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30561685/",
+        "pmid": 30561685,
+        "title": "Screening the ToxCast Phase 1, Phase 2, and e1k Chemical Libraries for Inhibitors of Iodothyronine Deiodinases",
+        "author": "Olker JH, Korte JJ, Denny JS, Hartig PC, Cardon MC, Knutsen CN, Kent PM, Christensen JP, Degitz SJ, Hornung MW",
+        "citation": "Olker JH, Korte JJ, Denny JS, Hartig PC, Cardon MC, Knutsen CN, Kent PM, Christensen JP, Degitz SJ, Hornung MW. Screening the ToxCast Phase 1, Phase 2, and e1k Chemical Libraries for Inhibitors of Iodothyronine Deiodinases. Toxicol Sci. 2019 Apr 1;168(2):430-442. doi: 10.1093/toxsci/kfy302. PMID: 30561685; PMCID: PMC6520049.",
+        "otherId": "NA",
+        "citationId": 261,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1016/j.tiv.2023.105762.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38072180/",
+        "pmid": 38072180,
+        "title": "In vitro screening of per- and polyfluorinated substances (PFAS) for interference with seven thyroid hormone system targets across nine assays.",
+        "author": "Degitz, S. J., Olker, J. H., Denny, J. S., Degoey, P. P., Hartig, P. C., Cardon, M. C., Eytcheson, S. A., Haselman, J. T., Mayasich, S. A., & Hornung, M. W.",
+        "citation": "Degitz, S. J., Olker, J. H., Denny, J. S., Degoey, P. P., Hartig, P. C., Cardon, M. C., Eytcheson, S. A., Haselman, J. T., Mayasich, S. A., & Hornung, M. W. (2024). In vitro screening of per- and polyfluorinated substances (PFAS) for interference with seven thyroid hormone system targets across nine assays. Toxicology in vitro : an international journal published in association with BIBRA, 95, 105762. https://doi.org/10.1016/j.tiv.2023.105762",
+        "otherId": "NA",
+        "citationId": 305,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

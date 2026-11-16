@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Proline",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:41.117513+00:00",
+  "url": "/chemical/search/equal/L-Proline",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5044021",
+        "dtxcid": "DTXCID3024021",
+        "casrn": "147-85-3",
+        "preferredName": "L-Proline",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)[C@@H]1CCCN1",
+        "isMarkush": false,
+        "searchValue": "L-Proline",
+        "rank": 9,
+        "searchName": "Approved Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

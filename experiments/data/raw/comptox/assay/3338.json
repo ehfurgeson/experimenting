@@ -1,0 +1,91 @@
+{
+  "aeid": 3338,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:29:33.561070+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/3338",
+  "status": 200,
+  "response": {
+    "aeid": 3338,
+    "assayList": [
+      {
+        "name": "Developmental Toxicity",
+        "description": "Assays associated with developmental toxicity"
+      }
+    ],
+    "assayName": "TOX21_KISS1R_HEK293_WT",
+    "assayComponentName": "TOX21_KISS1R_HEK293_WT",
+    "assayComponentEndpointName": "TOX21_KISS1R_HEK293_WT",
+    "assayComponentEndpointDesc": "Data from the assay component TOX21_KISS1R_HEK293_WT was analyzed into 2 assay endpoints. This assay endpoint, TOX21_KISS1R_HEK293_WT was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of inducible reporter, gain-of-signal activity can be used to understand changes in binding. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the gpcr, where the subfamily is kisspeptin receptor.",
+    "assayFunctionType": "background control",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "Kisspeptin-10",
+    "signalDirection": "gain",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "receptor",
+    "intendedTargetFamily": "gpcr",
+    "intendedTargetFamilySub": "kisspeptin receptor",
+    "cellViabilityAssay": 0,
+    "acid": 3060,
+    "assayComponentDesc": "TOX21_KISS1R_HEK293_WT is an assay component measured in the TOX21_HEK293_WT assay. It is designed to make measurements of intracellular calcium, a form of biochemical reporter, as detected with Fluorescence intensity signals by FDSS 7000EX kinetic plate reader technology.",
+    "assayComponentTargetDesc": "Both the GnRH receptor (GnRHR) and kisspeptin receptor (KISS1R) are members of the G protein-coupled receptor (GPCR) family, modulated by environmental cues. Puberty is controlled by a network of gonadotropin-releasing hormone (GnRH) neurons. The cell bodies of GnRH neurons that control reproductive function are primarily found in the arcuate nucleus (ARC, or infundibular nucleus), a part of the medial basal hypothalamus. Pulsatile secretion of GnRH stimulates cells of the anterior pituitary called gonadotropes to secrete 2 gonadotropins, follicle-stimulating hormone and luteinizing hormone, which in turn, signal the ovaries and testes to synthesize estrogen and testosterone, respectively. The neuropeptide kisspeptin is a potent stimulant of GnRH secretion. Kisspeptin-expressing neurons have receptors for glucocorticoids, leptin, and insulin, indicating that they are well-poised to modulate reproductive axis activity in response to environmental cues, such as stress and nutritional status. Activation of this GPCR is indicated by increased intracellular calcium as measured in this cell-based fluorescent reporter assay.",
+    "parameterReadoutType": "single",
+    "assayDesignType": "inducible reporter",
+    "assayDesignTypeSub": "intracellular calcium",
+    "biologicalProcessTarget": "regulation of transcription factor activity",
+    "detectionTechnologyType": "fluorescence",
+    "detectionTechnologyTypeSub": "fluorescence intensity",
+    "detectionTechnology": "FDSS 7000EX kinetic plate readerÂ ",
+    "keyAssayReagentType": "chemical",
+    "keyAssayReagent": "intracellular calcium",
+    "technologicalTargetType": "chemical",
+    "technologicalTargetTypeSub": "intracellular calcium",
+    "aid": 1070,
+    "assayDesc": "TOX21_KISS1R_HEK293_WT is a cell-based, single-readout assay that uses wild-type HEK293, a human kidney cell line, with measurements taken at 1.25 hours after chemical dosing in a 1536-well plate.",
+    "timepointHr": 1.25,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "kidney",
+    "cellFormat": "cell line",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "HEK293",
+    "cellGrowthMode": "adherent",
+    "assayFootprint": "microplate: 1536-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "cell-based format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": null,
+    "asid": 7,
+    "assaySourceName": "TOX21",
+    "assaySourceLongName": "Toxicology in the 21st Century federal research collaboration",
+    "assaySourceDesc": "The Toxicology in the 21st Century (Tox21) program aims to develop better toxicity assessment methods to quickly and efficiently test whether certain chemical compounds have the potential to disrupt processes in the human body that may lead to negative health effects. The Tox21 consortium is a federal collaboration between EPA, the National Toxicology Program (NTP) headquartered at the National Institute of Environmental Health Sciences (NIEHS), the National Center for Advancing Translational Sciences (NCATS) and the Food and Drug Administration (FDA). The NIH Chemical Genomics Center (NCGC) is the primary screening facility running ultra high-throughput screening assays across a large interagency-developed chemical library, often referred to as the Tox21 10K Library.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "KISS1 receptor",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 84634,
+        "officialSymbol": "KISS1R",
+        "officialFullName": "KISS1 receptor",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1210/endocr/bqae103",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39254333/",
+        "pmid": 39254333,
+        "title": "Identification of Environmental Compounds That May Trigger Early Female Puberty by Activating Human GnRHR and KISS1R",
+        "author": "Yang S, Zhang L, Khan K, Travers J, Huang R, Jovanovic VM, Veeramachaneni R, Sakamuru S, Tristan CA, Davis EE, Klumpp-Thomas C, Witt KL, Simeonov A, Shaw ND, Xia M.",
+        "citation": "Yang S, Zhang L, Khan K, Travers J, Huang R, Jovanovic VM, Veeramachaneni R, Sakamuru S, Tristan CA, Davis EE, Klumpp-Thomas C, Witt KL, Simeonov A, Shaw ND, Xia M. Identification of Environmental Compounds That May Trigger Early Female Puberty by Activating Human GnRHR and KISS1R. Endocrinology. 2024 Aug 27;165(10):bqae103. doi: 10.1210/endocr/bqae103. PMID: 39254333; PMCID: PMC11384912.",
+        "otherId": "NA",
+        "citationId": 476,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

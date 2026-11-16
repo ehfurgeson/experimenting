@@ -1,0 +1,25 @@
+{
+  "search_term": "AYFVYJQAPQTCCC-GBXIJSLDSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:44.955070+00:00",
+  "url": "/chemical/search/equal/AYFVYJQAPQTCCC-GBXIJSLDSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2046412",
+        "dtxcid": "DTXCID0026412",
+        "casrn": "72-19-5",
+        "preferredName": "L-Threonine",
+        "hasStructureImage": 1,
+        "smiles": "C[C@@H](O)[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "AYFVYJQAPQTCCC-GBXIJSLDSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

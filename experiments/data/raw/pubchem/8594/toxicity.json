@@ -1,0 +1,1174 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 8594,
+    "RecordTitle": "Naptalam",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Group D Not Classifiable as to Human Carcinogenicity"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134974226"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) > 2,070 mg/m3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598",
+                            "Matched": {
+                              "PCLID": 900075308,
+                              "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit percutaneous > 2000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598",
+                            "Matched": {
+                              "PCLID": 900075308,
+                              "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 Rat inhalation > 2.07 mg/l"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598",
+                            "Matched": {
+                              "PCLID": 900075308,
+                              "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 1770 mg/kg /Naptalam-sodium/",
+                              "Markup": [
+                                {
+                                  "Start": 26,
+                                  "Length": 15,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Naptalam-sodium",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-23690427"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-337"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-337",
+                            "Matched": {
+                              "PCLID": 900002933,
+                              "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-337"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral > 8.5 g/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Moore JD, Banks PA; Weed Sci 39 (4): 614-21 (1991)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Moore JD, Banks PA; Weed Sci 39 (4): 614-21 (1991)",
+                        "Matched": {
+                          "PCLID": 619911336,
+                          "Citation": "Moore JD, Banks PA. Interactions of Foliarly Applied Herbicides on Three Weed Species in Peanut (<i>Arachis hypogaea</i>). Weed sci. 1991 Dec;39(4):614–21. doi: 10.1017/s0043174500088469.",
+                          "DOI": "10.1017/s0043174500088469"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In the greenhouse, naptalamat 1.1 to 4.5 kg ai/ha antagonized activity of paraquat at 0.04 to 0.14 kg ai/ha in 14 of 16 rate combinations when applied to sicklepod. Sicklepod shoot fresh weight reduction was less compared to that obtained with paraquat alone when paraquat at 0.04 kg/ha was mixed with bentazon at 0.42 to 0.84 kg ai/ha or monocarbamide dihydrogensulfate at 14 to 58 kg ai/ha. Paraquat activity on Florida beggarweed was antagonized by mixtures of paraquat at 0.04 to 0.14 kg/ha with naptalam at 3.4 or 4.5 kg/ha.",
+                          "Markup": [
+                            {
+                              "Start": 74,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/paraquat",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-15939"
+                            },
+                            {
+                              "Start": 244,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/paraquat",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-15939"
+                            },
+                            {
+                              "Start": 264,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/paraquat",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-15939"
+                            },
+                            {
+                              "Start": 302,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bentazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2328"
+                            },
+                            {
+                              "Start": 339,
+                              "Length": 31,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/monocarbamide%20dihydrogensulfate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-159909"
+                            },
+                            {
+                              "Start": 393,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Paraquat",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-15939"
+                            },
+                            {
+                              "Start": 464,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/paraquat",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-15939"
+                            },
+                            {
+                              "Start": 500,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/naptalam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Knerr LD et al; Weed Sci 39 (1): 27-32 (1991)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Knerr LD et al; Weed Sci 39 (1): 27-32 (1991)",
+                        "Matched": {
+                          "PCLID": 900006809,
+                          "Citation": "Knerr LD et al; Weed Sci 39 (1): 27-32 (1991)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Laboratory studies demonstrated that naptalam safens cucumber against the phytotoxic effects of chloramben. In petri dish studies, cucumber seedlings grown from seeds exposed to chloramben plus naptalam had greater shoot growth, root growth, and dry weight than seedlings grown from seeds exposed to chloramben alone. Naptalam also partially reversed the reduction in dry weight of various plant parts caused by exposure of roots of hydroponically grown seedlings to chloramben. More radioactivity from root-applied (14)C chloramben remained in cucumber roots and less was translocated to shoots wih a (14)C chloramben plus naptalam treatment than with a (14)C chloramben alone treatment. Naptalam appeared to influence chloramben metabolism. In various plant parts, concn of chloramben and its metabolites differed between the two treatments.",
+                          "Markup": [
+                            {
+                              "Start": 37,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/naptalam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            },
+                            {
+                              "Start": 96,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloramben",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8630"
+                            },
+                            {
+                              "Start": 178,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloramben",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8630"
+                            },
+                            {
+                              "Start": 194,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/naptalam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            },
+                            {
+                              "Start": 300,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloramben",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8630"
+                            },
+                            {
+                              "Start": 318,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Naptalam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            },
+                            {
+                              "Start": 467,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloramben",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8630"
+                            },
+                            {
+                              "Start": 522,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloramben",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8630"
+                            },
+                            {
+                              "Start": 608,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloramben",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8630"
+                            },
+                            {
+                              "Start": 624,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/naptalam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            },
+                            {
+                              "Start": 661,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloramben",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8630"
+                            },
+                            {
+                              "Start": 689,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Naptalam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            },
+                            {
+                              "Start": 720,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloramben",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8630"
+                            },
+                            {
+                              "Start": 776,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloramben",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8630"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 830"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 830",
+                        "Matched": {
+                          "PCLID": 900072794,
+                          "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 830"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "INHALATION HAS BEEN REPORTED TO CAUSE SLIGHT IRRITATION."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-337"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-337",
+                        "Matched": {
+                          "PCLID": 900002933,
+                          "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-337"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NO SKIN IRRITATION DESCRIBED IN MAN ... ."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Purdue University; National Pesticide Information Retrieval System (1986)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Purdue University; National Pesticide Information Retrieval System (1986)",
+                        "Matched": {
+                          "PCLID": 900073268,
+                          "Citation": "Purdue University; National Pesticide Information Retrieval System (1986)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hazards to humans statement: DANGER. Harmful if swallowed. Corrosive. Causes irreversible eye damage. Do not get in eyes or on clothing."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-337"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-337",
+                        "Matched": {
+                          "PCLID": 900002933,
+                          "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-337"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... LOW ACUTE TOXICITY IN RATS ... NO SKIN IRRITATION DESCRIBED IN ... ANIMALS."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342",
+                        "Matched": {
+                          "PCLID": 900068053,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SUBACUTE TOXICITY: 90 DAY FEEDING STUDY SHOWED NO ADVERSE EFFECTS @ 1000 PPM IN DAILY DIET OF RATS & NO ADVERSE EFFECT LEVEL OF GREATER THAN 5000 PPM IN DAILY DIET OF DOGS."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hayes, W. J., Jr. Toxicology of Pesticides Baltimore: Williams & Wilkins, 1975., p. 193"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hayes, W. J., Jr. Toxicology of Pesticides Baltimore: Williams & Wilkins, 1975., p. 193",
+                        "Matched": {
+                          "PCLID": 900120914,
+                          "Citation": "Hayes, W. J., Jr. Toxicology of Pesticides Baltimore: Williams & Wilkins, 1975., p. 193"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NAPTALAM WAS NOT TUMORIGENIC WHEN ADMIN ORALLY TO MICE (64-215 MG/KG/DAY). /FROM TABLE/",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NAPTALAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "FICSOR G, NII LO PICCOLO GM; NEWSLETT ENVIRON MUTAGEN SOC 6: 6-8 (1972)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "FICSOR G, NII LO PICCOLO GM; NEWSLETT ENVIRON MUTAGEN SOC 6: 6-8 (1972)",
+                        "Matched": {
+                          "PCLID": 900089277,
+                          "Citation": "FICSOR G, NII LO PICCOLO GM; NEWSLETT ENVIRON MUTAGEN SOC 6: 6-8 (1972)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NO EVIDENCE OF MUTAGENICITY TO ESCHERICHIA COLI WAS FOUND FOR A VARIETY OF COMMERCIAL PRODUCTS INCL NAPTALAM.",
+                          "Markup": [
+                            {
+                              "Start": 100,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NAPTALAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for NAPTALAM (11 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 95,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1742#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NAPTALAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 11
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598",
+                        "Matched": {
+                          "PCLID": 900075308,
+                          "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Anas platyrhynchos (Mallard) oral > 10000 mg/kg/8 days"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598",
+                        "Matched": {
+                          "PCLID": 900075308,
+                          "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Colinus virginianus (Bobwhite quail) oral > 10000 mg/kg/8 days"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598",
+                        "Matched": {
+                          "PCLID": 900075308,
+                          "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Lepomis macrochirus (Bluegill) 354 mg/l/96 hr"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598",
+                        "Matched": {
+                          "PCLID": 900075308,
+                          "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 598"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Salmo gairdneri (Rainbow trout) 76 mg/l/96 hr"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A293/Aug 87"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A293/Aug 87",
+                        "Matched": {
+                          "PCLID": 900006144,
+                          "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A293/Aug 87"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Terrestrial Fate: In ... soil, degradation to 1-naphthylamine and phthalic acid.",
+                          "Markup": [
+                            {
+                              "Start": 46,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1-naphthylamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8640"
+                            },
+                            {
+                              "Start": 66,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phthalic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1017"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "YAKLICH RW ET AL; PROC NORTHEAST WEED SCI SOC 26: 293-6 (1972)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "YAKLICH RW ET AL; PROC NORTHEAST WEED SCI SOC 26: 293-6 (1972)",
+                        "Matched": {
+                          "PCLID": 900037725,
+                          "Citation": "YAKLICH RW ET AL; PROC NORTHEAST WEED SCI SOC 26: 293-6 (1972)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: THE ANNUAL APPLICATION OF NAPTALAM TO CRANBERRY BOGS RESULTED IN A BUILD-UP OF NAPTALAM IN BOG SOIL. THE BOG SOILS THAT HAD RECEIVED ANNUAL APPLICATIONS OF 8-12 LB NAPTALAM/ACRE SHOWED THE MOST RESIDUE AT THE 0-4 INCH DEPTHS. FOR 8-10 LB NAPTALAM/ACRE, A STEADY STATE BETWEEN THE PERSISTENCE & BREAKDOWN OF NAPTALAM WAS REACHED AFTER 2 YEARS.",
+                          "Markup": [
+                            {
+                              "Start": 44,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NAPTALAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            },
+                            {
+                              "Start": 97,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NAPTALAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            },
+                            {
+                              "Start": 182,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NAPTALAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            },
+                            {
+                              "Start": 256,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NAPTALAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            },
+                            {
+                              "Start": 325,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NAPTALAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342",
+                        "Matched": {
+                          "PCLID": 900068053,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SUBJECT TO SLOW MICROBIAL BREAKDOWN."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342",
+                        "Matched": {
+                          "PCLID": 900068053,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... Photo-stable /in soil/."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:7379718",
+                      "Kenaga EE; Ecotoxicology and Environmental Safety 4: 26-38 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:7379718",
+                        "Matched": {
+                          "PCLID": 9073457,
+                          "Citation": "Kenaga EE. Predicted bioconcentration factors and soil sorption coefficients of pesticides and other chemicals. Ecotoxicology and Environmental Safety. 1980 Mar;4(1):26–38. doi: 10.1016/0147-6513(80)90005-6.",
+                          "PMID": 7379718,
+                          "DOI": "10.1016/0147-6513(80)90005-6"
+                        }
+                      },
+                      {
+                        "Citation": "Kenaga EE; Ecotoxicology and Environmental Safety 4: 26-38 (1980)",
+                        "Matched": {
+                          "PCLID": 9073457,
+                          "Citation": "Kenaga EE. Predicted bioconcentration factors and soil sorption coefficients of pesticides and other chemicals. Ecotoxicology and Environmental Safety. 1980 Mar;4(1):26–38. doi: 10.1016/0147-6513(80)90005-6.",
+                          "PMID": 7379718,
+                          "DOI": "10.1016/0147-6513(80)90005-6"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "BCF = 0.5 (calculated from water solubility by regression equations) /From table/",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342",
+                        "Matched": {
+                          "PCLID": 900068053,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LEACHES RAPIDLY IN HIGHLY POROUS OR SILT LOAM SOILS OF EXTREMELY FINE TEXTURE. HEAVY RAINS IMMEDIATELY AFTER APPLICATION WILL CAUSE ... LEACHING ... ."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:7379718",
+                      "Kenaga EE; Ecotoxicology and Environmental Safety 4: 26-38 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:7379718",
+                        "Matched": {
+                          "PCLID": 9073457,
+                          "Citation": "Kenaga EE. Predicted bioconcentration factors and soil sorption coefficients of pesticides and other chemicals. Ecotoxicology and Environmental Safety. 1980 Mar;4(1):26–38. doi: 10.1016/0147-6513(80)90005-6.",
+                          "PMID": 7379718,
+                          "DOI": "10.1016/0147-6513(80)90005-6"
+                        }
+                      },
+                      {
+                        "Citation": "Kenaga EE; Ecotoxicology and Environmental Safety 4: 26-38 (1980)",
+                        "Matched": {
+                          "PCLID": 9073457,
+                          "Citation": "Kenaga EE. Predicted bioconcentration factors and soil sorption coefficients of pesticides and other chemicals. Ecotoxicology and Environmental Safety. 1980 Mar;4(1):26–38. doi: 10.1016/0147-6513(80)90005-6.",
+                          "PMID": 7379718,
+                          "DOI": "10.1016/0147-6513(80)90005-6"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Koc = 4 (calculated from water solubility by regression equations) /From table/",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Purdue University; National Pesticide Information Retrieval System (1986)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Purdue University; National Pesticide Information Retrieval System (1986)",
+                        "Matched": {
+                          "PCLID": 900073268,
+                          "Citation": "Purdue University; National Pesticide Information Retrieval System (1986)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Terrestrial Fate: Absorption and leaching characteristics: Incomplete data indicate that naptalam is very mobile in a fine sand, a sandy loam, and a silt loam soil, and slightly mobile in muck soil. Retention of naptalam by soil is correlated with /cation exchange capacity/ CEC and organic matter content.",
+                          "Markup": [
+                            {
+                              "Start": 89,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/naptalam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            },
+                            {
+                              "Start": 212,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/naptalam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8594"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342",
+                        "Matched": {
+                          "PCLID": 900068053,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 342"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NON-VOLATILE /IN SOIL/ ..."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134974226",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000132661",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19465613
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID8594",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125945
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID6032437",
+        "Name": "Naptalam",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57023392
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz6299",
+        "Name": "Naptalam",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17279878
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "1742",
+        "Name": "NAPTALAM",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1742",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 1441
+      }
+    ]
+  }
+}

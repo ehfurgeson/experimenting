@@ -1,0 +1,69 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 68346,
+    "RecordTitle": "Artemisia ketone",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^3,3,6-Trimethylhepta-1,5-dien-4-one$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^3,3,6-Trimethylhepta-1,5-dien-4-one$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^3,3,6-Trimethylhepta-1,5-dien-4-one$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "6f8be4d7c9066b8d64aa8638e7ad5216",
+        "Name": "3,3,6-Trimethylhepta-1,5-dien-4-one",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49736742
+      }
+    ]
+  }
+}

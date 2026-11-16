@@ -1,0 +1,34 @@
+{
+  "scope": "Two declared experimental X-ray complexes; no affinity model or human-approved origin/activity labels",
+  "records": [
+    {
+      "interaction_id": "BINDING-1KMH-TTX-v1",
+      "pdb_id": "1KMH",
+      "ligand_component_id": "TTX",
+      "parent_name": "tentoxin",
+      "parent_snapshot": "tentoxin_pubchem.json",
+      "parent_bound_relationship": "exact_parent",
+      "target_entity_ids": ["1", "2"],
+      "primary_doi": "10.1073/pnas.052546099",
+      "primary_source_file": "tentoxin_primary.html",
+      "source_locator": "RCSB 1KMH; primary paper Results: Tentoxin-Binding Site at alpha/beta Interface; methods and Table1",
+      "natural_product_context": "The primary binding paper describes tentoxin as a natural Alternaria cyclic tetrapeptide. Original isolation/occurrence and manufacturing origin are not independently adjudicated here.",
+      "limits": "3.4 A reported resolution; deposited experimental-data availability flag N; no deposited structure-factor re-refinement performed. Alpha/beta entity sequences are deposited constructs; other purified-complex subunits are not claimed modeled. Paper binding-site residues are author interpretations rather than new contact calculations. No Kd/Ki or universal plant selectivity inferred."
+    },
+    {
+      "interaction_id": "BINDING-8CI0-UP0-v1",
+      "pdb_id": "8CI0",
+      "ligand_component_id": "UP0",
+      "parent_name": "(+)-cornexistin",
+      "parent_snapshot": "cornexistin_pubchem.json",
+      "parent_bound_relationship": "source_reported_anhydride_hydrolysis",
+      "relationship_locator": "Primary paper section2.1 and Figures2/3: hydrolyzed diacid form; RCSB entry title and UP0 component definition",
+      "target_entity_ids": ["1"],
+      "primary_doi": "10.1002/chem.202300199",
+      "primary_source_file": "cornexistin_primary.html",
+      "source_locator": "RCSB8CI0 UP0 inhibitor entity4; primary paper co-crystal structure and mode-of-action discussion",
+      "natural_product_context": "Primary paper introduction cites original1991 isolation of cornexistin from Paecilomyces variotii SANK21086. Original isolation source has not been independently reviewed in this pilot; the bound diacid is not automatically a separate naturally isolated compound.",
+      "limits": "Bound UP0 is hydrolyzed C16H22O7 rather than parent C16H20O6. Connectivity is checked by anhydride opening without erasing the two exact InChIKeys; geometry/stereochemical relation still needs source review. 8EL is a thiamine-related cofactor and is not the inhibitor. Protein source Zea mays differs from E.coli expression host. Crop-protein structure does not establish weed-target efficacy or organism safety; affinity fields remain unknown."
+    }
+  ]
+}

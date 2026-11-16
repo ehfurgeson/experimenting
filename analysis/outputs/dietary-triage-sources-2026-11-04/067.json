@@ -1,0 +1,9 @@
+{
+  "key": "food:https://www.ecfr.gov/current/title-21/section-172.395",
+  "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title21-vol3/xml/CFR-2025-title21-vol3-sec172-395.xml",
+  "kind": "annual_cfr_2025_xml",
+  "retrieved_at": "2026-11-04T23:31:12.574914+00:00",
+  "status": 200,
+  "body": "<?xml version=\"1.0\"?>\n<?xml-stylesheet type=\"text/xsl\" href=\"cfr.xsl\"?>\n<CFRGRANULE xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"CFRMergedXML.xsd\">\n    <FDSYS>\n        <CFRTITLE>21</CFRTITLE>\n        <CFRTITLETEXT>Food and Drugs</CFRTITLETEXT>\n        <VOL>3</VOL>\n        <DATE>2025-04-01</DATE>\n        <COVERONLY>false</COVERONLY>\n        <ORIGINALDATE>2025-04-01</ORIGINALDATE>\n        <ANCESTORS>\n            <PARENT HEADING=\"Title 21\" SEQ=\"4\">Food and Drugs</PARENT>\n            <PARENT HEADING=\"CHAPTER I\" SEQ=\"3\">FOOD AND DRUG ADMINISTRATION, DEPARTMENT OF HEALTH AND HUMAN SERVICES (CONTINUED)</PARENT>\n            <PARENT HEADING=\"SUBCHAPTER B\" SEQ=\"2\">FOOD FOR HUMAN CONSUMPTION (CONTINUED)</PARENT>\n            <PARENT HEADING=\"PART 172\" SEQ=\"1\">FOOD ADDITIVES PERMITTED FOR DIRECT ADDITION TO FOOD FOR HUMAN CONSUMPTION</PARENT>\n            <PARENT HEADING=\"Subpart D\" SEQ=\"0\">Special Dietary and Nutritional Additives</PARENT>\n        </ANCESTORS>\n    </FDSYS>\n    <SECTION>\n        <SECTNO>\u00a7\u2009172.395</SECTNO>\n        <SUBJECT>Xylitol.</SUBJECT>\n        <P>Xylitol may be safely used in foods for special dietary uses, provided the amount used is not greater than that required to produce its intended effect.</P>\n    </SECTION>\n</CFRGRANULE>\n",
+  "error": null
+}

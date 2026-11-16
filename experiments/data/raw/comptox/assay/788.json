@@ -1,0 +1,102 @@
+{
+  "aeid": 788,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:37:31.081943+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/788",
+  "status": 200,
+  "response": {
+    "aeid": 788,
+    "assayList": [
+      {
+        "name": "ToxCast ER Pathway Model",
+        "description": "Estrogen receptor assays used in ToxCast ER Pathway model. See 10.1093/toxsci/kfv168"
+      }
+    ],
+    "assayName": "TOX21_ERa_LUC_VM7_Agonist",
+    "assayComponentName": "TOX21_ERa_LUC_VM7_Agonist",
+    "assayComponentEndpointName": "TOX21_ERa_LUC_VM7_Agonist",
+    "assayComponentEndpointDesc": "Data from the assay component TOX21_ERa_LUC_VM7_Agonist was analyzed into 1 assay endpoint. This assay endpoint, TOX21_ERa_LUC_VM7_Agonist, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of inducible reporter, gain-of-signal activity can be used to understand changes in the reporter gene as they relate to the gene ESR1. Furthermore, this assay endpoint can be referred to as a primary readout, because the performed assay has only produced 1 assay endpoint. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the nuclear receptor intended target family, where the subfamily is steroidal.",
+    "assayFunctionType": "agonist",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "17b-Estradiol",
+    "signalDirection": "gain",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "receptor",
+    "intendedTargetFamily": "nuclear receptor",
+    "intendedTargetFamilySub": "steroidal",
+    "cellViabilityAssay": 0,
+    "acid": 525,
+    "assayComponentDesc": "TOX21_ERa_LUC_VM7_Agonist is one of one assay component(s) measured or calculated from the TOX21_ERa_LUC_VM7_Agonist assay. It is designed to make measurements of luciferase induction, a form of inducible reporter, as detected with bioluminescence signals by CellTiter-Glo Luciferase-coupled ATP quantitation technology.",
+    "assayComponentTargetDesc": "TOX21_ERa_LUC_VM7_Agonist was designed to measure changes to bioluminescence signals produced from an enzymatic reaction involving the key substrate [One-Glo]. Changes are indicative of changes in transcriptional gene expression due to agonist activity regulated by the human estrogen receptor 1 [GeneSymbol:ESR1 | GeneID:2099 | Uniprot_SwissProt_Accession:P03372].",
+    "parameterReadoutType": "single",
+    "assayDesignType": "inducible reporter",
+    "assayDesignTypeSub": "luciferase induction",
+    "biologicalProcessTarget": "regulation of transcription factor activity",
+    "detectionTechnologyType": "luminescence",
+    "detectionTechnologyTypeSub": "bioluminescence",
+    "detectionTechnology": "CellTiter-Glo Luciferase-coupled ATP quantitation",
+    "keyAssayReagentType": "substrate",
+    "keyAssayReagent": "One-Glo",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "receptor",
+    "aid": 320,
+    "assayDesc": "TOX21_ERa_LUC_VM7_Agonist is a cell-based, single-readout assay that uses VM7, a human breast tissue cell line, with measurements taken at 22 hours after chemical dosing in a 1536-well plate. See tox21-er-luc-bg1-4e2-agonist-p2.",
+    "timepointHr": 22.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "breast",
+    "cellFormat": "cell line",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "VM7",
+    "cellGrowthMode": "adherent",
+    "assayFootprint": "microplate: 1536-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "cell-based format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 1.0,
+    "asid": 7,
+    "assaySourceName": "TOX21",
+    "assaySourceLongName": "Toxicology in the 21st Century federal research collaboration",
+    "assaySourceDesc": "The Toxicology in the 21st Century (Tox21) program aims to develop better toxicity assessment methods to quickly and efficiently test whether certain chemical compounds have the potential to disrupt processes in the human body that may lead to negative health effects. The Tox21 consortium is a federal collaboration between EPA, the National Toxicology Program (NTP) headquartered at the National Institute of Environmental Health Sciences (NIEHS), the National Center for Advancing Translational Sciences (NCATS) and the Food and Drug Administration (FDA). The NIH Chemical Genomics Center (NCGC) is the primary screening facility running ultra high-throughput screening assays across a large interagency-developed chemical library, often referred to as the Tox21 10K Library.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "estrogen receptor 1",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 2099,
+        "officialSymbol": "ESR1",
+        "officialFullName": "estrogen receptor 1",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1093/toxsci/kfv168",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26272952/",
+        "pmid": 26272952,
+        "title": "Integrated Model of Chemical Perturbations of a Biological Pathway Using 18 In Vitro High-Throughput Screening Assays for the Estrogen Receptor",
+        "author": "Judson RS, Magpantay FM, Chickarmane V, Haskell C, Tania N, Taylor J, Xia M, Huang R, Rotroff DM, Filer DL, Houck KA, Martin MT, Sipes N, Richard AM, Mansouri K, Setzer RW, Knudsen TB, Crofton KM, Thomas RS",
+        "citation": "Judson RS, Magpantay FM, Chickarmane V, Haskell C, Tania N, Taylor J, Xia M, Huang R, Rotroff DM, Filer DL, Houck KA, Martin MT, Sipes N, Richard AM, Mansouri K, Setzer RW, Knudsen TB, Crofton KM, Thomas RS. Integrated Model of Chemical Perturbations of a Biological Pathway Using 18 In Vitro High-Throughput Screening Assays for the Estrogen Receptor. Toxicol Sci. 2015 Nov;148(1):137-54. doi: 10.1093/toxsci/kfv168. Epub 2015 Aug 13. PMID: 26272952; PMCID: PMC4635633.",
+        "otherId": "NA",
+        "citationId": 277,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1038/srep05664",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25012808/",
+        "pmid": 25012808,
+        "title": "Profiling of the Tox21 10K compound library for agonists and antagonists of the estrogen receptor alpha signaling pathway",
+        "author": "Huang R, Sakamuru S, Martin MT, Reif DM, Judson RS, Houck KA, Casey W, Hsieh JH, Shockley KR, Ceger P, Fostel J, Witt KL, Tong W, Rotroff DM, Zhao T, Shinn P, Simeonov A, Dix DJ, Austin CP, Kavlock RJ, Tice RR, Xia M",
+        "citation": "Huang R, Sakamuru S, Martin MT, Reif DM, Judson RS, Houck KA, Casey W, Hsieh JH, Shockley KR, Ceger P, Fostel J, Witt KL, Tong W, Rotroff DM, Zhao T, Shinn P, Simeonov A, Dix DJ, Austin CP, Kavlock RJ, Tice RR, Xia M. Profiling of the Tox21 10K compound library for agonists and antagonists of the estrogen receptor alpha signaling pathway. Sci Rep. 2014 Jul 11;4:5664. doi: 10.1038/srep05664. PMID: 25012808; PMCID: PMC4092345.",
+        "otherId": "NA",
+        "citationId": 258,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

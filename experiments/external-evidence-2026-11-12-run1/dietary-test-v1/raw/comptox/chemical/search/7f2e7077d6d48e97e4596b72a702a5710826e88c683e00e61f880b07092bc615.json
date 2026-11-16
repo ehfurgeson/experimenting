@@ -1,0 +1,25 @@
+{
+  "search_term": "Sucrose",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:01.074829+00:00",
+  "url": "/chemical/search/equal/Sucrose",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2021288",
+        "dtxcid": "DTXCID101288",
+        "casrn": "57-50-1",
+        "preferredName": "Sucrose",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@H]1O[C@@](CO)(O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@@H](O)[C@@H]1O",
+        "isMarkush": false,
+        "searchValue": "Sucrose",
+        "rank": 9,
+        "searchName": "Approved Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

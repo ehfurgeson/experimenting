@@ -1,0 +1,25 @@
+{
+  "search_term": "Di(2-ethylhexyl) phthalate",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:54.406288+00:00",
+  "url": "/chemical/search/equal/Di(2-ethylhexyl) phthalate",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5020607",
+        "dtxcid": "DTXCID70607",
+        "casrn": "117-81-7",
+        "preferredName": "Di(2-ethylhexyl) phthalate",
+        "hasStructureImage": 1,
+        "smiles": "CCCCC(CC)COC(=O)C1=C(C=CC=C1)C(=O)OCC(CC)CCCC",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Di(2-ethylhexyl) phthalate",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

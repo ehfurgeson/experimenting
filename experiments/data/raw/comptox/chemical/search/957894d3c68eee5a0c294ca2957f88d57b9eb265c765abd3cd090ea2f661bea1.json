@@ -1,0 +1,25 @@
+{
+  "search_term": "Azadirachtin",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:30.666077+00:00",
+  "url": "/chemical/search/equal/Azadirachtin",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0037497",
+        "dtxcid": "DTXCID8017497",
+        "casrn": "11141-17-6",
+        "preferredName": "Azadirachtin",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@@]12OC=C[C@]1(O)[C@@H]1C[C@H](O2)[C@]2(O[C@@]12C)[C@]1(C)[C@H](O)[C@]2([H])OC[C@@]3([C@@H](C[C@H](OC(=O)C(\\C)=C\\C)[C@@]4(CO[C@](O)(C(=O)OC)[C@@]14[H])[C@@]23[H])OC(C)=O)C(=O)OC",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Azadirachtin",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

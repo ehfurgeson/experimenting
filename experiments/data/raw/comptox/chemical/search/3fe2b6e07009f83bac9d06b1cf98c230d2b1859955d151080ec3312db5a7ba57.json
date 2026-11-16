@@ -1,0 +1,25 @@
+{
+  "search_term": "KQPYUDDGWXQXHS-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:23.622106+00:00",
+  "url": "/chemical/search/equal/KQPYUDDGWXQXHS-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0031504",
+        "dtxcid": "DTXCID8011504",
+        "casrn": "481-39-0",
+        "preferredName": "Juglone",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC=CC2=C1C(=O)C=CC2=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KQPYUDDGWXQXHS-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

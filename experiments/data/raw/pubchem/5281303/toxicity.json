@@ -1,0 +1,1795 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 5281303,
+    "RecordTitle": "Azadirachtin",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Neurotoxin - Other CNS neurotoxin"
+                        },
+                        {
+                          "String": "Skin Sensitizer - An agent that can induce an allergic reaction in the skin."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-30"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-30",
+                            "Matched": {
+                              "PCLID": 900157218,
+                              "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-30"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral >5000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-30"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-30",
+                            "Matched": {
+                              "PCLID": 900157218,
+                              "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-30"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit oral >2000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin CDS, ed. Azadirachtin (11141-17-6). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin CDS, ed. Azadirachtin (11141-17-6). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 906271133,
+                              "Citation": "Tomlin CDS, ed. Azadirachtin (11141-17-6). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit dermal >2000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132",
+                            "Matched": {
+                              "PCLID": 900096583,
+                              "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse oral 13 mg/kg /Neem extract/"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 63"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 63",
+                        "Matched": {
+                          "PCLID": 900057120,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 63"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Skin decontamination: If skin contamination occurs, the skin should be thoroughly washed with soap and water.",
+                          "Markup": [
+                            {
+                              "Start": 103,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 63"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 63",
+                        "Matched": {
+                          "PCLID": 900057120,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 63"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gastrointestinal decontamination: Due to the severe gastrointestinal irritation, gastric emptying and catharsis are not indicated. Consideration should be given to administration of activated charcoal...",
+                          "Markup": [
+                            {
+                              "Start": 192,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139",
+                        "Matched": {
+                          "PCLID": 900120265,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Basic treatment: Establish a patent airway. Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with normal saline during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 ml/kg up to 200 ml of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poison A and B/",
+                          "Markup": [
+                            {
+                              "Start": 157,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 409,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 452,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/normal%20saline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5234"
+                            },
+                            {
+                              "Start": 575,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139",
+                        "Matched": {
+                          "PCLID": 900120265,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in respiratory arrest. Positive pressure ventilation techniques with a bag valve mask device may be beneficial. Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start an IV with D5W /SRP: \"To keep open\", minimal flow rate/. Use lactated Ringer's if signs of hypovolemia are present. Watch for signs of fluid overload. Consider drug therapy for pulmonary edema ... . For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam (Valium) ... . Use proparacaine hydrochloride to assist eye irrigation ... . /Poison A and B/",
+                          "Markup": [
+                            {
+                              "Start": 669,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 679,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 697,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132",
+                        "Matched": {
+                          "PCLID": 900096583,
+                          "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SIGNS AND SYMPTOMS/  Neem seed oil produced occasional diarrhea, nausea, and general discomfort when given orally as an anthelmintic. /Neem seed oil/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132",
+                        "Matched": {
+                          "PCLID": 900096583,
+                          "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SIGNS AND SYMPTOMS/  ... 13, including 2 fatal, poisoning cases due to neem seed (margosa) oil, a traditional remedy in India and Malaysia, /were reported/. Five to ten milliliters of the oil given orally to children against minor ailments caused vomiting, drowsiness, tachypnea with acidotic respiration, and polymorphonuclear leukocytosis, and encephalopathy developed within hours of ingestion. Seizures, associated with coma, developed in some cases. Autopsy demonstrated pronounced fatty acid infiltration of the liver and proximal renal tubules, with mitochondrial damage, and cerebral edema, changes consistent with Reye's syndrome."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132",
+                        "Matched": {
+                          "PCLID": 900096583,
+                          "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/  Methanolic extracts of neem leaf and bark /in mice caused/.... discomfort, gastrointestinal spasms, loss of appetite, hypothermia, and, ultimately, convulsion leading to death within 24 hr. /Neem extract/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132",
+                        "Matched": {
+                          "PCLID": 900096583,
+                          "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  The subacute toxicity of Vepacide, an enriched neem oil-based preparation containing 12% azadirachtin..., upon oral administration of 80, 160, and 320 mg/kg daily insecticide doses for 90 days was studied in male rats. On the 90th day, the high and medium doses caused significant decreases in (1) cytochrome P-450 concentrations in the liver, lungs, and kidneys but not the brain; (2) cytochrome b5 in the brain; and (3) cytochrome P-450 reductase level in the liver and brain. The highest dose also caused 10% mortality; the medium dose elicited toxic signs, including behavioral abnormalities, lacrymation, reduced feeding, and loss in body weight. No toxicity was seen for the low dose. The toxic symptoms disappeared by the 28th day after cessation of treatment.",
+                          "Markup": [
+                            {
+                              "Start": 146,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132",
+                        "Matched": {
+                          "PCLID": 900096583,
+                          "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Oral administration of neem seed extract to female rats from days 8 to 10 of the pregnancy caused complete resorption of embryos by day 15 of pregnancy and the animals regained fertility in cycles subsequent to treatment. Single intrauterine administration of 100 uL neem oil caused lasting infertility by apparent induction of leukocytic infiltration in the uterine epithelium during the preimplantation period (between days 3 and 5 postcoitum). Fertility was regained 5 months after treatment without apparent teratogenic effects."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132",
+                        "Matched": {
+                          "PCLID": 900096583,
+                          "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 1, 2nd ed. 2001. Academic Press, San Diego, California., p. 132"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/  ... Daily oral doses of neem leaf extract to male mice and rats did not affect normal development but caused reversible infertility. Spermatogenesis was not affected and the observed infertility was attributed to the decreased motility of the spermatozoa. The extract, however, was toxic to guinea pigs and rabbits. By contrast, neem seed kernel extracts lacked activity in a similar test with rats. /Neem extract/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for AZADIRACHTIN (11 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 99,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7372#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/AZADIRACHTIN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 4
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Punzo F; Florida Scientist 60 (3): 158-65 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Punzo F; Florida Scientist 60 (3): 158-65 (1997)",
+                        "Matched": {
+                          "PCLID": 906295841,
+                          "Citation": "Punzo F; Florida Scientist 60 (3): 158-65 (1997)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Bufo quercus (Oak toad, tadpoles- stage 12) 4.41 mg/L/96 hr (95% confidence interval: 3.9-4.6 mg/L) /Conditions of bioassay not specified in source examined/ /formulated product/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Punzo F; Florida Scientist 60 (3): 158-65 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Punzo F; Florida Scientist 60 (3): 158-65 (1997)",
+                        "Matched": {
+                          "PCLID": 906295841,
+                          "Citation": "Punzo F; Florida Scientist 60 (3): 158-65 (1997)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Bufo quercus (Oak toad, tadpoles- stage 16) 4.39 mg/L/96 hr (95% confidence interval: 3.7-4.5 mg/L) /Conditions of bioassay not specified in source examined/ /formulated product/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Punzo F; Florida Scientist 60 (3): 158-65 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Punzo F; Florida Scientist 60 (3): 158-65 (1997)",
+                        "Matched": {
+                          "PCLID": 906295841,
+                          "Citation": "Punzo F; Florida Scientist 60 (3): 158-65 (1997)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Bufo quercus (Oak toad, tadpoles- stage 20) 6.12 mg/L/96 hr (95% confidence interval: 5.8-6.2 mg/L) /Conditions of bioassay not specified in source examined/ /formulated product/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Punzo F; Florida Scientist 60 (3): 158-65 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Punzo F; Florida Scientist 60 (3): 158-65 (1997)",
+                        "Matched": {
+                          "PCLID": 906295841,
+                          "Citation": "Punzo F; Florida Scientist 60 (3): 158-65 (1997)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Bufo quercus (Oak toad, tadpoles- stage 24) 11.34 mg/L/96 hr (95% confidence interval: 10.3-11.7 mg/L) /Conditions of bioassay not specified in source examined/ /formulated product/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for AZADIRACHTIN (9 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 89,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7372#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/AZADIRACHTIN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Punzo F; Florida Scientist 60 (3): 158-65 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Punzo F; Florida Scientist 60 (3): 158-65 (1997)",
+                        "Matched": {
+                          "PCLID": 906295841,
+                          "Citation": "Punzo F; Florida Scientist 60 (3): 158-65 (1997)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ ...Exposure to concentrations of 0.40 and 0.50 mg/L /azadirachtin/ resulted in a significant decrease in percent fertilization success of B. quercicus eggs, and a marked reduction in swimming speed of stage 24 tadpoles. At a concentration of 0.50 mg/L, food consumption by stage 24 tadpoles was significantly reduced.",
+                          "Markup": [
+                            {
+                              "Start": 71,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Sundaram K MS; J Environ Sci Health Part B (Pesticides Food Contaminants and Agricultural Wastes) 32 (2): 295-312 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Sundaram K MS; J Environ Sci Health Part B (Pesticides Food Contaminants and Agricultural Wastes) 32 (2): 295-312 (1997)",
+                        "Matched": {
+                          "PCLID": 681209727,
+                          "Citation": "Sundaram KMS. Uptake, elimination and biochemical effects of azadirachtin and tebufenozide in algae. Journal of Environmental Science and Health, Part B. 1997 Mar;32(2):295–312. doi: 10.1080/03601239709373087.",
+                          "DOI": "10.1080/03601239709373087"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ ... . Chlorophyll and protein contents of the algae, and the concentrations of the insecticides in water and algae were monitored at intervals of time up to 20 days. Chlorophyll and protein contents in algae were inhibited at treatment levels of 3.0 and 4.5 ug AZ-A/mL, whereas at 1.5 ug/mL, the chemical stimulated the chlorophyll production. The partition of AZ-A between water and algae was reversible, and the bioconcentration factor (BCF) was low. In contrast, TF dosed at 0.25 to 0.75 ug/mL stimulated algal growth.",
+                          "Markup": [
+                            {
+                              "Start": 117,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 392,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kreutzweiser DP et al; Environ Toxicol Chem 19 (4): 855-861 (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kreutzweiser DP et al; Environ Toxicol Chem 19 (4): 855-861 (2000)",
+                        "Matched": {
+                          "PCLID": 675400984,
+                          "Citation": "Kreutzweiser DP, Capell SS, Scarr TA. COMMUNITY-LEVEL RESPONSES BY STREAM INSECTS TO NEEM PRODUCTS CONTAINING AZADIRACHTIN. Environ Toxicol Chem. 2000;19(4):855. doi: 10.1897/1551-5028(2000)019<0855:clrbsi>2.3.co;2.",
+                          "DOI": "10.1002/etc.5620190411"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/FIELD STUDIES/ Outdoor stream channels were treated with a commercial neem formulation, Neemix 4.5, and a neem extract (no formulation ingredients) to determine the effects on aquatic insect communities. An exposure period of 5 hr was chosen to simulate the transient nature of pesticide residues in streams and rivers after aerial applications. Multivariate analytic procedures based on Bray-Curtis similarity matrices were used to compare community structure among the replicate channels 9 days after treatment. No significant differences in community structure were found among controls and channels treated with Neemix at an azadirachtin concentration of 0.28 mg/L, but a multivariate measure of community stress indicated an increase in variability among treated channels. Significant differences in community structure were found among controls and channels treated with Neemix at 0.84 and 2.54 mg/L. The formulation ingredients of Neemix were at least partially responsible for the significant effects on community structure at 0.84 mg/L azadirachtin. No significant differences were found among controls and channels treated with the extract at 0.9 mg/L, whereas the community structure of aquatic insects in channels treated at 3.0 mg/L differed significantly from controls.",
+                          "Markup": [
+                            {
+                              "Start": 630,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 1046,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Azadirachtin's production may result in its release to the environment through various waste streams; it's use as an insecticide will result in its direct release to the environment. Azadirachtin is the main component in neem seed extract. If released to air, a vapor pressure of 2.7X10-11 mm Hg indicates azadirachtin will exist solely in the particulate phase in the atmosphere. Particulate-phase azadirachtin will be removed from the atmosphere by wet and dry deposition. Azadirachtin has a reported half-life of 3.9 days when exposed to UV light. If released to soil, azadirachtin is expected to have high mobility based upon a Koc of 93. Volatilization from moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 9.9X10-14 atm-cu m/mole. Azadirachtin is not expected to volatilize from dry soil surfaces based upon its vapor pressure. When incubated with soil in the dark at pH 7 azadirachtin had reported half-lives of 43.9 and 19.8 days at 15 and 25 °C, respectively. When the soil was autoclaved to remove microbes the half-lives of azadirachtin increased to 91.2 and 31.5 days at 15 and 25 °C under similar conditions. In a separate study azadirachtin had soil half-lives ranging from 26-29 days at 18 °C, pH 6.0 and exposed to natural light. If released into water, azadirachtin is not expected to adsorb to suspended solids and sediment based upon the estimated Koc. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's estimated Henry's Law constant. An estimated BCF of 1.3 suggests the potential for bioconcentration in aquatic organisms is low. A measured hydrolysis half-life of 282 hours was observed at 25 °C when azadirachtin was placed in a phosphate buffer at pH 7. Occupational exposure to azadirachtin may occur through inhalation of powder and dermal contact with this compound at workplaces where azadirachtin is produced or used. The greatest potential for dermal and inhalation exposure to azadirachtin is expected when the material is being applied to fields and crops for use in insect control. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 183,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 306,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 399,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 475,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 572,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 804,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 946,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 1102,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 1209,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 1330,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1337,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 1459,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1750,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 1779,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phosphate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1061"
+                            },
+                            {
+                              "Start": 1830,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 1940,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 2035,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(2) US EPA; Recognition and Management of Pesticide Poisonings. 5th ed. Reigart JR, Roberts JR, eds. 1999. U.S. Environ Prot Agency/Off Prev Pest Toxic Sub. USEPA 735-R-98-003. Available at https://www.epa.gov/oppfead1/safety/healthcare/handbook/handbook.htm as of Nov 14, 2005."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Recognition and Management of Pesticide Poisonings. 5th ed. Reigart JR, Roberts JR, eds. 1999. U.S. Environ Prot Agency/Off Prev Pest Toxic Sub. USEPA 735-R-98-003. Available at https://www.epa.gov/oppfead1/safety/healthcare/handbook/handbook.htm as of Nov 14, 2005."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Azadirachtin oil is the main component of neem seed extract(1,2).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Azadirachtin's production may result in its release to the environment through various waste streams; it's use as an insecticide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Tomlin CDS, ed; The Pesticide Manual. 11th ed., Surrey, England: British Crop Protection Council p. 59 (1997)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(4) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(5) Thompson DG et al; Bull Environ Contam Toxicol 69: 250-256 (2002)",
+                      "(6) Sundram KMS; J Environ Sci Health B31 4: 913-914 (1996)",
+                      "(7) Stark JD, Watler JF; J Enivon Sci Health B30: 685-698 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The Pesticide Manual. 11th ed., Surrey, England: British Crop Protection Council p. 59 (1997)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(5) Thompson DG et al; Bull Environ Contam Toxicol 69: 250-256 (2002)"
+                      },
+                      {
+                        "Citation": "(6) Sundram KMS; J Environ Sci Health B31 4: 913-914 (1996)"
+                      },
+                      {
+                        "Citation": "(7) Stark JD, Watler JF; J Enivon Sci Health B30: 685-698 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 93(SRC), determined from a log Kow of 1.07(2) and a regression-derived equation(3), indicates that azadirachtin is expected to have high mobility in soil(SRC). Volatilization of azadirachtin from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 9.9X10-14 atm-cu m/mole(SRC), derived from a vapor pressure of 2.7X10-11 mm Hg(4) and a water solubility of 260 mg/L(4). Azadirachtin is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(4). The half-life range of azadirachtin in soil at 18 °C, pH 6.0 and exposed to natural light was 26-29 days(5). Soil half-lives in non-autoclaved soils ranging from 19.9 to 43.9 days(6,7) as opposed to half-lives of 37.6 to 91.2 days in autoclaved soils(6,7) suggesting that biodegradation may be an important environmental fate process in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 180,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 259,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 481,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 514,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 642,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Tomlin CDS, ed; The Pesticide Manual. 11th ed., Surrey, England: British Crop Protection Council p. 59 (1997)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(4) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(6) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(7) Szeto SY, Wan MT; J Agric Food Chem 44: 1160-1163 (1996)",
+                      "(8) Sundram KMS; J Environ Sci Health B31: 913-914 (1996)",
+                      "(9) Stark JD, Watler JF; J Enivon Sci Health B30: 685-698 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The Pesticide Manual. 11th ed., Surrey, England: British Crop Protection Council p. 59 (1997)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(6) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(7) Szeto SY, Wan MT; J Agric Food Chem 44: 1160-1163 (1996)"
+                      },
+                      {
+                        "Citation": "(8) Sundram KMS; J Environ Sci Health B31: 913-914 (1996)"
+                      },
+                      {
+                        "Citation": "(9) Stark JD, Watler JF; J Enivon Sci Health B30: 685-698 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 93(SRC), determined from a log Kow of 1.07(2) and a regression-derived equation(3), indicates that azadirachtin is not expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(3) based upon an estimated Henry's Law constant of 9.9X10-14 atm-cu m/mole(SRC), derived from a vapor pressure of 2.7X10-11 mm Hg(4) and a water solubility of 260 mg/L(4). According to a classification scheme(5), an estimated BCF of 1.3(SRC), from its log Kow(2)and a regression-derived equation(6), suggests the potential for bioconcentration in aquatic organisms is low(SRC). A measured half-life of 282 hours was observed at 25 °C when azadirachtin was placed in a phosphate buffer at pH 7(7). Soil half-lives in non-autoclaved soils ranging from 19.9 to 43.9 days(8,9) as opposed to half-lives of 37.6 to 91.2 days in autoclaved soils(8,9) suggest that biodegradation may be an important environmental fate process in water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 176,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 444,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 744,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 773,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phosphate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1061"
+                            },
+                            {
+                              "Start": 1027,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:12107702",
+                      "(1) Thompson DG; Bull Environ Contam Toxicol 69: 250-6 (2002)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:12107702",
+                        "Matched": {
+                          "PCLID": 17248958,
+                          "Citation": "Thompson DG, Kreutzweiser DP, Staznik B, Chartrand D, Capell S. Fate and Persistence of Azadirachtin A Following Applications to Mesocosms in a Small Forest Lake. Bulletin of Environmental Contamination and Toxicology. 2002 Aug 01;69(2):250–6. doi: 10.1007/s00128-002-0054-1.",
+                          "PMID": 12107702,
+                          "DOI": "10.1007/s00128-002-0054-1"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Thompson DG; Bull Environ Contam Toxicol 69: 250-6 (2002)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: In-situ enclosures treated with azadirachtin concentrations ranging from 0.035 to 1.75 mg/L were deployed in a lake in Ontario Canada(1). Thirteen different samples from these enclosures were taken over a 50 day period. A dissipation half-life of azadirachtin with natural sun light, pH6, and 18 °C is 24.7 days which is similar to the half-life of 30.5 days from an experiment done in the dark at 20 °C and pH 7(1).",
+                          "Markup": [
+                            {
+                              "Start": 46,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 261,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(3) Sundaram KMS, Curry J; Chemosphere 32: 649-59 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(3) Sundaram KMS, Curry J; Chemosphere 32: 649-59 (1996)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), azadirachtin, which has a vapor pressure of 2.7X10-11 mm Hg at 25 °C(2), is expected to exist solely in the particulate phase in the ambient atmosphere. Particulate-phase azadirachtin may be removed from the air by wet and dry deposition(SRC). The half-life for photolysis of azadirachtin is 50 days(2). Azadirachtin has a reported half-life of 3.9 days when exposed to UV light(3).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 295,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 400,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 428,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Stark JD, Watler JF; J Enivon Sci Health B30: 685-698 (1995)",
+                      "(2) Sundram KMS; J Environ Sci Health B31: 913-914 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Stark JD, Watler JF; J Enivon Sci Health B30: 685-698 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Sundram KMS; J Environ Sci Health B31: 913-914 (1996)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Azadirachtin degradation in soil was studied in a laboratory setting. The soil, autoclaved and non-autoclaved, was treated with azadirachtin incubated at either 15 or 25 °C and monitored for degradation. Azadirachtin had reported soil half-lives of 43.9 and 19.8 days at 15 and 25 °C, respectively(1). When the soil was autoclaved to remove microbes the half-lives increased to 91.2 and 31.5 days at 15 and 25 °C, respectively(1). In a similar study, soil half-lives of autoclaved and nonautoclaved soils were 37.65 and 25.77 days, respectively, when soil was kept in a greenhouse at 21 °C and a moisture level of 40%(2).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 137,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 213,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of azadirachtin with ozone has been estimated as 8.3X10-17 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(1). This corresponds to an atmospheric half-life of about 0.14 days at an atmospheric concentration of 7X10+11 ozone molecules per cu cm(2).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 68,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 303,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Szeto SY, Wan MT; J Agric Food Chem 44: 1160-1163 (1996)",
+                      "(2) Sundaram KMS, Curry J; Chemosphere 32: 649-59 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Szeto SY, Wan MT; J Agric Food Chem 44: 1160-1163 (1996)"
+                      },
+                      {
+                        "Citation": "(2) Sundaram KMS, Curry J; Chemosphere 32: 649-59 (1996)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A measured half-life of 282 hours was observed at 25 °C when azadirachtin was placed in a phosphate buffer at pH 7(1). Solutions of azadirachtin with or without UV absorbing chemicals dihydroxybenzophenone, para-amino benzoic acid or florescent brightener 28, were placed on a glass slides and placed in a chamber where they were exposed to 2 halide and one sodium lamp with wavelenghts ranging from 300-1000 nm and an intensity that corresponded to about 26.3 % of natural sunlight on glass surfaces during that time period(2). Azadirachtin had a reported half-life of 3.9 days when exposed to UV light. Addition of dihydroxybenzophenone, para-amino benzoic acid increased the half-life to 22.54 and 7.37 days(2).",
+                          "Markup": [
+                            {
+                              "Start": 61,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 90,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phosphate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1061"
+                            },
+                            {
+                              "Start": 132,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 184,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dihydroxybenzophenone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-12416099"
+                            },
+                            {
+                              "Start": 207,
+                              "Length": 23,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/para-aminobenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-978"
+                            },
+                            {
+                              "Start": 358,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            },
+                            {
+                              "Start": 529,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 617,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dihydroxybenzophenone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-12416099"
+                            },
+                            {
+                              "Start": 640,
+                              "Length": 23,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/para-aminobenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-978"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Sundaram A; Am Chem Soc, Div Agrochem, 207th Nat. Meet. ACS Symposium Ser. 595, Ch 8 pp. 108-33 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Sundaram A; Am Chem Soc, Div Agrochem, 207th Nat. Meet. ACS Symposium Ser. 595, Ch 8 pp. 108-33 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Azadirachtin was sprayed on both oak and balsam at rates of 7 g in 2.8 L/hour, 15 g in 5.9 L/hour and 40 g in 15.8 L/hour (1). Despite the fact that the initial concentrations ranged from 4-96 ug/g, azadirachtin had a half life of 17-22 hours on all of the plants(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 199,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council. p. 59 (1997)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council. p. 59 (1997)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 1.3 was calculated for azadirachtin(SRC), using a log Kow of 1.09(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 43,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council. p. 59 (1997)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium. 11th ed., Surrey, England: British Crop Protection Council. p. 59 (1997)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of azadirachtin is estimated as 93(SRC), using a log Kow of 1.09(1)and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that azadirachtin is expected to have high mobility in soil.",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 193,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Azadirachtin. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for azadirachtin is estimated as 2.8X10-25 atm-cu m/mole(SRC)derived from a vapor pressure of 2.7X10-11 mm Hg(1) and a water solubility of 260 mg/L(1). This Henry's Law constant indicates that azadirachtin is expected to be essentially nonvolatile from moist soil and water surfaces(2). Azadirachtin is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 144,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 218,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 293,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 312,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to azadirachtin may occur through inhalation and dermal contact with this compound at workplaces where azadirachtin is produced or used. The greatest potential for dermal and inhalation exposure to azadirachtin is expected when the material is being applied to fields and crops for use in insect control. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 125,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            },
+                            {
+                              "Start": 220,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/azadirachtin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281303"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Azadirachtin A$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Azadirachtin A$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Azadirachtin A$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "cee45c7780dcd83c252e5a9cce427893",
+        "Name": "Azadirachtin A",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49737206
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID5281303",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125572
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID0037497",
+        "Name": "Azadirachtin",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 56998320
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz3781",
+        "Name": "Azadirachtin",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17278603
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7372",
+        "Name": "AZADIRACHTIN",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7372",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4957
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Quercetin",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:38.276358+00:00",
+  "url": "/chemical/search/equal/Quercetin",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID4021218",
+        "dtxcid": "DTXCID001218",
+        "casrn": "117-39-5",
+        "preferredName": "Quercetin",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC2=C(C(O)=C1)C(=O)C(O)=C(O2)C1=CC(O)=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Quercetin",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

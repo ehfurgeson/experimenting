@@ -1,0 +1,16 @@
+{
+  "query": "L-Lysine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Lysine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:07:58.578877+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 5962,
+          "SMILES": "C(CCN)C[C@@H](C(=O)O)N",
+          "InChIKey": "KDXKERNSBIXSRK-YFKPBYRVSA-N"
+        }
+      ]
+    }
+  }
+}

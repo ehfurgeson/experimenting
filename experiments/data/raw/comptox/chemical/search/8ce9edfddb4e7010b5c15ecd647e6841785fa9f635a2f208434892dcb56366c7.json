@@ -1,0 +1,25 @@
+{
+  "search_term": "8-Hydroxyquinoline",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:44.131508+00:00",
+  "url": "/chemical/search/equal/8-Hydroxyquinoline",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "8-Hydroxyquinoline",
+        "dtxsid": "DTXSID5020730",
+        "dtxcid": "DTXCID30730",
+        "casrn": "148-24-3",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC=CC2=CC=CN=C12",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "8-Hydroxyquinoline",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

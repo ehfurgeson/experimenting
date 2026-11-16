@@ -1,0 +1,16 @@
+{
+  "query": "L-Arginine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Arginine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:07:51.884400+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6322,
+          "SMILES": "C(C[C@@H](C(=O)O)N)CN=C(N)N",
+          "InChIKey": "ODKSFYDXXFIFQN-BYPYZUCNSA-N"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Caryophyllene oxide",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:40.886966+00:00",
+  "url": "/chemical/search/equal/Caryophyllene oxide",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID4051586",
+        "dtxcid": "DTXCID8030138",
+        "casrn": "1139-30-6",
+        "preferredName": "(-)Carophyllene oxide",
+        "hasStructureImage": 1,
+        "smiles": "C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2",
+        "isMarkush": false,
+        "searchName": "Synonym from Valid Source",
+        "searchValue": "CARYOPHYLLENE OXIDE",
+        "rank": 11
+      }
+    ],
+    "suggestions": []
+  }
+}

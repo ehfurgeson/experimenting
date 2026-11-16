@@ -1,0 +1,1482 @@
+A high-throughput differential chemical genetic screen uncovers genotype-specific compounds altering plant growth - PMC
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Search
+Log in
+Dashboard
+Publications
+Account settings
+Log out
+Search…
+Search NCBI
+Primary site navigation
+Search
+Logged in as:
+Dashboard
+Publications
+Account settings
+Log in
+Search PMC Full-Text Archive
+Search in PMC
+Journal List
+User Guide
+PERMALINK
+Copy
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+Learn more:
+PMC Disclaimer
+|
+PMC Copyright Notice
+iScience
+. 2025 Apr 8;28(5):112375. doi:
+10.1016/j.isci.2025.112375
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+A high-throughput differential chemical genetic screen uncovers genotype-specific compounds altering plant growth
+Côme Emmenecker
+Côme Emmenecker
+1
+University of Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences (IJPB), 78000 Versailles, France
+2
+University of Paris-Sud, Université Paris-Saclay, 91405 Orsay, France
+Find articles by
+Côme Emmenecker
+1,
+2
+,
+Jingqi Dai
+Jingqi Dai
+1
+University of Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences (IJPB), 78000 Versailles, France
+Find articles by
+Jingqi Dai
+1
+,
+Sandrine Lefranc
+Sandrine Lefranc
+1
+University of Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences (IJPB), 78000 Versailles, France
+Find articles by
+Sandrine Lefranc
+1
+,
+Ayoub Ouddah
+Ayoub Ouddah
+1
+University of Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences (IJPB), 78000 Versailles, France
+Find articles by
+Ayoub Ouddah
+1
+,
+Julie Guerin
+Julie Guerin
+1
+University of Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences (IJPB), 78000 Versailles, France
+Find articles by
+Julie Guerin
+1
+,
+Simine Pakzad
+Simine Pakzad
+1
+University of Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences (IJPB), 78000 Versailles, France
+Find articles by
+Simine Pakzad
+1
+,
+Philippe Andrey
+Philippe Andrey
+1
+University of Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences (IJPB), 78000 Versailles, France
+Find articles by
+Philippe Andrey
+1,
+∗
+,
+Rajeev Kumar
+Rajeev Kumar
+1
+University of Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences (IJPB), 78000 Versailles, France
+Find articles by
+Rajeev Kumar
+1,
+3,
+∗∗
+Author information
+Article notes
+Copyright and License information
+1
+University of Paris-Saclay, INRAE, AgroParisTech, Institut Jean-Pierre Bourgin for Plant Sciences (IJPB), 78000 Versailles, France
+2
+University of Paris-Sud, Université Paris-Saclay, 91405 Orsay, France
+∗
+Corresponding author
+philippe.andrey@inrae.fr
+∗∗
+Corresponding author
+rajeev.kumar@inrae.fr
+3
+Lead contact
+Received 2024 Nov 8; Revised 2025 Mar 27; Accepted 2025 Apr 3; Collection date 2025 May 16.
+© 2025 The Author(s)
+This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/).
+PMC Copyright notice
+PMCID: PMC12032938  PMID:
+40292320
+Summary
+The identification of chemical compounds regulating plant growth in a genetic context can greatly enhance our understanding of biological mechanisms. Here, we have developed a high-throughput phenotype-directed chemical screening method in plants to compare two genotypes and identify small molecules inducing genotype-specific phenotypes. We used
+Arabidopsis thaliana
+wild type and
+mus81
+, a DNA repair mutant, and screened off-patent drugs from the Prestwick library to selectively identify molecules affecting
+mus81
+growth. We developed two complementary convolutional neural networks (CNN)-based image segmentation and classification programs to quantify
+Arabidopsis
+seedling growth. Using these approaches, we detected that about 10% of Prestwick molecules cause altered growth in both genotypes, suggesting their toxic effects on plant growth. We identified three Prestwick molecules specifically affecting
+mus81
+. Overall, we developed a straightforward, accurate, and adaptable methodology for performing high-throughput screening of chemical libraries in a time-efficient manner, accelerating the discovery of genotype-specific chemical regulators of plant growth.
+Subject areas:
+Computational chemistry, Plant development, Machine learning
+Graphical abstract
+Open in a new tab
+Highlights
+•
+A chemical screen identifies small molecules based on differential growth of two genotypes
+•
+New machine learning-based image quantification tools to measure plant seedling growth
+•
+Three Prestwick molecules selectively affect the growth of the
+mus81
+DNA repair mutant
+Computational chemistry; Plant development; Machine learning
+Introduction
+Chemical genetic screens utilize small molecules to alter biological processes and are a powerful unbiased alternative and/or complementary tool that offers several advantages over the classical genetic approaches. Chemical genomics can avoid the lethal effects of essential gene disruption or functional redundancy of gene families by using small molecules in a conditional, reversible, and dosage-dependent manner, implementing a temporary perturbation of biological systems. Two strategies used for high-throughput screening (HTS) are phenotype-based screening and target-directed screening. The phenotype-based screens in plant biology have provided a massive opportunity in past decades.
+1
+,
+2
+,
+3
+These plant studies have allowed significant advances by identifying a wide variety of molecules implicated in cell wall homeostasis, hormone signaling, endomembrane trafficking, and plant immunity.
+3
+,
+4
+,
+5
+,
+6
+,
+7
+,
+8
+,
+9
+Most phenotype-based chemical screenings in plants are performed using a single genetic background in primary screens for scoring a desirable phenotype. However, a comparison of two genotypes in the primary screen for scoring differential phenotypes can improve efficiency and save time for identifying hits when screening large chemical libraries.
+Altered plant growth is a convenient and accessible phenotype that can be used for detecting the effect of molecules during a primary chemical screening. Plant DNA repair mutants display differential growth when treated with genotoxic agents
+10
+and thus provide an opportunity to perform growth-based chemical screens. We aimed to develop a proof of concept for differential growth chemical screens using a DNA repair defective
+Arabidopsis thaliana mus81
+mutant. MUS81 is an evolutionarily conserved endonuclease that is implicated in DNA repair in eukaryotes including plants.
+11
+,
+12
+,
+13
+,
+14
+The Arabidopsis
+mus81
+mutants develop normally and are fertile but can show differential growth under different kinds of genotoxic stress.
+14
+,
+15
+Mitomycin C (MMC) is a genotoxic agent inducing various types of DNA damage including DNA interstrand crosslinks resulting in covalent linkage of two DNA strands.
+16
+mus81
+shows an altered growth phenotype with shorter roots and delay in true leaf formation compared with the wild type (WT) when treated with MMC.
+14
+Thus,
+mus81
+is arguably a good candidate to identify small molecules impairing the growth of mutants defective in DNA repair.
+Image processing is an essential component of phenotype-based high-throughput genetic chemical screens. Image processing pipelines can help to improve the phenotypic resolution of the plant system, enabling rapid and sensitive screening of large libraries of small molecules. Two approaches can be implemented for image processing to maximize the efficiency of the screening method. In the first approach, altered plant growth can be analyzed by categorizing images into two classes of normally or abnormally growing seedlings (image classification). An alternative approach is to quantify growth by delineating the growing samples in the images (image segmentation) and measuring their sizes. In each case, a high accuracy is specifically required when considering two genotypes in a primary screen because the measurement variances for the two genotypes add up in the differential analysis. In addition, screening large libraries generates large volumes of image data and calls for efficient image processing tools. The image processing field has been recently revolutionized with the advent of deep learning-based approaches, which have proven superior to state-of-the-art methods in several tasks such as image enhancement, annotation, classification, and segmentation.
+17
+,
+18
+,
+19
+,
+20
+Deep learning approaches offer several important advantages, including their ability to automatically extract discriminative features from raw data and rapidly predict very large amounts of data, which makes them particularly attractive in the context of a large growth-based differential screen.
+In this study, we developed a high-throughput chemical screening procedure based on the differential growth of two plant genotypes using two complementary image analysis programs. As a proof of concept for differential growth chemical screening, we identified small molecules that can affect specifically the growth of DNA repair defective
+mus81
+mutant. We developed robust and reliable screening assays and deep learning-based image classification and segmentation tools to facilitate the efficient detection of small molecules affecting
+mus81
+growth. Our chemical screen strategy can be adapted to identify specific molecules in a given genetic context for performing HTS of large numbers of compounds in a time-efficient manner.
+Results
+Screen design and overview
+We developed a high-throughput chemical screening method based on the comparison of two
+Arabidopsis thaliana
+genotypes to identify specific small molecules. WT and mutant
+Arabidopsis
+seedlings were grown separately in microtiter plates, each containing corresponding small molecules (
+Figure 1
+). The plate layout incorporated internal positive (MMC) and negative controls (DMSO) mimicking altered growth and healthy seedling phenotypes, respectively. Seedling growth was monitored by capturing images of plants in each well using a light macroscope. Automated image processing programs were employed to quantitatively assess plant growth in each well. We identified molecules (hits) that selectively affected only one genotype by comparing differences in seedling growth between WT and mutant plants. Confirmation assays were subsequently conducted to validate the identified hits.
+Figure 1.
+Open in a new tab
+Overview of the chemical genetic screen based on growth differences of two genotypes
+(A and B) (A) 1,520 compounds of the Prestwick library were distributed into two sets of culture plates. (B) Wild-type and
+mus81
+seeds were grown in the presence of Prestwick compounds. Each plate contained two MMC-treated wells representing altered growth in red and two DMSO-treated wells representing normal growth control wells in green.
+(C) Normal and altered growth seedlings are presented by green and red, respectively.
+(D) Hit identification based on compound affecting
+mus81
+growth differentially among the four possible scenarios (D1–D4).
+Development of
+in vitro
+assay for Arabidopsis seedling growth
+We systematically examined various growth condition parameters, including the choice of culture medium, seed density per well, and type of microtiter plate to establish a robust and reproducible screening assay. Given the hypersensitivity of
+Arabidopsis mus81
+to MMC,
+14
+we investigated
+mus81
+seedling growth on solid and liquid media supplemented with 10 μg/mL MMC or DMSO to mimic sick (altered) and healthy (normal) plant phenotypes, respectively. As depicted in
+Figure 2
+A,
+mus81
+seedlings exhibited typical growth patterns, developing true leaves beyond the cotyledon stage and elongated roots when grown on both solid and liquid media devoid of MMC. However, in the presence of MMC in both media types,
+mus81
+seedlings displayed diminished growth, albeit with differential effects observed between solid and liquid media. Notably,
+mus81
+seedlings grown in solid MMC-containing medium developed cotyledons and true leaves, whereas those grown in liquid MMC-containing medium only displayed cotyledons. This indicated a more pronounced growth impairment of
+mus81
+seedlings in our liquid medium. We thus selected a liquid medium to induce a robust altered growth phenotype of
+mus81
+seedlings in our assays. We also opted to grow three seedlings per well to ensure plant replicates within each well, despite a low rate of non-germinating seeds (
+Figure S1
+).
+Figure 2.
+Open in a new tab
+In vitro
+growth assay development for
+Arabidopsis
+seedlings
+(A) Comparison of solid (with agar) and liquid media on
+mus81
+seedling growth with or without 10 μg/mL MMC at day 10. The arrow indicates true leaf formation in the
+mus81
+seedling in solid media containing MMC.
+(B) Comparison of 96- and 24-well microplates for
+in vitro
+culture of the
+mus81
+seedlings at 10 days.
+(C) Quantification of true leaf formation per plant in 96- and 24-well plates. Mean and error bars resepenting standard deviations are presented in blue.
+n
+= 60 and 59, Mann-Whitney test,
+p < 0.0001
+, scale bar: 0.1 or 0.2 cm.
+Subsequently, we evaluated whether the choice between 96- or 24-well microtiter plates could affect seedling growth and facilitate image acquisition. We counted the number of true leaves developed in 10-day-old
+mus81
+seedlings grown in 96- and 24-well plates. Interestingly,
+mus81
+seedlings grown in 24-well plates exhibited a higher average of 3.6 true leaves per plant (
+n
+= 59) compared with those grown in 96-well plates, which displayed an average of 2.2 true leaves per plant (
+n
+= 60) (
+Figures 2
+B and 2C, Mann-Whitney test,
+p
+< 0.0001). These differences could be attributed to increased space per well available for plants in 24-well plates. Moreover, the 24-well format also facilitated image acquisition, with roots and leaves being more visibly captured at a given single focal point compared to seedlings in 96-well plates (
+Figure 2
+B). We thus opted for 24-well plates for our assays.
+Machine learning-based image analysis for quantitative assays
+We formulated the detection of potential chemicals of interest as an image classification problem, where images of growing seedlings from WT or mutant genotypes had to be classified as corresponding to either normal or altered growth in response to drugs. We addressed this task as a supervised learning problem, where a machine learning algorithm was used to predict the two growth responses. Here, we took advantage of current developments in artificial intelligence, where convolutional neural networks (CNNs) demonstrated their ability to learn tailored representations and to outperform alternative methods in many image processing and classification tasks.
+17
+,
+18
+,
+21
+,
+22
+,
+23
+,
+24
+We employed the residual neural network (ResNet) architecture, one of the most accurate CNNs for the task of image classification.
+25
+For each genotype, a model was trained to output the probability (
+P
+) that a given input image depicted a seedling with altered growth (
+Figures 3
+A and 3B). A dataset of 240 seedling images (same number for WT and
+mus81
+), equally distributed between exposure to either DMSO (representing normal growth) or MMC (representing altered growth), was randomly divided into three subsets: (1) a training set (80% of the images); (2) a validation set (10%), utilized for calibration during training and to prevent over-fitting; and (3) a model testing set (remaining 10%). The test images were classified into two classes, normal or altered growth, using a probability threshold of 50% (
+Figure 3
+B). The model exhibited 100% accuracy (i.e., correct classification rate) for both genotypes (
+n
+= 24 in each case;
+Figure 3
+B). Notably, the networks’ performance had reached convergence with the size of the training sets utilized, as evidenced by only marginal performance degradation observed with a 4-fold reduction in training set sizes (from 192 to 52). The wells exposed to either DMSO or MMC were systematically arranged across the plates (
+Figure 1
+B). To ensure the robustness of our models, we evaluated their performance on images acquired with a different arrangement than the one used during the learning phase (
+Figure S2
+). This analysis confirmed that the model predictions were not simply based on the position of wells in the plate. Specifically, when testing on
+mus81
+samples (
+n
+= 144) under balanced DMSO/MMC conditions, the model achieved 100% correct classification for all plate organizations (
+Figure S2
+). In summary, our CNN models were effectively trained to accurately predict whether images depicted either normal or altered growth in both WT and mutant genotypes.
+Figure 3.
+Open in a new tab
+Machine learning-based quantitative analysis of images with growing seedlings from WT and
+mus81
+(A) Designed workflow to classify and segment images by two distinct deep neural networks. Using images of WT and
+mus81
+seedlings grown in either DMSO or MMC conditions, ResNet was trained to classify images into two categories corresponding to normal or altered growth, respectively. Images with ground-truth segmentations were used to train U-Net that partitioned images into background (purple), roots (red), or leaves (green).
+(B) Illustration of classification results on images of seeds or seedlings exposed to three distinct chemical compounds from Prestwick library (in row). The ResNet-computed probability of abnormal growth is given in the inset for each image for WT (
+left
+) and
+mus81
+(
+right
+) genotypes.
+(C) Illustration of segmentation results with the Trainable Weka Segmentation (TWS) plugin and the trained U-Net from WT (First row) or
+mus81
+(Second row) genotypes.
+To analyze in detail the growth patterns of both normal and affected seedlings at the tissue level, we conducted separate quantifications of the roots and aerial parts, comprising leaves and hypocotyl (referred to collectively as leaves for simplicity). Images were segmented into three categories of pixels: background, leaves, and roots. Since relying on pixel RGB (Red, Green and Blue) color alone was insufficient for accurate categorization, we turned to a machine learning approach utilizing the Trainable Weka Segmentation (TWS) Fiji plugin.
+26
+TWS classification relies on sets of local features (contrast, orientation, texture, etc.) computed at each image position and is performed using random forests. To train TWS, we provided samples of pixels in the three categories taken from various images. The resulting segmentations, even for those images used in the training process, exhibited both false positives (e.g., well borders erroneously labeled as roots) and false negatives (e.g., incomplete leaves) (
+Figure 3
+C). This indicated that image local information alone was insufficient for accurate seedling segmentation.
+We therefore opted for a CNN approach for image segmentation, leveraging the remarkable performance of deep neural networks in integrating context across pixel to whole image scales. We specifically selected a U-Net CNN,
+27
+,
+28
+recognized as one of the top-performing architectures for biomedical image segmentation. A set of 30 images (equally distributed between WT and
+mus81
+genotypes treated with DMSO or MMC) segmented with TWS were manually corrected to establish a ground-truth segmentation dataset. This dataset was expanded with 10 additional images of non-germinated seeds. The trained model achieved an accuracy of 98.1% on the test images (
+N
+= 4), surpassing TWS accuracy by 3.27%. Sensitivity also increased by 3.13% compared to TWS, reaching 98.2%. Because of the cost of establishing a manually curated ground-truth segmentation dataset, the number of test images was necessarily limited. However, visual inspection of segmented images not included in this dataset confirmed the substantial improvement in segmentation accuracy achieved with U-Net. Specifically, pit borders were predominantly correctly assigned to the background, and the surfaces of seedling leaves were labeled without gaps (
+Figure 3
+C). The remaining segmentation errors primarily stemmed from roots growing alongside the well boundaries, erroneously labeled as background. Altogether, these results demonstrated the capacity of U-Net to robustly and accurately segment seedling images. Moreover, the use of U-Net resulted in approximately a 10-fold decrease in computation time for segmentation (average CPU (central processing unit) execution times: approximately 30 s/image for TWS and less than 3 s/image for U-Net). This efficiency gain is advantageous in the context of large-scale chemical screens, as detailed in the following, which may involve thousands of molecules.
+Growth kinetics of Arabidopsis seedlings for a chemical screening
+We evaluated the growth kinetics of WT and
+mus81
+seedlings to identify significant differences between healthy and altered growth phenotypes under our assay conditions. WT and
+mus81
+seedlings were treated with either DMSO (as a healthy, negative control) or MMC (as an altered growth, positive control) and grown for 14 days post-germination. Systematic imaging was performed on days 3, 5, 7, 10, 12, and 14 (
+Figures 4
+A and 4B). On day 3, WT and
+mus81
+seedlings exhibited small cotyledons and roots, with no discernible growth defects observed under either MMC or DMSO treatment. By days 5 and 7, both genotypes displayed longer roots in the presence of DMSO compared to MMC treatment, with predominantly cotyledon formation observed in the seedlings. Notably, differences in leaf and root size became more pronounced at 10, 12, and 14 days, where DMSO treatment resulted in healthy growth and MMC treatment led to altered growth (
+Figure 4
+).
+Figure 4.
+Open in a new tab
+Analysis of growth kinetics of
+Arabidopsis
+WT and
+mus81
+seedlings
+(A) Images of
+Arabidopsis
+WT seedlings at 3, 5, 7, 10, 12, and 14 days after germination in the presence of DMSO (0.25%) or MMC (10 μg/mL).
+(B) Images of
+Arabidopsis
+mus81
+seedlings at 3,5,7,10,12, and 14 days after germination in the presence of DMSO (0.25%) or MMC (10 μg/mL).
+(C) Quantification of root, leaf, and plant (root + leaf) pixels from WT and
+mus81
+at 10, 12, and 14 days of growth in the presence of DMSO (0.25%) or MMC (10 μg/mL).
+N
+= 120 for each condition.
+(D) Z′ factor values of root, leaf, and plant from WT and
+mus81
+at 10 and 12 days.
+Using the CNN-based segmentation method described earlier, we quantified the total number of pixels per well for roots and leaves to distinguish between normal and altered growth. Approximately 120 images were analyzed for each condition on 10, 12, and 14-day-old seedlings. Root and leaf pixel counts were summed to quantify the total area covered by plants in each well. In the case of MMC treatment, the mean root size per well was similar at days 10 and 12 between the WT and
+mus81
+seedlings but differed significantly at day 14 (Tukey’s multiple comparison test
+p
+< 0.0001), with WT roots being slightly longer (
+Figures 4
+C and
+S3
+). The MMC-treated WT seedlings showed a higher mean compared with
+mus81
+at 10 and 12 days (Tukey’s multiple comparisons test, leaf
+p
+= 0.028 and < 0.0001, plant
+p
+= 0.016 and < 0.0001) for leaf and plant, which was not the case at day 14 (leaf,
+p
+= 0.91; plant,
+p
+= 0.88). These observations suggested that root and leaf growth kinetics differed between WT and
+mus81
+in response to MMC.
+Under DMSO control conditions,
+mus81
+root, leaf, and plant mean pixel counts per well at 10, 12, and 14 days were lower than those of WT (Tukey’s multiple comparisons test,
+p
+< 0.0001), except root mean pixels at 14 days (
+Figure 4
+C). The WT mean root size in DMSO at 14 days was surprisingly lower compared with WT at 12 days and
+mus81
+at both 12 and 14 days. We attributed this to a technical limitation, as overgrown leaves were masking the root signal in the well at 14 days (
+Figure 4
+B). Overall, these results indicated growth retardation in
+mus81
+compared with WT. To avoid any inconsistencies resulting on day 14, we selected day 10 and day 12 conditions, which demonstrated incremental growth in DMSO, for further analysis.
+The Z′ factor, commonly used to assess the quality of HTS assays, was calculated to evaluate the suitability of days 10 or 12 in our assays. A Z′ factor value >0.5 indicates an excellent assay with a clear separation between negative and positive controls.
+29
+We found that the root Z′ factor score was >0.5 for both WT and
+mus81
+on days 10 and 12 (
+Figure 4
+D). Leaf counts yielded Z′ factor scores below 0.5 for both genotypes, while plant Z′ factor values were higher than 0.5 for both genotypes on day 12. Based on these Z′ factor scores, we selected day 12 as the best trade-off for detecting maximal growth differences between healthy and altered phenotypes in our assay condition.
+Screening of Prestwick library molecules on WT and
+mus81
+seedlings
+The Prestwick chemical library is a unique collection of 98% marketed approved drugs comprising 1,520 small molecules with high chemical and pharmacological diversity. In our study, we conducted screenings of the Prestwick library at a concentration of 10 μM on both WT and
+mus81
+, leveraging our optimized assay conditions described in the earlier section. Each screening plate, comprising 24 wells, accommodated two sets of negative and positive internal controls (DMSO- and MMC-treated wells, respectively), alongside 20 molecules from the library. Additionally, we included two plates containing 12 wells each of DMSO- and MMC-treated wells as external controls. Following a 12-day incubation period, each well was imaged and subsequently analyzed by two complementary approaches, employing the CNN-based segmentation and classification to extract root and leaf pixel counts, as well as altered growth probability scores, respectively. To evaluate the performance of our chemical screening method, we calculated the Z′ factor for internal controls, encompassing a total of 304 wells for each of the WT and
+mus81
+genotypes (
+Figure 5
+A). The root Z′ factor values exceeded 0.5 for both genotypes, indicating robust and reproducible assays. While Z′ factor values for leaf were below 0.5, plant Z′ factor scores were observed to be approximately 0.5 for both the WT and
+mus81
+genotypes (
+Figure 5
+A). In summary, the Z′ factor analysis underscores the reliability and consistency of our assays, particularly in the context of root data, across both genotypes.
+Figure 5.
+Open in a new tab
+Screening of Prestwick molecules at 10 μM using WT and
+mus81
+seedlings
+(A) Z′ factor scores of roots, leaves, and plants calculated from the WT and
+mus81
+internal controls during the Prestwick screen.
+(B) Distribution of the WT root length per well (pixel) in green in response to Prestwick molecules. DMSO internal controls are in blue, and MMC-treated internal controls are presented in red. The blue line indicates minus 3 standard deviations (SD) of wild-type DMSO internal controls (170,394 pixels).
+(C) Distribution of
+mus81
+root length per well (pixel) in the presence of Prestwick compounds. DMSO internal controls are presented in blue. MMC-treated internal controls are in red. The blue line indicates minus 3 SD of
+mus81
+DMSO internal controls (132,590 pixels).
+(D) Common and genotype-specific numbers of Prestwick molecules showing normal (DMSO-like) or altered (MMC-like) growth are represented by blue circles with their sizes proportionate to the number of molecules in wild-type and
+mus81
+from segmentation analysis.
+(E) Distribution of probability scores of the WT seedlings by classification in response to Prestwick compounds. The blue line indicates the threshold of 50% probability of being healthy or altered growth.
+(F) Distribution of probability scores of the
+mus81
+seedlings by classification in response to Prestwick compounds. The blue line indicates the threshold of 50% probability of being healthy or altered growth.
+(G) Common and genotype-specific numbers of Prestwick molecules showing non-affected or affected growth are represented by blue circles with their sizes proportionate to the number of molecules in WT and
+mus81
+from classification analysis.
+During the Prestwick screening, we identified only two contaminated wells out of 3,038 images recorded, with 1,519 images for each WT and
+mus81
+genotype, corresponding to 1,519 molecules from the Prestwick library. All segmented images underwent visual inspection; any inaccuracies were rectified manually or omitted from the analysis. Initially, we assessed the impact of Prestwick molecule treatment on WT and
+mus81
+genotypes separately.
+Figures 5
+B and 5C illustrate the root growth of both WT and
+mus81
+seedlings in response to Prestwick molecules.
+For the pixel quantification by CNN-based segmentation, we established a threshold of three standard deviations (SDs) from the DMSO control average as indicative of normal growth, with values below minus 3 SD indicating altered growth. 87.6% of Prestwick molecules (1,331) did not affect WT root growth, resulting in a similar root size per well as DMSO-treated controls (
+Figure 5
+B). However, exposure to 12.4% of molecules (188) led to shorter WT roots (
+Figure 5
+B), indicative of altered growth. In the case of
+mus81
+, 89.3% of Prestwick molecules (1,356) did not affect root size compared to DMSO-treated control, while 10.7% of molecules (163) exhibited a growth phenotype resembling MMC-induced retardation (
+Figure 5
+C). By comparing the effect of molecules on
+mus81
+and WT, 1,319 molecules showed no effect on root growth of both genotypes compared to the DMSO condition, while 150 molecules induced impaired growth on both genotypes (
+Figure 5
+D). Overall, pixel count analysis suggested that around 90% of Prestwick molecules did not affect root growth, with approximately 10% inducing altered growth in both genotypes, suggesting potential toxicity to plant growth. CNN-based segmentation quantification for leaf and plant data supported this, revealing 11%–13% of molecules causing altered growth, consistent with root analysis (
+Figure S4
+).
+To assess altered plant growth responses to Prestwick molecules, we employed CNN-based classification predictions with a probability threshold set at 50%. A score above 50% signified altered growth response, while below 50% indicated normal growth. In WT, 81.8% of Prestwick molecules exhibited normal growth, with 18.2% showing altered growth response (
+Figure 5
+E). Similarly, 86.9% of molecules demonstrated normal growth, while 13.1% caused altered growth in
+mus81
+(
+Figure 5
+F). The distribution of predictions in both genotypes was strongly bimodal, concentrated at the extremes of the 0%–100% range, indicating that there was no ambiguity in the classification between normal and altered growth and thus no hidden sensitivity to the 50% threshold. Approximately 11% of molecules consistently altered growth in both genotypes (
+Figure 5
+G), mirroring the findings from pixel count analysis regarding the 10% of Prestwick molecules showing a toxic effect on plant growth. In summary, the Prestwick chemical library screening demonstrated high reliability and identified approximately 10% of molecules that are potentially toxic in both WT and
+mus81
+genotypes.
+Prestwick molecules hit identification by CNN-based segmentation and classification
+Although we identified 37 and 27 molecules affecting the growth of
+mus81
+from CNN-based segmentation and classification analyses, respectively (
+Figure 5
+D), it did not allow us to classify hits/molecules according to their strength. We thus calculated root, leaf, and plant ratios of WT over
+mus81
+for each Prestwick constituent from the segmentation analysis (
+Figure S5
+). We reasoned that the ratio of an ideal hit between WT normal over altered growth of
+mus81
+should be several-fold higher compared to ratios when both the genotypes show altered or non-altered growth responses. For 1,519 Prestwick molecules, WT over
+mus81
+root ratios ranged from 0.05 up to 23.79, while leaf and plant ratios ranged from 0.11 to 10.66 and 0.10 to 9.92. High root, leaf, and plant ratios potentially represented
+mus81
+-specific hits. To normalize plate-to-plate variation in ratios, we calculated
+Z
+scores, i.e., SD above the normalized mean, which facilitated hit identification based on value above a threshold value 3. The screening of Prestwick molecules resulted in a total of 23 hits, composed of 10 hits from root, 13 hits from leaf, and 10 hits from plant ratios analysis with
+Z
+scores varying from 3.0 to 26.1 (
+Figures 6
+A–6C and
+S6
+). Out of these 20, 7 hits (highlighted in red in
+Figure 6
+) appeared to be false positive upon close inspection of images, revealing elevated ratios due to the differential toxicity effect of molecules in both genotypes, with WT being less severely affected than
+mus81
+. Three hits were common to all root, leaf, and plant analyses. and four hits were common between leaf and plant analyses. Four hits were specific for root analysis; while three hits were specifically picked from leaf analysis. One specific hit was identified from the plant, amounting to 13 hits from the primary screen causing altered growth in
+mus81
+seedlings (
+Figure S6
+). Among these hits, one was MMC (Prest-2071) among Prestwick molecules. While MMC was used as a positive control in our assay, we unknowingly detected MMC as a hit among Prestwick compounds, confirming the robustness of our screening procedure (
+Figure S6
+). For hit identification by the CNN-based classification, we set up a 99% probability threshold of altered growth in
+mus81
+together with a 1% probability of altered growth of WT, resulting in four top hits (
+Figure 6
+D). Only one hit was common between both segmentation and classification analyses. In summary, two independent image analysis programs identified molecules with a variable degree of
+mus81
+-specific effects.
+Figure 6.
+Open in a new tab
+Hits identification by CNN-based segmentation and classification analyses
+(A–C) The
+Z
+score distribution of root (A), leaf (B), and plant (root+leaf) (C) growth ratios after treatment of 1,519 Prestwick molecules. The dotted black line denotes the threshold of 3. The Z scores above the threshold of 3 in green were considered as hits, while false-positive hits are presented in red.
+(D) Four hits identified by CNN-classification analysis are present with probability scores and corresponding images from WT and
+mus81.
+To finally validate the Prestwick hits identified, we performed conformational assays with the 14 selected molecules using WT and
+mus81
+with 10 replicates in each condition (
+Figure 7
+). While 11 molecules displayed toxicity on both WT and
+mus81
+, only 3 molecules induced altered growth of
+mus81
+compared with WT. The three compounds detected in root, leaf, and plant analysis were Prest-347 (Thioguanosine), Prest-1494 (Irinotecan hydrochloride), and Prest-1917 (Tioguanine) (
+Figure S7
+). We further validated these three Prestwick molecules using another
+A. thaliana recq4a
+and
+rtel1
+mutants, which are also defective in DNA repair. RECQ4A and RTEL1 are DNA helicases that function parallel to the MUS81 pathway in DNA break repair.
+14
+,
+15
+,
+30
+We measured the root growth of WT,
+mus81
+,
+recq4a
+, and
+rtel1
+seedlings treated with 25 μM Prest-347, Prest-1494, and Prest-1917 along with DMSO and MMC used as controls (
+Figure S8
+). The root growth of
+mus81
+was severely inhibited by all three compounds, whereas
+recq4a
+showed partial sensitivity to Prest-347 and Prest-1917, but not Prest-1494, compared with DMSO-treated control. In contrast, the root growth of
+rtel1
+mutants exhibited no significant sensitivity to all three tested compounds compared with DMSO controls. These results suggest differential effects of Prest-347, Prest-1494, and Prest-1917 molecules on the root growth of
+mus81
+,
+recq4a
+, and
+rtel1
+mutants. Among these three molecules, Irinotecan hydrochloride is an analog of camptothecin that inhibits DNA topoisomerase I activity resulting in DNA breaks and inhibition of DNA replication, ultimately leading to cell death.
+31
+,
+32
+Thioguanosine and Tioguanine are both structurally related compounds.
+33
+Thioguanosine is a nucleobase-modified analog of guanosine, and Tioguanine is an analog of purine base guanine. All three compounds are implicated in impairing DNA/RNA metabolism and have been used for chemotherapeutic purposes to treat human cancer.
+32
+,
+33
+,
+34
+Given the sensitivity of
+mus81
+against DNA-damaging agents, the identification of Prest-347, Prest-1449, and Prest-1917 in our screen appeared reasonable and confirmed our methodological approach.
+Discussion
+Here, we have established and validated an HTS method as proof of concept based on the differential growth of
+A. thaliana
+seedlings of two genotypes. We have developed new quantitative image analysis tools to assess seedling growth in the presence of chemical molecules. Our method offers an advantage over generally used single-genotype-based screening approaches for identifying specific compounds within a given context. Described here is a facile, accurate, reliable, and robust method, highly suitable for a variety of chemical genetic screening projects.
+A robust and reproducible high-throughput assay to measure plant growth
+We developed a highly robust and reproducible plant growth phenotype-directed screening method using
+Arabidopsis
+seedlings. Our image analysis program can precisely quantify plant growth phenotypes through segmentation or classification, which is fast and automatic. This allows us to evaluate biological variation during the experiment and to apply statistical tools for the unbiased selection of hits compared to previously described phenotype-directed screens.
+35
+,
+36
+,
+37
+Thus, minimal variation within control conditions and accurate detection of treatment-induced differences underscore the method’s robustness and precision, rendering it valuable for high-throughput chemical screens. Furthermore, conducting a primary screening on
+mus81
+alongside the WT genotype led to the identification of potential DNA-damaging agents as hits including a topoisomerase inhibitor (Irinotecan hydrochloride) and MMC. The detection of MMC as a hit in our chemical screen confirms the reliability and effectiveness of our screening method and is consistent with previously described reports showing
+Arabidopsis
+mus81
+to be hypersensitive to various DNA-damaging agents including MMC.
+14
+,
+15
+,
+38
+Exposure to DNA-damaging agents generates specific DNA structures.
+39
+MUS81 cleaves these toxic DNA structures, thereby preventing the accumulation of toxic DNA intermediates in cell.
+40
+Though the exact mechanism is unclear, we speculate that all three molecules (Thioguanosine, Tioguanine, and Irinotecan) found in our screen generate DNA structures or intermediates, the accumulation of which likely becomes toxic to cells if not resolved by DNA repair proteins like MUS81. Quantitative screening data also permit distinguishing high- and low-potency molecules, which can be important for subsequent strategies for developing new bioactive scaffolds. Our method also does not require the use of transgenic lines expressing fluorescent markers such as luciferase for detecting specific phenotypes.
+8
+Arabidopsis
+mus81
+mutants display growth retardation
+Conserved DNA repair mechanisms play a pivotal role in preserving genome stability across eukaryotic organisms. Dysfunctions within these repair pathways in plants can significantly compromise genome integrity, particularly impacting yield in crop species.
+10
+While the disruption of DNA repair mechanisms in animal models often proves fatal, plant mutants remain viable, offering a unique opportunity to determine their
+in vivo
+functions. Among these, the
+Arabidopsis
+homolog of the structure-specific nuclease MUS81 is indispensable for homologous recombination, DNA repair, and replication, as well as ensuring telomere stability in coordination with other nucleases.
+14
+,
+15
+,
+38
+,
+41
+In our assays, we observed a growth delay in
+mus81
+mutants compared to the WT, manifesting as a relatively subtle alteration in growth patterns (
+Figure 4
+C). Notably,
+Arabidopsis
+mus81
+mutants have been extensively characterized in previous studies,
+14
+,
+30
+,
+38
+but this specific growth defect had not been previously detected. It appears that such subtle growth phenotypes necessitate precise quantification methods for detection. This underscores the efficacy of our image analysis program and its potential utility beyond our chemical screen for characterizing the growth dynamics of
+Arabidopsis
+seedlings.
+Deep learning-based image analysis for growth-based screening
+We used two deep learning-based approaches, image classification and image segmentation, to analyze images of growing seedlings and to detect molecules differentially affecting growth between the WT and the
+mus81
+genotypes. We obtained excellent performances in both cases. Image classification accuracy reached 100% on the test sets, and this performance was preserved even when strongly down-sizing the training set. This demonstrates the benefit of CNN for image classification in the context of growth-based screening. Deep neural networks can learn complex end-to-end mappings from input images to output predictions without needing the extraction of handcrafted features. Here, using a ResNet architecture, where residual connections enable propagating preserved information throughout the network and capturing even more complex patterns and relationships within the data, was certainly key in achieving this performance level with such small datasets. Image segmentation accuracy obtained with U-net was also superior to that obtained with the Weka Training Segmentation (WTS) plugin,
+26
+a state-of-the-art tool for statistical learning-based image segmentation. This is consistent with the globally proven effectiveness and added value of U-net over alternative approaches.
+24
+However, U-net requires fully segmented ground-truth images at the training stage. Here, we took advantage of the ease of use of WTS and manually corrected images initially segmented with this tool to reduce the amount of required curation.
+Our classification approach consisted of learning to predict the probabilities for each image to fall into two categories of normal and affected growth. The method exhibited excellent performance on individual images (100% accuracy on test sets) and allowed us to identify even minor growth defects, highlighting its sensitivity to subtle deviations from optimal growth conditions. Accordingly, image classification enabled the identification of hits that had no discernible impact on WT growth but induced minor to severe growth defects specifically on
+mus81
+. However, the learning algorithm naturally pushes the output probability of being affected or not toward extreme values within the 0%–100% interval (
+Figures 5
+E and 5F). The trained CNN thus functions essentially as a qualitative analysis tool, and its major limitation in the context of a differential screen is the risk of producing false negatives when both genotypes are affected. Our image segmentation approach consisted of learning to partition the images into seedling roots and leaves. This enabled the detection of potential hits based on size ratios between the two genotypes. In contrast with the classification approach, this allowed us to detect compounds affecting both genotypes with different intensities. However, one limitation of the segmentation approach in our 2D image analysis context is that roots and leaves may overlap, resulting in the under-detection of some parts and under-estimation of actual growth. In addition, the added resolution of the segmentation approach comes at the cost of establishing ground-truth segmented images for the training. Compared with image classification, for which the training only required raw images of seedlings grown in normal or altered conditions, this represents a time-consuming step based on careful manual curation. Overall, the two approaches proved to be complementary in our study and yielded partially redundant outcomes. While the sensitivity of image classification to minor growth defects contributes to its ability to identify specific hits, computing pixel ratios from segmented images enables the detection of compounds that affect both genotypes with varying strengths. Combining such different learning approaches may be beneficial to optimize hit detection and capture hits that might have been missed by either method.
+Limitations of the study
+While our method presents a robust tool with several advantages for specific HTS screens, there are opportunities for further improvement to enhance efficiency. In our initial screen, we opted not to include replicates due to considerations of cost-effectiveness and time efficiency. However, this decision led to the identification of false-positive hits, such as the molecule 1343, which showed no differential growth effect on
+mus81
+and WT based on confirmation assays with 10 replicates (
+Figure 7
+). The high SD observed with molecule 1343 in confirmation assays highlights the variability in plant growth that contributed to its identification as a hit in the primary assay without replicates. Therefore, we recommend incorporating replicates in the primary screen to mitigate the occurrence of false-positive hit candidates.
+Figure 7.
+Open in a new tab
+Confirmation of hits identified from the primary screening of the Prestwick library
+14 Prestwick molecules were tested at 10 μM concentration with 10 biological replicates comparing WT (blue) and
+msu81
+(red) seedlings’ growth for 12 days. Violin plots for roots (A), leaves (B), and plants pixels (C) depict the distribution of replicates with the median in black lines and two quartiles in violet dotted lines. Only molecules 347, 1,494, and 1,917 were confirmed to affect
+mus81
+growth without any affecting WT growth. MMC and DMSO (0.25%) treatments were controls for altered and normal growth, respectively. The
+p
+values shown were computed using unpaired Mann-Whitney test for comparing WT and
+mus81.
+The selection of screening concentrations often involves some degree of arbitrariness, with concentrations ranging from nanomolar in cell-based assays to micromolar when screening whole organisms like
+Arabidopsis
+seedlings. Even within comparable screening systems, the choice of screening concentration varies among laboratories due to challenges in accurately predicting the concentration of the target chemical compound. Screening at a single concentration may result in both false-negative and false-positive hits.
+42
+Utilizing at least two different concentrations across a wide range can identify molecules with dose-dependent effects, thereby reducing the occurrence of false positives and false negatives. While our screening approach prioritized screening a larger number of molecules over testing different concentrations, incorporating multiple concentrations could have helped eliminate false-positive and false-negative hits.
+Resource availability
+Lead contact
+Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Rajeev Kumar (
+Rajeev.kumar@inrae.fr
+).
+Materials availability
+All reagents generated in this study are available upon request from the lead contact.
+Data and code availability
+•
+All datasets reported in this work are available from the lead contact on request.
+•
+Code is available on request from the corresponding author (Philippe Andrey:
+philippe.andrey@inrae.fr
+).
+•
+Any additional information required to reanalyze the data reported in this paper is available from the
+lead contact
+upon request.
+Acknowledgments
+We thank Christine Mezard, Jean Christophe Cintrat, and Esther Kellenberger for fruitful discussions and critical reading of the manuscript. Rijk Zwaan Zaadteelt en Zaadhandel B.V., Burgemeester Crezeelaan 40, 2678 KX, De Lier, financed a research funding to R.K. and a Ph.D. fellowship to C.E. A.O. was funded by the Tefor Infrastructure under the Investments for the Future program of the French National Research Agency (grant #ANR-11-INBS-0014). This work has benefited from the support of IJPB's Plant Observatory technological platforms. The IJPB benefits from the support of LabEx Saclay Plant Sciences-SPS (ANR-10-LABX-0040-SPS).
+Author contributions
+C.E., J.D., S.L., J.G., A.O., and S.P. produced the data. C.E., J.D., S.L., P.A., and R.K. analyzed the data. P.A. and R.K. conceived and designed the experiments. C.E., S.L., P.A., and R.K. wrote the manuscript with the input of all authors. P.A. and R.K. acquired funding.
+Declaration of interests
+The authors declare no competing interests.
+STAR★Methods
+Key resources table
+REAGENT or RESOURCE
+SOURCE
+IDENTIFIER
+Chemicals, peptides, and recombinant proteins
+Gamborg B5 medium
+Duchefa Biochemie
+G0209
+Sucrose
+Duchefa Biochemie
+S0809
+Sodium hydroxide
+FISHER; RRID:SCR_009181
+1310-73-2
+Mitomycin C (MMC)
+Sigma-Aldrich; RRID:SCR_008988
+M0503
+Dimethyl Sulfoxide
+Sigma-Aldrich; RRID:SCR_008988
+D2650
+Prestwick Chemical Library
+Greenpharma
+PCL1520.10-20-96G
+Experimental models: Organisms/strains
+Arabidopsis thaliana:
+wild type
+Accession Columbia (Col-0)
+mus81
+mutant
+SALK T-DNA insertional line
+SALK_107515
+Oligonucleotides
+P1
+Eurofins
+5′-CATGCTGACAGTTGAAGGTC-3′
+P2
+Eurofins
+5′-CCTCAAACGTTTCTCCAAAT-3′
+LB-Salk2
+Eurofins
+5′-GCTTTCTTCCCTTCCTTTCTC-3′
+Software and algorithms
+Prism
+GraphPad
+Prism9
+Fiji
+https://fiji.sc/
+MS Ecxel
+Microsoft
+Excel 2019
+PyTorch
+https://pytorch.org/
+BIP
+https://andreylab.versailles.inrae.fr/html/bip.html
+Other
+Hamilton automated liquid handler system
+Hamilton company
+Microlab STAR
+Zeiss Axiozoom Stereo microscope
+Zeiss France
+Axiozoom.V16
+Open in a new tab
+Experimental model and study participant details
+Plant material & growth condition
+Arabidopsis (
+Arabidopsis thaliana
+) plants were grown in a greenhouse under a 16-hour light/8-hour dark photoperiod at 20°C. The
+A. thaliana
+accession Columbia (Col-0) served as the wild-type (WT), while the homozygous SALK_107515 T-DNA insertional line was utilized for
+mus81
+mutants as previously described.
+14
+Method details
+In vitro
+growth assays
+Genotyping was performed using the following primers: P1 (5′-CATGCTGACAGTTGAAGGTC-3′), P2 (5′-CCTCAAACGTTTCTCCAAAT-3′), and LB-Salk2 (5′-GCTTTCTTCCCTTCCTTTCTC-3′). For
+in vitro
+culture, Arabidopsis seeds were surface sterilized using a liquid bleach solution. Subsequently, three seeds were manually distributed with a sterile toothpick into each well of a 24-well plate containing 960μl of liquid media. The media was composed of 3.16 g/L Gamborg B5 medium (Duchefa Biochemie Gamborg B5 medium) and 10 g/L sucrose (Duchefa Biochemie, crystallized sucrose), adjusted to pH 6 with 10N KOH. Following stratification in plates for 2 days at 4°C in darkness, the plates were subjected to a growth chamber with 16-hour light/8-hour dark conditions at 21°C for 12 days. The plates were rotated daily to minimize microenvironmental variations.
+Screening procedures
+Before commencing the screen, a quality control assessment was conducted on our seed stocks for both the WT and
+mus81
+. Among the 250 sterilized seeds tested, both WT and
+mus81
+exhibited a 100% germination rate and 0% contamination. This high germination rate may be due to the use of a small number of freshly harvested seeds from plants grown before screening, which likely minimizes the impact of storage conditions, duration, and seed age. One 24-well plate was kept as the external control for each screening session. This plate included 6 wells containing
+mus81
+treated with 10μg/ml MMC (Sigma-Aldrich), 6 wells containing
+mus81
+treated with 0.25% DMSO (Sigma-Aldrich), 6 wells containing WT treated with 10μg/ml MMC, and 6 wells containing WT treated with 0.25% DMSO. In each 24-well plate used for screening, 20 molecules were screened, and the remaining 4 wells served as internal controls: 2 with DMSO and the other 2 with MMC treatment (
+Figure 1
+). The Prestwick library compounds were provided at a concentration of 10 mM in 100% DMSO. These compounds underwent two serial dilutions with Arabidopsis liquid media to achieve a final concentration of 10μM molecules with 0.25% DMSO for screening. Distribution of the Prestwick compounds from the 96-well plate to the 24-well plates was carried out using the Hamilton automated liquid handler system (MICROLAB STARlet). After 12 days of growth, seedlings in each well were imaged using a Zeiss Axiozoom light macroscope.
+Image classification
+Images taken using Axiozoom were downsized by a factor of 4 along both XY dimensions using Fiji,
+43
+resulting in 1416 × 2124 pixels in TIFF format for subsequent processing. Automatic image segmentation and quantification were performed using a CNN-based segmentation or classification program via Windows PowerShell.
+We used a Convolutional Neural Network (CNN) to distinguish between seedlings exhibiting normal or altered growth. Our chosen architecture was ResNet,
+25
+known for its “identity shortcut connection” that skips one or more layers, termed residual blocks. This feature enables the learning of residuals, facilitating the training of deeper networks and enhancing performance, particularly demonstrated in ImageNet classification.
+25
+Our ResNet implementation consisted of 18 convolutional layers with 64 filters. During training, we minimized cross-entropy loss using an Adam optimizer with a mini-batch size of 8, a learning rate of 1e-3, a weight decay of 1e-4 and L2 penalty. Early stopping with a patience of 5 epochs was employed to prevent overfitting.
+For training and evaluation, we curated for each genotype a dataset comprising 240 images of seedlings. Within each genotype, half of the plantlets were exposed to either DMSO (“normal growth”) or MMC (“altered growth”). The dataset was randomly partitioned, with 90% allocated to the training set and 10% to the test set, maintaining balanced proportions of drug conditions in each subset. The training set was further divided into validation and training folds using a 3-fold cross-validation approach. We used data augmentation to avoid over-fitting, applying random image translations and rotations, with upper limits of 3 mm (equivalent to 3 pixels) and 3 degrees, respectively. These limits were set conservatively to align with the constrained acquisition setting where data were acquired with nearly identical field of view. We conducted our analysis in PyTorch deep learning framework.
+44
+Image segmentation
+The dataset used to learn segmentation was composed of WT (N=15) and mutant (N=15) images, almost evenly distributed between genotypes and from seedlings exposed to DMSO (« normal growth »; WT: N=7;
+mus81
+: N = 7) or MMC (« altered growth »; WT: N = 8;
+mus81
+: N = 8). The dataset also contained 10 additional images of non-germinated seeds. We applied the adaptive Hough transform available in OpenCV-Python (
+https://github.com/opencv/opencv-python
+) to detect the position of the circular well in each image.
+45
+This allowed us to reduce image size by cropping images around the wells. We used the WEKA plugin in Fiji
+26
+to perform a three-class segmentation of pixels into background, roots, and leaves. The obtained segmentations were manually corrected by two experts to generate ground-truth images.
+We used a U-Net architecture to segment seedling images. U-Net is a convolutional encoder-decoder neural network that can be represented in a U-shape.
+27
+,
+28
+The left portion (encoder) is a successive set of down-sampling layers and the right portion (decoder) is a combination of up-sampling layers. In the encoding part, the number of features increases by two at each level. Skip connections are added to link each encoder and decoder level to restore lost frequencies during up-sampling. We used a U-Net with 5 convolutional layers and 32 initial filters. Transpose convolution was used during the up-sampling. As for classification, the model was trained by minimizing the cross-entropy loss, using an Adam optimizer, a mini-batch size of 8, a learning rate of 1e-3, a weight decay of 1e-4 and L2 penalty. Early stopping with a 5 epochs patience prevented over-fitting. Finally, as for image classification, we randomly partitioned data with 80% assigned to a training set, 10% to a validation set, and 10% to a test set, with the split having matching proportions of genotypes.
+Quantification and statistical analysis
+The number of pixels labeled as background, roots, and leaves in the segmented images were computed using the BIP (Biological Image Processing) software (
+https://andreylab.versailles.inrae.fr/html/bip.html
+). Data management and statistical analysis were conducted using Excel 2019 software and Prism GraphPad 9.3.1 software. The precise statistical tests can be found in the corresponding Figure legend.
+The Z′ factor and
+Z
+score calculations
+The Z′ factor (
+Equation 1
+) is a commonly used statistical metric in chemical screens to characterize the robustness of assays.
+29
+It indicates if the separation between the positive and the negative control value is enough to perform an efficient assay. The Z′ factor goes from minus infinity to 1, with Z' > 0.5 demonstrating an excellent assay, 0.5 > Z' > 0 an acceptable assay, and Z' < 0 an unsuitable assay.
+29
+Z
+’
+f
+a
+c
+t
+o
+r
+=
+1
+−
+3
+SD
+of
+positive
+control
++
+3
+SD
+of
+negative
+control
+Mean
+of
+positive
+control
+−
+Mean
+of
+negative
+control
+(Equation 1)
+Equation 1
+: Z′ factor formula, SD = standard deviation.
+The
+Z
+score is different than Z′ factor and computes the number of standard deviations of a given value compared to the mean value of the same population.
+46
+Z
+s
+c
+o
+r
+e
+=
+x
+−
+m
+e
+a
+n
+S
+D
+(Equation 2)
+Equation 2
+:
+Z
+score formula, SD = standard deviation.
+Published: April 8, 2025
+Footnotes
+Supplemental information can be found online at
+https://doi.org/10.1016/j.isci.2025.112375
+.
+Contributor Information
+Philippe Andrey, Email: philippe.andrey@inrae.fr.
+Rajeev Kumar, Email: rajeev.kumar@inrae.fr.
+Supplemental information
+Document S1. Figures S1–S8
+mmc1.pdf
+(1.2MB, pdf)
+References
+1.
+Hicks G.R., Raikhel N.V. Small Molecules Present Large Opportunities in Plant Biology. Annu. Rev. Plant Biol. 2012;63:261–282. doi: 10.1146/annurev-arplant-042811-105456.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+2.
+Dejonghe W., Russinova E. Plant Chemical Genetics: From Phenotype-Based Screens to Synthetic Biology. Plant Physiol. 2017;174:5–20. doi: 10.1104/pp.16.01805.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+3.
+Lepri A., Longo C., Messore A., Kazmi H., Madia V.N., Di Santo R., Costi R., Vittorioso P. Plants and Small Molecules: An Up-and-Coming Synergy. Plants. 2023;12:1729. doi: 10.3390/plants12081729.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+4.
+Kim T.-H., Hauser F., Ha T., Xue S., Böhmer M., Nishimura N., Munemasa S., Hubbard K., Peine N., Lee B.-H., et al.  Chemical genetics reveals negative regulation of abscisic acid signaling by a plant immune response pathway. Curr. Biol. 2011;21:990–997. doi: 10.1016/j.cub.2011.04.045.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+5.
+Brabham C., DeBolt S. Chemical genetics to examine cellulose biosynthesis. Front. Plant Sci. 2012;3 doi: 10.3389/fpls.2012.00309.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+6.
+Mishev K., Dejonghe W., Russinova E. Small molecules for dissecting endomembrane trafficking: a cross-systems view. Chem. Biol. 2013;20:475–486. doi: 10.1016/j.chembiol.2013.03.009.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+7.
+Lumba S., Bunsick M., McCourt P. Chemical genetics and strigolactone perception. F1000Res. 2017;6:975. doi: 10.12688/f1000research.11379.1.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+8.
+Fiers M., Hoogenboom J., Brunazzi A., Wennekes T., Angenent G.C., Immink R.G.H. A plant-based chemical genomics screen for the identification of flowering inducers. Plant Methods. 2017;13:78. doi: 10.1186/s13007-017-0230-2.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+9.
+Halder V., Suliman M.N.S., Kaschani F., Kaiser M. Plant chemical genetics reveals colistin sulphate as a SA and NPR1-independent PR1 inducer functioning via a p38-like kinase pathway. Sci. Rep. 2019;9 doi: 10.1038/s41598-019-47526-5.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+10.
+Balestrazzi A., Confalonieri M., Macovei A., Donà M., Carbonera D. Genotoxic stress and DNA repair in plants: emerging functions and tools for improving crop productivity. Plant Cell Rep. 2011;30:287–295. doi: 10.1007/s00299-010-0975-9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+11.
+Interthal H., Heyer W.D. MUS81 encodes a novel helix-hairpin-helix protein involved in the response to UV- and methylation-induced DNA damage in Saccharomyces cerevisiae. Mol. Gen. Genet. 2000;263:812–827. doi: 10.1007/s004380000241.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+12.
+Kaliraman V., Mullen J.R., Fricke W.M., Bastin-Shanower S.A., Brill S.J. Functional overlap between Sgs1–Top3 and the Mms4–Mus81 endonuclease. Genes Dev. 2001;15:2730–2740. doi: 10.1101/gad.932201.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+13.
+Ciccia A., Constantinou A., West S.C. Identification and characterization of the human mus81-eme1 endonuclease. J. Biol. Chem. 2003;278:25172–25178. doi: 10.1074/jbc.M302882200.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+14.
+Hartung F., Suer S., Bergmann T., Puchta H. The role of AtMUS81 in DNA repair and its genetic interaction with the helicase AtRecQ4A. Nucleic Acids Res. 2006;34:4438–4448. doi: 10.1093/nar/gkl576.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+15.
+Mannuss A., Dukowic-Schulze S., Suer S., Hartung F., Pacher M., Puchta H. RAD5A, RECQ4A, and MUS81 Have Specific Functions in Homologous Recombination and Define Different Pathways of DNA Repair in Arabidopsis thaliana. Plant Cell. 2010;22:3318–3330. doi: 10.1105/tpc.110.078568.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+16.
+Crooke S.T., Bradner W.T. Mitomycin C: a review. Cancer Treat Rev. 1976;3:121–139. doi: 10.1016/s0305-7372(76)80019-9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+17.
+LeCun Y., Bengio Y., Hinton G. Deep learning. Nature. 2015;521:436–444. doi: 10.1038/nature14539.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+18.
+Krizhevsky A., Sutskever I., Hinton G.E. ImageNet classification with deep convolutional neural networks. Commun. ACM. 2017;60:84–90. doi: 10.1145/3065386.
+[
+DOI
+] [
+Google Scholar
+]
+19.
+Weigert M., Schmidt U., Boothe T., Müller A., Dibrov A., Jain A., Wilhelm B., Schmidt D., Broaddus C., Culley S., et al.  Content-aware image restoration: pushing the limits of fluorescence microscopy. Nat. Methods. 2018;15:1090–1097. doi: 10.1038/s41592-018-0216-7.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+20.
+Jiang Y., Li C. Convolutional Neural Networks for Image-Based High-Throughput Plant Phenotyping: A Review. Plant Phenomics. 2020;2020 doi: 10.34133/2020/4152816.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+21.
+Schmidt U., Weigert M., Broaddus C., Myers G.  In: Medical Image Computing and Computer Assisted Intervention – MICCAI 2018 Lecture Notes in Computer Science. Frangi A.F., Schnabel J.A., Davatzikos C., Alberola-López C., Fichtinger G., editors. Springer International Publishing; 2018. Cell Detection with Star-Convex Polygons; pp. 265–273.
+[
+DOI
+] [
+Google Scholar
+]
+22.
+Wolny A., Cerrone L., Vijayan A., Tofanelli R., Barro A.V., Louveaux M., Wenzl C., Strauss S., Wilson-Sánchez D., Lymbouridou R., et al.  Accurate and versatile 3D segmentation of plant tissues at cellular resolution. Elife. 2020;9 doi: 10.7554/eLife.57613.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+23.
+Stringer C., Wang T., Michaelos M., Pachitariu M. Cellpose: a generalist algorithm for cellular segmentation. Nat. Methods. 2021;18:100–106. doi: 10.1038/s41592-020-01018-x.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+24.
+Kar A., Petit M., Refahi Y., Cerutti G., Godin C., Traas J. Benchmarking of deep learning algorithms for 3D instance segmentation of confocal image datasets. PLoS Comput. Biol. 2022;18 doi: 10.1371/journal.pcbi.1009879.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+25.
+He K., Zhang X., Ren S., Sun J. Deep Residual Learning for Image Recognition. arXiv. 2016 doi: 10.48550/ARXIV.1512.03385. Preprint at:
+[
+DOI
+] [
+Google Scholar
+]
+26.
+Arganda-Carreras I., Kaynig V., Rueden C., Eliceiri K.W., Schindelin J., Cardona A., Sebastian Seung H. Trainable Weka Segmentation: a machine learning tool for microscopy pixel classification. Bioinformatics. 2017;33:2424–2426. doi: 10.1093/bioinformatics/btx180.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+27.
+Ronneberger O., Fischer P., Brox T. U-Net: Convolutional Networks for Biomedical Image Segmentation. arXiv. 2015 doi: 10.48550/arXiv.1505.04597. Preprint at:
+[
+DOI
+] [
+Google Scholar
+]
+28.
+Falk T., Mai D., Bensch R., Çiçek Ö., Abdulkadir A., Marrakchi Y., Böhm A., Deubner J., Jäckel Z., Seiwald K., et al.  U-Net: deep learning for cell counting, detection, and morphometry. Nat. Methods. 2019;16:67–70. doi: 10.1038/s41592-018-0261-2.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+29.
+Zhang J.-H., Chung T., Oldenburg K.R. A Simple Statistical Parameter for Use in Evaluation and Validation of High Throughput Screening Assays. SLAS Discovery. 1999;4:67–73. doi: 10.1177/108705719900400206.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+30.
+Recker J., Knoll A., Puchta H. The Arabidopsis thaliana Homolog of the Helicase RTEL1 Plays Multiple Roles in Preserving Genome Stability. Plant Cell. 2014;26:4889–4902. doi: 10.1105/tpc.114.132472.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+31.
+O’Leary J., Muggia F.M. Camptothecins: a review of their development and schedules of administration. Eur. J. Cancer. 1998;34:1500–1508. doi: 10.1016/S0959-8049(98)00229-9.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+32.
+Fujita K.i., Kubota Y., Ishida H., Sasaki Y. Irinotecan, a key chemotherapeutic drug for metastatic colorectal cancer. WJG. 2015;21:12234–12248. doi: 10.3748/wjg.v21.i43.12234.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+33.
+Somerville L., Krynetski E.Y., Krynetskaia N.F., Beger R.D., Zhang W., Marhefka C.A., Evans W.E., Kriwacki R.W. Structure and dynamics of thioguanine-modified duplex DNA. J. Biol. Chem. 2003;278:1005–1011. doi: 10.1074/jbc.M204243200.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+34.
+Laera L., Guaragnella N., Giannattasio S., Moro L. 6-Thioguanine and Its Analogs Promote Apoptosis of Castration-Resistant Prostate Cancer Cells in a BRCA2-Dependent Manner. Cancers. 2019;11:945. doi: 10.3390/cancers11070945.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+35.
+Huang S., Balgi A., Pan Y., Li M., Zhang X., Du L., Zhou M., Roberge M., Li X. Identification of Methylosome Components as Negative Regulators of Plant Immunity Using Chemical Genetics. Mol. Plant. 2016;9:1620–1633. doi: 10.1016/j.molp.2016.10.006.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+36.
+Zhu Y., Li H.-J., Su Q., Wen J., Wang Y., Song W., Xie Y., He W., Yang Z., Jiang K., Guo H. A phenotype-directed chemical screen identifies ponalrestat as an inhibitor of the plant flavin monooxygenase YUCCA in auxin biosynthesis. J. Biol. Chem. 2019;294:19923–19933. doi: 10.1074/jbc.RA119.010480.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+37.
+Xie Y., Zhu Y., Wang N., Luo M., Ota T., Guo R., Takahashi I., Yu Z., Aizezi Y., Zhang L., et al.  Chemical genetic screening identifies nalacin as an inhibitor of GH3 amido synthetase for auxin conjugation. Proc. Natl. Acad. Sci. USA. 2022;119 doi: 10.1073/pnas.2209256119.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+38.
+Berchowitz L.E., Francis K.E., Bey A.L., Copenhaver G.P. The role of AtMUS81 in interference-insensitive crossovers in A. thaliana. PLoS Genet. 2007;3 doi: 10.1371/journal.pgen.0030132.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+39.
+Weber G.F.  Molecular Therapies of Cancer. Springer International Publishing; 2015. DNA Damaging Drugs; pp. 9–112.
+[
+DOI
+] [
+Google Scholar
+]
+40.
+Dehé P.-M., Gaillard P.-H.L. Control of structure-specific endonucleases to maintain genome stability. Nat. Rev. Mol. Cell Biol. 2017;18:315–330. doi: 10.1038/nrm.2016.177.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+41.
+Olivier M., Da Ines O., Amiard S., Serra H., Goubely C., White C.I., Gallego M.E. The Structure-Specific Endonucleases MUS81 and SEND1 Are Essential for Telomere Stability in Arabidopsis. Plant Cell. 2016;28:74–86. doi: 10.1105/tpc.15.00898.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+42.
+Inglese J., Auld D.S., Jadhav A., Johnson R.L., Simeonov A., Yasgar A., Zheng W., Austin C.P. Quantitative high-throughput screening: A titration-based approach that efficiently identifies biological activities in large chemical libraries. Proc. Natl. Acad. Sci. USA. 2006;103:11473–11478. doi: 10.1073/pnas.0604348103.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+43.
+Schindelin J., Arganda-Carreras I., Frise E., Kaynig V., Longair M., Pietzsch T., Preibisch S., Rueden C., Saalfeld S., Schmid B., et al.  Fiji: an open-source platform for biological-image analysis. Nat. Methods. 2012;9:676–682. doi: 10.1038/nmeth.2019.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+44.
+Paszke A., Gross S., Massa F., Lerer A., Bradbury J., Chanan G., Killeen T., Lin Z., Gimelshein N., Antiga L., et al.  PyTorch: An Imperative Style, High-Performance Deep Learning Library. arXiv. 2019 doi: 10.48550/ARXIV.1912.01703. Preprint at:
+[
+DOI
+] [
+Google Scholar
+]
+45.
+Illingworth J., Kittler J. The Adaptive Hough Transform. IEEE Trans. Pattern Anal. Mach. Intell. 1987;9:690–698. doi: 10.1109/TPAMI.1987.4767964.
+[
+DOI
+] [
+PubMed
+] [
+Google Scholar
+]
+46.
+Birmingham A., Selfors L.M., Forster T., Wrobel D., Kennedy C.J., Shanks E., Santoyo-Lopez J., Dunican D.J., Long A., Kelleher D., et al.  Statistical methods for analysis of high-throughput RNA interference screens. Nat. Methods. 2009;6:569–575. doi: 10.1038/nmeth.1351.
+[
+DOI
+] [
+PMC free article
+] [
+PubMed
+] [
+Google Scholar
+]
+Associated Data
+This section collects any data citations, data availability statements, or supplementary materials included in this article.
+Supplementary Materials
+Document S1. Figures S1–S8
+mmc1.pdf
+(1.2MB, pdf)
+Data Availability Statement
+•
+All datasets reported in this work are available from the lead contact on request.
+•
+Code is available on request from the corresponding author (Philippe Andrey:
+philippe.andrey@inrae.fr
+).
+•
+Any additional information required to reanalyze the data reported in this paper is available from the
+lead contact
+upon request.
+Articles from iScience are provided here courtesy of
+Elsevier
+ACTIONS
+View on publisher site
+PDF (30.6 MB)
+Cite
+Collections
+Permalink
+PERMALINK
+Copy
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+Cite
+Copy
+Download .nbib
+.nbib
+Format:
+AMA
+APA
+MLA
+NLM
+Add to Collections
+Create a new collection
+Add to an existing collection
+Name your collection
+*
+Choose a collection
+Unable to load your collection due to an error
+Please try again
+Add
+Cancel
+Follow NCBI
+NCBI on X (formerly known as Twitter)
+NCBI on Facebook
+NCBI on LinkedIn
+NCBI on GitHub
+NCBI RSS feed
+Connect with NLM
+NLM on X (formerly known as Twitter)
+NLM on Facebook
+NLM on YouTube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov
+Back to Top

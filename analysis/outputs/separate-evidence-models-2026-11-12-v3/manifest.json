@@ -1,0 +1,39 @@
+{
+  "release_manifest_sha256": "4414111cee796418a727a3f850d13c5f85b89778eb9283b9ad3dc3cf677f8336",
+  "protocol_sha256": "e01be805dfe61b5f7c75db39fd20e5dd4c44e8bcfb62bce29cf3e3441cf5c8db",
+  "runtime": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "polars": "2.0.0",
+    "rdkit": "2026.9.1",
+    "altair": "6.3.0",
+    "vl-convert-python": "1.9.0.post1"
+  },
+  "code": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_models.py": "1144582109b3a257b60025258e3a7b71a906711606c4bdc939c661b5ca0f84a3",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/oob.py": "da7a436a6df7c42456ac80c1362831634826502750d7136d47e95757ad2b9eda",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_release.py": "e727eef0dec6e323a2bf979af6e1b80d3148123b9b43d66fcb3f9e91e17886f4"
+  },
+  "outputs": {
+    "agreement_summary.csv": "94ce294a324f0603aae078216858e1bb46039147bae0d4a72258ad958bb9cdcf",
+    "decision_C.json": "517ba9def0f8d5269951b284a49c0c583363d74288c68e37568bfd571669f35a",
+    "metrics.csv": "76feebcc7e09ed1fd0626582947f5cfa6e70d73b1f6aff19626eab5e6259b5dd",
+    "oob.csv": "e81d7d209b14a1c193dc6f72808919296bf3a31ca94ca83db1f4f5619e01ea39",
+    "paired_agreement.csv": "ad9503cdbd33fd7541dbdf240dc6c16b95a2a1e7d94b27710d734301abed51fa",
+    "paired_agreement.svg": "6629901dd0a2a0f1b4664c1bb2a38288c89afc05f7b0b015f8a9d8138d1729e2",
+    "pooled_metrics.csv": "393968969e4a1e9928f08eb6ef24ba940551d87de364037fb42cd080db629026",
+    "predictions.csv": "55f43ed39a2d5b40e385616647dbc784c620717ce718ab91cc984dcc89d36346",
+    "reproduction/evidence_models.py": "1144582109b3a257b60025258e3a7b71a906711606c4bdc939c661b5ca0f84a3",
+    "reproduction/evidence_release.py": "e727eef0dec6e323a2bf979af6e1b80d3148123b9b43d66fcb3f9e91e17886f4",
+    "reproduction/oob.py": "da7a436a6df7c42456ac80c1362831634826502750d7136d47e95757ad2b9eda",
+    "residual_histogram.csv": "ac545ef6ed52f7016c2fabf25ee6ad5398804fc6baa119136c21226dc3808e33",
+    "residuals.svg": "596aa998d6d0a946201551060eb5a934ac6798da8608074ad1d7770d03f515e2",
+    "runtime.json": "b51e685035523b2b7a11d60edc4b2ca35c8b97ce5d1fcd860e5f60db7eb89002",
+    "splits.csv": "d8cfa644067227e76fda140cdf6ddaff5f546a44101265bab5674f0034be669b",
+    "status.csv": "55f3878c52d4721c621eeb4b16fa446c85721d33f88c39e4a60f8431a585ec03",
+    "walkthrough.html": "c15bf0ad246fa4840fadb878c2eb627c071ac0dbcacc3d6134a13d3d9d99fc29",
+    "weights.csv": "5c173bbe3d1ed31bb6bf0420c4768a2a3f480f7c6e9ea24cdb58e7652339c58c"
+  },
+  "decision_C": "defer"
+}

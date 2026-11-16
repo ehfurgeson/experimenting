@@ -1,0 +1,16 @@
+{
+  "query": "L-Serine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Serine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:01.337599+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 5951,
+          "SMILES": "C([C@@H](C(=O)O)N)O",
+          "InChIKey": "MTCFGRXMJLQNBG-REOHCLBHSA-N"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 6795,
+    "RecordTitle": "Diquat",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=153",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Diquat"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Critical Effect Systems",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ocular"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Reference Dose (RfD), chronic",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.2 x 10 ^-3 mg/kg-day"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ocular"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Toxicity Link",
+                "Description": "This section provides the link to the aquatic acute toxicity test results, available at the Acute Toxicity Database at the U.S. Geological Survey (USGS) Columbia Environmental Research Center (CERC).",
+                "URL": "https://www.cerc.usgs.gov/data/acute/acute.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 39,
+                    "URL": "https://www.cerc.usgs.gov/data/acute/qryboth.asp?Chemical=DIQUAT",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: DIQUAT"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        },
+                        {
+                          "String": "Nephrotoxin - The chemical is potentially toxic to the kidneys in the occupational setting."
+                        },
+                        {
+                          "String": "ACGIH Carcinogen - Not Classifiable."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134982433"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Acceptable Daily Intakes",
+                    "Description": "An estimate of the amount of a chemical in food or drinking water that can be consumed daily over a lifetime without presenting an appreciable risk to health. It is usually expressed as milligrams of the substance per kilogram of body weight per day and applies to chemicals such as food additives, pesticide residues and veterinary drugs.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^ADI$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 35,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0022"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 35,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "IRIS Current"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Other Toxicity Values",
+                    "Description": "Other toxicity values that are less commonly used in toxicological studies.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^Other$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 1
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.40e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.80e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.00e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.30e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "MCL-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.70e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.20e-03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.20e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5.40e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.20e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.20e-03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Diquat$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Diquat$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Diquat$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134982433",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0002764729",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19470615
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "bdd38f185f51be0ad65264f1fd8d067b",
+        "Name": "Diquat",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49736240
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_153",
+        "Name": "Diquat",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=153",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895251
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID6795",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125835
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_294",
+        "Name": "Diquat",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2435905
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_294",
+        "Name": "Diquat",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8258698
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID6034554",
+        "Name": "Diquat",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57023421
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz474",
+        "Name": "Diquat",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17276312
+      },
+      {
+        "ReferenceNumber": 35,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Diquat",
+        "Name": "Diquat",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45400893
+      },
+      {
+        "ReferenceNumber": 39,
+        "SourceName": "USGS Columbia Environmental Research Center",
+        "SourceID": "D0350",
+        "Name": "DIQUAT",
+        "Description": "The Acute Toxicity Database at the USGS Columbia Environmental Research Center (CERC) provides the results from aquatic acute toxicity tests.",
+        "URL": "https://www.cerc.usgs.gov/data/acute/qrychemdesc.asp?Chemical=D0350",
+        "LicenseURL": "https://www.usgs.gov/foia",
+        "ANID": 2284342
+      }
+    ]
+  }
+}

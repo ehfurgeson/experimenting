@@ -1,0 +1,25 @@
+{
+  "search_term": "Yomogi alcohol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:30.915780+00:00",
+  "url": "/chemical/search/equal/Yomogi alcohol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Yomogi alcohol",
+        "dtxsid": "DTXSID901317396",
+        "dtxcid": "DTXCID101021212",
+        "casrn": "26127-98-0",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)(O)\\C=C\\C(C)(C)C=C",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Yomogi alcohol",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

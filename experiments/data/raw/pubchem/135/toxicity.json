@@ -1,0 +1,2109 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 135,
+    "RecordTitle": "4-Hydroxybenzoic Acid",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Cosmetic Ingredient Review Conclusion",
+                    "Reference": [
+                      "International Journal of Toxicology 39(S1):5-97,2020"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "International Journal of Toxicology 39(S1):5-97,2020",
+                        "Matched": {
+                          "PCLID": 906421441,
+                          "Citation": "International Journal of Toxicology 39(S1):5-97,2020"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The CIR Expert Panel concluded that the following 20 parabens are safe in cosmetics in the present practices of use and concentration described in the safety assessment when the sum of the combined concentration of parabens in any given formulation does not exceed 0.8 %...4-Hydroxybenzoic Acid...",
+                          "Markup": [
+                            {
+                              "Start": 273,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20Acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 16,
+                    "Name": "Cosmetic Ingredient Review Finding(s)",
+                    "Reference": [
+                      "International Journal of Toxicology 39(S1):5-97,2020"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "International Journal of Toxicology 39(S1):5-97,2020",
+                        "Matched": {
+                          "PCLID": 906421441,
+                          "Citation": "International Journal of Toxicology 39(S1):5-97,2020"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Safe for use in cosmetics, with qualifications"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Neurotoxin - Other CNS neurotoxin"
+                        },
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134972218"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 41,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2897"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2897",
+                            "Matched": {
+                              "PCLID": 900138137,
+                              "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2897"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse oral 2200 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 41,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2897"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2897",
+                            "Matched": {
+                              "PCLID": 900138137,
+                              "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2897"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse ip 210 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 41,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2897"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2897",
+                            "Matched": {
+                              "PCLID": 900138137,
+                              "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2897"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse sc 1050 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 29,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 29,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 29,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 29,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 931"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 931",
+                        "Matched": {
+                          "PCLID": 906284996,
+                          "Citation": "Sheftel, V.O.; Indirect Food Additives and Polymers. Migration and Toxicology. Lewis Publishers, Boca Raton, FL. 2000., p. 931"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ Produced congenital defects in the skeleton and CNS of rats."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "JECFA; WHO Food Additives Series 5: Toxicological evaluation of some food additives including anticaking agents, antimicrobials, antioxidants, emulsifiers and thickening agents (1974). Available from, as of July 23, 2004: https://www.inchem.org/documents/jecfa/jecmono/v05je12.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "JECFA; WHO Food Additives Series 5: Toxicological evaluation of some food additives including anticaking agents, antimicrobials, antioxidants, emulsifiers and thickening agents (1974). Available from, as of July 23, 2004: https://www.inchem.org/documents/jecfa/jecmono/v05je12.htm",
+                        "Matched": {
+                          "PCLID": 900011308,
+                          "Citation": "JECFA; WHO Food Additives Series 5: Toxicological evaluation of some food additives including anticaking agents, antimicrobials, antioxidants, emulsifiers and thickening agents (1974). Available from, as of July 23, 2004: https://www.inchem.org/documents/jecfa/jecmono/v05je12.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The sodium salt of p-hydroxybenzoic acid... did not exhibit teratogenic potential. /p-Hydroxybenzoic acid sodium salt/",
+                          "Markup": [
+                            {
+                              "Start": 65,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            },
+                            {
+                              "Start": 80,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/p-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 145,
+                              "Length": 33,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/p-Hydroxybenzoic%20acid%20sodium%20salt",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16219477"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:9417843",
+                      "Lemini C et al; Environ Res 75 (2): 130-4 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9417843",
+                        "Matched": {
+                          "PCLID": 15166281,
+                          "Citation": "Lemini C, Silva G, Timossi C, Luque D, Valverde A, González-Martínez M, Hernández A, Rubio-Póo C, Chávez Lara B, Valenzuela F. Estrogenic effects of p-hydroxybenzoic acid in CD1 mice. Environ Res. 1997 Nov;75(2):130–4. doi: 10.1006/enrs.1997.3782. PMID: 9417843.",
+                          "PMID": 9417843,
+                          "DOI": "10.1006/enrs.1997.3782"
+                        }
+                      },
+                      {
+                        "Citation": "Lemini C et al; Environ Res 75 (2): 130-4 (1997)",
+                        "Matched": {
+                          "PCLID": 900094685,
+                          "Citation": "Lemini C et al; Environ Res 75 (2): 130-4 (1997)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/OTHER TOXICITY INFORMATION/ ...The estrogenic activity of p-hydroxybenzoic acid (PHBA)... was evaluated with immature and adult ovariectomized female mice (CD1) using two well-known bioassays. Subcutaneous administrations (sc) of different doses of PHBA were compared with estradiol (E2), and their effects on vaginal cornification and uterotrophic activities were evaluated. Different groups of animals were treated sc daily for 3 days with vehicle (corn oil, 0.3 mL/100 g), E2 (1 ug/100 g), and PHBA (0.5, 5, 50, and 500 ug/100 g). Four days after treatment, PHBA produced a dose-dependent response on vaginal cornification and uterotrophic activity in both immature and adult ovariectomized mice. The relative uterotrophic potency of PHBA (500 ug/100 g) to E2 (1 ug/100 g) was 0.0011 in immature mice and 0.0018 in ovariectomized animals.",
+                          "Markup": [
+                            {
+                              "Start": 59,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/p-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/estradiol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5757"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:9869276",
+                      "Peungvicha P et al; Jpn J Pharmacol 78 (3): 395-8 (1998)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9869276",
+                        "Matched": {
+                          "PCLID": 11117621,
+                          "Citation": "Peungvicha P, Thirawarapan SS, Watanabe H. Possible mechanism of hypoglycemic effect of 4-hydroxybenzoic acid, a constituent of Pandanus odorus root. Jpn J Pharmacol. 1998 Nov;78(3):395–8. doi: 10.1254/jjp.78.395. PMID: 9869276.",
+                          "PMID": 9869276,
+                          "DOI": "10.1254/jjp.78.395"
+                        }
+                      },
+                      {
+                        "Citation": "Peungvicha P et al; Jpn J Pharmacol 78 (3): 395-8 (1998)",
+                        "Matched": {
+                          "PCLID": 900012838,
+                          "Citation": "Peungvicha P et al; Jpn J Pharmacol 78 (3): 395-8 (1998)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/OTHER TOXICITY INFORMATION/ ...The hypoglycemic effect of 4-hydroxybenzoic acid... /was studied/ in streptozotocin-diabetic rats. Oral administration of 4-hydroxybenzoic acid caused a decrease in plasma glucose levels dose-dependently in the diabetic rat. The constituent did not affect serum insulin level and liver glycogen content in the diabetic model, but increased glucose consumption in normal and diabetic rat diaphragms. These results suggest that 4-hydroxybenzoic acid produces a hypoglycemic effect mediated by an increase in the peripheral glucose consumption.",
+                          "Markup": [
+                            {
+                              "Start": 59,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 101,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/streptozotocin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-29327"
+                            },
+                            {
+                              "Start": 154,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 204,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glucose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5793"
+                            },
+                            {
+                              "Start": 318,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glycogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-439177"
+                            },
+                            {
+                              "Start": 372,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glucose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5793"
+                            },
+                            {
+                              "Start": 458,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 553,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glucose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5793"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Verschueren, K. Handbook of Environmental Data on Organic Chemicals. Volumes 1-2. 4th ed. John Wiley & Sons. New York, NY. 2001, p. 1298"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Verschueren, K. Handbook of Environmental Data on Organic Chemicals. Volumes 1-2. 4th ed. John Wiley & Sons. New York, NY. 2001, p. 1298",
+                        "Matched": {
+                          "PCLID": 900020192,
+                          "Citation": "Verschueren, K. Handbook of Environmental Data on Organic Chemicals. Volumes 1-2. 4th ed. John Wiley & Sons. New York, NY. 2001, p. 1298"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Oncorhynchus mykiss (Rainbow trout) >99 mg/L/96 hr /Conditions of bioassay not specified in source examined/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kuehn R et al; Water Res 23 (4): 495-500 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kuehn R et al; Water Res 23 (4): 495-500 (1989)",
+                        "Matched": {
+                          "PCLID": 900079769,
+                          "Citation": "Kuehn R et al; Water Res 23 (4): 495-500 (1989)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EC50 Daphnia magna (intoxication, immobilization) 181 mg/L/24 hr (95% confidence interval: 167-198 mg/L); 173 mg/L/48 hr; static"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hodson PV et al; Environ Toxicol Chem 3 (2): 243-254 (1984)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hodson PV et al; Environ Toxicol Chem 3 (2): 243-254 (1984)",
+                        "Matched": {
+                          "PCLID": 721292283,
+                          "Citation": "Hodson PV, Dixon DG, Kaiser KLE. MEASUREMENT OF MEDIAN LETHAL DOSE AS A RAPID INDICATION OF CONTAMINANT TOXICITY TO FISH. Environ Toxicol Chem. 1984;3(2):243. doi: 10.1897/1552-8618(1984)3[243:momlda]2.0.co;2.",
+                          "DOI": "10.1002/etc.5620030207"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Oncorhynchus mykiss (Rainbow trout) ip 1.01 mmol/kg /formultated product/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4-Hydroxybenzoic acid's production and use as a chemical intermediate, in synthetic drugs, and as a food preservative may result in its release to the environment through various waste streams. Phenolic acids, including 4-hydroxybenzoic acid, are also widely distributed in vascular plants. If released to air, an extrapolated vapor pressure of 1.9X10-7 mm Hg at 25 °C indicates 4-hydroxybenzoic acid will exist in both the vapor and particulate phases in the ambient atmosphere. Vapor-phase 4-hydroxybenzoic acid will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 30 hours. Particulate-phase 4-hydroxybenzoic acid will be removed from the atmosphere by wet and dry deposition. If released to soil, 4-hydroxybenzoic acid is expected to have high to very high mobility based upon Koc values ranging from 142 to 14. The pKa of 4-hydroxybenzoic acid is 4.54, indicating that this compound will primarily exist in anion form and anions generally do not adsorb more strongly to organic carbon and clay than their neutral counterparts. Volatilization from moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 7.2X10-12 atm-cu m/mole and because this compound will primarily exist as an anion in the environment. 4-Hydroxybenzoic acid is not expected to volatilize from dry soil surfaces based upon its vapor pressure. 4-Hydroxybenzoic acid is expected to be readily degraded in soil and water environments based on its rapid mineralization in both aerobic and anaerobic screening studies; it is also fairly rapidly degraded in both aerobic and anaerobic microcosm studies using aquifer sediment or river sediment. If released into water, 4-hydroxybenzoic acid is not expected to adsorb to suspended solids and sediment based upon its measured Koc values. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's estimated Henry's Law constant. In addition, 4-hydroxybenzoic acid's pKa value indicates that it will exist almost entirely as an anion at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process. An estimated BCF of 9 suggests the potential for bioconcentration in aquatic organisms is low. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions. Occupational exposure to 4-hydroxybenzoic acid may occur through dermal contact with this compound at workplaces where 4-hydroxybenzoic acid is produced or used. Monitoring data indicate that the general population may be exposed to 4-hydroxybenzoic acid via inhalation of ambient air, ingestion of food, and dermal contact with this compound and other products containing 4-hydroxybenzoic acid. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 220,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 379,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 492,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 591,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 696,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 802,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 928,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1084,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1372,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1478,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1547,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1791,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1798,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1935,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2070,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 2218,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2566,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 2660,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 2774,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 2914,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Matsumoto G; Water Res 16: 551-7 (1982)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Matsumoto G; Water Res 16: 551-7 (1982)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Phenolic acids, including 4-hydroxybenzoic acid, are widely distributed in vascular plants(1).",
+                          "Markup": [
+                            {
+                              "Start": 26,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lewis RJ Sr; Hawley's Condensed Chemical Dictionary. 13th ed, NY, NY: John Wiley & Sons, Inc. p. 595 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lewis RJ Sr; Hawley's Condensed Chemical Dictionary. 13th ed, NY, NY: John Wiley & Sons, Inc. p. 595 (1997)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4-Hydroxybenzoic acid's production and use as a chemical intermediate, in synthetic drugs, and as a food preservative (up to 0.1% approved by the FDA)(1) may result in its release to the environment through various waste streams(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Vonoepen B et al; Chemosphere 22: 285-304 (1991)",
+                      "(3) Jones AH; J Chem Eng Data 5:196-200 (1960)",
+                      "(4) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data.  Boca Raton, FL: CRC Press p. 377 (2003)",
+                      "(5) Bykova LN et al; Zh Obshch Khim 40: 2295-300 (1970)",
+                      "(6) EPRI; Microbiology of a Coal-Tar Disposal Site: A Preliminary Assessment. Electric Power Research Institute, EPRI EN-7319, Project 2879-5, Final Report, Cornell Univ: Ithaca, NY (1991)",
+                      "(7) Myers CR et al; Environ Toxicol Chem 13: 461-71 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Vonoepen B et al; Chemosphere 22: 285-304 (1991)"
+                      },
+                      {
+                        "Citation": "(3) Jones AH; J Chem Eng Data 5:196-200 (1960)"
+                      },
+                      {
+                        "Citation": "(4) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data.  Boca Raton, FL: CRC Press p. 377 (2003)"
+                      },
+                      {
+                        "Citation": "(5) Bykova LN et al; Zh Obshch Khim 40: 2295-300 (1970)"
+                      },
+                      {
+                        "Citation": "(6) EPRI; Microbiology of a Coal-Tar Disposal Site: A Preliminary Assessment. Electric Power Research Institute, EPRI EN-7319, Project 2879-5, Final Report, Cornell Univ: Ithaca, NY (1991)"
+                      },
+                      {
+                        "Citation": "(7) Myers CR et al; Environ Toxicol Chem 13: 461-71 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), Koc values of 142, 20, and 14(2), indicate that 4-hydroxybenzoic acid is expected to have high to very high mobility in soil(SRC). Volatilization of 4-hydroxybenzoic acid from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 7.2X10-12 atm-cu m/mole(SRC), derived from its vapor pressure, 1.9X10-7 mm Hg(3), and water solubility, 5000 mg/L(4). In addition, the pKa of 4-hydroxybenzoic acid is 4.54(5), indicating that this compound will primarily exist in anion form in the environment and will not volatilize from moist soil surfaces(SRC). 4-Hydroxybenzoic acid is not expected to volatilize from dry soil surfaces(SRC) based upon its extrapolated vapor pressure value(3). Biodegradation of 4-hydroxybenzoic acid is expected to occur in aerobic and anaerobic soil environments based on both screening and microcosm studies (SRC). In aquifer sediment, from 34 to 70% mineralization was reported under aerobic conditions in 6 days(6). Under anaerobic conditions, 4-hydroxybenzoic acid was completely degraded in river sediments within 23 to 59 days(7).",
+                          "Markup": [
+                            {
+                              "Start": 103,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 204,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 433,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 489,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 662,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 813,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1083,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Vonoepen B et al; Chemosphere 22: 285-304 (1991)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-2, 15-1 to 15-29 (1990)",
+                      "(4) Jones AH; J Chem Eng Data 5:196-200 (1960)",
+                      "(5) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data.  Boca Raton, FL: CRC Press p. 377 (2003)",
+                      "(6) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(7) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds, Boca Raton, FL: Lewis Publ (2000)",
+                      "(8) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(9) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(10) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)",
+                      "(11) Bykova LN et al; Zh Obshch Khim 40: 2295-300 (1970)",
+                      "(12) EPRI; Microbiology of a Coal-Tar Disposal Site: A Preliminary Assessment. Electric Power Research Institute, EPRI EN-7319, Project 2879-5, Final Report, Cornell Univ: Ithaca, NY (1991)",
+                      "(13) Myers CR et al; Environ Toxicol Chem 13: 461-71 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Vonoepen B et al; Chemosphere 22: 285-304 (1991)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-2, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Jones AH; J Chem Eng Data 5:196-200 (1960)"
+                      },
+                      {
+                        "Citation": "(5) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data.  Boca Raton, FL: CRC Press p. 377 (2003)"
+                      },
+                      {
+                        "Citation": "(6) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(7) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds, Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(8) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(9) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(10) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)"
+                      },
+                      {
+                        "Citation": "(11) Bykova LN et al; Zh Obshch Khim 40: 2295-300 (1970)"
+                      },
+                      {
+                        "Citation": "(12) EPRI; Microbiology of a Coal-Tar Disposal Site: A Preliminary Assessment. Electric Power Research Institute, EPRI EN-7319, Project 2879-5, Final Report, Cornell Univ: Ithaca, NY (1991)"
+                      },
+                      {
+                        "Citation": "(13) Myers CR et al; Environ Toxicol Chem 13: 461-71 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), Koc values of 142, 20, and 14(2)indicate that 4-hydroxybenzoic acid is not expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(3) based upon an estimated Henry's Law constant of 7.2X10-12 atm-cu m/mole(SRC), derived from its vapor pressure, 1.9X10-7 mm Hg(4) and water solubility, 5000 mg/L(5). The pKa of 4-hydroxybenzoic acid is 4.54(9), indicating that this compound will primarily exist in anion form and anions generally do not adsorb more strongly to suspended solids and sediment than their neutral counterparts(6). According to a classification scheme(7), an estimated BCF of 9(SRC), from its log Kow(8) and a regression-derived equation(3), suggests the potential for bioconcentration in aquatic organisms is low (SRC). Biodegradation of 4-hydroxybenzoic acid is expected to occur in aerobic and anaerobic aquatic environments based on both screening and microcosm studies (SRC). In aquifer sediment, from 34 to 70% mineralization was reported under aerobic conditions in 6 days(10). Under anaerobic conditions, 4-hydroxybenzoic acid was completely degraded in river sediments within 23 to 59 days(11).",
+                          "Markup": [
+                            {
+                              "Start": 97,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 204,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 371,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 414,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 855,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1129,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Jones AH; J Chem Eng Data 5:196-200 (1960)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Jones AH; J Chem Eng Data 5:196-200 (1960)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), 4-hydroxybenzoic acid, which has an extrapolated vapor pressure of 1.9X10-7 mm Hg at 25 °C(2), is expected to exist in both the vapor and particulate phases in the ambient atmosphere. Vapor-phase 4-hydroxybenzoic acid is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 30 hours(SRC), calculated from its rate constant of 1.3X10-11 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(3). Particulate-phase 4-hydroxybenzoic acid may be removed from the air by wet and dry deposition(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 320,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 414,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 666,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Alexander M, Lustigman BK; J Agric Food Chem 14: 410-3 (1966)",
+                      "(2) Gerike P, Fischer WK; Ecotox Environ Safety 3: 159-73 (1979)",
+                      "(3) EPRI; Microbiology of a Coal-Tar Disposal Site: A Preliminary Assessment. Electric Power Research Institute, EPRI EN-7319, Project 2879-5, Final Report, Cornell Univ: Ithaca, NY (1991)",
+                      "(4) Madsen EL et al; Science 252: 830-3 (1991)",
+                      "(5) Madsen EL et al; Microb Ecol 24: 199-213 (1992)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Alexander M, Lustigman BK; J Agric Food Chem 14: 410-3 (1966)"
+                      },
+                      {
+                        "Citation": "(2) Gerike P, Fischer WK; Ecotox Environ Safety 3: 159-73 (1979)"
+                      },
+                      {
+                        "Citation": "(3) EPRI; Microbiology of a Coal-Tar Disposal Site: A Preliminary Assessment. Electric Power Research Institute, EPRI EN-7319, Project 2879-5, Final Report, Cornell Univ: Ithaca, NY (1991)"
+                      },
+                      {
+                        "Citation": "(4) Madsen EL et al; Science 252: 830-3 (1991)"
+                      },
+                      {
+                        "Citation": "(5) Madsen EL et al; Microb Ecol 24: 199-213 (1992)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: In a 1% soil suspension screening test, 4-hydroxybenzoic acid at 25 ppm was completely degraded within 1 day, as measured by loss of UV absorbancy(1). 4-Hydroxybenzoic acid was readily biodegraded in several aerobic activated sludge screening tests including the Zahn-Wellens test (100% removal in 1 day), Japanese MITI test (98% theoretical BOD reached in 14 days), Sturm CO2 evolution test (61% theoretical CO2 produced in 28 days), OECD Screening test (95% DOC removal in 19 days), and the Closed bottle test (93% theoretical BOD reached in 30 days)(2). In an OECD coupled units biological treatment simulation test, 99% DOC removal of 4-hydroxybenzoic acid, initially present at 12 ppm C, was reported after an acclimation period of 7 days(2). 4-Hydroxybenzoic acid was mineralized 44 to 54% in 14 days in an assay where aquifer sediments from outside the coal-tar contaminated plume were added to the compound in distilled water at 20 °C(3). When aquifer sediment collected from within the plume were used, from 50 to over 80% of the added 4-hydroxybenzoic acid was generally mineralized within 14 days(3). Under microaerophilic conditions, mineralization of 4-hydroxybenzoic acid ranged from 13 to 54% in 6 days; sediment collected from within the plume was used as an inoculum(3). Under aerobic conditions, using the same sediment, from 34 to 70% mineralization was reported over the same time(3). The percent 4-hydroxybenzoic acid mineralization in 20 days ranged from 35 to 55, 35 to 55, and 0 to 35 in microcosms using sediment upgradient of a coal-tar contaminated plume, downgradient of the plume, and in pristine sediment, respectively(4). Mineralization of 4-hydroxybenzoic acid in aquifer sediment microcosms from uncontaminated and contaminated boreholes in an urban coal-tar waste site was reported as 43 to 51% and 46 to 52%, respectively, in 14 days(5).",
+                          "Markup": [
+                            {
+                              "Start": 49,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 160,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 648,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 757,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 937,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1054,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1173,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1426,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1680,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bouwer EJ et al; pp. 173-90 in Soil Aquifer Pollut, (Int Workshop) 1996, Rubin H et al., eds. Springer-Verlag: Berlin (1996)",
+                      "(2) Horowitz A et al; Dev Ind Microbiol 23: 435-44 (1982)",
+                      "(3) Myers CR et al; Environ Toxicol Chem 13: 461-71 (1994)",
+                      "(4) Kameya T et al; Sci Total Environ 170: 43-51 (1995)",
+                      "(5) Kameya T et al; Sci Total Environ 170: 31-41 (1995)",
+                      "(6) Healy JBJr, Young LY; Appl Environ Microbiol 38: 84-89 (1979)",
+                      "(7) O'Connor OA, Young LY; Environ Sci Technol 30: 1419-28 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bouwer EJ et al; pp. 173-90 in Soil Aquifer Pollut, (Int Workshop) 1996, Rubin H et al., eds. Springer-Verlag: Berlin (1996)"
+                      },
+                      {
+                        "Citation": "(2) Horowitz A et al; Dev Ind Microbiol 23: 435-44 (1982)"
+                      },
+                      {
+                        "Citation": "(3) Myers CR et al; Environ Toxicol Chem 13: 461-71 (1994)"
+                      },
+                      {
+                        "Citation": "(4) Kameya T et al; Sci Total Environ 170: 43-51 (1995)"
+                      },
+                      {
+                        "Citation": "(5) Kameya T et al; Sci Total Environ 170: 31-41 (1995)"
+                      },
+                      {
+                        "Citation": "(6) Healy JBJr, Young LY; Appl Environ Microbiol 38: 84-89 (1979)"
+                      },
+                      {
+                        "Citation": "(7) O'Connor OA, Young LY; Environ Sci Technol 30: 1419-28 (1996)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: 4-Hydroxybenzoic acid was slowly mineralized in a microcosm study using aquifer sediment and groundwater from two boreholes in a coal-tar contaminated aquifer; the percent mineralization ranged from 0 to 30% in 28 days(1). 4-Hydroxybenzoic acid was readily degraded in several anaerobic digester sludge screening studies. Digester sludge from the Adrian and Jackson waste treatment plants, present at 10% in an anaerobic salts medium, degraded 100% of the added 4-hydroxybenzoic acid (at 50 ppm C) within 14 days(2). Complete mineralization of 4-hydroxybenzoic acid was reported within 14 days in a screening study using anaerobic digester sludge (initial test compound concentration of 30 mg C/L, sludge inoculum at 100 mg C/L, incubation at 37 °C, glucose and glutamic acid added)(4). In a second similar digester sludge screening test, 87% mineralization was reported in 28 days(5). In another digester sludge screening study, 17 days were required to completely degrade 4-hydroxybenzoic acid with over 80% of the initial concentration converted to gas(6). Significant mineralization of 4-hydroxybenzoic acid in a freshwater lake sediment was noted in 2 to 4 weeks(2). In anaerobic sediment slurries constructed using sediment from the Milwaukee Harbor and Green Bay, complete degradation of 4-hydroxybenzoic acid was generally reported in 24 to 59 days and 23 to 51 days, respectively(3). 4-Hydroxybenzoic acid was mineralized by 96 and 121% under denitrifying and methanogenic conditions, respectively, in a screening study using a 10% sediment slurry inoculum(7). Mineralization rate constants of >70(lag phase of 0 to 1.4 weeks) and 20 umol/L/day(lag phase of 0 to 1 week) were reported for 4-hydroxybenzoic acid during its degradation under denitrifying and methanogenic conditions, respectively(7).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 234,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 473,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 555,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 761,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glucose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5793"
+                            },
+                            {
+                              "Start": 773,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutamic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33032"
+                            },
+                            {
+                              "Start": 985,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1101,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1306,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1404,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 1709,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)",
+                      "(3) Lide DR, Milne GWA; Handbook of Data on Organic Compounds. 3rd edition. CRC Press: Boca Raton, FL p. 1446 (1994)",
+                      "(4) Stone AT; Environ Sci Technol 21: 979-88 (1987)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Lide DR, Milne GWA; Handbook of Data on Organic Compounds. 3rd edition. CRC Press: Boca Raton, FL p. 1446 (1994)"
+                      },
+                      {
+                        "Citation": "(4) Stone AT; Environ Sci Technol 21: 979-88 (1987)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of 4-hydroxybenzoic acid with photochemically-produced hydroxyl radicals has been estimated as 1.3X10-11 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 30 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). 4-Hydroxybenzoic acid is not expected to undergo hydrolysis in the environment due to the lack of hydrolyzable functional groups(2) nor to directly photolyze due to the lack of absorption in the environmental UV spectrum (>290 nm)(3). Oxidation of 4-hydroxybenzoic acid by manganese oxides found in suspended particles in surface waters and soils in the environment is a potentially important abiotic fate(4).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 102,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 330,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 362,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 610,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 9 was calculated for 4-hydroxybenzoic acid(SRC), using a log Kow of 1.58(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC), provided the compound is not altered physically or chemically once released into the environment.",
+                          "Markup": [
+                            {
+                              "Start": 41,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Vonoepen B et al; Chemosphere 22: 285-304 (1991)",
+                      "(2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(3) Bykova LN et al; Zh Obshch Khim 40: 2295-300 (1970)",
+                      "(4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Vonoepen B et al; Chemosphere 22: 285-304 (1991)"
+                      },
+                      {
+                        "Citation": "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(3) Bykova LN et al; Zh Obshch Khim 40: 2295-300 (1970)"
+                      },
+                      {
+                        "Citation": "(4) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Koc values of 142, 20, and 14 were measured according to a modified version of OECD guideline 106 for 4-hydroxybenzoic acid in a podzol (pH=2.8, C organic=4.85%, sand:silt:clay=89.2:8.2:2.6%), alfisol (pH=6.7, C organic=1.25%, sand:silt:clay=69.7:14.4:15.9%), and a sediment (pH=7.1, C organic=1.58%, sand:silt:clay=5.5:58.8:35.7%), respectively(1). According to a classification scheme(2), these Koc values suggest that 4-hydroxybenzoic acid is expected to have high to very high mobility in soil. The pKa of 4-hydroxybenzoic acid is 4.54(3), indicating that this compound will primarily exist in anion form in the environment and anions generally do not adsorb more strongly to organic carbon and clay than their neutral counterparts(4).",
+                          "Markup": [
+                            {
+                              "Start": 102,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 421,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 510,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 688,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Jones AH; J Chem Eng Data 5:196-200 (1960)",
+                      "(2) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data.  Boca Raton, FL: CRC Press p. 377 (2003)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)",
+                      "(4) Bykova LN et al; Zh Obshch Khim 40: 2295-300 (1970)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Jones AH; J Chem Eng Data 5:196-200 (1960)"
+                      },
+                      {
+                        "Citation": "(2) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data.  Boca Raton, FL: CRC Press p. 377 (2003)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Bykova LN et al; Zh Obshch Khim 40: 2295-300 (1970)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for 4-hydroxybenzoic acid is estimated as 7.2X10-12 atm-cu m/mole(SRC) derived from its extrapolated vapor pressure, 1.9X10-7 mm Hg(1), and water solubility, 5000 mg/L(2). This Henry's Law constant indicates that 4-hydroxybenzoic acid is expected to be essentially nonvolatile from water surfaces(3). 4-Hydroxybenzoic acid's estimated Henry's Law constant indicates that volatilization from moist soil surfaces is not expected to occur(SRC). In addition, 4-hydroxybenzoic acid's pKa value of 4.54(4) indicates that it will exist almost entirely as an anion at pH values of 5 to 9 and therefore volatilization from water and moist soil surfaces is not expected to be an important fate process(SRC). 4-Hydroxybenzoic acid is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 165,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 238,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 307,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 326,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 480,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 639,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 723,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Fielding M et al; Organic Micropollutants in Drinking Water. TR-159, Medmenham, Eng. Water Res Center (1981)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Fielding M et al; Organic Micropollutants in Drinking Water. TR-159, Medmenham, Eng. Water Res Center (1981)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GROUNDWATER: One of three groundwater samples collected in the U.K. during 1978 and 1979 contained unreported concentrations of 4-hydroxybenzoic acid(1).",
+                          "Markup": [
+                            {
+                              "Start": 128,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Matsumoto G et al; Mem Natl Inst Polar Res, Spec Issue Jpn 13: 103-20 (1979)",
+                      "(2) Matsumoto G et al; Water Res. 11: 693-8 (1977)",
+                      "(3) Mtsumoto G; Water Res 16: 551-7 (1982)",
+                      "(4) Borlakoglu JT, Kickuth R; Bull Environ Contam Toxicol 37: 866-73 (1986)",
+                      "(5) Fielding M et al; Organic Micropollutants in Drinking Water. TR-159, Medmenham, Eng. Water Res Center (1981)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Matsumoto G et al; Mem Natl Inst Polar Res, Spec Issue Jpn 13: 103-20 (1979)"
+                      },
+                      {
+                        "Citation": "(2) Matsumoto G et al; Water Res. 11: 693-8 (1977)"
+                      },
+                      {
+                        "Citation": "(3) Mtsumoto G; Water Res 16: 551-7 (1982)"
+                      },
+                      {
+                        "Citation": "(4) Borlakoglu JT, Kickuth R; Bull Environ Contam Toxicol 37: 866-73 (1986)"
+                      },
+                      {
+                        "Citation": "(5) Fielding M et al; Organic Micropollutants in Drinking Water. TR-159, Medmenham, Eng. Water Res Center (1981)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATER: 4-Hydroxybenzoic acid dominated the other phenolic carboxylic acids present in lake water samples collected from the McMurdo Sound region of the Antarctic(1). 4-Hydroxybenzoic acid was measured in Tama river (collected November 1973) and Sumida river (collected December 1973) water samples at 10 to 90 ng/L and 1 to 9 ng/L, respectively(2). Concentrations of 4-hydroxybenzoic acid averaged 0.40 ug/L (range=0.05 to 1.7 ug/L) in surface water samples collected from the Tokyo area and the Ogasawara (Bonin) Islands(3). 4-Hydroxybenzoic acid was present in stream water collected in Sudniedersachsen, Federal Republic of Germany, at a concentration of 210 ug/L(4). 4-Hydroxybenzoic acid was not detected (detection limit not reported) in 10 surface water samples collected in the U.K. during 1977 to 1979(5).",
+                          "Markup": [
+                            {
+                              "Start": 8,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 15,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 99,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 174,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 292,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 375,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 452,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 534,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 578,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 679,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 763,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Effluent Concentrations",
+                "Description": "Concentration of this compound in effluent.  Effluent is wastewater (treated or untreated) discharged into surface waters from a treatment plant, sewer, or industrial outfall. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Matsumoto G; Water Res 16: 551-7 (1982)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Matsumoto G; Water Res 16: 551-7 (1982)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Night soil treatment plant effluents collected on two occasions in Japan in 1975 contained 4-hydroxybenzoic acid at 2.0 and 2.5 ug/L(1). Incinerating plant effluent collected in Japan in 1975 contained 4-hydroxybenzoic acid at a concentration of 6.5 ug/L(1).",
+                          "Markup": [
+                            {
+                              "Start": 91,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 202,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Sediment/Soil Concentrations",
+                "Description": "Concentrations of this compound in sediment/soil. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Terentev VM et al; Okl Akad Nauk BSSR 15: 1130-2 (1971)",
+                      "(2) Matsumoto G et al; Mem Natl Inst Polar Res, Spec Issue Jpn 13: 103-20 (1979)",
+                      "(3) Matsumoto G, Hanya T; Atmos Environ 14: 1409-19 (1980)",
+                      "(4) Hedges JI, Ertel JR; Anal Chem 54: 174-178 (1982)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Terentev VM et al; Okl Akad Nauk BSSR 15: 1130-2 (1971)"
+                      },
+                      {
+                        "Citation": "(2) Matsumoto G et al; Mem Natl Inst Polar Res, Spec Issue Jpn 13: 103-20 (1979)"
+                      },
+                      {
+                        "Citation": "(3) Matsumoto G, Hanya T; Atmos Environ 14: 1409-19 (1980)"
+                      },
+                      {
+                        "Citation": "(4) Hedges JI, Ertel JR; Anal Chem 54: 174-178 (1982)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SOIL: A peat soil contained 4-hydroxybenzoic acid at a concentration of 265 to 727 ug/100 gm dry soil(1). 4-Hydroxybenzoic acid dominated the other phenolic carboxylic acids present in soil samples collected from the McMurdo Sound region of the Antarctic(2). A composite of soil samples collected in a residential district of Tokyo, Japan, between February 1976 and January 1978, contained 4-hydroxybenzoic acid at a concentration of 4.2 ug/g dry soil(3). 4-Hydroxybenzoic acid concentrations in 5 freshwater sediment samples ranged from 3.47 to 133 ug/g dry weight(4).",
+                          "Markup": [
+                            {
+                              "Start": 28,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 106,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 390,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 456,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Matsumoto G et al; Mem Natl Inst Polar Res, Spec Issue Jpn 13: 103-20 (1979)",
+                      "(2) Matsumoto G, Hanya T; J Chrom 193: 89-94 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Matsumoto G et al; Mem Natl Inst Polar Res, Spec Issue Jpn 13: 103-20 (1979)"
+                      },
+                      {
+                        "Citation": "(2) Matsumoto G, Hanya T; J Chrom 193: 89-94 (1980)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SEDIMENT: 4-Hydroxybenzoic acid dominated the other phenolic carboxylic acids present in sediment samples collected from the McMurdo Sound region of the Antarctic(1). Sediments collected from Lake Haruna, Tama river, Komagari reservoir, Yatsuse river, and the Gulf of Mexico contained 4-hydroxybenzoic acid at 14, 1.2, 7.9, 16, and 0.51 ug/g dry sediment(2).",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 285,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Atmospheric Concentrations",
+                "Description": "Concentrations of this compound in the atmosphere. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Yokouchi Y, Ambe Y; Atmos Environ 20: 1727-34 (1986)",
+                      "(2) Nolte CG et al; Environ Sci Technol 35: 1912-9 (2001)",
+                      "(3) Matsumoto G, Hanya T; Atmos Environ 14: 1409-19 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Yokouchi Y, Ambe Y; Atmos Environ 20: 1727-34 (1986)"
+                      },
+                      {
+                        "Citation": "(2) Nolte CG et al; Environ Sci Technol 35: 1912-9 (2001)"
+                      },
+                      {
+                        "Citation": "(3) Matsumoto G, Hanya T; Atmos Environ 14: 1409-19 (1980)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "URBAN/SUBURBAN: Aerosol samples collected in April 1985 approximately 60 km northeast of Tokyo in a suburban area surrounded by agricultural fields and forests contained unreported concentrations of 4-hydroxybenzoic acid(1). 24-Hour air samples collected from two urban sites in the San Joaquin valley, CA from December 5, 1995 to January 6, 1996 contained 4-hydroxybenzoic acid at 7.8(Bakersfield, CA) and 12 (Fresno, CA) ng/cu m(2). Atmospheric fallout samples collected in a residential district of Tokyo, Japan, between February 1976 and January 1978, contained 4-hydroxybenzoic acid at concentrations ranging from 0.3 to 4.7 ug/cu m/day(3).",
+                          "Markup": [
+                            {
+                              "Start": 199,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 357,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 566,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:11393968",
+                      "(1) Nolte CG et al; Environ Sci Technol 35: 1912-9 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:11393968",
+                        "Matched": {
+                          "PCLID": 11140232,
+                          "Citation": "Nolte CG, Schauer JJ, Cass GR, Simoneit BR. Highly polar organic compounds present in wood smoke and in the ambient atmosphere. Environ Sci Technol. 2001 May 15;35(10):1912–9. doi: 10.1021/es001420r. PMID: 11393968.",
+                          "PMID": 11393968,
+                          "DOI": "10.1021/es001420r"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Nolte CG et al; Environ Sci Technol 35: 1912-9 (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "RURAL/REMOTE: 24-Hour air samples collected from the Kern Wildlife refuge in the San Joaquin valley, CA, from December 5, 1995 to January 6, 1996 contained 4-hydroxybenzoic acid at 0.6 ng/cu m(1).",
+                          "Markup": [
+                            {
+                              "Start": 156,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 41,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) NIOSH; National Occupational Exposure Survey (NOES) (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) NIOSH; National Occupational Exposure Survey (NOES) (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NIOSH (NOES Survey 1981-1983) has statistically estimated that 2722 workers (1767 of these are female) are potentially exposed to 4-hydroxybenzoic acid in the US(1). Occupational exposure to 4-hydroxybenzoic acid may occur through dermal contact with this compound at workplaces where 4-hydroxybenzoic acid is produced or used(SRC). Monitoring data indicate that the general population may be exposed to 4-hydroxybenzoic acid via inhalation of ambient air, ingestion of food, and dermal contact with this compound and other products containing 4-hydroxybenzoic acid(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 130,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 191,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 285,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 404,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            },
+                            {
+                              "Start": 544,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^4-Hydroxybenzoic acid$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^4-Hydroxybenzoic acid$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^4-Hydroxybenzoic acid$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134972218",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000099967",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19464103
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "Cosmetic Ingredient Review (CIR)",
+        "SourceID": "5ce58b93-04c3-4aa7-8a91-912227ba6f32",
+        "Name": "4-Hydroxybenzoic Acid",
+        "Description": "The Cosmetic Ingredient Review (CIR) studies individual chemical compounds as they are used in cosmetic products. CIR relies heavily on the International Nomenclature of Cosmetic Ingredients (INCI) when identifying the ingredients to be assessed. The Expert Panel for Cosmetic Ingredient Safety (Panel) assess the safety of ingredients for use in cosmetics. The function of an ingredient in cosmetics is noted. The Panel reviews the data relevant to the safety of an ingredient and concludes whether an ingredient is safe in cosmetics in the present practices of use and concentration described in a safety assessment.",
+        "URL": "https://cir-reports.cir-safety.org/cir-ingredient-status-report/?id=5ce58b93-04c3-4aa7-8a91-912227ba6f32",
+        "LicenseURL": "https://cir-safety.org/terms-use",
+        "ANID": 38996483
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "bc323fcd43525dbacfcc571316187b48",
+        "Name": "4-Hydroxybenzoic acid",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49736282
+      },
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID3026647",
+        "Name": "4-Hydroxybenzoic acid",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57010604
+      },
+      {
+        "ReferenceNumber": 40,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz3479",
+        "Name": "4-Hydroxybenzoic acid",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17278425
+      },
+      {
+        "ReferenceNumber": 41,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7233",
+        "Name": "4-HYDROXYBENZOIC ACID",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7233",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4831
+      }
+    ]
+  }
+}

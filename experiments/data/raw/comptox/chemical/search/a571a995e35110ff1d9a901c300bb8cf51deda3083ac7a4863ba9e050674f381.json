@@ -1,0 +1,25 @@
+{
+  "search_term": "Imazethapyr",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:34.915849+00:00",
+  "url": "/chemical/search/equal/Imazethapyr",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3024287",
+        "dtxcid": "DTXCID004287",
+        "casrn": "81335-77-5",
+        "preferredName": "Imazethapyr",
+        "hasStructureImage": 1,
+        "smiles": "CCC1=CN=C(C2=NC(C)(C(C)C)C(=O)N2)C(=C1)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Imazethapyr",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

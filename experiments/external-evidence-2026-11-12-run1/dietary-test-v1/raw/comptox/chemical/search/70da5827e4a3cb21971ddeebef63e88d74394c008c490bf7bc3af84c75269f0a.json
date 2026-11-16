@@ -1,0 +1,25 @@
+{
+  "search_term": "KDXKERNSBIXSRK-YFKPBYRVSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:33.581044+00:00",
+  "url": "/chemical/search/equal/KDXKERNSBIXSRK-YFKPBYRVSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6023232",
+        "dtxcid": "DTXCID403232",
+        "casrn": "56-87-1",
+        "preferredName": "L-​Lysine",
+        "hasStructureImage": 1,
+        "smiles": "NCCCC[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "KDXKERNSBIXSRK-YFKPBYRVSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

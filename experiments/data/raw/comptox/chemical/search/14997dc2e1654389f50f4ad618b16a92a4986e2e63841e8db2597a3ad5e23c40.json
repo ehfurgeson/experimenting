@@ -1,0 +1,25 @@
+{
+  "search_term": "Topramezone",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:10.413062+00:00",
+  "url": "/chemical/search/equal/Topramezone",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Topramezone",
+        "dtxsid": "DTXSID0034722",
+        "dtxcid": "DTXCID8014722",
+        "casrn": "210631-68-8",
+        "hasStructureImage": 1,
+        "smiles": "CN1N=CC(C(=O)C2=C(C)C(C3=NOCC3)=C(C=C2)S(C)(=O)=O)=C1O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Topramezone",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

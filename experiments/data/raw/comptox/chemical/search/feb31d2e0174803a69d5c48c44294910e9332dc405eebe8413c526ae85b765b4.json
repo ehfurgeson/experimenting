@@ -1,0 +1,25 @@
+{
+  "search_term": "Indole-3-Acetic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:29.595412+00:00",
+  "url": "/chemical/search/equal/Indole-3-Acetic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5020738",
+        "dtxcid": "DTXCID70738",
+        "casrn": "87-51-4",
+        "preferredName": "Indole-3-acetic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)CC1=CNC2=C1C=CC=C2",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Indole-3-acetic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

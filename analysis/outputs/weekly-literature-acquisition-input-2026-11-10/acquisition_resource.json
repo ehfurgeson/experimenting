@@ -1,0 +1,133 @@
+{
+  "status": "AI-assisted primary-source screen; unapproved; not training labels",
+  "sources": [
+    {
+      "source_id": "munoz2020",
+      "doi": "10.3390/agronomy10060791",
+      "url": "https://www.mdpi.com/2073-4395/10/6/791",
+      "locator": "Sections 2.1\u20132.2; Tables 2\u20134; abstract",
+      "context": "Post-emergence greenhouse tests: Amaranthus retroflexus, Avena fatua, Portulaca oleracea, Erigeron bonariensis. Concentrate formulations, not isolated-compound field efficacy. Image assessments at 24 h and 3, 7, 15, 30 days. Recover per-treatment rates, controls and replication from source tables before labeling. Authors report plant death/injury for all three products. Introduction cites natural occurrence; original isolation evidence remains unverified.",
+      "natural_occurrence_status": "reported_in_introduction_secondary_references",
+      "use_evidence": "Pelargonic-acid herbicide products discussed; no current registration determination."
+    },
+    {
+      "source_id": "kobayashi1998",
+      "doi": "10.3719/weed.43.341",
+      "url": "https://www.jstage.jst.go.jp/article/weed1962/43/4/43_4_341/_article/-char/en",
+      "locator": "Abstract; Figures 1\u20134 cited, not quantitatively digitized",
+      "context": "Solution and soil assays of lettuce and Echinochloa utilis radicle elongation. Abstract reports strongest inhibition at 1.0 mM for five compounds, followed by three others. Responses generally decreased at 0.1 mM, except juglone. Juglone/coumarin also tested in soil at 0.2, 0.4, 2.0 micromol/g with species-dependent responses. Assay duration, replication and controls require full methods review. Low-dose response is not a universal negative. Natural-occurrence claim requires primary isolation confirmation.",
+      "natural_occurrence_status": "authors_describe_naturally_occurring_allelochemicals",
+      "use_evidence": "Experimental phytotoxicity; no commercial-use evidence extracted."
+    },
+    {
+      "source_id": "dayan2015",
+      "doi": "10.3389/fpls.2015.00222",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2015.00222/full",
+      "locator": "Isolation and weed spectrum methods; Tables 1\u20132; membrane integrity Table 3",
+      "context": "Sarmentine purified from long pepper fruit. Formulated product (50% sarmentine) sprayed at 10 mg/mL, 374 L/ha, 2\u20133-leaf weeds. Injury rated at seven days in ordinal percentage bands across broadleaf and grass species. Separate membrane-leakage assays use solvent controls and three replicates; do not transfer that replication to weed-spectrum tests. Source compound is the (2E,4E) pyrrolidine amide. Primary structure-to-database matching remains provisional.",
+      "natural_occurrence_status": "primary_isolation_reported_in_methods",
+      "use_evidence": "Experimental contact-herbicide activity; no current product registration determination."
+    },
+    {
+      "source_id": "torres2024",
+      "doi": "10.3390/agronomy14030537",
+      "url": "https://www.mdpi.com/2073-4395/14/3/537",
+      "locator": "Sections 2.2\u20132.3; Table 2 (rates); Section 3.1; Table 3; Figure 2",
+      "context": "Two Valencia field trials, four randomized blocks per treatment, 500 L/ha spray volume. Treatments include natural-product formulations and glyphosate/oxyfluorfen comparators. Outcomes at 0, 1, 2, 4 weeks include coverage, injury and biomass. Eugenol, thymol and p-cymene had limited weed-coverage benefit at the GUA site; results vary by site, dose and formulation. Recover treatment-specific rates from Table 2 before labeling. Citral is a geranial/neral mixture and is excluded from single-structure analysis. Natural occurrence is discussed through earlier references, not independently established here.",
+      "natural_occurrence_status": "reported_in_introduction_secondary_references",
+      "use_evidence": "Commercial reference products in trial; no current registration determination."
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Pelargonic acid",
+      "source_id": "munoz2020",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "Carvacrol",
+      "source_id": "munoz2020",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "trans-Cinnamaldehyde",
+      "source_id": "munoz2020",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "Juglone",
+      "source_id": "kobayashi1998",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "Coumarin",
+      "source_id": "kobayashi1998",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "trans-Cinnamic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "2-Hydroxyphenylacetic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "3-Phenylpropionic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "Salicylic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "2,4-Dihydroxybenzoic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "Benzoic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "Sarmentine",
+      "source_id": "dayan2015",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "Thymol",
+      "source_id": "torres2024",
+      "response_lead": "context-dependent field response; low-response lead",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "Eugenol",
+      "source_id": "torres2024",
+      "response_lead": "context-dependent field response; low-response lead",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    },
+    {
+      "name": "p-Cymene",
+      "source_id": "torres2024",
+      "response_lead": "context-dependent field response; low-response lead",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated"
+    }
+  ]
+}

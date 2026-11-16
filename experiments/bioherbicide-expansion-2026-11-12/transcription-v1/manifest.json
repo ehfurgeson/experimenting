@@ -1,0 +1,38 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/nonenolides2021.html": "e4cd3a706cd800e10d065685c7b52cbd8a6a5bd8eabfeaf34c03d675ddab9e4b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/pileostegia2016_usda.html": "b168813e7b0d0b5b076175394cac612df26abced0bec1e4646fccf6331ae4494",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/cleomside2020.html": "b32a6cbb4b90e42b3e87c9914fab8d3ecafb58c890155f6d1ef5ed6ca64d2936",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/rosemary2018.html": "a0b5d280434e370fd458f0651c0ebc70a36a709027728c688433e6569bbefd99",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/sorbicillinoids2019.html": "8b6ea1df84d766aa5815e634e8c8e1b77a27f471e6cf17fad3b9a0e090f2bfde",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/ambrosia2019.html": "617926f6d633ee29fe3272cab1c9d128d04d49b810cb8400d6dcc9672baefbdf",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/nonenolides2021.tables.json": "4d1c11b77264e8f49fd127c1dd082716550547a980604257257b64f19faf6af1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/ambrosia2019.tables.json": "8a2bc298a314d57c0111fe18ce7cf9451aaac7262f482119b132396d55b070db",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/cleomside2020.tables.json": "ba58265741658f8ae5f577a432daba76711ecc920a92f7f0ffb76f84cf896005",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/rosemary2018.tables.json": "71fa9a12b3f1244c4bbbddcb177c2cf6146b739f9048ae39ea2d41f180ffebb4",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/sorbicillinoids2019.tables.json": "b53146e7a7496a973f03effa08fe78a4d827a0f6b99f75f1500d8a66d11c98fc",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/extract_series.py": "d0cb9ee6f9d2c73480f917982d2862a38ae59f236c2296f75d94826275a6f3ca",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/EXPERIMENT_PROTOCOL.json": "0d75e692d292ff416b9c4806622ab0f865989a65b0f895f69d8fdeca251d7882"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/transcription-v1/summary.json": "72b956606bd4e6af976b3cf19ed7f7cc0eef73c37038732c78aee20af4686442",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/transcription-v1/nontarget_observations.csv": "38b0cb05110aec5eaf6a340298024d419173901865013e9a99bfa65e37a403e1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/transcription-v1/plant_observations.csv": "d563eeecfb74e3e4d67676a7acda08c1411389dd336feb2f7bb1f3c82325fc3c"
+  },
+  "plant_observations": 213,
+  "nontarget_observations": 39,
+  "plant_rows_by_study": {
+    "AMBROSIA2019": 12,
+    "NONENOLIDES2021": 39,
+    "SORBICILLINOIDS2019": 80,
+    "CLEOMSIDE2020": 40,
+    "ROSEMARY2018": 42
+  },
+  "plant_parse_status": {
+    "numeric": 209,
+    "unparsed_categorical_or_bound": 4
+  },
+  "models_fitted": 0,
+  "human_approved_new_labels": 0,
+  "limits": "AI provisional transcription; source tables have not received independent review. Controls/extracts retained; observations are not independent compounds. n/a remains categorical, not zero or a numerical LC50 bound. Missing times remain null; percent control is not percent inhibition. Omitted figure-only responses were not digitized."
+}

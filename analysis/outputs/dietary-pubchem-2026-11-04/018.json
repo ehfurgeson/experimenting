@@ -1,0 +1,16 @@
+{
+  "query": "L-Tyrosine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Tyrosine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:02.518490+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6057,
+          "SMILES": "C1=CC(=CC=C1C[C@@H](C(=O)O)N)O",
+          "InChIKey": "OUYCCCASQSFEME-QMMMGPOBSA-N"
+        }
+      ]
+    }
+  }
+}

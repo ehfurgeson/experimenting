@@ -1,0 +1,25 @@
+{
+  "search_term": "PCMORTLOPMLEFB-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:54.263827+00:00",
+  "url": "/chemical/search/equal/PCMORTLOPMLEFB-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Sinapic acid",
+        "dtxsid": "DTXSID40862129",
+        "dtxcid": "DTXCID90810938",
+        "casrn": "530-59-6",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(C=CC(O)=O)=CC(OC)=C1O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "PCMORTLOPMLEFB-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

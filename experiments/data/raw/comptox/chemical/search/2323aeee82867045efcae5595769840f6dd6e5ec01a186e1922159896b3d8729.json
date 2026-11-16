@@ -1,0 +1,25 @@
+{
+  "search_term": "Phloroglucinol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:07.133801+00:00",
+  "url": "/chemical/search/equal/Phloroglucinol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9048354",
+        "dtxcid": "DTXCID0028329",
+        "casrn": "108-73-6",
+        "preferredName": "1,3,5-Trihydroxybenzene",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC(O)=CC(O)=C1",
+        "isMarkush": false,
+        "searchName": "Synonym from Valid Source",
+        "searchValue": "Phloroglucinol",
+        "rank": 11
+      }
+    ],
+    "suggestions": []
+  }
+}

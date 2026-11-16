@@ -1,0 +1,91 @@
+{
+  "aeid": 767,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:46.978614+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/767",
+  "status": 200,
+  "response": {
+    "aeid": 767,
+    "assayList": [
+      {
+        "name": "Steroidogenesis Bioactivity",
+        "description": "Assays related to steroidogenesis"
+      }
+    ],
+    "assayName": "TOX21_Aromatase_LUC_Antagonist",
+    "assayComponentName": "TOX21_Aromatase_LUC_Antagonist",
+    "assayComponentEndpointName": "TOX21_Aromatase_LUC_Antagonist",
+    "assayComponentEndpointDesc": "Data from the assay component TOX21_Aromatase_LUC_Antagonist was analyzed into 1 assay endpoint. This assay endpoint, TOX21_Aromatase_LUC_Antagonist, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. \n\nUsing a type of inducible reporter, loss-of-signal activity can be used to understand changes in the reporter gene as they relate to the gene CYP19A1. \n\nFurthermore, this assay endpoint can be referred to as a primary readout, because the performed assay has only produced 1 assay endpoint. \n\nTo generalize the intended target to other relatable targets, this assay endpoint is annotated to the cyp intended target family, where the subfamily is steroidogenesis-related.",
+    "assayFunctionType": "inducer",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "Letrozole",
+    "signalDirection": "loss",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "enzyme",
+    "intendedTargetFamily": "cyp",
+    "intendedTargetFamilySub": "steroidogenesis-related",
+    "cellViabilityAssay": 0,
+    "acid": 504,
+    "assayComponentDesc": "TOX21_Aromatase_LUC_Antagonist is one of one assay component(s) measured or calculated from the TOX21_Aromatase_LUC_Antagonist assay. It is designed to make measurements of luciferase induction, a form of inducible reporter, as detected with bioluminescence signals by CellTiter-Glo Luciferase-coupled ATP quantitation technology.",
+    "assayComponentTargetDesc": "Changes to bioluminescence signals produced from an enzymatic reaction involving the key substrate [One-Glo] are indicative of changes in transcriptional gene expression due to modulation of the human cytochrome P450, family 19, subfamily A, polypeptide 1 [GeneSymbol:CYP19A1 | GeneID:1588 | Uniprot_SwissProt_Accession:P11511].",
+    "parameterReadoutType": "single",
+    "assayDesignType": "inducible reporter",
+    "assayDesignTypeSub": "luciferase induction",
+    "biologicalProcessTarget": "regulation of transcription factor activity",
+    "detectionTechnologyType": "luminescence",
+    "detectionTechnologyTypeSub": "bioluminescence",
+    "detectionTechnology": "CellTiter-Glo Luciferase-coupled ATP quantitation",
+    "keyAssayReagentType": "substrate",
+    "keyAssayReagent": "One-Glo",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "enzyme",
+    "aid": 314,
+    "assayDesc": "TOX21_Aromatase_LUC_Antagonist is a cell-based, single-readout assay that uses MCF-7, a human breast cell line, with measurements taken at 24 hours after chemical dosing in a 1536-well plate. See tox21-aromatase-p1.",
+    "timepointHr": 24.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "breast",
+    "cellFormat": "cell line",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "MCF7",
+    "cellGrowthMode": "adherent",
+    "assayFootprint": "microplate: 1536-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "cell-based format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 1.0,
+    "asid": 7,
+    "assaySourceName": "TOX21",
+    "assaySourceLongName": "Toxicology in the 21st Century federal research collaboration",
+    "assaySourceDesc": "The Toxicology in the 21st Century (Tox21) program aims to develop better toxicity assessment methods to quickly and efficiently test whether certain chemical compounds have the potential to disrupt processes in the human body that may lead to negative health effects. The Tox21 consortium is a federal collaboration between EPA, the National Toxicology Program (NTP) headquartered at the National Institute of Environmental Health Sciences (NIEHS), the National Center for Advancing Translational Sciences (NCATS) and the Food and Drug Administration (FDA). The NIH Chemical Genomics Center (NCGC) is the primary screening facility running ultra high-throughput screening assays across a large interagency-developed chemical library, often referred to as the Tox21 10K Library.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "cytochrome P450 family 19 subfamily A member 1",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 1588,
+        "officialSymbol": "CYP19A1",
+        "officialFullName": "cytochrome P450 family 19 subfamily A member 1",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1093/toxsci/kfu023",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/24496634",
+        "pmid": 24496634,
+        "title": "AroER tri-screen is a biologically relevant assay for endocrine disrupting chemicals modulating the activity of aromatase and/or the estrogen receptor",
+        "author": "Chen S, Zhou D, Hsin LY, Kanaya N, Wong C, Yip R, Sakamuru S, Xia M, Yuan YC, Witt K, Teng C",
+        "citation": "Chen S, Zhou D, Hsin LY, Kanaya N, Wong C, Yip R, Sakamuru S, Xia M, Yuan YC, Witt K, Teng C. AroER tri-screen is a biologically relevant assay for endocrine disrupting chemicals modulating the activity of aromatase and/or the estrogen receptor. Toxicol Sci. 2014 May;139(1):198-209. doi: 10.1093/toxsci/kfu023. Epub 2014 Feb 4. PubMed PMID: 24496634; PubMed Central PMCID: PMC4038786.",
+        "otherId": "NA",
+        "citationId": 222,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

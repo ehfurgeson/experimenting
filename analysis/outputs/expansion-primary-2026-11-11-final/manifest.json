@@ -1,0 +1,146 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/acquisition_resource.json": "c7592575929fbcf8178b68e7cabaff767ad7cf37f43fd536ad361f3336713627"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/acquisition_resource.json": "c7592575929fbcf8178b68e7cabaff767ad7cf37f43fd536ad361f3336713627",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/cinnamon2005.html": "24515cc7bf230b58cd99f65d814803efc27defb2500b321070bb2b85f15e24e8",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/dayan2015.html": "91cfa309cbe48010d3997279bc46be68b0c9391441116902ba60b5304537960f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/hydroxyphenylacetic2025.html": "fd2b81a6298732914eb65cbba8a73a03e67b948d02da3886af52aff96606badd",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/juglans2024.html": "89150918ab612904e2564f6c0a11034b6473f66e9315f1d2253b5e56424f995d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/kobayashi1998.pdf": "43dd19d3989858daca1524db4da74a6c2a07fec44ce80edb786d287c3364c8e7",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/melilotus2018.html": "33b0e442aa59305a5db6a5404b9ec47f6244ce2677b77546da8926bcc1d058cb",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/munoz2020.pdf": "c4fe026ca5dda17e53c75e6ac2558fb6b45a61e9679c7180724f217a8a426e54",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/oregano2018.html": "ceef7a9df37988ec7d226c4c830d2a6b9f35407e549b72a60402898d649faa04",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/phenylpropionic2007.html": "7ee3e2a42bd7cc2f147fea4ba22cd02020cee26ec42228df030503cc2c2655ae",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/resorcylic_primary.pdf": "f5c1838e9f5ba3d7af2b51120c70857b04b991887e59224dd9f58f700fa14f08",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/rumen1964.pdf": "9350203c50bb2c9683fa980f0627987660a4a9ec6742d2d4e96408dc3b5b8a36",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/sarmentine2010.html": "c93bb7b9d0ab707554fa60e08ca924cf26389ff438c36d85a9bff632f0f56edb",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/spices2007.html": "094615c1e44f73c6cfa31867db9fb96790393045fd32807b1d38962b70821b16",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/torres2024.pdf": "405afc4e0d781d9efcc331deff29523a0f7bdd343fda6512b3100cba69518f26",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11-final/walker2003.html": "5f7ebaf1d4a730ae2de7d19c998889dbb118bd0638b4ca570d29bc1e77663f32"
+  },
+  "requests": [
+    {
+      "source_id": "kobayashi1998",
+      "url": "https://www.jstage.jst.go.jp/article/weed1962/43/4/43_4_341/_pdf/-char/en",
+      "status": "available",
+      "http_status": 200,
+      "file": "kobayashi1998.pdf",
+      "retrieved_at": "2026-11-11T16:01:13.437797+00:00"
+    },
+    {
+      "source_id": "melilotus2018",
+      "url": "https://www.mdpi.com/1420-3049/23/2/271",
+      "status": "http_access_gap",
+      "http_status": 403,
+      "file": "melilotus2018.html",
+      "retrieved_at": "2026-11-11T16:01:13.835586+00:00"
+    },
+    {
+      "source_id": "oregano2018",
+      "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2018.02329/full",
+      "status": "available",
+      "http_status": 200,
+      "file": "oregano2018.html",
+      "retrieved_at": "2026-11-11T16:01:14.397648+00:00"
+    },
+    {
+      "source_id": "spices2007",
+      "url": "https://acta-arhiv.chem-soc.si/54/54-4-921.htm",
+      "status": "available",
+      "http_status": 200,
+      "file": "spices2007.html",
+      "retrieved_at": "2026-11-11T16:01:15.192383+00:00"
+    },
+    {
+      "source_id": "walker2003",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12696935/",
+      "status": "http_access_gap",
+      "http_status": 203,
+      "file": "walker2003.html",
+      "retrieved_at": "2026-11-11T16:01:15.635002+00:00"
+    },
+    {
+      "source_id": "sarmentine2010",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20839888/",
+      "status": "http_access_gap",
+      "http_status": 203,
+      "file": "sarmentine2010.html",
+      "retrieved_at": "2026-11-11T16:01:16.231849+00:00"
+    },
+    {
+      "source_id": "dayan2015",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2015.00222/full",
+      "status": "available",
+      "http_status": 200,
+      "file": "dayan2015.html",
+      "retrieved_at": "2026-11-11T16:01:16.726775+00:00"
+    },
+    {
+      "source_id": "phenylpropionic2007",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18062653/",
+      "status": "http_access_gap",
+      "http_status": 203,
+      "file": "phenylpropionic2007.html",
+      "retrieved_at": "2026-11-11T16:01:17.531525+00:00"
+    },
+    {
+      "source_id": "hydroxyphenylacetic2025",
+      "url": "https://www.mdpi.com/2297-8739/12/3/57",
+      "status": "http_access_gap",
+      "http_status": 403,
+      "file": "hydroxyphenylacetic2025.html",
+      "retrieved_at": "2026-11-11T16:01:18.042628+00:00"
+    },
+    {
+      "source_id": "resorcylic_primary",
+      "url": "https://www.acgpubs.org/uploads/articles/pdfs/2018081215360976-RNP-1804-266.pdf",
+      "status": "not_pdf_or_access_gap",
+      "http_status": 403,
+      "file": "resorcylic_primary.pdf",
+      "retrieved_at": "2026-11-11T16:01:19.009968+00:00"
+    },
+    {
+      "source_id": "juglans2024",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11241769/",
+      "status": "available",
+      "http_status": 200,
+      "file": "juglans2024.html",
+      "retrieved_at": "2026-11-11T16:01:19.585939+00:00"
+    },
+    {
+      "source_id": "rumen1964",
+      "url": "https://portlandpress.com/biochemj/article-pdf/90/1/12/702268/bj0900012.pdf",
+      "status": "not_pdf_or_access_gap",
+      "http_status": 403,
+      "file": "rumen1964.pdf",
+      "retrieved_at": "2026-11-11T16:01:20.131511+00:00"
+    },
+    {
+      "source_id": "cinnamon2005",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/?term=In+vitro+activity+of+the+essential+oil+of+Cinnamomum+zeylanicum+and+eugenol+in+peroxynitrite-induced+oxidative+processes",
+      "status": "http_access_gap",
+      "http_status": 203,
+      "file": "cinnamon2005.html",
+      "retrieved_at": "2026-11-11T16:01:21.145765+00:00"
+    },
+    {
+      "source_id": "munoz2020",
+      "url": "https://mdpi-res.com/d_attachment/agronomy/agronomy-10-00791/article_deploy/agronomy-10-00791-v2.pdf",
+      "status": "available",
+      "http_status": 200,
+      "file": "munoz2020.pdf",
+      "retrieved_at": "2026-11-11T16:01:22.894007+00:00"
+    },
+    {
+      "source_id": "torres2024",
+      "url": "https://iris.unipa.it/retrieve/b7b743af-47e3-4e36-b2b2-692447d58da2/Torres-pagan-2024-Herbicidal-potential-of-the-natural.pdf",
+      "status": "available",
+      "http_status": 200,
+      "file": "torres2024.pdf",
+      "retrieved_at": "2026-11-11T16:01:25.042492+00:00"
+    }
+  ],
+  "scope": "Public primary-source acquisition; access gaps are not evidence absence."
+}

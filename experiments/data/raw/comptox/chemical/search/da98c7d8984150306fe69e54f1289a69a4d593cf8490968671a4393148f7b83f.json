@@ -1,0 +1,25 @@
+{
+  "search_term": "OVSKIKFHRZPJSS-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:40.906042+00:00",
+  "url": "/chemical/search/equal/OVSKIKFHRZPJSS-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0020442",
+        "dtxcid": "DTXCID80442",
+        "casrn": "94-75-7",
+        "preferredName": "2,4-Dichlorophenoxyacetic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)COC1=C(Cl)C=C(Cl)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "OVSKIKFHRZPJSS-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "2,4-Dihydroxy-7-methoxy-1,4-benzoxazin-3-one",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:33.768735+00:00",
+  "url": "/chemical/search/equal/2,4-Dihydroxy-7-methoxy-1,4-benzoxazin-3-one",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "2,4-Dihydroxy-7-methoxy-1,4-benzoxazin-3-one",
+        "dtxsid": "DTXSID90936021",
+        "dtxcid": "DTXCID10882733",
+        "casrn": "15893-52-4",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC2=C(C=C1)N(O)C(=O)C(O)O2",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "2,4-Dihydroxy-7-methoxy-1,4-benzoxazin-3-one",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

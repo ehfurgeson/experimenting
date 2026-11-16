@@ -1,0 +1,25 @@
+{
+  "search_term": "DHMQDGOQFOQNFH-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:25.686307+00:00",
+  "url": "/chemical/search/equal/DHMQDGOQFOQNFH-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9020667",
+        "dtxcid": "DTXCID90667",
+        "casrn": "56-40-6",
+        "preferredName": "Glycine",
+        "hasStructureImage": 1,
+        "smiles": "NCC(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "DHMQDGOQFOQNFH-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

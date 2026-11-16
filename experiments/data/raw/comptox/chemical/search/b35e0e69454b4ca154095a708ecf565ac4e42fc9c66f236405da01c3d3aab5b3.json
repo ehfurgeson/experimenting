@@ -1,0 +1,25 @@
+{
+  "search_term": "Linoleic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:42.102893+00:00",
+  "url": "/chemical/search/equal/Linoleic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2025505",
+        "dtxcid": "DTXCID505505",
+        "casrn": "60-33-3",
+        "preferredName": "Linoleic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCC\\C=C/C\\C=C/CCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Linoleic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

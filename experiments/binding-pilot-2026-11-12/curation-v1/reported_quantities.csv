@@ -1,0 +1,3 @@
+parent,pdb_context,quantity_role,endpoint,value,uncertainty,unit,qualifier,organism,target,source_doi,source_locator,limits
+cornexistin,8CI0,functional_enzyme_inhibition,IC50,50.0,5.0,micromolar,=,Zea mays,transketolase,10.1002/chem.202300199,In vitro target engagement; SchemeS1 referenced,Assay reports parent added; bound solution species not independently resolved. +/-5 uncertainty type/replicates not recovered. Not Kd/Ki; full assay conditions require SI.
+tentoxin,1KMH,complex_preparation,incubation_concentration,0.05,,mM,=,Spinacia oleracea,chloroplast F1 ATPase,10.1073/pnas.052546099,Crystallization and Data Collection,Protein-complex preparation concentration; not Kd/Ki/IC50 or a plant efficacy dose.

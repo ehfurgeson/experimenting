@@ -1,0 +1,25 @@
+{
+  "search_term": "KBEBGUQPQBELIU-CMDGGOBGSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:24.305406+00:00",
+  "url": "/chemical/search/equal/KBEBGUQPQBELIU-CMDGGOBGSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "ethyl-(E)-cinnamate",
+        "dtxsid": "DTXSID601017688",
+        "dtxcid": "DTXCID60209173",
+        "casrn": "4192-77-2",
+        "hasStructureImage": 1,
+        "smiles": "CCOC(=O)\\C=C\\C1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KBEBGUQPQBELIU-CMDGGOBGSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

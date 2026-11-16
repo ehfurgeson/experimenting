@@ -1,0 +1,16 @@
+{
+  "query": "L-Glutamine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Glutamine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:07:54.622744+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 5961,
+          "SMILES": "C(CC(=O)N)[C@@H](C(=O)O)N",
+          "InChIKey": "ZDXPYRJPNDTMRX-VKHMYHEASA-N"
+        }
+      ]
+    }
+  }
+}

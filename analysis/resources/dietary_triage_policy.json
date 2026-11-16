@@ -1,0 +1,109 @@
+{
+  "policy_id": "dietary-triage-v1",
+  "checked_date": "2026-11-04",
+  "scope": "Research triage of dietary-source candidates; no accepted safety, origin or plant-activity labels.",
+  "curated_leads": [
+    {
+      "cids": [
+        6322
+      ],
+      "flag": "arginine_population_and_dose",
+      "summary": "Health Canada adult oral supplement monograph includes cardiovascular precautions and a post-myocardial-infarction contraindication for products above 9 g/day; this is not a food-use safety limit.",
+      "url": "https://webprod.hc-sc.gc.ca/nhpid-bdipsn/atReq?atid=arginine.l2&lang=eng&wbdisable=true",
+      "quantity": "9",
+      "unit": "g/day",
+      "quantity_type": "supplement warning threshold",
+      "context": "Adult oral supplement products above 9 g/day; prior myocardial infarction"
+    },
+    {
+      "cids": [
+        6140
+      ],
+      "flag": "phenylalanine_pku",
+      "summary": "Phenylketonuria requires restriction of phenylalanine; common nutrient status does not support an unrestricted benign label.",
+      "url": "https://www.nichd.nih.gov/health/topics/pku/conditioninfo/treatments"
+    },
+    {
+      "cids": [
+        2723872,
+        5780
+      ],
+      "flag": "hereditary_fructose_intolerance",
+      "summary": "EMA guidance for fructose/sorbitol medicinal excipients flags hereditary fructose intolerance; dietary comparator population and dose need a separate assessment.",
+      "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/information-package-leaflet-regarding-fructose-and-sorbitol-used-excipients-medicinal-products-human-use_en.pdf"
+    },
+    {
+      "cids": [
+        6134
+      ],
+      "flag": "lactose_intolerance",
+      "summary": "Lactose malabsorption can produce dose-dependent digestive symptoms; identify the comparator population and exact sugar form.",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/definition-facts"
+    },
+    {
+      "cids": [
+        5780
+      ],
+      "flag": "sorbitol_laxative_warning",
+      "summary": "US food labeling provisions require a laxative warning at foreseeable daily ingestion of 50 g sorbitol; this is a labeling trigger, not a universal safe dose.",
+      "url": "https://www.ecfr.gov/current/title-21/section-184.1835",
+      "quantity": "50",
+      "unit": "g/day",
+      "quantity_type": "food labeling warning trigger",
+      "context": "Foreseeable daily consumption under 21 CFR 184.1835(e)"
+    },
+    {
+      "cids": [
+        6251
+      ],
+      "flag": "mannitol_laxative_warning",
+      "summary": "US food labeling provisions require a laxative warning at foreseeable daily ingestion of 20 g mannitol; this is a labeling trigger, not a universal safe dose.",
+      "url": "https://www.ecfr.gov/current/title-21/section-180.25",
+      "quantity": "20",
+      "unit": "g/day",
+      "quantity_type": "food labeling warning trigger",
+      "context": "Foreseeable daily consumption under 21 CFR 180.25(e)"
+    },
+    {
+      "cids": [
+        222285
+      ],
+      "flag": "erythritol_dose_bound",
+      "summary": "EFSA's 2023 food-additive reassessment set an ADI based on diarrhea; the value does not establish plant inactivity or unrestricted high-dose safety.",
+      "url": "https://www.efsa.europa.eu/en/efsajournal/pub/8430",
+      "quantity": "0.5",
+      "unit": "g/kg body weight/day",
+      "quantity_type": "EFSA acceptable daily intake",
+      "context": "Human food-additive assessment; diarrhea and secondary effects"
+    },
+    {
+      "cids": [
+        6912
+      ],
+      "flag": "xylitol_dog_toxicity",
+      "summary": "FDA warns that xylitol is toxic to dogs; a human dietary use cannot be extended to other species.",
+      "url": "https://www.fda.gov/animal-veterinary/animal-health-literacy/paws-xylitol-toxic-dogs"
+    },
+    {
+      "cids": [
+        379,
+        2969
+      ],
+      "flag": "registered_herbicide_active",
+      "summary": "EPA's registration-review product table lists caprylic/capric acids as herbicide active ingredients; exclude from a presumed plant-inactive comparison group.",
+      "url": "https://downloads.regulations.gov/EPA-HQ-OPP-2021-0336-0002/content.pdf"
+    }
+  ],
+  "text_signal_sections": [
+    "Human Toxicity Excerpts",
+    "Populations at Special Risk",
+    "Interactions"
+  ],
+  "text_signals": {
+    "serotonergic_interaction": "\\bserotonin syndrome\\b|\\bMAOI[s]?\\b",
+    "methionine_homocysteine": "\\bhomocyst(?:ein|in)",
+    "specific_population": "\\b(?:contraindicat\\w*|phenylketonuri\\w*|hereditary fructose intolerance)\\b",
+    "organ_disease_context": "\\b(?:renal|kidney|liver|hepatic) (?:failure|disease|impairment)\\b",
+    "gastrointestinal_tolerance": "\\blaxative\\b|\\bdiarrh(?:ea|oea)\\b"
+  }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "file": "dittrichia2025_supplement.zip",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/instance/12526312/bin/molecules-30-03950-s001.zip",
+    "status": 200,
+    "bytes": 1817,
+    "sha256": "d7c65cb41de4376e912ecfc2fdb880222a85fc689aa759cd83eb695ae2eae029"
+  },
+  {
+    "file": "marinefungi2018.pdf",
+    "url": "https://pubs.rsc.org/en/content/articlepdf/2018/ra/c8ra08047j",
+    "status": 403,
+    "bytes": 5576
+  },
+  {
+    "file": "3-anhydro-ophiobolin_A.pubchem.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/3-anhydro-ophiobolin%20A/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 404,
+    "bytes": 156
+  },
+  {
+    "file": "6-epi-ophiobolin_A.pubchem.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/6-epi-ophiobolin%20A/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "bytes": 298,
+    "sha256": "03e446bae219afa10bf42c59ee50371276194f33b1a9e069745d7ce0f0ca9e38"
+  },
+  {
+    "file": "6-epi-ophiobolin_B.pubchem.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/6-epi-ophiobolin%20B/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 404,
+    "bytes": 156
+  },
+  {
+    "file": "3-anhydro-6-epi-ophiobolin_B.pubchem.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/3-anhydro-6-epi-ophiobolin%20B/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 404,
+    "bytes": 156
+  },
+  {
+    "file": "ophiobolin_I.pubchem.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ophiobolin%20I/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "bytes": 292,
+    "sha256": "ceefcafdd2b7f504c3d24baeb1527c0f18ca1207d31a51e87fced4c604198567"
+  }
+]

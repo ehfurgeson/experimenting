@@ -1,0 +1,21 @@
+{
+  "records": [
+    {
+      "interaction_id": "BINDING-8CI0-UP0-v1",
+      "pdb_id": "8CI0",
+      "ligand_component_id": "8EL",
+      "parent_name": "(+)-cornexistin",
+      "parent_snapshot": "cornexistin_pubchem.json",
+      "parent_bound_relationship": "source_reported_anhydride_hydrolysis",
+      "relationship_locator": "Primary paper section2.1 and Figures2/3: hydrolyzed diacid form; RCSB entry title and UP0 component definition",
+      "target_entity_ids": [
+        "1"
+      ],
+      "primary_doi": "10.1002/chem.202300199",
+      "primary_source_file": "cornexistin_primary.html",
+      "source_locator": "RCSB8CI0 UP0 inhibitor entity4; primary paper co-crystal structure and mode-of-action discussion",
+      "natural_product_context": "Primary paper introduction cites original1991 isolation of cornexistin from Paecilomyces variotii SANK21086. Original isolation source has not been independently reviewed in this pilot; the bound diacid is not automatically a separate naturally isolated compound.",
+      "limits": "Bound UP0 is hydrolyzed C16H22O7 rather than parent C16H20O6. Connectivity is checked by anhydride opening without erasing the two exact InChIKeys; geometry/stereochemical relation still needs source review. 8EL is a thiamine-related cofactor and is not the inhibitor. Protein source Zea mays differs from E.coli expression host. Crop-protein structure does not establish weed-target efficacy or organism safety; affinity fields remain unknown."
+    }
+  ]
+}

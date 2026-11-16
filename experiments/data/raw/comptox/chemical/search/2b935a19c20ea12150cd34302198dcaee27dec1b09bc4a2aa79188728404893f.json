@@ -1,0 +1,25 @@
+{
+  "search_term": "P-Cymene",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:14.300001+00:00",
+  "url": "/chemical/search/equal/P-Cymene",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "p-Cymene",
+        "dtxsid": "DTXSID3026645",
+        "dtxcid": "DTXCID006645",
+        "casrn": "99-87-6",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)C1=CC=C(C)C=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "p-Cymene",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

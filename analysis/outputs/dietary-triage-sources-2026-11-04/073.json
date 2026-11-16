@@ -1,0 +1,9 @@
+{
+  "key": "food:https://www.ecfr.gov/current/title-21/section-182.1320",
+  "url": "https://www.govinfo.gov/content/pkg/CFR-2025-title21-vol3/xml/CFR-2025-title21-vol3-sec182-1320.xml",
+  "kind": "annual_cfr_2025_xml",
+  "retrieved_at": "2026-11-04T23:31:15.196273+00:00",
+  "status": 200,
+  "body": "<?xml version=\"1.0\"?>\n<?xml-stylesheet type=\"text/xsl\" href=\"cfr.xsl\"?>\n<CFRGRANULE xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"CFRMergedXML.xsd\">\n    <FDSYS>\n        <CFRTITLE>21</CFRTITLE>\n        <CFRTITLETEXT>Food and Drugs</CFRTITLETEXT>\n        <VOL>3</VOL>\n        <DATE>2025-04-01</DATE>\n        <COVERONLY>false</COVERONLY>\n        <ORIGINALDATE>2025-04-01</ORIGINALDATE>\n        <ANCESTORS>\n            <PARENT HEADING=\"Title 21\" SEQ=\"4\">Food and Drugs</PARENT>\n            <PARENT HEADING=\"CHAPTER I\" SEQ=\"3\">FOOD AND DRUG ADMINISTRATION, DEPARTMENT OF HEALTH AND HUMAN SERVICES (CONTINUED)</PARENT>\n            <PARENT HEADING=\"SUBCHAPTER B\" SEQ=\"2\">FOOD FOR HUMAN CONSUMPTION (CONTINUED)</PARENT>\n            <PARENT HEADING=\"PART 182\" SEQ=\"1\">SUBSTANCES GENERALLY RECOGNIZED AS SAFE</PARENT>\n            <PARENT HEADING=\"Subpart B\" SEQ=\"0\">Multiple Purpose GRAS Food Substances</PARENT>\n        </ANCESTORS>\n    </FDSYS>\n    <SECTION>\n        <SECTNO>\u00a7\u2009182.1320</SECTNO>\n        <SUBJECT>Glycerin.</SUBJECT>\n        <P>\n            (a) \n            <E T=\"03\">Product.</E>\n             Glycerin.\n        </P>\n        <P>\n            (b) \n            <E T=\"03\">Conditions of use.</E>\n             This substance is generally recognized as safe when used in accordance with good manufacturing practice.\n        </P>\n    </SECTION>\n</CFRGRANULE>\n",
+  "error": null
+}

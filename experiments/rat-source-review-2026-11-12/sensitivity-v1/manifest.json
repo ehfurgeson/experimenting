@@ -1,0 +1,59 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/curation-v1/manifest.json": "33471f60a1ff1fc7d2f0aa2e3fa8c80ab32415918bf30540badf1edf306d00ad",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/curation-v1/rat_eligibility.csv": "69fe053807cd41ad68bb80c404ba3e00c32602c360f85a093b87a975581ab217",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/sensitivity.py": "95671cddf80578f0c0b326ec2ef2b927527a11a9db2121d272a52200f6daca22",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/compounds.csv": "ab49bc5b1278893f088037cfcf4b82173a8b10afcf5534a091a6586e17f416e8",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/evidence.csv": "bfb78da0e17e039ea7044a5ad1ba19cd4d43a6cfc54145d8fa7ba52d99a6a553",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/manifest.json": "fd2248e11af947fd90ed0f39bf8b459d4b75bb10afc0938f3066fd23189cb2ac"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/sensitivity-v1/compound_sensitivities.csv": "93ae1045e2b3607eea5abf92049d391392d1782c0ef155de35937ad66ae5a48b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/sensitivity-v1/primary_basis_strata.csv": "78d5a637fdb3c2407064d478f62578e659d50995ed4743bf5ac0aa3dfe29098b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/sensitivity-v1/retained_censored_observations.csv": "7aa816aed0a8d9756502d5d784fc7315f331f020033519e13e502c1cb6f3d7b9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/sensitivity-v1/scenario_summary.csv": "ffc6c63c6b78e919907bcad1ea96c9e3aa764d6ccf87b4d11a00acd21b586482"
+  },
+  "baseline_modified": false,
+  "historical_new_admissions": 0,
+  "new_harmonized_comparison_compounds": 0,
+  "models_fitted": 0,
+  "scope": "Source-specific strata plus deliberately unharmonized experimental arithmetic sensitivities; primary review remains AI only",
+  "summaries": [
+    {
+      "scenario": "historical_exact",
+      "exact_input_rows_or_study_aggregates": 43,
+      "compounds": 34,
+      "censored_baseline_unchanged": 25,
+      "lower_tertile": 1080.0,
+      "upper_tertile": 3400.0,
+      "new_bin_changes": 0,
+      "fixed_bin_changes": 0,
+      "d24_median": 375.0,
+      "limits": "Historical EPA retained evidence; own undocumented dose-basis/lineage limits"
+    },
+    {
+      "scenario": "experimental_record_pool_mixed_basis",
+      "exact_input_rows_or_study_aggregates": 45,
+      "compounds": 34,
+      "censored_baseline_unchanged": 25,
+      "lower_tertile": 1080.0,
+      "upper_tertile": 3400.0,
+      "new_bin_changes": 0,
+      "fixed_bin_changes": 0,
+      "d24_median": 607.0,
+      "limits": "Intentionally relaxed pooling: original375basis unknown plus primary male607/female726acid-equivalent; source/sex weighting unresolved; not harmonized"
+    },
+    {
+      "scenario": "experimental_primary_study_first_mixed_basis",
+      "exact_input_rows_or_study_aggregates": 44,
+      "compounds": 34,
+      "censored_baseline_unchanged": 25,
+      "lower_tertile": 1080.0,
+      "upper_tertile": 3400.0,
+      "new_bin_changes": 0,
+      "fixed_bin_changes": 0,
+      "d24_median": 520.75,
+      "limits": "Collapse two source sexes to one descriptive study median666.5 before pooling with375; demonstrates weighting assumption; still mixed basis; not harmonized"
+    }
+  ]
+}

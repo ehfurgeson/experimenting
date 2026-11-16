@@ -1,0 +1,2169 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 54778,
+    "RecordTitle": "Clomazone",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 112,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A15208: Santi A, Menezes C, Duarte MM, Leitemperger J, Lopes T, Loro VL: Oxidative stress biomarkers and acetylcholinesterase activity in human erythrocytes exposed to clomazone (in vitro). Interdiscip Toxicol. 2011 Sep;4(3):149-53. doi: 10.2478/v10102-011-0023-9. PMID:22058656",
+                        "Matched": {
+                          "PCLID": 5210527,
+                          "Citation": "A15208: Santi A, Menezes C, Duarte MM, Leitemperger J, Lopes T, Loro VL: Oxidative stress biomarkers and acetylcholinesterase activity in human erythrocytes exposed to clomazone (in vitro). Interdiscip Toxicol. 2011 Sep;4(3):149-53. doi: 10.2478/v10102-011-0023-9. PMID:22058656",
+                          "PMID": 22058656,
+                          "PMCID": "PMC3203917",
+                          "DOI": "10.2478/v10102-011-0023-9"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Clomazone induces oxidative stress and AChE inhibition in human erythrocytes (in vitro), suggesting a role for reactive oxygen species in the toxicity mechanism induced by clomazone in humans. (A15208)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Clomazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 172,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/clomazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Not Likely to be Carcinogenic to Humans"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 112,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135014175"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 105,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 105,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 105,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.84"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 105,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document?D=EPA-HQ-OPP-2017-0372-0008",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Clomazone"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "30000"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Females 13-49 yrs"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.84"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5000"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) = 4,800 mg/m3/4h"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-92"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-92",
+                            "Matched": {
+                              "PCLID": 900043146,
+                              "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-92"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 1369 mg/kg (female)"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-92"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-92",
+                            "Matched": {
+                              "PCLID": 900043146,
+                              "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-92"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 2077 mg/kg (male)"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-92"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-92",
+                            "Matched": {
+                              "PCLID": 900043146,
+                              "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-92"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit dermal >2000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin CDS, ed. Clomazone (81777-89-1). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin CDS, ed. Clomazone (81777-89-1). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900107950,
+                              "Citation": "Tomlin CDS, ed. Clomazone (81777-89-1). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 Rat inhalation 4.8 mg/L/4 hr"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Concentration",
+                    "Description": "Effect concentration values describe the concentration of a chemical associated with observed biological or toxicological effects in test subjects. These concentration-based endpoints include Lowest Observed Effect Concentration (LOEC), No Observed Effect Concentration (NOEC), Lowest Observed Adverse Effect Concentration (LOAEC), and No Observed Adverse Effect Concentration (NOAEC), which represent concentrations associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123",
+                        "Matched": {
+                          "PCLID": 900072062,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Skin decontamination. Skin contamination should be treated promptly by washing with soap and water. Contamination of the eyes should be treated immediately by prolonged flushing of the eyes with large amounts of clean water. If dermal or ocular irritation persists, medical attention should be obtained without delay. /Other herbicides/",
+                          "Markup": [
+                            {
+                              "Start": 93,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 218,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123",
+                        "Matched": {
+                          "PCLID": 900072062,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gastrointestinal decontamination. Ingestions of these herbicides are likely to be followed by vomiting and diarrhea due to their irritant properties. Management depends on: (1) the best estimate of the quantity ingested, (2) time elapsed since ingestion, and (3) the clinical status of the subject. Activated charcoal is probably effective in limiting irritant effects and reducing absorption of most or all of these herbicides. Aluminum hydroxide antacids may be useful in neutralizing the irritant actions of more acidic agents. Sorbitol should be given to induce catharsis if bowel sounds are present and if spontaneous diarrhea has not already commenced. Dehydration and electrolyte disturbances may be severe enough to require oral or intravenous fluids. ... If large amounts of herbicide have been ingested and the patient is seen within an hour of the ingestion, gastrointestinal decontamination should be considered ... . If the amount of ingested herbicides was small, if effective emesis has already occurred, or if treatment is delayed, administer activated charcoal and sorbitol by mouth. /Other herbicides/",
+                          "Markup": [
+                            {
+                              "Start": 309,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 429,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Aluminum%20hydroxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10176082"
+                            },
+                            {
+                              "Start": 531,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sorbitol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5780"
+                            },
+                            {
+                              "Start": 1069,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 1082,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sorbitol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5780"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123",
+                        "Matched": {
+                          "PCLID": 900072062,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Intravenous fluids. If serious dehydration and electrolyte depletion have occurred as a result of vomiting and diarrhea, monitor blood electrolytes and fluid balance and administer intravenous infusions of glucose, normal saline, Ringer's solution, or Ringer's lactate to restore extracellular fluid volume and electrolytes. Follow this with oral nutrients as soon as fluids can be retained. /Other herbicides/",
+                          "Markup": [
+                            {
+                              "Start": 206,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glucose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5793"
+                            },
+                            {
+                              "Start": 215,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/normal%20saline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5234"
+                            },
+                            {
+                              "Start": 252,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ringer%27s%20lactate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6335487"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 124"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 124",
+                        "Matched": {
+                          "PCLID": 906275439,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 124"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Supportive measures are ordinarily sufficient for successful management of excessive exposures to these herbicides ... . If the patient's condition deteriorates in spite of good supportive care, the operation of an alternative or additional toxicant should be suspected. /Other herbicides/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005",
+                        "Matched": {
+                          "PCLID": 900134206,
+                          "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  One hundred twenty CD-1 mice/sex/group were treated in the diet with 0, 20, 100, 500, 1000, 2000, 4000 or 8000 ppm of FMC 57020 Technical (purity: 88.8%) for 90 days (M: 0, 3.79, 19.5, 97.7, 188.2, 370.8, 761.0, 1689 mg/kg/day, F: 0, 5.26, 25.9, 126.4, 263.2, 522.3, 1049, 2233 mg/kg/day). Ten animals/sex/group were euthanized and examined at the 1 and 2 month intervals. Twenty animals/sex/group were euthanized and examined at 3 months. The surviving animals were maintained for the chronic feeding study. There was no treatment-related effect upon clinical signs, mean body weight or food consumption. There were no treatment-related effects indicated by the hematology results or clinical chemistry. The mean liver weight was increased above that of the control for both sexes at 4000 ppm and above (p<0.01). In the histopathology examination, diffuse, centrilobular megalocytosis was noted in the liver for the 8000 ppm males (minimal: 4/20, mild: 4/20, moderate: 1/20). (Note: the 4000 ppm animals were not examined). Target organ: liver; No adverse effect indicated. Reported Subchronic NOEL: (M/F) 2000 ppm (M: 370.8 mg/kg/day, F: 522.3 mg/kg/day) based upon the increased mean liver weights for the 4000 ppm animals."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005",
+                        "Matched": {
+                          "PCLID": 900134206,
+                          "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Clomazone Technical (purity = 92.7%) was applied to the clipped dorsal skin of 10 Sprague-Dawley CD rats per sex per dose at dose levels of 0 (tap water only) or 1000 mg/kg/day for 6 hours per day, 5 days per week for 4 consecutive weeks. No mortalities occurred. No clinical signs or local irritation effects were observed. Body weight, food consumption, ophthalmology, serum chemistry, hematology, and organ weight data revealed no treatment-related effects. FOB and motor activity assessments revealed no treatment-related effects. Necropsy revealed no treatment-related abnormalities. Microscopic examination revealed an increase in severity (males) and incidence (females) of epidermal hyperplasia in the treated skin. No adverse effects. NOEL (M/F, systemic) = 1000 mg/kg/day based on no treatment-related effects at the highest dose tested; NOEL (M/F, skin) < 1000 mg/kg/day based on an increase in severity (males) or incidence (females) of epidermal hyperplasia in the treated skin.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Clomazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 203,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005",
+                        "Matched": {
+                          "PCLID": 900134206,
+                          "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/  One hundred twenty CD outbred rats/sex/group were dosed in the diet with 0, 20, 100, 500, 1000, 2000, 4000 or 8000 ppm of FMC 57020 Technical (purity: 88.8%) for 90 days (M: 0, 1.40, 7.80, 35.3, 69.7, 138.8, 278.8, 562.9 mg/kg/day, F: 0, 1.67, 8.38, 42.6, 84.7, 163.3, 324.2, 638.1 mg/kg/day). Ten animals/sex/group were euthanized and examined at the 1 and 2 month intervals. Twenty animals/sex/group were euthanized and examined at 3 months. The surviving animals were maintained for the chronic feeding study. The mean body weights of the 8000 ppm males (p<0.01) and the 4000 and 8000 ppm females (p<0.01) were less than that of the control animals. Mean food consumption was reduced for the 8000 ppm males and the 4000 and 8000 ppm females over the course of the study (p<0.05). No treatment-related signs were noted. There were no treatment-related effects indicated by the hematology results. In the clinical chemistry, the mean total cholesterol levels in the serum were elevated for the 8000 ppm males and females at 1, 2, and 3 months (p<0.01). The mean levels for the 1000 (p<0.01) and 4000 (p<0.05) ppm females were elevated at 3 months as well. There were no treatment-related effects in the urinalysis data. The mean liver weight was increased above that of the control for both sexes at 2000 ppm and above and for the 500 ppm males. In the histopathology examination, diffuse, centrilobular megalocytosis was noted in the liver for the 2000 ppm males (minimal: 2/20) and the 8000 ppm males (minimal: 4/20, mild: 1/20) and 8000 ppm females (minimal: 8/20, mild: 11/20). (Note: the 4000 ppm animals were not examined). Target organ: liver; No adverse effect indicated. Reported NOEL: (M/F) 1000 ppm (M: 69.7 mg/kg/day, F: 84.7 mg/kg/day), based upon the increased mean liver weight of the 2000 ppm treatment group."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005",
+                        "Matched": {
+                          "PCLID": 900134206,
+                          "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology Data Review Summaries. Available from:  https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Clomazone (81777-89-1) as of September 27, 2005"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ FMC 57020 Technical (purity = 88.8%) was admixed to the feed (plus 2% corn oil) and fed to 6 beagle dogs per sex per dose at dose levels of 0 (untreated diet), 100, 500, 2500, or 5000 (reduced from 7500 ppm at Day 8) (0, 19.4, 97.8, 493.9, 1038.4 mg/kg/day, respectively, for males and 0, 20.7, 104.0, 529.4, 1011.9 mg/kg/day, respectively, for females, (values calculated by the reviewer)) for 1 year (2 animals per sex per dose were sacrificed after 3 months of treatment). No animals died. At the high dose level, decreased body weight and low food consumption were observed in the first 2 weeks of treatment; therefore, the high dose level was decreased from 7500 ppm to 5000 ppm. A treatment-related increase in serum cholesterol levels in both sexes at 2500 and 5000 ppm at all intervals was observed. A treatment-related increase in mean relative liver weight at 2500 and 5000 ppm in males (both interim and terminal sacrifice animals) and females (interim sacrifice animals only) was observed. Macroscopic and microscopic examinations revealed no treatment related abnormalities. No adverse effects. NOEL (M)= 97.8 mg/kg/day (500 ppm) and NOEL (F) = 104.0 mg/kg/day (500 ppm) (values calculated by the reviewer) based on increased serum cholesterol levels and increased mean relative liver weights.",
+                          "Markup": [
+                            {
+                              "Start": 781,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cholesterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5997"
+                            },
+                            {
+                              "Start": 1303,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cholesterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5997"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for DIMETHAZONE (13 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 98,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6614#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DIMETHAZONE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 48
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 416"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 416",
+                        "Matched": {
+                          "PCLID": 900042491,
+                          "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 416"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 /Anas platyrhynchos/ (Mallard duck) oral >2510 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(2-Chlorophenyl)methyl]-4,4-dimethyl-3-isoxazolidinone (81777-89-1). Available from, as of October 3, 2005"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(2-Chlorophenyl)methyl]-4,4-dimethyl-3-isoxazolidinone (81777-89-1). Available from, as of October 3, 2005",
+                        "Matched": {
+                          "PCLID": 900116420,
+                          "Citation": "(2-Chlorophenyl)methyl]-4,4-dimethyl-3-isoxazolidinone (81777-89-1). Available from, as of October 3, 2005"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Anas platyrhynchos (Mallard duck, 14 days old) dietary >5620 ppm/8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 416"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 416",
+                        "Matched": {
+                          "PCLID": 900042491,
+                          "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 416"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 /Colinus virginianus/ (Bobwhite quail) oral >2510 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(2-Chlorophenyl)methyl]-4,4-dimethyl-3-isoxazolidinone (81777-89-1). Available from, as of October 3, 2005"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(2-Chlorophenyl)methyl]-4,4-dimethyl-3-isoxazolidinone (81777-89-1). Available from, as of October 3, 2005",
+                        "Matched": {
+                          "PCLID": 900116420,
+                          "Citation": "(2-Chlorophenyl)methyl]-4,4-dimethyl-3-isoxazolidinone (81777-89-1). Available from, as of October 3, 2005"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Colinus virginianus (Northern bobwhite, 14 days old) dietary >5620 ppm/8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for DIMETHAZONE (12 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 89,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6614#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DIMETHAZONE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:15922806",
+                      "dos Santos Miron D et al; Ecotoxicol Environ Saf 61 (3): 398-403 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:15922806",
+                        "Matched": {
+                          "PCLID": 24771120,
+                          "Citation": "dos Santos Miron D, Crestani M, Rosa Shettinger M, Maria Morsch V, Baldisserotto B, Angel Tierno M, Moraes G, Vieira VLP. Effects of the herbicides clomazone, quinclorac, and metsulfuron methyl on acetylcholinesterase activity in the silver catfish (Rhamdia quelen) (Heptapteridae). Ecotoxicology and Environmental Safety. 2005 Jul;61(3):398–403. doi: 10.1016/j.ecoenv.2004.12.019.",
+                          "PMID": 15922806,
+                          "DOI": "10.1016/j.ecoenv.2004.12.019"
+                        }
+                      },
+                      {
+                        "Citation": "dos Santos Miron D et al; Ecotoxicol Environ Saf 61 (3): 398-403 (2005)",
+                        "Matched": {
+                          "PCLID": 24771120,
+                          "Citation": "dos Santos Miron D, Crestani M, Rosa Shettinger M, Maria Morsch V, Baldisserotto B, Angel Tierno M, Moraes G, Vieira VLP. Effects of the herbicides clomazone, quinclorac, and metsulfuron methyl on acetylcholinesterase activity in the silver catfish (Rhamdia quelen) (Heptapteridae). Ecotoxicology and Environmental Safety. 2005 Jul;61(3):398–403. doi: 10.1016/j.ecoenv.2004.12.019.",
+                          "PMID": 15922806,
+                          "DOI": "10.1016/j.ecoenv.2004.12.019"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ Fingerlings of the silver catfish (Rhamdia quelen) were exposed to clomazone, quinclorac, and metsulfuron methyl....  The LC50 value (nominal concentration) was 7.32 mg/L for clomazone and 395 mg/L for quinclorac, but was not obtained for metsulfuron-methyl since all fingerlings survived the highest concentration of 1200 mg/L. ...  Clomazone significantly inhibited AChE activity in both tissues, achieving maximal inhibition of about 83% in brain and 89% in muscle tissue. In contrast, quinclorac and metsulfuron methyl caused increases in enzyme activity in the brain (98 and 179%, respectively) and inhibitions in muscle tissue (88 and 56%, respectively).",
+                          "Markup": [
+                            {
+                              "Start": 37,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Silver",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Silver"
+                            },
+                            {
+                              "Start": 85,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/clomazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 96,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinclorac",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91739"
+                            },
+                            {
+                              "Start": 112,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/metsulfuron%20methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-52999"
+                            },
+                            {
+                              "Start": 193,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/clomazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 220,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinclorac",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91739"
+                            },
+                            {
+                              "Start": 257,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/metsulfuron-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-52999"
+                            },
+                            {
+                              "Start": 352,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Clomazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 507,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinclorac",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91739"
+                            },
+                            {
+                              "Start": 522,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/metsulfuron%20methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-52999"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:11596755",
+                      "Burdett AS et al; Environ Toxicol Chem 20 (10): 2229-36 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:11596755",
+                        "Matched": {
+                          "PCLID": 29406196,
+                          "Citation": "Burdett AS, Stevens MM, Macmillan DL. Laboratory and field studies on the effect of molinate, clomazone, and thiobencarb on nontarget aquatic invertebrates. Environ Toxicol Chem. 2001 Oct;20(10):2229–36. doi: 10.1897/1551-5028(2001)020<2229:lafsot>2.0.co;2. PMID: 11596755.",
+                          "PMID": 11596755,
+                          "DOI": "10.1002/etc.5620201015"
+                        }
+                      },
+                      {
+                        "Citation": "Burdett AS et al; Environ Toxicol Chem 20 (10): 2229-36 (2001)",
+                        "Matched": {
+                          "PCLID": 29406196,
+                          "Citation": "Burdett AS, Stevens MM, Macmillan DL. Laboratory and field studies on the effect of molinate, clomazone, and thiobencarb on nontarget aquatic invertebrates. Environ Toxicol Chem. 2001 Oct;20(10):2229–36. doi: 10.1897/1551-5028(2001)020<2229:lafsot>2.0.co;2. PMID: 11596755.",
+                          "PMID": 11596755,
+                          "DOI": "10.1002/etc.5620201015"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/OTHER TERRESTRIAL SPECIES/ The midge Chironomus tepperi was used in laboratory experiments to assess the relative toxicity. ... Clomazone had no effect on any parameters at concentrations up to 0.288 mg/L (p > 0.05). Molinate significantly increased development time at concentrations equivalent to the AFC (3.6 mg/L) and above (p < 0.05). Thiobencarb reduced emergence success of adult C. tepperi at 0.0625 times the AFC (0.1875 mg/L) as well as decreasing male adult size and increasing development time for males and females at 0.125 times the AFC (p < 0.05).",
+                          "Markup": [
+                            {
+                              "Start": 129,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Clomazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 218,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Molinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16653"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:16099506",
+                      "epub ahead of print] (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:16099506",
+                        "Matched": {
+                          "PCLID": 18658958,
+                          "Citation": "Crestani M, Menezes C, Glusczak L, dos Santos Miron D, Lazzari R, Duarte MF, Morsch VM, Pippi AL, Vieira VP. Effects of Clomazone Herbicide on hematological and some parameters of protein and carbohydrate metabolism of silver catfish Rhamdia quelen. Ecotoxicology and Environmental Safety. 2006 Sep;65(1):48–55. doi: 10.1016/j.ecoenv.2005.06.008.",
+                          "PMID": 16099506,
+                          "DOI": "10.1016/j.ecoenv.2005.06.008"
+                        }
+                      },
+                      {
+                        "Citation": "epub ahead of print] (2005)",
+                        "Matched": {
+                          "PCLID": 906296419,
+                          "Citation": "epub ahead of print] (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ ...Liver glycogen /of the silver catfish (Rhamdia quelen)/ increased significantly (P<0.05) in all periods and concentrations tested. The maximum glycogen increase reaches 250% after 12 hr of exposure. Muscle glycogen reduced significantly after 24, 48, 96 and 192 hr for both clomazone concentrations (P<0.05). Significantly elevated plasma glucose values (P<0.05) and variation in glucose in the liver and muscle of exposed fish were observed. Muscle lactate levels increased after 12, 24 and 48 hr of clomazone exposure (22-67%), but reduced in the liver (P<0.05). Protein levels were enhanced in the liver and white muscle, except at 96 and 192h of exposure, whereas it increased in the plasma in the period from 48 to 96 hr (P<0.05). Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) activities were significantly elevated in the plasma (P<0.05). In the liver, ALT increased after 24 hr, while AST activity was enhanced only after 12 hr of exposure.[Crestani Me t al; Ecotoxicol Environ Saf 12",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glycogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-439177"
+                            },
+                            {
+                              "Start": 44,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Silver",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Silver"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dimethazone's production may result in its release to the environment through various waste streams; it's use as a herbicide will result in its direct release to the environment. If released to air, a vapor pressure of 1.4X10-4 mm Hg at 25 °C indicates dimethazone will exist solely as a vapor in the atmosphere. Vapor-phase dimethazone will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 5.8 hours. Aqueous solutions of dimethazone have a half-life of greater than 30 days when exposed to sunlight. If released to soil, dimethazone is expected to have moderate mobility based upon a Koc values ranging from 60-573. Volatilization from moist soil surfaces is not expected to be an important fate process based upon a Henry's Law constant of 4.13X10-8 atm-cu m/mole. Dimethazone is not expected to volatilize from dry soil surfaces based upon its vapor pressure. After 84 days 59% of 14C radiolabeled dimethazone extracted from the soil remained unchanged, indicating that dimethazone is degraded slowly. If released into water, dimethazone may adsorb to suspended solids and sediment based upon the Koc. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's Henry's Law constant. An estimated BCF of 17 suggests the potential for bioconcentration in aquatic organisms is low. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions. Occupational exposure to dimethazone may occur through dermal contact with this compound at workplaces where dimethazone is produced or used. The most likely route of exposure is through dermal contact during the manufacturing and/or application of this product to fields as a herbicide. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 253,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 325,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 414,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 523,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 623,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 868,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 1002,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 1074,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 1123,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1130,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 1226,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1623,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 1707,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dimethazone's production may result in its release to the environment through various waste streams; it's use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Loux et al; Weed Science 27: 259-67 (1989)",
+                      "(3) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(4) Liu SY et al; J Agric Food Chem 44: 313-19 (1996)",
+                      "(5) Mervosh TL et al; J Agric Food Chem 43: 2295-300 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Loux et al; Weed Science 27: 259-67 (1989)"
+                      },
+                      {
+                        "Citation": "(3) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(4) Liu SY et al; J Agric Food Chem 44: 313-19 (1996)"
+                      },
+                      {
+                        "Citation": "(5) Mervosh TL et al; J Agric Food Chem 43: 2295-300 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), Koc values ranging from 60-573, depending on the soil(2), indicate that dimethazone is expected to have moderate mobility in soil(SRC). Volatilization of dimethazone from moist soil surfaces is not expected to be an important fate process(SRC) given a Henry's Law constant of 4.13X10-8 atm-cu m/mole(3). Dimethazone is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of 1.4X10-4 mm Hg(3). Pure culture studies indicated that dimethazone is slowly metabolized by most organisms(4). After 84 days, 59% of 14C radiolabeled dimethazone extracted from the soil remained unchanged(5), indicating that biodegradation is a slow environmental fate process in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 127,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 209,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 359,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 515,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 610,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Loux MM et al; Weed Science 37: 259-67 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Loux MM et al; Weed Science 37: 259-67 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Dimethazone was applied to 1.5 by 3.0 meter plots of wheat crops on Cisne soil loam and Drummer silty clay loam in May of 1984-1986 at a rate of 1.12 kg/hour. In the Cisne soil initial concentrations for the 1985 and 1986 studies were 710 and 770 ppb dry weight, respectively. These concentrations decreased to 140 and 170 ppb dry weight by days 29 (1985) and 31 (1986), respectively, and by day 131, no detectable levels of dimethazone were found in either soil. The maximum concentration of dimethazone found in soil below 7.5 cm was 39 ppb. In Drummer silty clay loam the initial concentrations in 1985 and 1986 were 1270 and 1190 ppb dry weight, respectively. Dimethazone had a much longer half life in drummer loam and was still detected in concentrations of 220 and 150 ppb dry weight, respectively, 145 days after treatment. Dimethazone was also detected below 7.5 cm in the soil in concentrations as high as 100 ppb weight(1).",
+                          "Markup": [
+                            {
+                              "Start": 18,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 443,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 511,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 682,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 850,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Antonious GF; Bull Envion Contam Toxicol 64: 168-175 (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Antonious GF; Bull Envion Contam Toxicol 64: 168-175 (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Dimethazone was applied to pumpkin and pepper crops on Lowell silty loam soil in Franklin County, Kentucky. Grass strips were located between each cropping row and black plastic mulch or no mulch were placed on the crops. Runoff water and sediment samples from these crops were collected and monitored via gas liquid chromatography(1). Dimethazone for the most part stayed in the first 23 cm of soil depth. For the pepper plants, dimethazone was found in concentrations of 5, 15, and 30 mg/L in the runoff water from the pepper crops on the sites of grass strips, black plastic mulch and no mulch respectively and in concentrations of 1, 80, and 35 mg/L in the runoff sediment on the sites of grass strips, black plastic mulch and no mulch respectively. The majority of dimethazone (>60 mg/kg) was found in the soil mulch and non-mulch treated soil and around 10 mg/kg in the grass strip. The highest concn of dimethazone was found in the soil from the pumpkin crops with concentrations of approximately 8, 60 and 30 mg/kg in the grass strip, mulch treated, and non mulch treated soil, respectively. For the pumpkin plants, dimethazone was found in concentrations of 2, 23, and 20 mg/L in the runoff water on the sites of grass strips, black plastic mulch, and no mulch, respectively, and in concentrations of <1, 50, and 21 mg/L in the runoff sediment from the sites of grass strips, black plastic mulch, and no mulch, respectively(1).",
+                          "Markup": [
+                            {
+                              "Start": 18,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 247,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 354,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 448,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 524,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 788,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 928,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 1142,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 1218,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Loux et al; Weed Science 27: 259-67 (1989)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(4) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(6) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(7) Liu SY et al; J Agric Food Chem 44: 313-19 (1996)",
+                      "(8) Mervosh TL et al; J Agric Food Chem 43: 2295-300 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Loux et al; Weed Science 27: 259-67 (1989)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(6) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(7) Liu SY et al; J Agric Food Chem 44: 313-19 (1996)"
+                      },
+                      {
+                        "Citation": "(8) Mervosh TL et al; J Agric Food Chem 43: 2295-300 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), Koc values ranging from 60-573(2) indicate that dimethazone may adsorb to suspended solids and sediment depending on the soil type(SRC). Volatilization from water surfaces is not expected(3) based upon a Henry's Law constant of 4.13X10-8 atm-cu m/mole(4). According to a classification scheme(5), an estimated BCF of 17(SRC), from its log Kow of 2.5(4) and a regression-derived equation(6), suggests the potential for bioconcentration in aquatic organisms is low(SRC). Pure culture studies indicated that dimethazone is slowly metabolized by most organisms(7). After 84 days 59% of 14C radiolabeled dimethazone extracted from the soil remained unchanged(8), indicating that biodegradation may be a slow environmental fate process in water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 99,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 208,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 556,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 650,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 784,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), dimethazone, which has a vapor pressure of 1.44X10-4 mm Hg at 25 °C(2), is expected to exist solely as a vapor in the ambient atmosphere. Vapor-phase dimethazone is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 5.8 hours(SRC), calculated from its rate constant of 2.2X10-11 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(3). Aqueous solutions of dimethazone have a half life of 30 days when exposed to sunlight(2).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 358,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 614,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Mervosh TL et al; J Agric Food Chem 43: 2295-300 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Mervosh TL et al; J Agric Food Chem 43: 2295-300 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: 14C-labeled dimethazone was applied to silty clay loam at various temperatures and moisture levels in Fort Wayne, IN from Oct 1992-March 1993(1). In 28 days less than 1.5% of the dimethazone was degraded in the sterilized soil while 5.8% was degraded in the reinocculated soil(1).",
+                          "Markup": [
+                            {
+                              "Start": 21,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 188,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Liu SY et al; J Agric Food Chem 44: 313-19 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Liu SY et al; J Agric Food Chem 44: 313-19 (1996)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Pure culture studies showed oxidation to be the most likely route for degradation(1). Slant cultures using typical soil microbes were incubated with 10 mg dimethazone/25 ml dimethylformamide for 73 hours at 28 °C. Degradation products detected in 17 of the 41 cultures screened included 5-hydroxydimethazone, hydroxymethyldimethazone, 5-ketodimethazone, 3'-hydroxydimethazone and 6-ketodimethazone(1).",
+                          "Markup": [
+                            {
+                              "Start": 164,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 182,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethylformamide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6228"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)",
+                      "(3) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of dimethazone with photochemically-produced hydroxyl radicals has been estimated as 2.2X10-11 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 5.8 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). Aqueous solutions of dimethazone have a half life of 30 days when exposed to sunlight(3). Dimethazone is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmetnal conditions(2).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 92,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 321,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 374,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 443,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 17 was calculated for dimethazone(SRC), using a log Kow of 2.5(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 42,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Loux et al; Weed Science 27: 259-67 (1989)",
+                      "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Loux et al; Weed Science 27: 259-67 (1989)"
+                      },
+                      {
+                        "Citation": "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Koc values of dimethazone in 19 different soils were measured(1). The Koc values ranged from 60 in silt loam from Lebanon, MO with a pH of 4.5 to 573 in sandy loam from Goldsboro, GA with a pH of 5.2(1). The majority of soil samples had Koc values from 100-150(1). According to a classification scheme(2), these Koc values suggest that dimethazone is expected to have moderate mobility in soil.",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 336,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Dimethazone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for dimethazone is 4.13X10-8 atm-cu m/mole(1). This Henry's Law constant indicates that dimethazone is expected to be essentially nonvolatile from moist soil and water surfaces(2). Dimethazone is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of 1.44X10-4 mm Hg(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 113,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 187,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 206,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to dimethazone may occur through dermal contact with this compound at workplaces where dimethazone is produced or used. The most likely route of exposure is through dermal contact when manufacturing or applying this compound to crops. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            },
+                            {
+                              "Start": 109,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54778"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Clomazone$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Clomazone$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Clomazone$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Clomazone$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135014175",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0081777891",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19492729
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "56171b7ec77ccb43a809a4e09c6319cc",
+        "Name": "Clomazone",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49737018
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID54778",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125648
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "528bce36e169fcaa3026923bc93db3f5",
+        "Name": "Clomazone",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667239
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID1032355",
+        "Name": "Clomazone",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57002470
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz4921",
+        "Name": "Dimethazone",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17278567
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "6614",
+        "Name": "DIMETHAZONE",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6614",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4364
+      },
+      {
+        "ReferenceNumber": 105,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Clomazone",
+        "Name": "Clomazone",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45400540
+      },
+      {
+        "ReferenceNumber": 112,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4487",
+        "Name": "Clomazone",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4487",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443655
+      }
+    ]
+  }
+}

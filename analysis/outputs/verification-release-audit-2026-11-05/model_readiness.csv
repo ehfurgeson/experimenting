@@ -1,0 +1,5 @@
+scenario_NOT_APPROVED,n,positives,negatives,scaffolds,positive_scaffolds,negative_scaffolds,three_fold_support,five_fold_support,model_fitted
+Li historical 24: unapproved,24,14,10,6,6,2,insufficient_scaffold_support,insufficient_scaffold_support,False
+Li without critical hold: still unapproved,23,13,10,5,5,2,insufficient_scaffold_support,insufficient_scaffold_support,False
+Li 21 consistency leads: still not visually verified,21,11,10,3,3,2,insufficient_scaffold_support,insufficient_scaffold_support,False
+Hypothetical occurrence/manufacturing-provenance contrast: NOT origin truth,15,4,11,8,2,6,insufficient_scaffold_support,insufficient_class_support,False

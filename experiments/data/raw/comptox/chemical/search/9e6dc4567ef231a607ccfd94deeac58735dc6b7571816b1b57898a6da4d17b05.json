@@ -1,0 +1,25 @@
+{
+  "search_term": "OYHQOLUKZRVURQ-HZJYTTRNSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:41.109491+00:00",
+  "url": "/chemical/search/equal/OYHQOLUKZRVURQ-HZJYTTRNSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Linoleic acid",
+        "dtxsid": "DTXSID2025505",
+        "dtxcid": "DTXCID505505",
+        "casrn": "60-33-3",
+        "hasStructureImage": 1,
+        "smiles": "CCCCC\\C=C/C\\C=C/CCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "OYHQOLUKZRVURQ-HZJYTTRNSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

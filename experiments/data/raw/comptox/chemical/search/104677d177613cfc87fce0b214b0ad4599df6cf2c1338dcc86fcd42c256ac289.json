@@ -1,0 +1,25 @@
+{
+  "search_term": "CCVYRRGZDBSHFU-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:00.428534+00:00",
+  "url": "/chemical/search/equal/CCVYRRGZDBSHFU-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1060633",
+        "dtxcid": "DTXCID3043025",
+        "casrn": "614-75-5",
+        "preferredName": "2-Hydroxyphenylacetic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)CC1=C(O)C=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "CCVYRRGZDBSHFU-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

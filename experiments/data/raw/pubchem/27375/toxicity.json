@@ -1,0 +1,2111 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 27375,
+    "RecordTitle": "Chlortoluron",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Exposure Routes",
+                "Description": "The way people or other living organisms may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The substance can be absorbed into the body by inhalation of its aerosol and by ingestion."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "Eye Exposure",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Redness."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134993125"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 20,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Worthing, C. R. (ed.). Pesticide Manual. 6th ed. Worcestershire, England: British Crop Protection Council, l979., p. 124"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Worthing, C. R. (ed.). Pesticide Manual. 6th ed. Worcestershire, England: British Crop Protection Council, l979., p. 124",
+                            "Matched": {
+                              "PCLID": 900133742,
+                              "Citation": "Worthing, C. R. (ed.). Pesticide Manual. 6th ed. Worcestershire, England: British Crop Protection Council, l979., p. 124"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral greater than 10000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Worthing, C. R. (ed.). Pesticide Manual. 6th ed. Worcestershire, England: British Crop Protection Council, l979., p. 124"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Worthing, C. R. (ed.). Pesticide Manual. 6th ed. Worcestershire, England: British Crop Protection Council, l979., p. 124",
+                            "Matched": {
+                              "PCLID": 900133742,
+                              "Citation": "Worthing, C. R. (ed.). Pesticide Manual. 6th ed. Worcestershire, England: British Crop Protection Council, l979., p. 124"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat subcutaneous greater than 2000 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Other Toxicity Values",
+                    "Description": "Other toxicity values that are less commonly used in toxicological studies.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^Other$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Mougin C et al; Pestic Biochem Physiol; 40 (l): 1-11 (1991)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Mougin C et al; Pestic Biochem Physiol; 40 (l): 1-11 (1991)",
+                        "Matched": {
+                          "PCLID": 700873739,
+                          "Citation": "Mougin C, Polge N, Scalla R, Cabanne F. Interactions of various agrochemicals with cytochrome P-450-dependent monooxygenases of wheat cells. Pesticide Biochemistry and Physiology. 1991 May;40(1):1–11. doi: 10.1016/0048-3575(91)90044-m.",
+                          "DOI": "10.1016/0048-3575(91)90044-m"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Levels of cytochrome p450s and rates of monooxygenase activities were studied in microsomes prepared from wheat cell suspension cultures. Cytochrome contents and enzymatic activities, namely, the enzymatic systems responsible for chlorotoluron ring-methy1 hydroxy1ation and N-demethylation, were enhanced after pretreatment of cells with 2,4-D, procloraz, mecoprop, chlorotoluron, and oxime ether safeners. Effects of various agrochemicals were also determined on chlorotoluron ring-methyl hydroxylase and N-demethylase, following their direct addition to microsomal preparations. Plant growth regulators and fungicide, as well as piperonyl butoxide decreased both activities, tetcyclacis, and procloraz being marked1y inhibitory. Naphthalic anhydride, oxime ether safeners, dich1ormid, and tridiphane had only weak effects. The substrate specificities of chlorotoluron ring-methyl hydroxylase and N-demethylase were also investigated using structural analogues of the herbicide. Diuron was the strongest inhibitor among the tested phenylureas. Other herbicides that can be metabolized by wheat affected both activities to different extents. However, diclofop enhanced only chlorotoluron N-demethylase.",
+                          "Markup": [
+                            {
+                              "Start": 230,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorotoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 338,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2%2C4-D",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1486"
+                            },
+                            {
+                              "Start": 345,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/prochloraz",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-73665"
+                            },
+                            {
+                              "Start": 356,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/mecoprop",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-7153"
+                            },
+                            {
+                              "Start": 366,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorotoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 464,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorotoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 483,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3034819"
+                            },
+                            {
+                              "Start": 631,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/piperonyl%20butoxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5794"
+                            },
+                            {
+                              "Start": 677,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tetcyclacis",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92396"
+                            },
+                            {
+                              "Start": 694,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/prochloraz",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-73665"
+                            },
+                            {
+                              "Start": 731,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Naphthalic%20anhydride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6693"
+                            },
+                            {
+                              "Start": 775,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlormid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-37829"
+                            },
+                            {
+                              "Start": 791,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tridiphane",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-73669"
+                            },
+                            {
+                              "Start": 856,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorotoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 875,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3034819"
+                            },
+                            {
+                              "Start": 980,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3120"
+                            },
+                            {
+                              "Start": 1151,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diclofop",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-38687"
+                            },
+                            {
+                              "Start": 1174,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorotoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 86"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 86",
+                        "Matched": {
+                          "PCLID": 900123154,
+                          "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 86"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1. WASH CONTAMINATED SKIN WITH SOAP & WATER. 2. FLUSH CONTAMINATED EYES WITH COPIOUS AMOUNTS OF FRESH WATER FOR 15 MINUTES. 3. INGESTIONS OF SMALL AMOUNTS (LESS THAN 10 MG/KG BODY WEIGHT) OCCURRING LESS THAN AN HOUR BEFORE TREATMENT, ARE PROBABLY BEST TREATED BY: A. SYRUP OF IPECAC, FOLLOWED BY 1-2 GLASSES OF WATER. DOSE FOR ADULTS & CHILDREN OVER 12 YEARS: 30 ML. DOSE FOR CHILDREN UNDER 12 YEARS: 15 ML. B. ACTIVATED CHARCOAL: /PRC: 30 G ACTIVATED CHARCOAL IN 3-4 OZ WATER (CHILDREN), 100 G IN 8-10 OZ WATER (ADULT)/...AFTER VOMITING STOPS. C. SODIUM OR MAGNESIUM SULFATE, 0.25 G/KG IN TAP WATER, AS A CATHARTIC. /PESTICIDES OF LOW OR MODERATE TOXICITY/",
+                          "Markup": [
+                            {
+                              "Start": 38,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 102,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 311,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 421,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CHARCOAL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 452,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CHARCOAL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 471,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 506,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 548,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            },
+                            {
+                              "Start": 558,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MAGNESIUM%20SULFATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-522565"
+                            },
+                            {
+                              "Start": 594,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 87"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 87",
+                        "Matched": {
+                          "PCLID": 900152038,
+                          "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 87"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4. INGESTIONS OF LARGE AMOUNTS (MORE THAN 10 MG/KG) OCCURRING LESS THAN AN HR BEFORE TREATMENT, SHOULD PROBABLY BE TREATED BY GASTRIC LAVAGE: A. INTUBATE STOMACH & ASPIRATE CONTENTS. B. LAVAGE STOMACH WITH SLURRY OF ACTIVATED CHARCOAL.../&/ LEAVE 30-50 G ACTIVATED CHARCOAL IN THE STOMACH BEFORE WITHDRAWING TUBE. C. SODIUM SULFATE, 0.25 G/KG IN TAP WATER, AS A CATHARTIC. CAUTION: HYDROCARBONS (KEROSENE, PETROLEUM DISTILLATES) ARE INCLUDED IN SOME FORMULATIONS OF THESE CHEMICALS. INGESTION OF VERY LARGE AMOUNTS MAY CAUSE CNS DEPRESSION. IN THIS CASE, IPECAC IS CONTRAINDICATED. ALSO, GASTRIC INTUBATION INCURS A RISK OF HYDROCARBON PNEUMONITIS. FOR THIS REASON OBSERVE THE FOLLOWING PRECAUTIONS: (1) IF THE VICTIM IF UNCONSCIOUS OR OBTUNDED & FACILITIES ARE AT HAND, INSERT AN ENDOTRACHEAL TUBE (CUFFED, IF AVAILABLE) PRIOR TO GASTRIC INTUBATION. (2) KEEP VICTIM'S HEAD BELOW LEVEL OF STOMACH DURING INTUBATION & LAVAGE /PRC: TAP WATER IN CHILDREN, ISOTONIC SALINE IN ADULTS/ (TRENDELENBURG, OR LEFT LATERAL DECUBITUS, WITH HEAD OF TABLE TIPPED DOWNWARD). KEEP VICTIM'S HEAD TURNED TO THE LEFT. (3) ASPIRATE PHARYNX AS REGULARLY AS POSSIBLE TO REMOVE GAGGED OR VOMITED STOMACH CONTENTS. /PESTICIDES OF LOW OR MODERATE TOXICITY/",
+                          "Markup": [
+                            {
+                              "Start": 226,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CHARCOAL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 265,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CHARCOAL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 317,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SODIUM%20SULFATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24436"
+                            },
+                            {
+                              "Start": 350,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 934,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 87"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 87",
+                        "Matched": {
+                          "PCLID": 900152038,
+                          "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 87"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "5. INGESTIONS OCCURRING MORE THAN AN HR BEFORE TREATMENT ARE PROBABLY BEST TREATED ONLY BY ACTIVATED CHARCOAL /PRC: 30 G ACTIVATED CHARCOAL IN 3-4 OZ WATER (CHILDREN), 100 G IN 8-10 OZ WATER (ADULT)/...& SODIUM OR MAGNESIUM SULFATE, 0.25 G/KG... 6. THERE ARE NO SPECIFIC ANTIDOTES FOR THESE CHEMICALS. BECAUSE MANIFESTATIONS OF TOXICITY DO OCCASIONALLY OCCUR IN PECULIARLY PREDISPOSED INDIVIDUALS, MAINTAIN CONTACT WITH VICTIM FOR AT LEAST 72 HR SO THAT UNEXPECTED ADVERSE EFFECTS CAN BE TREATED PROMPTLY. /PESTICIDES OF LOW OR MODERATE TOXICITY/",
+                          "Markup": [
+                            {
+                              "Start": 101,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CHARCOAL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 131,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CHARCOAL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 150,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 185,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 204,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            },
+                            {
+                              "Start": 214,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MAGNESIUM%20SULFATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-522565"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Worthing, C. R. (ed.). Pesticide Manual. 6th ed. Worcestershire, England: British Crop Protection Council, l979., p. 124"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Worthing, C. R. (ed.). Pesticide Manual. 6th ed. Worcestershire, England: British Crop Protection Council, l979., p. 124",
+                        "Matched": {
+                          "PCLID": 900133742,
+                          "Citation": "Worthing, C. R. (ed.). Pesticide Manual. 6th ed. Worcestershire, England: British Crop Protection Council, l979., p. 124"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "THE \"NO EFFECT\" LEVEL IN NINETY-DAY FEEDING STUDIES WAS EST @ 53 MG/KG/DAY IN RATS, & @ 23 MG/KG/DAY IN DOGS. IT HAS A LOW TOXICITY TO BIRDS AND FISH."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A094/Oct 83"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A094/Oct 83",
+                        "Matched": {
+                          "PCLID": 906287905,
+                          "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A094/Oct 83"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Not toxic to bees."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Cadahia E et al; Chemosphere 11 (4): 445-50 (1982)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Cadahia E et al; Chemosphere 11 (4): 445-50 (1982)",
+                        "Matched": {
+                          "PCLID": 900111226,
+                          "Citation": "Cadahia E et al; Chemosphere 11 (4): 445-50 (1982)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Six varieties of wheat, tolerant or susceptible towards chlortoluron, a photosynthesis-inhibiting herbicide, were submitted to a 24-hr herbicide treatment. Fluorescence induction kinetics of whole leaves were recorded during the 6 following days. Recovery of photosynthetic electron transfer was found in tolerant varieties only.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Schoket B, Vincze I; Toxicol Lett (AMST) 50 (l): 1-8 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schoket B, Vincze I; Toxicol Lett (AMST) 50 (l): 1-8 (1990)",
+                        "Matched": {
+                          "PCLID": 15687723,
+                          "Citation": "Schoket B, Vincze I. Dose-related induction of rat hepatic drug-metabolizing enzymes by diuron and chlorotoluron, two substituted phenylurea herbicides. Toxicol Lett. 1990 Jan;50(1):1–7. doi: 10.1016/0378-4274(90)90246-i. PMID: 2104995.",
+                          "PMID": 2104995,
+                          "DOI": "10.1016/0378-4274(90)90246-i"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dose-related induction of various hepatic drug-metabolizing enzymes has been investigated after short-term treatment of rats by diuron and chlorotoluron, a dichlorinated and a monochlorinated phenylurea herbicide, respectively. Results suggest that saturation of the induction system of benzo(a)pyrene monooxygenase, 7-ethoxycoumarin O-deethylase and 7-ethoxyresorufin O-deethylase activities may occur in the same range of the molar doses of both compound, and with the dichlorinated herbicide at much higher activities. Induction of epoxide hydrolase, UDP-glucuronyltransferase and glutathione S-transferases also shows saturation curves in the function of molar doses. However, the structural difference is not reflected in the enhancement of enzyme activities.",
+                          "Markup": [
+                            {
+                              "Start": 128,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3120"
+                            },
+                            {
+                              "Start": 139,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorotoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 287,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzo%28a%29pyrene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2336"
+                            },
+                            {
+                              "Start": 317,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7-ethoxycoumarin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-35703"
+                            },
+                            {
+                              "Start": 351,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7-ethoxyresorufin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3294"
+                            },
+                            {
+                              "Start": 554,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/UDP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6031"
+                            },
+                            {
+                              "Start": 584,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutathione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:3927658",
+                      "Schoket B, Vincze I; Acta Pharmacologica et Toxicologica 56 (4): 283-8 (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:3927658",
+                        "Matched": {
+                          "PCLID": 748508,
+                          "Citation": "Schoket B, Vincze I. Induction of rat hepatic drug metabolizing enzymes by substituted urea herbicides. Acta Pharmacol Toxicol (Copenh). 1985 Apr;56(4):283–8. doi: 10.1111/j.1600-0773.1985.tb01291.x. PMID: 3927658.",
+                          "PMID": 3927658,
+                          "DOI": "10.1111/j.1600-0773.1985.tb01291.x"
+                        }
+                      },
+                      {
+                        "Citation": "Schoket B, Vincze I; Acta Pharmacologica et Toxicologica 56 (4): 283-8 (1985)",
+                        "Matched": {
+                          "PCLID": 748508,
+                          "Citation": "Schoket B, Vincze I. Induction of rat hepatic drug metabolizing enzymes by substituted urea herbicides. Acta Pharmacol Toxicol (Copenh). 1985 Apr;56(4):283–8. doi: 10.1111/j.1600-0773.1985.tb01291.x. PMID: 3927658.",
+                          "PMID": 3927658,
+                          "DOI": "10.1111/j.1600-0773.1985.tb01291.x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The effects of eight structurally related, substituted urea herbicides (including chlortoluron) on the hepatic cytochrome p450 dependent monooxygenase enzyme were investigated in rats. Male Wistar-rats were given one sixth the median lethal dose (LD50) of herbicides by gavage on 3 consecutive days. The dose administered was 166 mg/ml chlortoluron. Animals were sacrificed 24 hours after the last treatment with the herbicides. Cytochrome p450 and cytochrome b5 content of liver microsomes were determined by difference spectrophotometry. Chlortoluron was the only compound that increased the relative liver weight to body weight. Diuron, linuron, chlorbromuron, and chlortoluron were the most effective inducers of benzo(a)pyrene monooxygenase, causing a 3.5 to 8 fold induction. Diuron ,chlortoluron, and isoproturon enhanced uridine-diphosphate-glucuronyltransferase and glutathione-S-transferase activities. /It was/ concluded that the number of halogen substituents on the phenyl group of substituted urea compounds exert a strong influence on the induction of monooxygenases.",
+                          "Markup": [
+                            {
+                              "Start": 82,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 336,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 540,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 632,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3120"
+                            },
+                            {
+                              "Start": 640,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/linuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9502"
+                            },
+                            {
+                              "Start": 649,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorbromuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-25912"
+                            },
+                            {
+                              "Start": 668,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 717,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzo%28a%29pyrene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2336"
+                            },
+                            {
+                              "Start": 782,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3120"
+                            },
+                            {
+                              "Start": 790,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 808,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoproturon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-36679"
+                            },
+                            {
+                              "Start": 829,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/uridine-diphosphate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6031"
+                            },
+                            {
+                              "Start": 875,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutathione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A094/Oct 83"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A094/Oct 83",
+                        "Matched": {
+                          "PCLID": 906287905,
+                          "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A094/Oct 83"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 trout more than 100 mg/l"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ICSC Environmental Data",
+                "Description": "Environmental effects of this chemical, provided by the International Labour Organization's (ILO's) International Chemical Safety Cards (ICSC).",
+                "URL": "https://www.ilo.org/safework/info/publications/WCMS_113134/lang--en/index.htm",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The substance is very toxic to aquatic organisms. This substance does enter the environment under normal use. Great care, however, should be taken to avoid any additional release, for example through inappropriate disposal."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chlortoluron's production and use (not marketed in U.S.) as a herbicide may have resulted in its release directly to the environment. If released to the atmosphere, chlortoluron should exist solely in the particulate phase based on an experimental vapor pressure of 3.6X10-8 mm Hg at 25 °C. Particulate-phase chlortoluron may be physically removed from the air by wet and dry deposition. In soil, measured Koc values averaged from 150- 420 with adsorption dependent on the percentage of organic matter present in the soil. These values indicate that chlortoluron will generally have moderate mobility in soil. Biodegradation is expected to be a major fate process for chlortoluron in soil; degradation half-lives range from 4-16 weeks. Monomethyl chlortoluron and N-demethylated chlortoluron were major metabolites of chlortoluron indicating that biodegradation proceeds via cleavage of the C-N bond. Volatilization from moist soil or water surfaces is not expected based on an estimated Henry's Law constant of 1.4X10-10 atm-cu m/mol. In water, chlortoluron may adsorb to particulates and organic matter in the water column. Based on soil studies, biodegradation may also be an important fate process in water. Bioconcentration of chlortoluron in aquatic organisms is not expected to be a major fate process with an estimated BCF value of 40. The general population may be exposed to chlortoluron through the ingestion of contaminated drinking water in countries where chlortoluron is used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 165,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 309,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 550,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 668,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 747,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 779,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 818,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 935,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1039,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1046,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 1112,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1205,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1232,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 1385,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 1445,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1470,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Farm Chemicals Handbook 1994; Willoughby, OH: Meister, C-83 (1994)",
+                      "(2) Tomlin C; The Pesticide Manual. 10th ed. Bath, UK: The Bath Press. p. 196 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Farm Chemicals Handbook 1994; Willoughby, OH: Meister, C-83 (1994)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin C; The Pesticide Manual. 10th ed. Bath, UK: The Bath Press. p. 196 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chlortoluron's production and use (not marketed in U.S.)(1) as a herbicide(2) would result in its release directly to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Briggs GG; Aust J Soil Res 19: 61-68 (1981)",
+                      "(2) Kozak J, Weber JB; Weed Science 31: 368-72 (1983)",
+                      "(3) Madhun YA et al; Soil Sci Soc Am J 50: 1467-71 (1986)",
+                      "(4) Kordel W et al; Sci Total Environ 123/124: 421-34 (1992)",
+                      "(5) Swann RL et al; Res Rev 85: 23 (1983)",
+                      "(6) Calvet R; Environ Health Perspectives 83: 145-77 (1989)",
+                      "(7) Ruedel H et al; Sci Total Environ 132: 181-200 (1993)",
+                      "(8) Smith AE, Briggs GG; Weed Research 18 1-7 (1978)",
+                      "(9) Cotterill EG; Chemosphere 17: 1041-47 (1988)",
+                      "(10) Alexander M; Science 211: 132-38 (1981)",
+                      "(11) Madhun YA, Freed VH; Chemosphere 16: 1003-11 (1987)",
+                      "(12) Kearney PC, Kaufman DD; in Herbicides - Chemistry, Degradation, and Mode of Action. NY, NY: Marcel Dekker, Inc. V1: 211 (1975)",
+                      "(13) Yalkowsky SH & Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5. College of Pharmacy, University of Arizona - Tucson, AZ. PC Version (1992)",
+                      "(14) Rudel H et al; Sci Total Environ 132: 181-200 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Briggs GG; Aust J Soil Res 19: 61-68 (1981)"
+                      },
+                      {
+                        "Citation": "(2) Kozak J, Weber JB; Weed Science 31: 368-72 (1983)"
+                      },
+                      {
+                        "Citation": "(3) Madhun YA et al; Soil Sci Soc Am J 50: 1467-71 (1986)"
+                      },
+                      {
+                        "Citation": "(4) Kordel W et al; Sci Total Environ 123/124: 421-34 (1992)"
+                      },
+                      {
+                        "Citation": "(5) Swann RL et al; Res Rev 85: 23 (1983)"
+                      },
+                      {
+                        "Citation": "(6) Calvet R; Environ Health Perspectives 83: 145-77 (1989)"
+                      },
+                      {
+                        "Citation": "(7) Ruedel H et al; Sci Total Environ 132: 181-200 (1993)"
+                      },
+                      {
+                        "Citation": "(8) Smith AE, Briggs GG; Weed Research 18 1-7 (1978)"
+                      },
+                      {
+                        "Citation": "(9) Cotterill EG; Chemosphere 17: 1041-47 (1988)"
+                      },
+                      {
+                        "Citation": "(10) Alexander M; Science 211: 132-38 (1981)"
+                      },
+                      {
+                        "Citation": "(11) Madhun YA, Freed VH; Chemosphere 16: 1003-11 (1987)"
+                      },
+                      {
+                        "Citation": "(12) Kearney PC, Kaufman DD; in Herbicides - Chemistry, Degradation, and Mode of Action. NY, NY: Marcel Dekker, Inc. V1: 211 (1975)"
+                      },
+                      {
+                        "Citation": "(13) Yalkowsky SH & Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5. College of Pharmacy, University of Arizona - Tucson, AZ. PC Version (1992)"
+                      },
+                      {
+                        "Citation": "(14) Rudel H et al; Sci Total Environ 132: 181-200 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Measured Koc values ranging from 1 to 3467(1) were obtained in a study of seventeen soils from Australia; generally, measured Koc values averaged from 150-420(2-4) with adsorption dependent on the percentage of organic matter present in the soil(1). Based on a recommended classification scheme(5), these values indicate that chlortoluron will generally have moderate mobility in soil(SRC). Absorption follows an L-isotherm indicating a decrease in site availability as the solution concentration of this compound increases(6). Biodegradation is expected to be the major fate process for chlortoluron in soil(7-9). In an outdoor lysimeter experiment, half-lives of 49 days and 52 days were reported for a silty loam and silty sand soil, respectively(7). Major metabolites of monomethyl chlortoluron(8) and N-demethylated chlortoluron(7) indicate that degradation of chlortoluron proceeds via cleavage of the C-N bond(10). Biodegradation may be slightly attenuated in soils containing higher concentrations of organic matter as sorption may have a protective effect(11). Volatilization of chlortoluron will not be important from moist or dry soil surfaces(SRC) based on an estimated value for its Henry's Law constant(12,13,SRC), and its measured vapor pressure, 3.6X10-8 mm Hg(12), respectively. Half-lives from 4-16 weeks have been determined for chlortoluron in soil(14).",
+                          "Markup": [
+                            {
+                              "Start": 344,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 606,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 804,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 839,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 884,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 1106,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 1366,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 23 (1983)",
+                      "(2) Kozak J, Weber JB; Weed Science 31: 368-72 (1983)",
+                      "(3) Madhun YA et al; Soil Sci Soc Am J 50: 1467-71 (1986)",
+                      "(4) Kordel W et al; Sci Total Environ 123/124: 421-34 (1992)",
+                      "(5) Ruedel H et al; Sci Total Environ 132: 181-200 (1993)",
+                      "(6) Smith AE, Griggs GG; Weed Research 18 1-7 (1978)",
+                      "(7) Cotterill EG; Chemosphere 17: 1041-47 (1988)",
+                      "(8) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10, 15-1 to 15-29 (1990)",
+                      "(9) Kearney PC, Kaufman DD; in Herbicides-Chemistry, Degradation, and Mode of Action. NY, NY: Marcel Dekker, Inc. V1: 211 (1975)",
+                      "(10) Yalkowsky SH & Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5. College of Pharmacy, University of Arizona - Tucson, AZ. PC Version (1992)",
+                      "(11) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Profess Ref Book, ACS, Washington, DC. p. 73 (1995)",
+                      "(12) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 23 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Kozak J, Weber JB; Weed Science 31: 368-72 (1983)"
+                      },
+                      {
+                        "Citation": "(3) Madhun YA et al; Soil Sci Soc Am J 50: 1467-71 (1986)"
+                      },
+                      {
+                        "Citation": "(4) Kordel W et al; Sci Total Environ 123/124: 421-34 (1992)"
+                      },
+                      {
+                        "Citation": "(5) Ruedel H et al; Sci Total Environ 132: 181-200 (1993)"
+                      },
+                      {
+                        "Citation": "(6) Smith AE, Griggs GG; Weed Research 18 1-7 (1978)"
+                      },
+                      {
+                        "Citation": "(7) Cotterill EG; Chemosphere 17: 1041-47 (1988)"
+                      },
+                      {
+                        "Citation": "(8) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(9) Kearney PC, Kaufman DD; in Herbicides-Chemistry, Degradation, and Mode of Action. NY, NY: Marcel Dekker, Inc. V1: 211 (1975)"
+                      },
+                      {
+                        "Citation": "(10) Yalkowsky SH & Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5. College of Pharmacy, University of Arizona - Tucson, AZ. PC Version (1992)"
+                      },
+                      {
+                        "Citation": "(11) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Profess Ref Book, ACS, Washington, DC. p. 73 (1995)"
+                      },
+                      {
+                        "Citation": "(12) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a recommended classification scheme(1), measured Koc values averaging 150-420(2-4) indicate that chlortoluron may adsorb to suspended solids and sediment(SRC) in the water column. Based on results from soil studies(5-7), biodegradation may be an important fate process for this compound in water(SRC). Half-lives from 4-16 weeks have been determined for chlortoluron in soil(5); monomethyl chlortoluron(6) and N-demethylated chlortoluron(5) were the major metabolites of this process. Chlortoluron should not volatilize from water surfaces(8,SRC) based on an estimated Henry's Law constant of 1.4X10-10 atm-cu m/mole(SRC), calculated from experimental values for vapor pressure(9) and water solubility(10). An estimated BCF value of 40(11,SRC), from an experimental log Kow(11), suggests that chlortoluron will not bioconcentrate in aquatic organisms(SRC) according to a recommended classification scheme(12).",
+                          "Markup": [
+                            {
+                              "Start": 120,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 189,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 313,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 377,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 413,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 448,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 508,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 548,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 708,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 816,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Kearney PC, Kaufman DD; in Herbicides-Chemistry, Degradation, and Mode of Action. NY, NY: Marcel Dekker, Inc. V1: 211 (1975)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Kearney PC, Kaufman DD; in Herbicides-Chemistry, Degradation, and Mode of Action. NY, NY: Marcel Dekker, Inc. V1: 211 (1975)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a suggested classification scheme(1), an experimental vapor pressure of 3.6X10-8 mm Hg at 25 °C(2,SRC) indicates that chlortoluron will exist solely in the particulate phase in the ambient atmosphere. Particulate-phase chlortoluron may be physically removed from the air by wet and dry deposition(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 149,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 250,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Alexander M; Science 211: 132-38 (1981)",
+                      "(2) Smith AE, Griggs GG; Weed Research 18 1-7 (1978)",
+                      "(3) Blume HP, Ahlsdorf B; Ecotoxicol Environ Safety 26: 313-32 (1993)",
+                      "(4) Rudel H et al; Sci Total Environ 132: 181-200 (1993)",
+                      "(5) Cotterill EG; Chemosphere 17: 1041-47 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Alexander M; Science 211: 132-38 (1981)"
+                      },
+                      {
+                        "Citation": "(2) Smith AE, Griggs GG; Weed Research 18 1-7 (1978)"
+                      },
+                      {
+                        "Citation": "(3) Blume HP, Ahlsdorf B; Ecotoxicol Environ Safety 26: 313-32 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Rudel H et al; Sci Total Environ 132: 181-200 (1993)"
+                      },
+                      {
+                        "Citation": "(5) Cotterill EG; Chemosphere 17: 1041-47 (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Degradation of chlortoluron proceeds through the cleavage of the C-N bond as demonstrated using both soil and microbial culture studies(1). Chlortoluron had a half-life in soil of 4-6 weeks(2). The only metabolite identified in this study was monomethyl chlortoluron(2). A half-life of between 6-18 weeks was reported for chlortoluron(3). In biometer experiments, half-lives of 93 days and 40 days were measured for chlortoluron in a silty sand and silty loam soil, respectively(4). However, the disappearance of this compound in an outdoor lysimeter experiment was slower in silty loam (49 days, fallow land; 38 days, barley field) than in silty sand(52 days, fallow land; 14 days, barley field)(4). The main metabolite of chlortoluron degradation was N-dimethylated chlortoluron(4). Chlortoluron, applied as either a suspendible concentrate or wettable powder, had a calculated half-life of 96 days for both conditions in one soil (pH 5.1; organic carbon 4.1%; silt 16%; water holding capacity 27%); a second soil (pH 7.0; organic carbon 1.6%; silt 11% water holding capacity 16.6%) had calculated half-lives of 82 and 84 days for a suspendible concentrate and wettable powder, respectively(5).",
+                          "Markup": [
+                            {
+                              "Start": 15,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 140,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 254,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 322,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 416,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 724,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 768,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 785,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 950,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 973,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1033,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1055,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Madhun YA, Freed VH; Chemosphere 16: 1003-11 (1987)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Madhun YA, Freed VH; Chemosphere 16: 1003-11 (1987)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chlortoluron at 5 and 100 umol/kg soil was incubated at 25 °C in both a sandy loam and a mucky peat(1). Degradation was slow and there was no indication of a lag phase. The percentage of total applied 14C activity evolved as 14CO2 from the soil varied from 0.21 to 0.14% in peat and sand, respectively, at the 5 umol/kg soil herbicide concentration and from 0.25 to 0.38% in peat and sand, respectively, at the 100 umol/kg soil herbicide concentration(1). The higher rate for the sandy soil at 100 umol/kg soil concentration was believed due to the protective effect of sorption (in the peat soil) on the degradation process(1). A half-life of chlortoluron in soil was estimated at 25 °C as 2306 and 4730 days for peat and sand soils, respectively, at a herbicide concentration of 5 umol/kg soil(1). A half-life of 1949 and 1335 days for peat and sand soils, respectively, was estimated for a herbicide concentration of 100 umol/kg soil(1). These half-lives were derived from the rate of 14CO2 production under laboratory conditions(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 644,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Skark C, Obermann P; Intern J Environ Anal Chem 58: 163-71 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Skark C, Obermann P; Intern J Environ Anal Chem 58: 163-71 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Water, spiked with chlortoluron at 1 ug/L, was used to measure transport of this compound in groundwater from a sand-gravel aquifer(2). Chlortoluron was not detected at a flow distance of 10 m and a depth of 6 m; at 14 m and 18 m depths chlortoluron had a relative residence time 7 times (retention capacity of 400 ng/kg) and 1.75 times (retention capacity of 50 ng/kg) that of the mean residence time for a conservative tracer(2). A semi-quantitative mass-balance over a 175 day period shows that 70% to 90% of this compound was transported either convectively or dispersively. From 7-10% was adsorbed by sediment and from 2-20%, depending on the depth from the surface, was degraded biologically or abiotically(2).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 19,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 136,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 237,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Profess Ref Book, ACS, Washington, DC. p. 73 (1995)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(4) Schroll R et al; Chemosphere 28: 297-303 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR: Hydrophobic, Electronic, and Steric Constants. ACS Profess Ref Book, ACS, Washington, DC. p. 73 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-4, 5-10 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(4) Schroll R et al; Chemosphere 28: 297-303 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF value of 40 was calculated for chlortoluron(SRC), using an experimental log Kow of 2.41(1,SRC) and a recommended regression-derived equation(2). According to a classification scheme, this BCF value suggests that bioconcentration in aquatic organisms is moderate, not high(3). Winter wheat grown in soil containing 4.7 mg chlortoluron/kg dry soil had bioconcentration factors of 21 and 22 for root material and for shoots, respectively (bioconcentration factor is the concentration of 14C from the chlortoluron in the plant versus the soil)(4).",
+                          "Markup": [
+                            {
+                              "Start": 48,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 338,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 514,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Briggs GG; J Agric Food Chem 29: 1050-59 (1981)",
+                      "(2) Briggs GG; Aust J Soil Res 19: 61-68 (1981)",
+                      "(3) Kozak J, Weber JB; Weed Science 31: 368-72 (1983)",
+                      "(4) Madhun YA et al; Soil Sci Soc Am J 50: 1467-71 (1986)",
+                      "(5) Swann RL et al; Res Rev 85: 23 (1983)",
+                      "(6) Calvet R; Environ Health Perspectives 83: 145-77 (1989)",
+                      "(7) Kordel W et al; Sci Total Environ 123/124: 421-34 (1992)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Briggs GG; J Agric Food Chem 29: 1050-59 (1981)"
+                      },
+                      {
+                        "Citation": "(2) Briggs GG; Aust J Soil Res 19: 61-68 (1981)"
+                      },
+                      {
+                        "Citation": "(3) Kozak J, Weber JB; Weed Science 31: 368-72 (1983)"
+                      },
+                      {
+                        "Citation": "(4) Madhun YA et al; Soil Sci Soc Am J 50: 1467-71 (1986)"
+                      },
+                      {
+                        "Citation": "(5) Swann RL et al; Res Rev 85: 23 (1983)"
+                      },
+                      {
+                        "Citation": "(6) Calvet R; Environ Health Perspectives 83: 145-77 (1989)"
+                      },
+                      {
+                        "Citation": "(7) Kordel W et al; Sci Total Environ 123/124: 421-34 (1992)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An average organic matter-water distribution of 60 was measured for seven soils (organic matter range 1.09-5.92%; pH range 5.9-7.5)(1). Seventeen soils from Australia had a range of organic matter-water distribution values for this compound from 25-85, giving Koc values ranging from 1-3467 (organic matter range 0.19-6.62; pH range 4.8-8.4)(2). Leaching was studied following field application of chlortoluron to a sandy soil; after 10 cm of rain had fallen, >2 mg/kg, 1 mg/kg, 0.5 mg/kg, and a trace remained in the 0-2.5, 2.5-5, 5-7.5, and 7.5-10 cm depth, respectively(2). Chlortoluron has measured Koc values ranging from 146-346 for eight Czechoslovakian soils (mean=228), with higher values corresponding to soils with a greater content of organic matter(3). Koc values of 271 and 419 were measured for a loamy sand and a mucky peat soil, respectively, at 25 °C(4). According to a recommended classification scheme(5), these estimated Koc values suggest that chlortoluron has moderate mobility in soil(SRC). Adsorption of chlortoluron corresponds to an L-isotherm indicating that as the solution concentration increases, there is a decrease in site availability(6). Chlortoluron, applied at a rate of 2.0 kg/ha to sandy soil monoliths containers, had a measured Koc of 160 and 113 in the A and B horizons, respectively(7). The addition of liquid manure, increasing the organic carbon content, resulted in reduced mobility(7).",
+                          "Markup": [
+                            {
+                              "Start": 26,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 197,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 398,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 577,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 966,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 1029,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 1173,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 1384,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Kearney PC, Kaufman DD; in Herbicides-Chemistry, Degradation, and Mode of Action. NY, NY: Marcel Dekker, Inc. V1: 211 (1975)",
+                      "(2) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5. College of Pharmacy, University of Arizona- Tucson, AZ. PC Version (1992)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Kearney PC, Kaufman DD; in Herbicides-Chemistry, Degradation, and Mode of Action. NY, NY: Marcel Dekker, Inc. V1: 211 (1975)"
+                      },
+                      {
+                        "Citation": "(2) Yalkowsky SH, Dannenfelser RM; Aquasol Database of Aqueous Solubility. Version 5. College of Pharmacy, University of Arizona- Tucson, AZ. PC Version (1992)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for chlortoluron is estimated as 1.4X10-10 atm-cu m/mole(SRC) from its experimental values for vapor pressure, 3.6X10-8 mm Hg(1), and water solubility, 70 mg/L(2). This value indicates that chlortoluron will be essentially nonvolatile from water surfaces(3,SRC). Chlortoluron's vapor pressure(1) and Henry's Law constant(1,2,SRC) indicate that this compound should not volatilize from either dry or moist soil surfaces, respectively(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 159,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 215,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 265,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 288,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Brauch HJ; Water Supply 11: 31-38 (1983)",
+                      "(2) Crathorne B et al; Environ Sci Technol 18: 797-802 (1984)",
+                      "(3) Friege H et al; Vom Wasser 76: 29-38 (1991)",
+                      "(4) Oskam G et al; Water Supply 11: 1-17 (1993)",
+                      "(5) Readman JW et al; Marine Pollut Bull 26: 613-19 (1993)",
+                      "(6) Skark C, Zullei-Seibert N; Intern J Environ Anal Chem 58: 387-96 (1995)",
+                      "(7) Harris GL et al; Brighton Crop Protect Conf- Weeds, Proceedings 2: 815-20 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Brauch HJ; Water Supply 11: 31-38 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Crathorne B et al; Environ Sci Technol 18: 797-802 (1984)"
+                      },
+                      {
+                        "Citation": "(3) Friege H et al; Vom Wasser 76: 29-38 (1991)"
+                      },
+                      {
+                        "Citation": "(4) Oskam G et al; Water Supply 11: 1-17 (1993)"
+                      },
+                      {
+                        "Citation": "(5) Readman JW et al; Marine Pollut Bull 26: 613-19 (1993)"
+                      },
+                      {
+                        "Citation": "(6) Skark C, Zullei-Seibert N; Intern J Environ Anal Chem 58: 387-96 (1995)"
+                      },
+                      {
+                        "Citation": "(7) Harris GL et al; Brighton Crop Protect Conf- Weeds, Proceedings 2: 815-20 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATER: Chlortoluron was detected in the Rhine River, Germany, in water samples obtained during 1990 and 1991 (Range = <0.03-0.21 mg/L, 10 monitoring sites; detection limit = 0.03 mg/L)(1). Chlortoluron was detected in Main River, Germany, water at unreported concentrations(2). Lippe River, Germany, water samples contained chlortoluron with maximum concentrations found in December, 1988(3). Chlortoluron was detected in surface water from The Netherlands at an unreported location and concentration(4). The Rhine River at Cologne, Germany, had a concentration of 0.62 ug/L(4) at an unspecified location. The concentration of chlortoluron was below the detection limit of 0.01 ug/L for all samples in a survey of estuarine water from the Mediterranean(5). An analysis of 677 surface water samples in Germany resulted in 84 samples positive for chlortoluron(6). Chlortoluron was occasionally detected in surface water during a study of 10 clay-based catchments in the UK; the highest concentration recorded was 1.5 ug/L in winter(7).",
+                          "Markup": [
+                            {
+                              "Start": 8,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 15,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 73,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Skark C, Obermann P; Intern J Environ Anal Chem 58: 163-71 (1995)",
+                      "(2) Skark C, Zullei-Seibert N; Intern J Environ Anal Chem 58: 387-96 (1995)",
+                      "(3) Clark L et al; Pestic Sci 32: 15-33 (1991)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Skark C, Obermann P; Intern J Environ Anal Chem 58: 163-71 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Skark C, Zullei-Seibert N; Intern J Environ Anal Chem 58: 387-96 (1995)"
+                      },
+                      {
+                        "Citation": "(3) Clark L et al; Pestic Sci 32: 15-33 (1991)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GROUNDWATER: Chlortoluron was detected in 7% of the groundwater samples in Northrhine-Westphalia in Germany at concentrations equal to or greater than 0.1 ug/L(1). An analysis of 1325 groundwater samples in Germany resulted in 6 samples positive for chlortoluron(2). Chlortoluron was detected in groundwater which feeds the Granta River, UK, at concentrations from <0.13 to 0.35 ug/cu dm (detection limit = 0.13 ug/cu dm)(3).",
+                          "Markup": [
+                            {
+                              "Start": 13,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 250,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 267,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Crathorne B et al; Envrion Sci Technol 18: 797-802 (1984)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Crathorne B et al; Envrion Sci Technol 18: 797-802 (1984)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DRINKING WATER: Chlortoluron was detected in British drinking water at an unreported location and concentration(1).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 16,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlortoluron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27375"
+                            },
+                            {
+                              "Start": 62,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Sediment/Soil Concentrations",
+                "Description": "Concentrations of this compound in sediment/soil. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Martin, H. and C.R. Worthing (eds.). Pesticide Manual. 4th ed. Worcestershire, England: British Crop Protection Council, 1974., p. 124"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Martin, H. and C.R. Worthing (eds.). Pesticide Manual. 4th ed. Worcestershire, England: British Crop Protection Council, 1974., p. 124",
+                        "Matched": {
+                          "PCLID": 900113752,
+                          "Citation": "Martin, H. and C.R. Worthing (eds.). Pesticide Manual. 4th ed. Worcestershire, England: British Crop Protection Council, 1974., p. 124"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "IN TEMPERATE CLIMATES, AN INITIAL SOIL APPLICATION OF 6 KG AI/HA HAD T/2 OF 30 TO 40 DAYS."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Plant Concentrations",
+                "Description": "Concentrations of this compound in plants.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A094/Oct 83"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A094/Oct 83",
+                        "Matched": {
+                          "PCLID": 906287905,
+                          "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. Old Woking, Surrey, United Kingdom: Royal Society of Chemistry/Unwin Brothers Ltd., 1983., p. A094/Oct 83"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No residue can be detected in the seed of winter wheat 120 days after treatment in spring."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134993125",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0015545489",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19477482
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID8052853",
+        "Name": "Chlorotoluron",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57032294
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "2760",
+        "Name": "CHLORTOLURON",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/2760",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 1995
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "ILO-WHO International Chemical Safety Cards (ICSCs)",
+        "SourceID": "1327",
+        "Name": "CHLOROTOLURON",
+        "Description": "The International Chemical Safety Cards (ICSCs) are data sheets intended to provide essential safety and health information on chemicals in a clear and concise way. The primary aim of the Cards is to promote the safe use of chemicals in the workplace.",
+        "URL": "https://chemicalsafety.ilo.org/dyn/icsc/showcard.display?p_card_id=1327",
+        "LicenseNote": "Creative Commons CC BY 4.0",
+        "LicenseURL": "https://www.ilo.org/global/copyright/lang--en/index.htm",
+        "ANID": 2261165
+      }
+    ]
+  }
+}

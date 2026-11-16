@@ -1,0 +1,25 @@
+{
+  "search_term": "Tetflupyrolimet",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:12.058744+00:00",
+  "url": "/chemical/search/equal/Tetflupyrolimet",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID401337343",
+        "dtxcid": "DTXCID501767733",
+        "casrn": "2053901-33-8",
+        "preferredName": "Tetflupyrolimet",
+        "hasStructureImage": 1,
+        "smiles": "CN1C[C@@H]([C@@H](C(=O)NC2=CC=CC=C2F)C1=O)C1=CC=CC(=C1)C(F)(F)F",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Tetflupyrolimet",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

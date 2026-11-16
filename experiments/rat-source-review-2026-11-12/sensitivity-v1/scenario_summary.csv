@@ -1,0 +1,4 @@
+scenario,exact_input_rows_or_study_aggregates,compounds,censored_baseline_unchanged,lower_tertile,upper_tertile,new_bin_changes,fixed_bin_changes,d24_median,limits
+historical_exact,43,34,25,1080.0,3400.0,0,0,375.0,Historical EPA retained evidence; own undocumented dose-basis/lineage limits
+experimental_record_pool_mixed_basis,45,34,25,1080.0,3400.0,0,0,607.0,Intentionally relaxed pooling: original375basis unknown plus primary male607/female726acid-equivalent; source/sex weighting unresolved; not harmonized
+experimental_primary_study_first_mixed_basis,44,34,25,1080.0,3400.0,0,0,520.75,Collapse two source sexes to one descriptive study median666.5 before pooling with375; demonstrates weighting assumption; still mixed basis; not harmonized

@@ -1,0 +1,25 @@
+{
+  "search_term": "JXCGFZXSOMJFOA-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:18.686519+00:00",
+  "url": "/chemical/search/equal/JXCGFZXSOMJFOA-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Chlorotoluron",
+        "dtxsid": "DTXSID8052853",
+        "dtxcid": "DTXCID5031264",
+        "casrn": "15545-48-9",
+        "hasStructureImage": 1,
+        "smiles": "CN(C)C(=O)NC1=CC(Cl)=C(C)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "JXCGFZXSOMJFOA-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

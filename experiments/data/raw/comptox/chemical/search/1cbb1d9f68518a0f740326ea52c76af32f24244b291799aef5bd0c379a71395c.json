@@ -1,0 +1,25 @@
+{
+  "search_term": "Glufosinate",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:51.041350+00:00",
+  "url": "/chemical/search/equal/Glufosinate",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0043973",
+        "dtxcid": "DTXCID8023973",
+        "casrn": "51276-47-2",
+        "preferredName": "Glufosinate",
+        "hasStructureImage": 1,
+        "smiles": "CP(O)(=O)CCC(N)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Glufosinate",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

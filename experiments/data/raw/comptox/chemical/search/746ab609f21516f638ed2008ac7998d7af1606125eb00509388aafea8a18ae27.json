@@ -1,0 +1,25 @@
+{
+  "search_term": "Umbelliferone",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:47.309496+00:00",
+  "url": "/chemical/search/equal/Umbelliferone",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5052626",
+        "dtxcid": "DTXCID9031199",
+        "casrn": "93-35-6",
+        "preferredName": "Umbelliferone",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC=C2C=CC(=O)OC2=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Umbelliferone",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

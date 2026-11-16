@@ -1,0 +1,25 @@
+{
+  "search_term": "2-Methyl-4,6-dinitrophenol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:06.844944+00:00",
+  "url": "/chemical/search/equal/2-Methyl-4,6-dinitrophenol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1022053",
+        "dtxcid": "DTXCID902053",
+        "casrn": "534-52-1",
+        "preferredName": "4,6-Dinitro-o-cresol",
+        "hasStructureImage": 1,
+        "smiles": "CC1=C(O)C(=CC(=C1)[N+]([O-])=O)[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "Systematic Name",
+        "searchValue": "2-Methyl-4,6-dinitrophenol",
+        "rank": 12
+      }
+    ],
+    "suggestions": []
+  }
+}

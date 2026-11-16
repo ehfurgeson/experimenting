@@ -1,0 +1,25 @@
+{
+  "search_term": "Diflufenzopyr",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:00.679679+00:00",
+  "url": "/chemical/search/equal/Diflufenzopyr",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8034538",
+        "dtxcid": "DTXCID50810393",
+        "casrn": "109293-97-2",
+        "preferredName": "Diflufenzopyr",
+        "hasStructureImage": 1,
+        "smiles": "CC(=NNC(=O)NC1=CC(F)=CC(F)=C1)C1=NC=CC=C1C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Diflufenzopyr",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

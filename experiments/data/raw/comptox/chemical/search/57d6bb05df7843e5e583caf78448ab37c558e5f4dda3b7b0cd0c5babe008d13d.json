@@ -1,0 +1,25 @@
+{
+  "search_term": "Diosmetin",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:34.922092+00:00",
+  "url": "/chemical/search/equal/Diosmetin",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Diosmetin",
+        "dtxsid": "DTXSID80199966",
+        "dtxcid": "DTXCID40122457",
+        "casrn": "520-34-3",
+        "hasStructureImage": 1,
+        "smiles": "COC1=C(O)C=C(C=C1)C1=CC(=O)C2=C(O)C=C(O)C=C2O1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Diosmetin",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "design": "Fixed publication-held-out diagnostic; new-paper test chosen before new model scores",
+  "primary_test": "Flavonoids2012; Raphanus sativus radicle length;100uM;120h;>=50% inhibition high, <=20% low; intermediate unknown",
+  "training": "Previously frozen 73-compound Li2006/He2011/Ambrosia2019 experimental pool; do not change its labels or chemistry",
+  "profiles": ["formula_raw", "morgan_logistic", "morgan_forest"],
+  "threshold": 0.5,
+  "secondary_checks": "Same four-publication transfer diagnostic, with and without shared-scaffold purging; no selection or tuning",
+  "policy": "EXPERIMENT-HETEROGENEOUS-REPORTED-EXTREMES-plus-FLAV2012-v2",
+  "assumptions": "Source-specific extremes from incompatible species/endpoints/doses pooled only to test transfer; not a common efficacy estimand; identities provisional; not independent external validation of an intended use; low inhibition includes stimulation",
+  "forbidden_inferences": ["general nonherbicidal status", "natural occurrence from structure/name", "safety", "field efficacy", "causation"],
+  "model_selection": false,
+  "new_candidate_scoring": false
+}

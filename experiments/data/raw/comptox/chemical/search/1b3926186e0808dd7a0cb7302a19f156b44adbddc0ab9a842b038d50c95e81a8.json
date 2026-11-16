@@ -1,0 +1,25 @@
+{
+  "search_term": "Asulam",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:59.865833+00:00",
+  "url": "/chemical/search/equal/Asulam",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8023890",
+        "dtxcid": "DTXCID603890",
+        "casrn": "3337-71-1",
+        "preferredName": "Asulam",
+        "hasStructureImage": 1,
+        "smiles": "COC(=O)NS(=O)(=O)C1=CC=C(N)C=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Asulam",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

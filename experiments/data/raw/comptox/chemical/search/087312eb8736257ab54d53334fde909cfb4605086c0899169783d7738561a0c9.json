@@ -1,0 +1,25 @@
+{
+  "search_term": "Acetic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:56.979900+00:00",
+  "url": "/chemical/search/equal/Acetic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5024394",
+        "dtxcid": "DTXCID304394",
+        "casrn": "64-19-7",
+        "preferredName": "Acetic acid",
+        "hasStructureImage": 1,
+        "smiles": "CC(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Acetic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

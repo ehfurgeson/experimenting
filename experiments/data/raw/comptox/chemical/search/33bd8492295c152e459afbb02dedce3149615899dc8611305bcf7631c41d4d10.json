@@ -1,0 +1,25 @@
+{
+  "search_term": "VXPLXMJHHKHSOA-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:03.713759+00:00",
+  "url": "/chemical/search/equal/VXPLXMJHHKHSOA-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7020766",
+        "dtxcid": "DTXCID70766",
+        "casrn": "122-42-9",
+        "preferredName": "Propham",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)OC(=O)NC1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "VXPLXMJHHKHSOA-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

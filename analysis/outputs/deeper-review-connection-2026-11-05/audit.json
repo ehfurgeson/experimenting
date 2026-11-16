@@ -1,0 +1,27 @@
+{
+  "source_files": 16,
+  "release_hashes_verified": 15,
+  "compounds": 154,
+  "observations": 157,
+  "studies": 14,
+  "original_source_columns_preserved": 16,
+  "source_field_changes": 0,
+  "packets_verified": 154,
+  "identical_to_original_handoff": {
+    "compound_index.csv": true,
+    "compound_evidence_packets.md": true
+  },
+  "approved_activity_labels": 0,
+  "approved_origin_labels": 0,
+  "conditional_counts_NOT_APPROVED": {
+    "not_assessed": 68,
+    "active": 47,
+    "unknown": 8,
+    "inactive": 31
+  },
+  "exact_original_overlap": 5,
+  "dietary_overlap": 0,
+  "model_fits": 0,
+  "label_changes": 0,
+  "scope": "Input/lineage/scaffold-support audit, not source-table or biological approval."
+}

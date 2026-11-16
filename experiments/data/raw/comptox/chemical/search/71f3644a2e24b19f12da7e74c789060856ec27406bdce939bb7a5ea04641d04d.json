@@ -1,0 +1,25 @@
+{
+  "search_term": "Citral",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:22.389351+00:00",
+  "url": "/chemical/search/equal/Citral",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6024836",
+        "dtxcid": "DTXCID304836",
+        "casrn": "5392-40-5",
+        "preferredName": "3,7-Dimethyl-2,6-octadienal",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)=CCCC(C)=CC=O",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "Citral",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

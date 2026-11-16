@@ -1,0 +1,2343 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 31677,
+    "RecordTitle": "Butachlor",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A590: Taccone-Gallucci M, Manca-di-Villahermosa S, Battistini L, Stuffler RG, Tedesco M, Maccarrone M: N-3 PUFAs reduce oxidative stress in ESRD patients on maintenance HD by inhibiting 5-lipoxygenase activity. Kidney Int. 2006 Apr;69(8):1450-4. PMID:16531984",
+                        "Matched": {
+                          "PCLID": 13270907,
+                          "Citation": "Taccone-Gallucci M, Manca-di-Villahermosa S, Battistini L, Stuffler RG, Tedesco M, Maccarrone M. N-3 PUFAs reduce oxidative stress in ESRD patients on maintenance HD by inhibiting 5-lipoxygenase activity. Kidney Int. 2006 Apr;69(8):1450–4. doi: 10.1038/sj.ki.5000291. PMID: 16531984.",
+                          "PMID": 16531984,
+                          "DOI": "10.1038/sj.ki.5000291"
+                        }
+                      },
+                      {
+                        "Citation": "T10: Casarett LJ, Klaassen CD, and Watkins JB (2003). Casarett and Doull's essentials of toxicology. New York: McGraw-Hill/Medical Pub. Div.",
+                        "Matched": {
+                          "PCLID": 900177872,
+                          "Citation": "T10: Casarett LJ, Klaassen CD, and Watkins JB (2003). Casarett and Doull's essentials of toxicology. New York: McGraw-Hill/Medical Pub. Div."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Binds to nAChRs in nervous systems. Also causes endocrine disruption in humans by binding to and inhibiting the estrogen receptor. (T10, A590)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "USGS Health-Based Screening Levels for Evaluating Water-Quality",
+                "Description": "This section provides the USGS Health-Based Screening Levels for Evaluating Water-Quality data.",
+                "URL": "https://water.usgs.gov/water-resources/hbsl/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 63,
+                    "Name": "Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Butachlor"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 63,
+                    "Name": "Chemical Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pesticide"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 63,
+                    "Name": "Reference",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Smith, C.D. and Nowell, L.H., 2024. Health-Based Screening Levels for evaluating water-quality data (3rd ed.). DOI:10.5066/F71C1TWP",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php",
+                        "Matched": {
+                          "PCLID": 900177075,
+                          "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity (not listed by IARC). (L135)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Health Effects",
+                "Description": "Principal effect(s) of exposure to each substance, listed by OSHA Health Code, Health Effects from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "T36: Rumack BH (2009). POISINDEX(R) Information System. Englewood, CO: Micromedex, Inc. CCIS Volume 141, edition expires Aug, 2009.",
+                        "Matched": {
+                          "PCLID": 900176852,
+                          "Citation": "T36: Rumack BH (2009). POISINDEX(R) Information System. Englewood, CO: Micromedex, Inc. CCIS Volume 141, edition expires Aug, 2009."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Coronary spasm, hypotension, and sinus tachycardia may occur following exposure. Aspiration of insecticide containing petroleum\ndistillate may result in pneumonitis. Pancreatitis can result from ingestion. (T36). "
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exposure Routes",
+                "Description": "The way people or other living organisms may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A572: Thompson DA, Janecke AR, Lange J, Feathers KL, Hubner CA, McHenry CL, Stockton DW, Rammesmayer G, Lupski JR, Antinolo G, Ayuso C, Baiget M, Gouras P, Heckenlively JR, den Hollander A, Jacobson SG, Lewis RA, Sieving PA, Wissinger B, Yzer S, Zrenner E, Utermann G, Gal A: Retinal degeneration associated with RDH12 mutations results from decreased 11-cis retinal synthesis due to disruption of the visual cycle. Hum Mol Genet. 2005 Dec 15;14(24):3865-75. Epub 2005 Nov 3. PMID:16269441",
+                        "Matched": {
+                          "PCLID": 26815366,
+                          "Citation": "Thompson DA, Janecke AR, Lange J, Feathers KL, Hübner CA, McHenry CL, Stockton DW, Rammesmayer G, Lupski JR, Antinolo G, Ayuso C, Baiget M, Gouras P, Heckenlively JR, den Hollander A, Jacobson SG, Lewis RA, Sieving PA, Wissinger B, Yzer S, Zrenner E, Utermann G, Gal A. Retinal degeneration associated with RDH12 mutations results from decreased 11-cis retinal synthesis due to disruption of the visual cycle. Hum Mol Genet. 2005 Dec 15;14(24):3865–75. doi: 10.1093/hmg/ddi411. PMID: 16269441.",
+                          "PMID": 16269441,
+                          "DOI": "10.1093/hmg/ddi411"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dermal  (A572) ;  eye contact  (A572) ; inhalation (A572)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "T36: Rumack BH (2009). POISINDEX(R) Information System. Englewood, CO: Micromedex, Inc. CCIS Volume 141, edition expires Aug, 2009.",
+                        "Matched": {
+                          "PCLID": 900176852,
+                          "Citation": "T36: Rumack BH (2009). POISINDEX(R) Information System. Englewood, CO: Micromedex, Inc. CCIS Volume 141, edition expires Aug, 2009."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CNS excitation, seizures, tremor, ataxia, agitation, nervousness, and amnesia may occur. Kelthane, perthane, methoxychlor, and hexachlorobenzene have little CNS toxicity; in significant overdose CNS depression may occur. Nausea, vomiting, and diarrhea may follow ingestion (T36).",
+                          "Markup": [
+                            {
+                              "Start": 89,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Kelthane",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8268"
+                            },
+                            {
+                              "Start": 99,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/perthane",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6295"
+                            },
+                            {
+                              "Start": 109,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methoxychlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4115"
+                            },
+                            {
+                              "Start": 127,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hexachlorobenzene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8370"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134994622"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 254"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 254",
+                            "Matched": {
+                              "PCLID": 900083217,
+                              "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 254"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 1740 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76",
+                            "Matched": {
+                              "PCLID": 900126735,
+                              "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 2000 mg/kg /Technical butachlor/",
+                              "Markup": [
+                                {
+                                  "Start": 36,
+                                  "Length": 9,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-31677"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76",
+                            "Matched": {
+                              "PCLID": 900126735,
+                              "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit dermal >13,000 mg/kg /Technical butachlor/",
+                              "Markup": [
+                                {
+                                  "Start": 44,
+                                  "Length": 9,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-31677"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin CDS, ed. Butachlor (23184-66-9). In: The e-Pesticide Manual, Version 2.2 (2002). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin CDS, ed. Butachlor (23184-66-9). In: The e-Pesticide Manual, Version 2.2 (2002). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 906278135,
+                              "Citation": "Tomlin CDS, ed. Butachlor (23184-66-9). In: The e-Pesticide Manual, Version 2.2 (2002). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse oral 4747 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Description": "PEER REVIEWED",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "For more Non-Human Toxicity Values (Complete) data for BUTACHLOR (6 total), please visit the HSDB record page.",
+                              "Markup": [
+                                {
+                                  "Start": 93,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6865#section=Non-Human-Toxicity-Values-(Complete)"
+                                },
+                                {
+                                  "Start": 55,
+                                  "Length": 9,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BUTACHLOR",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-31677"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Treatment",
+                "Description": "Treatment when exposed to toxin",
+                "Information": [
+                  {
+                    "ReferenceNumber": 61,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "T36: Rumack BH (2009). POISINDEX(R) Information System. Englewood, CO: Micromedex, Inc. CCIS Volume 141, edition expires Aug, 2009.",
+                        "Matched": {
+                          "PCLID": 900176852,
+                          "Citation": "T36: Rumack BH (2009). POISINDEX(R) Information System. Englewood, CO: Micromedex, Inc. CCIS Volume 141, edition expires Aug, 2009."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Consider gastric lavage, as well was dilution with milk or water after ingestion. Administer charcoal as a slurry following ingestion; however, activated charcoal should not be given to patients ingesting strong acidic or basic caustic chemicals. In case of inhalation, move patient to fresh air. Monitor for respiratory distress. If cough or difficulty breathing develops, evaluate for respiratory tract irritation, bronchitis, or pneumonitis. Administer oxygen and assist ventilation as required. Treat bronchospasm with inhaled beta2 agonist and oral or parenteral corticosteroids. Irrigate exposed eyes with copious amounts of room temperature water for at least 15 minutes. Following dermal exposure, remove contaminated clothing and wash exposed area thoroughly with soap and water. Treat dermal irritation or burns with standard topical therapy. Patients developing dermal hypersensitivity reactions may require treatment with systemic or topical corticosteroids or antihistamines. Administer symptomatic treatment as necessary. (T36)",
+                          "Markup": [
+                            {
+                              "Start": 59,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 93,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 154,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 456,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 648,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 782,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Haddad, L.M., Clinical Management of Poisoning and Drug Overdose. 2nd ed. Philadelphia, PA: W.B. Saunders Co., 1990., p. 1084"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Haddad, L.M., Clinical Management of Poisoning and Drug Overdose. 2nd ed. Philadelphia, PA: W.B. Saunders Co., 1990., p. 1084",
+                        "Matched": {
+                          "PCLID": 900082408,
+                          "Citation": "Haddad, L.M., Clinical Management of Poisoning and Drug Overdose. 2nd ed. Philadelphia, PA: W.B. Saunders Co., 1990., p. 1084"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Treatment is symptomatic and supportive. Oils should not be used as either cathartics or dermal cleansing agents, as they increase absorption. Gastric lavage and use of activated charcoal and sodium sulfate are indicated for ingestion. If dermal exposure occurred, contaminated clothes should be removed, and the skin should be thoroughly cleansed with soap and water. Management of seizures in both children and adults is with Valium or phenobarbital. Respiratory depression and even respiratory arrest, especially with concomitant use of Valium and phenobarbital in children, may occur. These drugs preferably should be used only in critical care areas where emergency endotracheal intubation can be performed. /It is recommended/ that epinephrine not be utilized in patients with organochlorine poisoning, as the organochlorines induce myocardial irritability and ventricular arrhythmias may occur. However, dopamine may be necessary in the event of hypotension unresponsive to fluid administration, and epinephrine may be necessary in the event of cardiopulmonary arrest. /Organochlorine insecticides/",
+                          "Markup": [
+                            {
+                              "Start": 179,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 192,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20sulfate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24436"
+                            },
+                            {
+                              "Start": 362,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 428,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 438,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenobarbital",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4763"
+                            },
+                            {
+                              "Start": 540,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 551,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenobarbital",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4763"
+                            },
+                            {
+                              "Start": 738,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/epinephrine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5816"
+                            },
+                            {
+                              "Start": 911,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dopamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-681"
+                            },
+                            {
+                              "Start": 1007,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/epinephrine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5816"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 58"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 58",
+                        "Matched": {
+                          "PCLID": 900124261,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 58"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Persons exceptionally exposed to organochlorine pesticides by any route should be observed for sensory disturbances, incoordination, speech slurring, mental aberrations, and involuntary motor activity that would warn of imminent convulsions. If convulsions occur, place the victim in the left lateral decubitus position with the head down. Move away furniture or other solid objects that may be a source of injury. If jaw movements are violent, place padded tongue blades between the teeth to protect the tongue. Whenever possible, remove dentures and other removable dental work. Aspirate oral and pharyngeal secretions, and, when possible, insert an oropharyngeal airway to maintain an open passage unobstructed by the tongue. Minimize noise and any manipulation of the patient that may trigger seizure activity. Administer oxygen by mask. Maintain pulmonary gas exchange by mechanically assisted ventilation whenever respiration is depressed. /Solid organochlorine insecticides/",
+                          "Markup": [
+                            {
+                              "Start": 826,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:14761696",
+                      "Farah MA et al; Chemosphere 55 (2): 257-265 (2004)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:14761696",
+                        "Matched": {
+                          "PCLID": 17986835,
+                          "Citation": "Farah MA, Ateeq B, Ali MN, Sabir R, Ahmad W. Studies on lethal concentrations and toxicity stress of some xenobiotics on aquatic organisms. Chemosphere. 2004 Apr;55(2):257–65. doi: 10.1016/j.chemosphere.2003.10.063. PMID: 14761696.",
+                          "PMID": 14761696,
+                          "DOI": "10.1016/j.chemosphere.2003.10.063"
+                        }
+                      },
+                      {
+                        "Citation": "Farah MA et al; Chemosphere 55 (2): 257-265 (2004)",
+                        "Matched": {
+                          "PCLID": 900019806,
+                          "Citation": "Farah MA et al; Chemosphere 55 (2): 257-265 (2004)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ ... Mosquito larvae generally appeared resistant than fish, while Heteropneustes fossilis was found to be most sensitive. Stress signs in the form of behavioral changes are also observed."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 2, 2nd ed. 2001. Academic Press, San Diego, California., p. 1550"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 2, 2nd ed. 2001. Academic Press, San Diego, California., p. 1550",
+                        "Matched": {
+                          "PCLID": 900056407,
+                          "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 2, 2nd ed. 2001. Academic Press, San Diego, California., p. 1550"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ In studies with rabbits, butachlor was practically nonirritating to the skin and moderately irritating to the eye; dermal sensitization was observed in a study with guinea pigs.",
+                          "Markup": [
+                            {
+                              "Start": 62,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 2, 2nd ed. 2001. Academic Press, San Diego, California., p. 1550"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 2, 2nd ed. 2001. Academic Press, San Diego, California., p. 1550",
+                        "Matched": {
+                          "PCLID": 900056407,
+                          "Citation": "Krieger, R. (ed.). Handbook of Pesticide Toxicology. Volume 2, 2nd ed. 2001. Academic Press, San Diego, California., p. 1550"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ New Zealand white rabbits were exposed to butachlor dermally for 21 day at a dose level of up to 2500 mg/kg; the only sign of toxicity was dermal irritation, and the systemic NOEL was the highest dose tested.",
+                          "Markup": [
+                            {
+                              "Start": 79,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 75"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 75",
+                        "Matched": {
+                          "PCLID": 900083550,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 75"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Butachlor treated diets were fed to rats and dogs for two years at concentrations of 100, 300, and 1000 ppm. There was no evidence of chronic toxicity observed up to the 1000 ppm level in the dog study. No treatment related effects were observed up to the 1000 ppm level in the rat study.",
+                          "Markup": [
+                            {
+                              "Start": 58,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for BUTACHLOR (17 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6865#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BUTACHLOR",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76",
+                        "Matched": {
+                          "PCLID": 900126735,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Bluegill sunfish 0.44 mg/L/96 hr /Technical butachlor ; Conditions of bioassay not specified in source examined/",
+                          "Markup": [
+                            {
+                              "Start": 49,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76",
+                        "Matched": {
+                          "PCLID": 900126735,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Rainbow trout 0.52 mg/L/96 hr /Technical butachlor; Conditions of bioassay not specified in source examined/",
+                          "Markup": [
+                            {
+                              "Start": 46,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76",
+                        "Matched": {
+                          "PCLID": 900126735,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 76"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Crayfish 26.0 mg/L/96 hr /Technical butachlor; Conditions of bioassay not specified in source examined/",
+                          "Markup": [
+                            {
+                              "Start": 41,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 75"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 75",
+                        "Matched": {
+                          "PCLID": 900083550,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 75"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Bobwhite quail oral >10,000 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for BUTACHLOR (13 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 87,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6865#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BUTACHLOR",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:14986384",
+                      "Chen Z et al; Ying Yong Sheng Tai Xue Bao 14 (10): 1765-1769 (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:14986384",
+                        "Matched": {
+                          "PCLID": 30810439,
+                          "Citation": "Chen Z, Min H, Wu W, Chen M, Zhang F, Zhao B. [Effects of pesticide-contamination on population size and denitrification activity of denitrifying bacteria in paddy soils]. Ying Yong Sheng Tai Xue Bao. 2003 Oct;14(10):1765–9. PMID: 14986384.",
+                          "PMID": 14986384
+                        }
+                      },
+                      {
+                        "Citation": "Chen Z et al; Ying Yong Sheng Tai Xue Bao 14 (10): 1765-1769 (2003)",
+                        "Matched": {
+                          "PCLID": 30810439,
+                          "Citation": "Chen Z, Min H, Wu W, Chen M, Zhang F, Zhao B. [Effects of pesticide-contamination on population size and denitrification activity of denitrifying bacteria in paddy soils]. Ying Yong Sheng Tai Xue Bao. 2003 Oct;14(10):1765–9. PMID: 14986384.",
+                          "PMID": 14986384
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/FIELD STUDIES/ The effects of pesticide contamination on the population size and denitrification activity of denitrifying bacteria (DNB) were studied with three types of paddy soil (Huangsong paddy soil, red earth paddy soil and purple paddy soil) treated with carbofuran, carbendazim and butachlor for four weeks. The results showed that the population size of DNB in purple paddy soil, Huangsong paddy soil and red earth paddy soil varied in the range of 59.04 x 10(4)-157.59 x 10(4), 42.89 x 10(4)-108.97 x 10(4) and 32.14 x 10(4)-75.30 x 10(4) cfu.g-1 dried soil, respectively, which was positively related to the quantity of consumed nitrate in paddy soils. The population size and denitrification activity of DNB were increased by adding carbofuran (1 mg.kg-1 dried soil) or butachlor (1 mg.kg-1 dried soil), but decreased significantly by adding 10 mg.kg-1 dried soil of butachlor, 5 mg.kg-1 dried soil of carbofuran, and 10 mg.kg-1 dried soil of carbendazim on 7th d, 14th d and 7th d, respectively.",
+                          "Markup": [
+                            {
+                              "Start": 262,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbofuran",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2566"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbendazim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-25429"
+                            },
+                            {
+                              "Start": 290,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 640,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitrate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-943"
+                            },
+                            {
+                              "Start": 745,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbofuran",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2566"
+                            },
+                            {
+                              "Start": 782,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 879,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 914,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbofuran",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2566"
+                            },
+                            {
+                              "Start": 955,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbendazim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-25429"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Butachlor's production may result in its release to the environment through various waste streams; its former use as a preemergence herbicide resulted in its direct release to the environment. If released to air, a vapor pressure of 2.90X10-6 mm Hg at 25 °C indicates that butachlor will exist in both the vapor and particulate phases. Vapor-phase butachlor will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 6.8 hours. Particulate-phase butachlor will be removed from the atmosphere by wet and dry deposition. Butachlor does not absorb UV light >290 nm and therefore direct photolysis is not expected. If released to soil, butachlor is expected to have no mobility based upon an estimated Koc of 6700. Volatilization from moist soil surfaces is not expected to be an important fate process based upon a Henry's Law constant of 5.10X10-8 atm-cu m/mole. Butachlor is not expected to volatilize from dry soil surfaces based upon its vapor pressure. Half-lives for butachlor in soil reported in various field and biodegradation studies range from approximately 1.6 days to 29 days. If released into water, butachlor is expected to adsorb to suspended solids and sediment based upon the estimated Koc. Butachlor degraded rapidly when applied to water at the recommended rates; its half-life in water was 1.11-1.12 days. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's Henry's Law constant. An estimated BCF of 1500 suggests the potential for bioconcentration in aquatic organisms is very high. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions. Occupational exposure to butachlor occur through dermal contact with this compound at workplaces where butachlor is produced. Current general population exposure in the United States is expected to be low or non-existent since butachlor is no longer used in the US. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 273,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 348,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 435,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 541,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 614,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 727,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 956,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 1065,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 1199,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1206,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 1301,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 1344,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1393,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1439,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1844,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 1922,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 2046,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA/OPP; Status of Pesticides in Registration, Reregistration and Special Review p.212 (Spring, 1998) EPA 738-R-98-002",
+                      "(2) Farm Chemicals Handbook 2001. Willoughby, Ohio: Meister (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA/OPP; Status of Pesticides in Registration, Reregistration and Special Review p.212 (Spring, 1998) EPA 738-R-98-002"
+                      },
+                      {
+                        "Citation": "(2) Farm Chemicals Handbook 2001. Willoughby, Ohio: Meister (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Butachlor's production may result in its release to the environment through various waste streams; its former use(1) as a preemergence herbicide(2) may have resulted in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Hansch C et al; Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: Amer Chem Soc p. 153 (1995)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(4) Watanabe T; J Pestic Sci 18:201-9 (1993)",
+                      "(5) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Hansch C et al; Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: Amer Chem Soc p. 153 (1995)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Watanabe T; J Pestic Sci 18:201-9 (1993)"
+                      },
+                      {
+                        "Citation": "(5) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 6700(SRC), determined from a log Kow of 4.5(2) and a regression-derived equation(3), indicates that butachlor is expected to be immobile in soil(SRC). Volatilization of butachlor from moist soil surfaces is not expected to be an important fate process(SRC) given a Henry's Law constant of 5.10X10-8 atm-cu m/mole(4). Butachlor is not expected to volatilize from dry soil surfaces(SRC) based upon a  vapor pressure of 2.90X10-6 mm Hg(4). Half-lives for butachlor in soil reported from biodegradation studies range from approximately 1.6 days to 11.4 days(5).",
+                          "Markup": [
+                            {
+                              "Start": 181,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 250,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 398,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 533,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Augustijn-Beckers PWM et al; Rev Environ Contam Toxicol 137: 1-82 (1994)",
+                      "(2) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)",
+                      "(3) Suwanketnikom R, Toopornsiri M; Kasetsart J, Nat Sci 26: 81-9 (1992)",
+                      "(4) Leela D; Pesticides 21: 23-6 (1987)",
+                      "(5) Yu K et al; Huanjing Kexue Xuebao 13: 169-73 (1993)",
+                      "(6) Chen Z, Fan D; Huanjing Huaxue 7: 30-6 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Augustijn-Beckers PWM et al; Rev Environ Contam Toxicol 137: 1-82 (1994)"
+                      },
+                      {
+                        "Citation": "(2) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)"
+                      },
+                      {
+                        "Citation": "(3) Suwanketnikom R, Toopornsiri M; Kasetsart J, Nat Sci 26: 81-9 (1992)"
+                      },
+                      {
+                        "Citation": "(4) Leela D; Pesticides 21: 23-6 (1987)"
+                      },
+                      {
+                        "Citation": "(5) Yu K et al; Huanjing Kexue Xuebao 13: 169-73 (1993)"
+                      },
+                      {
+                        "Citation": "(6) Chen Z, Fan D; Huanjing Huaxue 7: 30-6 (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Field half-lives of butachlor in soil have been measured to be 11 to 18 days, 4 to 8 days, and 10 to 18 days(1). When butachlor was applied to Ray silt and Wabash silty loam soil in Missouri at their normal preplant application time, the field half-lives were 9.4 and 14.4 days, respectively(2). Dissipation followed first order kinetics(2). Despite moist field conditions (near saturation at time of application and 2.25 cm of rain on the 3rd day), <1% of the herbicide was found below 4 cm(2). Therefore leaching does not appear to make a significant contribution to field dissipation. In a field study in Thailand, butachlor applied to cultivated fields containing clay loam and clay soils during the rainy season was detectable by GC for 180 days after application(3). In a study of butachlor persistance in Indian soils using plant bioassays, butachlor persisted for 40 days in a sandy clay loam soil, 60 days in sandy and clayey soils, and lost its activity rapidly in an organic soil(4). Under natural conditions of paddy fields, the half-life of butachlor was determined to be 1.65-2.48 days and 5.79-6.30 days when applied as an emulsion and granules, respectively(5). The half-lives in soil were found to be 2.67-5.33 and 4.95-6.30 days, respectively for these formulations(5). When butachlor was applied to 4 Chinese paddy soils, the half-life ranged from 3.17 to 3.61 days(1). In rice fields, leaching occurred in the silty loam and loamy silt soils, but not in the clay loam and red loam soils where it remained in the upper 5-cm(6). However, no residues were found in the soil profile or ground water after the rice growing season(6).",
+                          "Markup": [
+                            {
+                              "Start": 38,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 136,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Hansch C et al; Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: Amer Chem Soc p. 153 (1995)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(4) Watanabe T; J Pestic Sci 18:201-9 (1993)",
+                      "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(6) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(7) Chen Z, Fan D; Huanjing Huaxue 7: 30-6(1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Hansch C et al; Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: Amer Chem Soc p. 153 (1995)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Watanabe T; J Pestic Sci 18:201-9 (1993)"
+                      },
+                      {
+                        "Citation": "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(6) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(7) Chen Z, Fan D; Huanjing Huaxue 7: 30-6(1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 6,700(SRC), determined from a log Kow of 4.5(2) and a regression-derived equation(3), indicates that butachlor is expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(3) based upon a Henry's Law constant of 5.10X10-8 atm-cu m/mole(4). According to a classification scheme(5), an estimated BCF of 1500(SRC), from an estimated log Kow(2) and a regression-derived equation(6), suggests the potential for bioconcentration in aquatic organisms is very high(SRC). Butachlor degraded rapidly when applied to water at the recommended rates; its half-life in water was 1.11-1.12 days(7).",
+                          "Markup": [
+                            {
+                              "Start": 178,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 269,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 591,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 634,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 683,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Watanabe T; J Pestic Sci 18:201-9 (1993)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(4) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Watanabe T; J Pestic Sci 18:201-9 (1993)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), butachlor, which has a vapor pressure of 2.990X10-6 mm Hg at 25 °C(2), will exist in both the vapor and particulate phases in the ambient atmosphere.  Vapor-phase butachlor is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 6.8 hours(SRC), calculated from its rate constant of 5.7X10-11 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(3). Particulate-phase butachlor may be removed from the air by wet and dry deposition(SRC). Butachlor does not absorb UV light >290 nm and therefore direct photolysis is not expected(4).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 287,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 369,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 622,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 692,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hartley D, Kidd H; The Agrichemicals Handbook. p. A559/Jun 84. The Royal Society of Chemistry, Nottingham, England (1985)",
+                      "(2) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)",
+                      "(3) Chen Z, Fan D; Huanjing Huaxue 7: 30-6 (1988)",
+                      "(4) Yu K et al; Huanjing Kexue Xuebao 13: 169-73 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hartley D, Kidd H; The Agrichemicals Handbook. p. A559/Jun 84. The Royal Society of Chemistry, Nottingham, England (1985)"
+                      },
+                      {
+                        "Citation": "(2) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)"
+                      },
+                      {
+                        "Citation": "(3) Chen Z, Fan D; Huanjing Huaxue 7: 30-6 (1988)"
+                      },
+                      {
+                        "Citation": "(4) Yu K et al; Huanjing Kexue Xuebao 13: 169-73 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: As a result of microbial activity, butachlor is rapidly converted to water-soluble metabolites; ultimate biodegradation is slow(1). Activity may persist for 6-10 weeks(1). The half-life of butachlor in viable Ray silt soil was 11.4 days, compared with 640 days in a sterile control(2). The biodegradation half-life of butachlor in 4 Chinese soils under flooded conditions ranged from 18.5-29.4 days compared with >433 days for sterile controls(3). Butachlor degraded rapidly when applied to water at the recommended rates; its half-life in water was 1.11-1.12 days(3). In a similar study, the measured half-lives of butachlor in sterile and non-sterile soils were 433 days and 18.5-29.4 days, respectively(4).",
+                          "Markup": [
+                            {
+                              "Start": 44,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 78,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 198,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 327,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 457,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 500,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 549,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 625,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lee JK et al; Hanguk Nonghwa Hakhoe Cho 25: 83-92 (1982)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lee JK et al; Hanguk Nonghwa Hakhoe Cho 25: 83-92 (1982)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: Anaerobic incubation of uniformly C14-ring-labeled butachlor in 2 Korean soils for 3 months produced very little C14-labeled carbon dioxide and volatile products, indicating that the ring structure of butachlor remained intact(1). 37-45% of the radioactivity was methanol-extractable in the viable soil, whereas 59-78% was extractible in sterile controls(1). The major metabolite was 2,6-diethyl-N-(butoxymethyl)acetanilide; minor metabolites were 2,6-diethylaniline and 2,6-diethylacetanilide(1).",
+                          "Markup": [
+                            {
+                              "Start": 62,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 136,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 212,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-887"
+                            },
+                            {
+                              "Start": 459,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2%2C6-diethylaniline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11369"
+                            },
+                            {
+                              "Start": 482,
+                              "Length": 22,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2%2C6-diethylacetanilide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-85534"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)",
+                      "(3) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of butachlor with photochemically-produced hydroxyl radicals has been estimated as 5.7X10-11 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 6.8 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). Butachlor is not expected to undergo hydrolysis in the environment due to the lack of hydrolyzable functional groups(2) nor to directly photolyze due to the lack of absorption in the environmental UV spectrum (>290 nm)(3).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 90,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 319,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 351,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: Amer Chem Soc p. 153 (1995)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: Amer Chem Soc p. 153 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 1500 was calculated for butachlor(SRC), using a log Kow of 4.5(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is very high(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 44,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 75"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 75",
+                        "Matched": {
+                          "PCLID": 900083550,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 75"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Adsorbed by soil colloids."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: Amer Chem Soc p. 153 (1995)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR - Hydrophobic, Electronic, and Steric Constants. Washington, DC: Amer Chem Soc p. 153 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of butachlor is estimated as 6700(SRC), using a log Kow of 4.5(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that butachlor is expected to be immobile in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 192,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Watanabe T; J Pestic Sci 18:201-9 (1993)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Watanabe T; J Pestic Sci 18:201-9 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for butachlor is 5.10X10-8 atm-cu m/mole(1). This Henry's Law constant indicates that butachlor is expected to be essentially nonvolatile from moist soil or water surfaces(2). Butachlor is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of 2.90X10-6 mm Hg(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 111,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 182,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 201,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Watanabe T; J Pestic Sci 18: 210-9 (1993)",
+                      "(2) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Watanabe T; J Pestic Sci 18: 210-9 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Beestman GB, Deming JM; Agronomy J 66: 308-11 (1974)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate of volatilization from a glass surface was 3.1X10-7 g/hr(1). Little butachlor volatilization occurred from dry soil surfaces exposed to a constant 3.2 kph, 21 degC air stream; the volatilization half-lives for Ray silt and Wabash silty clay soil were 116 and 217 days, respectively(2). In contrast, the volatilization half-lives from continuously moist soil under similar exposure conditions were 22 and 62 days(2). Therefore, significant volatilization losses would occur from wet, exposed soil under windy conditions. Such conditions would be transitory in the field as it would lead to drying of the soil surface and a reduction in volatilization(3).",
+                          "Markup": [
+                            {
+                              "Start": 77,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; National Pesticide Survey: Survey Analytes. Washington, DC, U.S. EPA. NTIS PB93-116010 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; National Pesticide Survey: Survey Analytes. Washington, DC, U.S. EPA. NTIS PB93-116010 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DRINKING WATER: Butachlor was not detected in EPA's National Pesticide Survey(1). In this survey, water samples from 783 rural domestic wells and 566 community water system wells, nationwide were tested.",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 16,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 98,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 160,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Iwakuma T et al; Kokuritsu Kogai Kenkyusho Kenkyu Hokoku 114: 73-83 (1988)",
+                      "(2) Ohyama T et al; Bull Environ Contam Toxicol 39: 555-62 (1987)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Iwakuma T et al; Kokuritsu Kogai Kenkyusho Kenkyu Hokoku 114: 73-83 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Ohyama T et al; Bull Environ Contam Toxicol 39: 555-62 (1987)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATER: Butachlor residues in the River Koise and its tributaries in Japan in 1985 were detected mainly before the rainy season from May to early June(1). Concns were not reported. Butachlor was detectable in water in the Ishikari River in Japan from early May to mid July and reached a maximum level of 4.4 ppb on May 21, approximately one week after its application on paddy fields(2).",
+                          "Markup": [
+                            {
+                              "Start": 8,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 15,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 188,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 216,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Effluent Concentrations",
+                "Description": "Concentration of this compound in effluent.  Effluent is wastewater (treated or untreated) discharged into surface waters from a treatment plant, sewer, or industrial outfall. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Suwanketnikom R, Toopornsiri M; Kasetsart J, Nat Sci 26: 81- 9 (1992)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Suwanketnikom R, Toopornsiri M; Kasetsart J, Nat Sci 26: 81- 9 (1992)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In a field study in Thailand in which 4.0 kg/ha was applied to cultivated fields containing clay loam soil (8-10% slope) and clay soil (25-28% slope) during the rainy season, the maximum concn of butachlor in runoff was 61.5 and 15.5 ug/L, respectively(1). 52.2% of the butachlor in the runoff was in the water phase(1). The highest amounts of herbicide was lost 1-3 days after application(1).",
+                          "Markup": [
+                            {
+                              "Start": 196,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 270,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 305,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Plant Concentrations",
+                "Description": "Concentrations of this compound in plants.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Yu K et al; Huanjing Kexue Xuebao 13: 169-73 (1993)",
+                      "(2) Tejada AW et al; Trop Rest Manage 36: 237-43 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Yu K et al; Huanjing Kexue Xuebao 13: 169-73 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Tejada AW et al; Trop Rest Manage 36: 237-43 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "After the paddy cultivation period, the residue of butachlor in brown rice fell below the detection limit(1). Another investigaor similarly found no butachlor residues in rice grains, leaves and stalks at harvest(2).",
+                          "Markup": [
+                            {
+                              "Start": 51,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 149,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Fish/Seafood Concentrations",
+                "Description": "Concentrations of this compound in fish or seafood.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:3689986",
+                      "(1) Ohyama T et al; Bull Environ Contam Toxicol 39: 555-62 (1987)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:3689986",
+                        "Matched": {
+                          "PCLID": 22452875,
+                          "Citation": "Ohyama T, Jin K, Katoh Y, Chiba Y, Inoue K. Fate and behavior of herbicides, butachlor, CNP, chlomethoxynil, and simetryne in river water, shellfish, and sediments of the Ishikari River. Bulletin of Environmental Contamination and Toxicology. 1987 Oct;39(4):555–62. doi: 10.1007/bf01698445.",
+                          "PMID": 3689986,
+                          "DOI": "10.1007/bf01698445"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Ohyama T et al; Bull Environ Contam Toxicol 39: 555-62 (1987)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Butachlor was detectable in shellfish (Corbicula japonica) from the Ishikari River in Japan from early May to mid July and reached a maximum level of nearly 1 ppm in mid May, a little over a week after its application on paddy fields(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to butachlor occur through dermal contact with this compound at workplaces where butachlor is produced. In the past, the general population may have been exposed to butachlor via dermal contact with this compound and other products containing butachlor. Current general population exposure in the United States is expected to be low or non-existent since butachlor is no longer used in the US. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 103,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 187,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 265,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            },
+                            {
+                              "Start": 377,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/butachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31677"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134994622",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0023184669",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19478554
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID3034402",
+        "Name": "Butachlor",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57010817
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz4023",
+        "Name": "Butachlor",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17278776
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "6865",
+        "Name": "BUTACHLOR",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6865",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4521
+      },
+      {
+        "ReferenceNumber": 61,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D1087",
+        "Name": "Butachlor",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D1087",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20441298
+      },
+      {
+        "ReferenceNumber": 63,
+        "SourceName": "USGS Health-Based Screening Levels for Evaluating Water-Quality Data",
+        "SourceID": "b0fc146d349b0e8f7f2b567c6cba3513",
+        "Name": "Butachlor",
+        "Description": "The USGS Health-Based Screening Levels for Evaluating Water-Quality Data contains Health-Based Screening Levels (HBSLs) that are non-enforceable water-quality benchmarks that can be used to (1) supplement U.S. Environmental Protection Agency (USEPA) Maximum Contaminant Levels (MCLs) and Human Health Benchmarks for Pesticides (HHBPs), (2) determine whether contaminants found in surface-water or groundwater sources of drinking water may indicate a potential human-health concern, and (3) help prioritize monitoring efforts. HBSLs were developed by the U.S. Geological Survey (USGS).",
+        "URL": "https://water.usgs.gov/water-resources/hbsl/index.html",
+        "LicenseURL": "https://www.usgs.gov/legal",
+        "ANID": 39667871
+      }
+    ]
+  }
+}

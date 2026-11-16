@@ -1,0 +1,25 @@
+{
+  "search_term": "Thujone",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:37.482583+00:00",
+  "url": "/chemical/search/equal/Thujone",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3026148",
+        "dtxcid": "DTXCID206148",
+        "casrn": "546-80-5",
+        "preferredName": "alpha-Thujone",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)[C@@]12C[C@@H]1[C@@H](C)C(=O)C2",
+        "isMarkush": false,
+        "searchName": "Synonym from Valid Source",
+        "searchValue": "Thujone",
+        "rank": 11
+      }
+    ],
+    "suggestions": []
+  }
+}

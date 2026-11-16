@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Aspartic acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:18.583681+00:00",
+  "url": "/chemical/search/equal/L-Aspartic acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7022621",
+        "dtxcid": "DTXCID402621",
+        "casrn": "56-84-8",
+        "preferredName": "L-Aspartic acid",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC(O)=O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "L-Aspartic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

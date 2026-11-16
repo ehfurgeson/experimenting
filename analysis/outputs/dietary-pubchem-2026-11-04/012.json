@@ -1,0 +1,16 @@
+{
+  "query": "L-Methionine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Methionine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:07:59.798597+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6137,
+          "SMILES": "CSCC[C@@H](C(=O)O)N",
+          "InChIKey": "FFEARJCKVFRZRR-BYPYZUCNSA-N"
+        }
+      ]
+    }
+  }
+}

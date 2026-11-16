@@ -1,0 +1,16 @@
+{
+  "query": "L-Tryptophan",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Tryptophan/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:02.121205+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6305,
+          "SMILES": "C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N",
+          "InChIKey": "QIVBCDIJIAJPQS-VIFPVBQESA-N"
+        }
+      ]
+    }
+  }
+}

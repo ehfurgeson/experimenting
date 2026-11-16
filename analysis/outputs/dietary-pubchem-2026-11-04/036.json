@@ -1,0 +1,16 @@
+{
+  "query": "Stearic acid",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Stearic%20acid/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:14.761914+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 5281,
+          "SMILES": "CCCCCCCCCCCCCCCCCC(=O)O",
+          "InChIKey": "QIQXTHQIDYTFRH-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

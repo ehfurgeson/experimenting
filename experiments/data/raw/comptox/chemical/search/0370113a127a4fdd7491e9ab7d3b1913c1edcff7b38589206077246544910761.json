@@ -1,0 +1,25 @@
+{
+  "search_term": "RHMXXJGYXNZAPX-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:37.710099+00:00",
+  "url": "/chemical/search/equal/RHMXXJGYXNZAPX-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Emodin",
+        "dtxsid": "DTXSID5025231",
+        "dtxcid": "DTXCID205231",
+        "casrn": "518-82-1",
+        "hasStructureImage": 1,
+        "smiles": "CC1=CC(O)=C2C(=O)C3=C(O)C=C(O)C=C3C(=O)C2=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "RHMXXJGYXNZAPX-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "MKMCJLMBVKHUMS-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:54.837648+00:00",
+  "url": "/chemical/search/equal/MKMCJLMBVKHUMS-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "6-Methoxybenzoxazolinone",
+        "dtxsid": "DTXSID30201260",
+        "dtxcid": "DTXCID30123751",
+        "casrn": "532-91-2",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC2=C(NC(=O)O2)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "MKMCJLMBVKHUMS-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

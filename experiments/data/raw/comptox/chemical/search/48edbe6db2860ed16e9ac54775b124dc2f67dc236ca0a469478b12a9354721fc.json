@@ -1,0 +1,25 @@
+{
+  "search_term": "USMNOWBWPHYOEA-KHQFGBGNSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:13.084145+00:00",
+  "url": "/chemical/search/equal/USMNOWBWPHYOEA-KHQFGBGNSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID50424914",
+        "dtxcid": "DTXCID80375748",
+        "casrn": "33766-30-2",
+        "preferredName": "(1R,4R,5S)-1-isopropyl-4-methylbicyclo[3.1.0]hexan-3-one",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)[C@]12C[C@H]1[C@@H](C)C(=O)C2",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "USMNOWBWPHYOEA-KHQFGBGNSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

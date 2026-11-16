@@ -1,0 +1,25 @@
+{
+  "search_term": "Protocatechuic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:53.949954+00:00",
+  "url": "/chemical/search/equal/Protocatechuic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "3,4-Dihydroxybenzoic acid",
+        "dtxsid": "DTXSID4021212",
+        "dtxcid": "DTXCID601212",
+        "casrn": "99-50-3",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CC(O)=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "Protocatechuic acid",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

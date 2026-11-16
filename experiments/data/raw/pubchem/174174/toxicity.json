@@ -1,0 +1,258 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 174174,
+    "RecordTitle": "Npc209773",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135017707"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pharmaceuticals",
+                    "Description": "The U.S. Environmental Protection Agency (EPA), in coordination with the Federal Workgroup on Pharmaceuticals in Water, including the U.S. Department of Agriculture (USDA), U.S. Food and Drug Administration (FDA), and U.S. Geological Survey (USGS), developed human health benchmarks for pharmaceuticals (HHB-Rx) that are approved by the FDA and may occur in source waters (surface and groundwater) and/or treated drinking water.",
+                    "URL": "https://www.epa.gov/sdwa/2026-human-health-benchmarks-pharmaceuticals-hhb-rx",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Drug",
+                        "URL": "https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=f170584a-1072-4fd7-b1dc-6756703483b9&type=display",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Atropine"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Infant Benchmark [ug/L]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0005"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "General Population Benchmark [ug/L]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.002"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "LDD Label Information",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Atropine sulfate is given in combination with diphenoxylate hydrochloride in a tablet form as Lomotil. Each Lomotil tablet contains 2.5 mg of diphenoxylate hydrochloride USP (equivalent to 2.3 mg of diphenoxylate) and 0.025 mg of atropine sulfate USP (equivalent to 0.01 mg of atropine). The initial adult dosage is 2 Lomotil tablets four times daily. After initial control has been achieved, the Lomotil dosage may be reduced to meet individual requirements. Control may often be maintained with as little as two Lomotil tablets daily.",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Atropine%20sulfate",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-60196398"
+                                },
+                                {
+                                  "Start": 46,
+                                  "Length": 27,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diphenoxylate%20hydrochloride",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-6432394"
+                                },
+                                {
+                                  "Start": 94,
+                                  "Length": 7,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lomotil",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-64662"
+                                },
+                                {
+                                  "Start": 108,
+                                  "Length": 7,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lomotil",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-64662"
+                                },
+                                {
+                                  "Start": 142,
+                                  "Length": 27,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diphenoxylate%20hydrochloride",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-6432394"
+                                },
+                                {
+                                  "Start": 199,
+                                  "Length": 13,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diphenoxylate",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-13505"
+                                },
+                                {
+                                  "Start": 230,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/atropine%20sulfate",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-60196398"
+                                },
+                                {
+                                  "Start": 277,
+                                  "Length": 8,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/atropine",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-174174"
+                                },
+                                {
+                                  "Start": 318,
+                                  "Length": 7,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lomotil",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-64662"
+                                },
+                                {
+                                  "Start": 397,
+                                  "Length": 7,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lomotil",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-64662"
+                                },
+                                {
+                                  "Start": 514,
+                                  "Length": 7,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Lomotil",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-64662"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Comment",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Data used to generate the benchmarks include the following: Lowest Daily Dose (LDD): 0.02 mg/day, Lowest Therapeutic Dose (LTD): 0.0003 mg/kg-day, and Screening Dose: 0.00000008 mg/kg-day."
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 18,
+                        "Name": "Label Date",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "25-Oct-21"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135017707",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000051558",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19495464
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "EPA Human Health Benchmarks for Pharmaceuticals (HHB-Rx)",
+        "SourceID": "540ccf04e2535462ef37d1d81daad170",
+        "Name": "Atropine",
+        "Description": "This table provides the EPA Human Health Benchmarks for Pharmaceuticals (HHB-Rx). The EPA, in coordination with the Federal Workgroup on Pharmaceuticals in Water, including the USDA, FDA, and USGS, developed human health benchmarks for pharmaceuticals (HHB-Rx) that are approved by the FDA and may occur in source waters (surface and groundwater) and/or treated drinking water.",
+        "URL": "https://www.epa.gov/sdwa/2026-human-health-benchmarks-pharmaceuticals-hhb-rx",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 58121292
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID4020113",
+        "Name": "Atropine",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57013948
+      }
+    ]
+  }
+}

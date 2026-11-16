@@ -1,0 +1,1663 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 11556911,
+    "RecordTitle": "Tembotrione",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 46,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0008"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 46,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 46,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0004"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 46,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document/EPA-HQ-OPP-2006-0072-0005",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Tembotrione"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0008"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Children"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0004"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/",
+                            "Matched": {
+                              "PCLID": 900035448,
+                              "Citation": "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 Rat inhalation > 5.03 mg/L/4 hr"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/",
+                            "Matched": {
+                              "PCLID": 900035448,
+                              "Citation": "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat dermal >2,000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/",
+                            "Matched": {
+                              "PCLID": 900035448,
+                              "Citation": "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral >2,000 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 13,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 13,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Concentration",
+                    "Description": "Effect concentration values describe the concentration of a chemical associated with observed biological or toxicological effects in test subjects. These concentration-based endpoints include Lowest Observed Effect Concentration (LOEC), No Observed Effect Concentration (NOEC), Lowest Observed Adverse Effect Concentration (LOAEC), and No Observed Adverse Effect Concentration (NOAEC), which represent concentrations associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 13,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 13,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 13,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.95-6 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.95-6 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900118541,
+                          "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.95-6 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In a subchronic toxicity study, two groups of 10 male and 10 female Wistar rats (Groups 1 and 3) were fed basal diet while two groups of 10 male and 10 female Wistar rats (Groups 2 and 4) were fed diets supplemented with 20,000 ppm (2%) L-tyrosine (Lot/batch No. 078H06822 and 123K0376; purity >99%) for 28 days. (Tyrosine supplementation was approximately three to five times the normal dietary intake.) Rats in Groups 3 and 4 received 10 ug/kg bw/day 2-(2-nitro-4-trifluoromethyl-benzoyl)-1,3- cyclohexanedione (NTBC), an inhibitor of 4-hydroxyphenylpyruvate dioxygenase, daily by gavage. The study was done to determine the effects of increased plasma tyrosine to the eye, kidney, liver, pancreas, and thyroid of rats. One Group 3 female rat died during the study, but its death was unrelated to treatment. No treatment-related effects were noted on body weight, body weight gain, or food consumption. Nine of ten male and 3/10 female rats in Group 4 (2% tyrosine + 10 ug/kg bw/day NTBC) developed white areas on the eye between Days 23-26 on one or more occasions. Following opthalmoscopic examination prior to sacrifice, 9/10 male rats in Group 4 had developed corneal edema and all male and 3/10 female rats had developed 'snow flake' corneal opacities. In addition, three Group 4 male rats had developed congestive iritis. None of the male and female rats in Group 2 (2% tyrosine) or Group 3 (10 ug/kg bw/day NTBC) developed ocular abnormalities. The average plasma tyrosine concentration of Group 3 and Group 4 male and female rats was markedly increased 18-23 fold on the day of sacrifice, while plasma tyrosine was unaffected by treatment in Group 2 rats. Although the liver to body weight ratio of male and female rats in Group 4 was statistically increased, no histological correlates were found. No other treatment-related effects were noted on organ weight. Microscopic treatment-related effects were found in the pancreas, thyroid, and eyes of Group 4 rats. The incidences of focal/multifocal acinar atrophy/ fibrosis and/or acinar degeneration/apoptosis, as well as the incidence of focal/multifocal or diffuse inflammation were increased in the pancreas of Group 4 male and female rats. In the thyroid, an increased incidence of colloid alteration was found in male, but not female rats of Group 4 rats. In the eye, the incidence of unilateral and bilateral keratitis was markedly increased in male rats while minimal keratitis was found in 1/10 Group 4 female rats. No treatment-related effects were noted in male or female Group 2 and Group 3 rats.",
+                          "Markup": [
+                            {
+                              "Start": 237,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 314,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 514,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NTBC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-115355"
+                            },
+                            {
+                              "Start": 537,
+                              "Length": 23,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxyphenylpyruvate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-979"
+                            },
+                            {
+                              "Start": 655,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 958,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 985,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NTBC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-115355"
+                            },
+                            {
+                              "Start": 1378,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 1416,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NTBC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-115355"
+                            },
+                            {
+                              "Start": 1473,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 1612,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.93-4 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.93-4 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900129046,
+                          "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.93-4 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In a subchronic toxicity study, two groups of five male and five female Wistar rats (Groups 1 and 3) were fed basal diet while two groups of five male and five female Wistar rats (Groups 2 and 4) were fed diets supplemented with 20,000 ppm (2%) L-tyrosine (Lot No. 114K0375, purity 98.9%) for 28 days. (The tyrosine supplementation was approximately three to five times the normal dietary intake.) Rats in Groups 3 and 4 received 10 ug/kg bw/day 2-(2-nitro-4-trifluoromethyl-benzoyl)-1,3-cyclohexanedione (NTBC), an inhibitor of 4-hydroxyphenylpyruvate dioxygenase, daily by gavage. The study was done to determine the effects of increased plasma tyrosine concentration to the eye, kidney, liver, pancreas, and thyroid of rats No toxicologically significant effects on body weight or food intake were noted. All male and 1/5 female rats in Group 4 (2% dietary tyrosine + 10 ug/kg bw/day NTBC by gavage) developed white areas on the eye beginning on Day 24 through the end of the study. In addition, the eyes of 4/5 Group 4 male rats were half-closed beginning on Day 22 through the remainder of the study. The average plasma tyrosine concentration of Group 4 male and female rats increased with time from approximately three to five fold on Day 2 to a 24-fold increase in males and 18-fold increase in females by Day 21. Treatment with 10 ug/kg bw/day NTBC alone had little effect on plasma tyrosine in male and female rats until Day 29/30 when it was increased 3-fold and 5.8- fold in males and females, respectively. After an overnight fast, plasma tyrosine was increased in NTBC-treated rats 18-fold in males and 27-fold in females. Treatment with 2% dietary tyrosine alone induced a < 5-fold increase of plasma tyrosine in male and female rats that decreased with fasting. There were no effects on the absolute or relative liver, brain, kidney, or thyroid weights of tyrosine-, NTBC, or tyrosine/NTBC-treated rats. Macroscopically, minimal to slight bilateral ocular opacity was observed in all male and 1/5 female rats treated with tyrosine/NTBC and microscopically, treatment-related effects were found in the eye, pancreas, and thyroid. Bilateral keratitis was observed in the eyes of all males and one female and diffuse interstitial mixed cell inflammation was noted in the pancreas of two males and one female rat treated with tyrosine/ NTBC. The pancreatic changes were associated with an increased incidence of focal/multifocal acinar degeneration and apoptosis. Minimal to slight thyroid colloid alteration was noted in 3/5 Group 4 male rats. No treatment-related effects, to the eye, pancreas, or thyroid, were noted in rats treated only with tyrosine or NTBC. This study demonstrated a prolonged threshold tyrosine concentration exists in rats, above which macroscopic and/or microscopic effects occur to the eye, pancreas, and thyroid. These effects occurred when rats were fed diets containing three to five times the normal dietary intake of tyrosine while one of the tyrosine catabolizing enzymes was inhibited.",
+                          "Markup": [
+                            {
+                              "Start": 245,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 307,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 506,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NTBC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-115355"
+                            },
+                            {
+                              "Start": 529,
+                              "Length": 23,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxyphenylpyruvate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-979"
+                            },
+                            {
+                              "Start": 647,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 860,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 887,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NTBC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-115355"
+                            },
+                            {
+                              "Start": 1125,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 1352,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NTBC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-115355"
+                            },
+                            {
+                              "Start": 1391,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 1551,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            },
+                            {
+                              "Start": 1577,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NTBC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-115355"
+                            },
+                            {
+                              "Start": 1662,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6057"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Immediate first aid: Ensure that adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR if necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on the left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 324,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 mL/kg up to 200 mL of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 216,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 468,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 637,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1",
+                        "Matched": {
+                          "PCLID": 900090294,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in severe respiratory distress. Positive-pressure ventilation techniques with a bag valve mask device may be beneficial. Consider drug therapy for pulmonary edema ... . Consider administering a beta agonist such as albuterol for severe bronchospasm ... . Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start IV administration of D5W /SRP: \"To keep open\", minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's if signs of hypovolemia are present. For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam or lorazepam ... . Use proparacaine hydrochloride to assist eye irrigation ... .  /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 378,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/albuterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2083"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 798,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.84 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.84 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900071832,
+                          "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.84 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/GENOTOXICITY/ In vitro Mammalian Cytogenetics Chromosomal Aberration Assay in Human Lymphocytes: In the first assay, 0, 0.08, 0.16, 0.31, 0.63, 1.25, 2.5, 5 and 10 mM (equivalent to 0, 35.26, 70.53, 136.65, 278, 551, 1102, 2204 and 4408 ug/mL) with and without metabolic activation (S9). In a second assay, 0, 1.25, 2.5, 5, 7.5 and 10 mM (equivalent to 0, 551, 1102, 2204, 3306 and 4408 ug/mL) with and without metabolic activation. Equivocal because structural aberrations and polyploidy were observed in the absence of excessive cytotoxicity at 3306 ug/mL with metabolic activation. In the first test, up to the limit concentration (4408 ug/mL); no increases were seen; therefore, clastogenicity and polyploidy were not confirmed."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/",
+                        "Matched": {
+                          "PCLID": 900035448,
+                          "Citation": "US EPA Office of Prevention, Pesticides and Toxic Substances, Pesticide Fact Sheet for Tembotrione, p.3 (September 2007). Available from, as of February 2, 2011: https://www.epa.gov/opprd001/factsheets/"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Study type: Primary Eye Irritation - rabbit; Results: Formulation is moderately irritating to the eye. /From table/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.90-1 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.90-1 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900102684,
+                          "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.90-1 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ In an in vivo dermal penetration stud, [phenyl- UL-14C]-AE 0172747 (/tembotrione/ >98% radiochemical purity) in a suspension concentrate formulation containing 420 g/L AE 0172747 and 210 g/L Isoxadifen-ethyl was applied to four male Wistar (Rj:WI[IOPS HAN]) rats/group on 2 x 6 cm2 skin areas at dose levels of 0, 6.6, 66, or 660 ug/sq cm. Exposure times were 0.5, 1, 2, 4, 10, and 24 h for each dose. At the end of each exposure period, the skin was swabbed, and urine, feces, treated skin, cardiac blood, kidneys, liver, brain, spleen, and residual carcass were collected and analyzed for radioactivity. Recovery of the applied dose was 90.8-98.7% of the administered dose. The distribution profile of radioactivity was qualitatively similar between the dose groups. The majority of the administered dose was recovered from the skin swabs, accounting for 76-93% of the administered doses. A total of 76-94% of the applied doses was not absorbed. A general trend of increasing dermal absorption with increasing time was observed, and the amount of radioactivity found in the treated skin generally increased with decreasing dose level. Estimates of dermal absorption were based on the sum of the treated skin + the total directly absorbed (urine + feces + cage wash + carcass + brain + spleen + liver + kidneys + blood + non-treated skin + surrounding skin). Dermal absorption was 8.3-14.9% (low), 4.8-12.8% (intermediate), and 1.7- 4.8% (high) of the applied doses. The amount of dermal absorption was not proportional to dose. All treatments (dose levels applied) were for exposure periods for up to 24 h. The most conservative value for risk assessment is a dermal-absorption of 15% observed at the low dose (6.6 ug/sq cm) at 4 hr after application. This value should be considered to protect commercial applicators.",
+                          "Markup": [
+                            {
+                              "Start": 106,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 228,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isoxadifen-ethyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6451155"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.62-3 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.62-3 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900090788,
+                          "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.62-3 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 28-day dermal toxicity study, AE 0172747 (/tembotrione/ 94.7% w/w a.i) was applied to the shaved skin of 10 Wistar rats/sex/dose at dose levels of 0, 50, 250, or 1000 mg/kg bw/day, 6 hours/day for 5 days/week (7 days in Week 4) during a 28-day period. No treatment-related effects were observed on mortality, clinical signs, neurological toxicity, dermal irritation, body weight, body-weight gain, food consumption, water consumption, hematology, clinical chemistry, organ weights, or gross pathology. The target organ was the pancreas. Increased incidences of minimal to moderate degenerative changes/increase of apoptotic bodies of the exocrine acinar tissue were noted in the pancreas of all treated male groups (6-10/10 treated vs 1/10 controls) and > or = 250 mg/kg/day females (5-10/10 treated vs 1/10 controls). The following findings were considered equivocal: minimal to slight condensed cytoplasm in the liver in 1000 mg/kg/day males (5/10 treated vs 2/10 controls) and minimal to moderate proteinaceous plug in the urinary bladder in the 1000 mg/kg/day males (6/10 treated vs 0/10 controls). These findings were not confirmed in a previously conducted 28-day dermal toxicity study in the Wistar rat at doses up to 1000 mg/kg/day. Minimal to slight colloid alteration in > or = 250 mg/kg/day females (2-4/10 treated vs 1/10 controls) and minimal to slight hypertrophic follicular epithelium in the thyroid of the 1000 mg/kg/day females (3 vs 0) were predominantly of minimal severity and an effect was confirmed in the previous dermal toxicity study. Minimal to slight hypertrophic follicular epithelium in the thyroid was noted in the 1000 mg/kg/day males (6/10) compared to concurrent (4/10) and historical (0-5/10 concurrent controls). Minimal to moderate colloid alteration of the thyroid was noted in all treated male groups (8-10 vs 0). Moderate severity was observed in only one 1000 mg/kg/day rat. Erosion/neovascularization and keratitis of the eye were observed in 1000 mg/kg/day males (2/10 vs 0). These findings were considered adverse. The LOAEL is 50 mg/kg/day for males, based on colloid alterations in the thyroid gland and degenerative changes in the pancreas. The NOAEL was not established. The LOAEL is 250 mg/kg/day for females, based on degenerative changes in the pancreas. The NOAEL is 50 mg/kg/day.",
+                          "Markup": [
+                            {
+                              "Start": 104,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 477,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.61-2 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.61-2 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900158352,
+                          "Citation": "USEPA; Tembotrione Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2006-0072-0005. p.61-2 (September 7, 2007). Available from, as of February 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 28-day dermal toxicity study, AE 0172747 (/tembotrione/ 95.4% w/w a.i) was applied to the shaved skin of 10 Wistar rats/sex/dose at dose levels of 0, 250, 500, or 1000 mg/kg bw/day, 6 hours/day for 5 days/week (7 days in Week 4) during a 28-day period. No treatment-related effects were observed on mortality, clinical signs, neurological toxicity, dermal irritation, body weight, body-weight gain, food consumption, water consumption, hematology, clinical chemistry, glucose levels, organ weights, or gross pathology. No alterations were noted in the skin. The target organ was the pancreas. Increased incidences of minimal to moderate degenerative changes/increase of apoptotic bodies of the exocrine acinar tissue were noted in the pancreas of all treated groups in both sexes (9-10/10 treated vs 0-2/10 controls). A dose related increase in severity was apparent in the males, but incidence and severity were similar in the 500 and 1000 mg/kg/day females. Degeneration/apoptosis in the pancreas was also noted in a concurrently submitted 28-day dermal toxicity study in the Wistar rat. Additionally in the 1000 mg/kg/day females, increased incidences of minimal to slight ductular proliferation and inflammatory filtrate were observed in the pancreas (3-4/10 treated vs 0/10 controls). There was also increased incidences of minimal to moderate colloid alteration in the thyroid of all treated male (9-10/10 treated vs 3/10 controls) and female (4-6/10 treated vs 0/10 controls) groups and minimal to slight hypertrophic follicular epithelium in the thyroid of the 500 and 1000 mg/kg/day males (6-7/10 treated vs 2/10 controls). In addition, increased incidences of the following lesions were observed (# affected/10 treated vs # affected/10 control): (i) basophilic tubules were noted in the kidneys of all treated male groups (7-9 vs 6), (ii) minimal to slight inflammation in the prostate at 1000 mg/kg/day (3 vs 0); (iii) minimal to slight increased proteinacious material in the Rathke pouch in the pituitary of the 1000 mg/kg/day males (4 vs 1); and (iv) minimal mononuclear infiltrate in the kidneys of the 1000 mg/kg/day males (3 vs 0). These effects were considered treatment related. The LOAEL is 250 mg/kg/day, based on colloid alterations and hypertrophic follicular epithelium in the thyroid gland; and degenerative changes in the pancreas in both sexes and increased proteinacious material in the Rathke pouch in the pituitary and basophilic tubules in the kidneys of males. The NOAEL was not established.",
+                          "Markup": [
+                            {
+                              "Start": 104,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 478,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 529,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glucose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5793"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for Tembotrione (27 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 98,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7881#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 56
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Tembotrione's production may result in its release to the environment through various waste streams; its use as a herbicide will result in its direct release to the environment. If released to air, a vapor pressure of 8.3X10-11 mm Hg at 20 °C indicates tembotrione will exist solely in the particulate phase in the atmosphere. Particulate-phase tembotrione will be removed from the atmosphere by wet or dry deposition. Tembotrione contains chromophores that absorb at wavelengths >290 nm and therefore may be susceptible to direct photolysis by sunlight. If released to soil, tembotrione is expected to have very high mobility based upon an estimated Koc of 14. Volatilization from moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 1.7X10-15 atm-cu m/mole. Reported biodegradation half-lives of 4 to 56 days in soil under aerobic conditions suggests that biodegradation is an important environmental fate process in soil and water. If released into water, tembotrione is not expected to adsorb to suspended solids and sediment based upon the estimated Koc. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's estimated Henry's Law constant. An estimated BCF of 3 suggests the potential for bioconcentration in aquatic organisms is low. Tembotrione is stable to hydrolysis at environmental pH. Occupational exposure to tembotrione may occur through inhalation and dermal contact with this compound at workplaces where tembotrione is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 253,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 345,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 419,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 576,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 991,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1015,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1022,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 1143,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1360,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 1442,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 1541,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Tembotrione's production may result in its release to the environment through various waste streams; its use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) USEPA/OPPTS; Fact Sheets on New Active Ingredients: Tembotrione. September 2007. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub,. Available from, as of Jul 26, 2011: https://www.epa.gov/opprd001/factsheets/",
+                      "(3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 26, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(4) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) USEPA/OPPTS; Fact Sheets on New Active Ingredients: Tembotrione. September 2007. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub,. Available from, as of Jul 26, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      },
+                      {
+                        "Citation": "(3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 26, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(4) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 14(SRC), determined from a log Kow of -1.09(2) and a regression-derived equation(3), indicates that tembotrione is expected to have very high mobility in soil(SRC). Volatilization of tembotrione from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 1.7X10-15 atm-cu m/mole(SRC), based upon its vapor pressure, 8.3X10-11 mm Hg(4), and water solubility, 28,300 mg/L(4). Tembotrione is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(4). Reported biodegradation half-lives of 4 to 56 days in soil under aerobic conditions(4) suggests that biodegradation is an important environmental fate process in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 181,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 264,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 482,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 516,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) USEPA/OPPTS; Fact Sheets on New Active Ingredients: Tembotrione. September 2007. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub,. Available from, as of Jul 26, 2011: https://www.epa.gov/opprd001/factsheets/",
+                      "(3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 26, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 15-1 to 15-29 (1990)",
+                      "(5) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)",
+                      "(6) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) USEPA/OPPTS; Fact Sheets on New Active Ingredients: Tembotrione. September 2007. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub,. Available from, as of Jul 26, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      },
+                      {
+                        "Citation": "(3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 26, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(5) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(6) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 14(SRC), determined from a log Kow of -1.09(2) and a regression-derived equation(3), indicates that tembotrione is not expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(4) based upon an estimated Henry's Law constant of 1.7X10-15 atm-cu m/mole(SRC), derived from its vapor pressure, 8.3X10-11 mm Hg(5), and water solubility, 28,300 mg/L(5). According to a classification scheme(6), an estimated BCF of 3(SRC), from its log Kow(2) and a regression-derived equation(3), suggests the potential for bioconcentration in aquatic organisms is low(SRC). Tembotrione is stable to hydrolysis at environmental pH(2). Reported biodegradation half-lives of 4 to 56 days in soil under aerobic conditions(5) suggests that biodegradation is an important environmental fate process in water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 177,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 443,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 682,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 904,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), tembotrione, which has a vapor pressure of 8.3X10-11 mm Hg at 20 °C(2), is expected to exist solely in the particulate phase in the ambient atmosphere. Particulate-phase tembotrione may be removed from the air by wet or dry deposition(SRC). Tembotrione contains chromophores that absorb at wavelengths >290 nm(3) and therefore may be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 294,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 365,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)",
+                      "(2) USEPA/OPPTS; Fact Sheets on New Active Ingredients: Tembotrione. September 2007. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub,. Available from, as of Jul 26, 2011: https://www.epa.gov/opprd001/factsheets/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(2) USEPA/OPPTS; Fact Sheets on New Active Ingredients: Tembotrione. September 2007. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub,. Available from, as of Jul 26, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Tembotrione is biodegraded aerobically in soil with a reported half-life range of 4 to 56 days with a geometric mean of 13.7 days(1). It is not persistent in the environment except when present in loamy sands, degrading primarily through biodegradation in soil and water(2).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA/OPPTS; Fact Sheets on New Active Ingredients: Tembotrione. September 2007. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub,. Available from, as of Jul 26, 2011: https://www.epa.gov/opprd001/factsheets/",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA/OPPTS; Fact Sheets on New Active Ingredients: Tembotrione. September 2007. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub,. Available from, as of Jul 26, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Tembotrioine is stable to hydrolysis in the environment at environmental pH of 5 to 9(1,2). Tembotrione does contains chromophores that absorb at wavelengths >290 nm(2), and therefore may be susceptible to direct photolysis by sunlight(SRC). The compound is susceptible to photolysis in soil and water(1).",
+                          "Markup": [
+                            {
+                              "Start": 92,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 296,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 3 was calculated in fish for tembotrione(SRC), using a log Kow of -1.09(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 49,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA/OPPTS; Fact Sheets on New Active Ingredients: Tembotrione. September 2007. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub,. Available from, as of Jul 26, 2011: https://www.epa.gov/opprd001/factsheets/",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 26, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA/OPPTS; Fact Sheets on New Active Ingredients: Tembotrione. September 2007. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub,. Available from, as of Jul 26, 2011: https://www.epa.gov/opprd001/factsheets/"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 26, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of tembotrione is estimated as 14(SRC), using a log Kow of -1.09(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that tembotrione is expected to have very high mobility in soil. However, the relatively rapid rate of biodegradation may attenuate this process(1).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 194,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Tembotrione (335104-84-2) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for tembotrione is estimated as 1.7X10-15 atm-cu m/mole(SRC) derived from its vapor pressure, 8.3X10-11 mm Hg(1), and water solubility, 28,300 mg/L(1). This Henry's Law constant indicates that tembotrione is expected to be essentially nonvolatile from water surfaces(2). Tembotrione is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 143,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 218,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 277,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 296,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to tembotrione may occur through inhalation and dermal contact with this compound at workplaces where tembotrione is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            },
+                            {
+                              "Start": 124,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tembotrione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11556911"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Tembotrione$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Tembotrione$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Tembotrione$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Tembotrione$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "fb283139ea23d114deb5d011025a00b4",
+        "Name": "Tembotrione",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49734050
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID11556911",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2124910
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "2db62e30ed777ea02f7f01b63da8b015",
+        "Name": "Tembotrione",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667549
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID5047037",
+        "Name": "Tembotrione",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57019553
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7881",
+        "Name": "Tembotrione",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7881",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 5414
+      },
+      {
+        "ReferenceNumber": 46,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Tembotrione",
+        "Name": "Tembotrione",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45402068
+      }
+    ]
+  }
+}

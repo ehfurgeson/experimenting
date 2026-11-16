@@ -1,0 +1,25 @@
+{
+  "search_term": "Benzoic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:39.927545+00:00",
+  "url": "/chemical/search/equal/Benzoic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6020143",
+        "dtxcid": "DTXCID80143",
+        "casrn": "65-85-0",
+        "preferredName": "Benzoic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Benzoic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

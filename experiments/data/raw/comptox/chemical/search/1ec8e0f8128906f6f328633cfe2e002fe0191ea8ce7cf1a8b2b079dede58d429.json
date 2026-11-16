@@ -1,0 +1,25 @@
+{
+  "search_term": "QQQYQWNSMUHSCK-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:56.491610+00:00",
+  "url": "/chemical/search/equal/QQQYQWNSMUHSCK-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID20169921",
+        "dtxcid": "DTXCID9092412",
+        "casrn": "1750-47-6",
+        "preferredName": "2-Benzoxazolinone, 5-chloro-6-methoxy-",
+        "hasStructureImage": 1,
+        "smiles": "COC1=C(Cl)C=C2NC(=O)OC2=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "QQQYQWNSMUHSCK-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

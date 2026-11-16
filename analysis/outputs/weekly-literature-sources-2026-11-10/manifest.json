@@ -1,0 +1,127 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/resources/weekly_literature.json": "3a99ae9420ae72aa371c6f71ba664a26b645953ca2f42008813d4968e8d362af"
+  },
+  "requests": [
+    {
+      "file": "identity_00.json",
+      "name": "Pelargonic acid",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_01.json",
+      "name": "Carvacrol",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_02.json",
+      "name": "trans-Cinnamaldehyde",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_03.json",
+      "name": "Juglone",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_04.json",
+      "name": "Coumarin",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_05.json",
+      "name": "trans-Cinnamic acid",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_06.json",
+      "name": "2-Hydroxyphenylacetic acid",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_07.json",
+      "name": "3-Phenylpropionic acid",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_08.json",
+      "name": "Salicylic acid",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_09.json",
+      "name": "2,4-Dihydroxybenzoic acid",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_10.json",
+      "name": "Benzoic acid",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_11.json",
+      "name": "Sarmentine",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_12.json",
+      "name": "Thymol",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_13.json",
+      "name": "Eugenol",
+      "status": "resolved"
+    },
+    {
+      "file": "identity_14.json",
+      "name": "p-Cymene",
+      "status": "resolved"
+    },
+    {
+      "file": "munoz2020.html",
+      "url": "https://www.mdpi.com/2073-4395/10/6/791",
+      "status": 403,
+      "retrieved_at": "2026-11-11T02:55:21.513403+00:00"
+    },
+    {
+      "file": "kobayashi1998.html",
+      "url": "https://www.jstage.jst.go.jp/article/weed1962/43/4/43_4_341/_article/-char/en",
+      "status": 200,
+      "retrieved_at": "2026-11-11T02:55:23.428797+00:00"
+    },
+    {
+      "file": "dayan2015.html",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2015.00222/full",
+      "status": 200,
+      "retrieved_at": "2026-11-11T02:55:25.702652+00:00"
+    },
+    {
+      "file": "torres2024.html",
+      "url": "https://www.mdpi.com/2073-4395/14/3/537",
+      "status": 403,
+      "retrieved_at": "2026-11-11T02:55:25.888498+00:00"
+    }
+  ],
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/dayan2015.html": "91cfa309cbe48010d3997279bc46be68b0c9391441116902ba60b5304537960f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_00.json": "eb003223e94447e999909c454ccd98a5018d5600540226bad0d240b7ee6f429d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_01.json": "5fc69a82c64772c38f41056fc1bcde930a10e4ed0dcc5477243628d3f4c7ca46",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_02.json": "619bc41a23ff387e5904387ddae63948f4adbbdbd2e76fd2f69d62881e146304",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_03.json": "a13130f3b7b482394e0b753f34c1265cf960c1e4c3da2f55f61bc43ec815b1c4",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_04.json": "276ce1a67b3eda17ad05ce8e2b3391b30ff15ff0b60167794f2abf83819bbfda",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_05.json": "76592201e1779604076a87bceb9b22ae709b749c66c11aaa6b299e00254f7d1a",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_06.json": "9c1afdb7d48775db518515c286e68efafc7b70c81ed564dde38d385fbd511cae",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_07.json": "4972aa3d2ac333af10d809c602513f85b3e3e5f1cc098b27589602546d5605e3",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_08.json": "1dce96a51ab6a0b4d7b6e4a19cf47179d36414caf2f0cad180905020d568517d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_09.json": "cf1ca128b473c0f9d06c9e0ef5cc49d9c1292b273648f71664c9b160b49d8828",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_10.json": "29b604b669f968f10ddd71f5d322e7354dbbfd0ee893bccaa3f422470801c71e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_11.json": "27d9ea2ba582505cdb0d828cbeeabb92e430ed7d264417704380d080549e0619",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_12.json": "c3fc0d73d248ee11a15566367535e08215f23c4c622a7e9c1617e645c792fe9f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_13.json": "6cf4897c43557bffd7f308ed2531d6890465eeecfac0d561edfbcf82cca51546",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_14.json": "3bb930f34a26e778abb0c7dcd70f4886592319c9fbddf191bf0c9ea144265137",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/kobayashi1998.html": "3d4d6fb2dfafb75ef847bdde812a917723e4d843eafd3f29827aaeb2c863b858",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/munoz2020.html": "8a297bcf4203891cb7d5ae88e836145e520990b4d58a256407b6264c65912aca",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/torres2024.html": "16cea89dacd906ad46a730a5c4f93f4d583585c61c298c74b77e4ebb19f2a51b"
+  }
+}

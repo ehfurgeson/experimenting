@@ -1,0 +1,25 @@
+{
+  "search_term": "P-Coumaric Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:42.989969+00:00",
+  "url": "/chemical/search/equal/P-Coumaric Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6064660",
+        "dtxcid": "DTXCID1047605",
+        "casrn": "7400-08-0",
+        "preferredName": "p-Hydroxycinnamic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C=CC1=CC=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "Synonym from Valid Source",
+        "searchValue": "p-Coumaric acid",
+        "rank": 11
+      }
+    ],
+    "suggestions": []
+  }
+}

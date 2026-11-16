@@ -1,0 +1,64 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11-final/manifest.json": "57f48bd8a586b5496af7e8f8d1145936815f2817c84d6c09f4e3c5b51ccb5434",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/reviewed-cohort-models-2026-11-11-final/manifest.json": "f4a7a5058a6f2ee0ae266cb46aab36cad4bb83376abc5718d0027f300816d553",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/structure-2026-10-28-stress-baseline/structural_features.parquet": "42d932ee2896382c3cbb5c5eceaf0a2948111c848be6670a502ede4864dd5a06",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/manifest.json": "fd2248e11af947fd90ed0f39bf8b459d4b75bb10afc0938f3066fd23189cb2ac"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/descriptor_summary.csv": "11dfcded663b24edd19481e9b4ba3648cc4bb1e43bd177212b4e471a72f74deb",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/group_counts.csv": "8cefd0b86243f9be65ffc39998eda0f715038fc1fadcea6c9d0262210671dd29",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/group_membership.csv": "626cbb47b3b959f8ed6b271ff263806b8fdd5864c97d2d88ec2196882e6536e6",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/ld50_group_bins.csv": "fd05d347765cfe5d463d2ce17e40b2df70795c3e48f69b9016536840062e42a4",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/ld50_reclassified_compounds.csv": "5eba62cf419b761a2cdadf738d2d9aa96ba315b2f398d7df6764336fc48ebc68",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/model_metrics.csv": "b179098ac4a090acb87f8914f324043bce1c0ab6941c3d8e96a9c213c55dbe78",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/reviewed_descriptors.svg": "df18063d756f3768b12fc6533db9f33e8bba6c0528ca84ea4aa90b84b7e4afb6",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/reviewed_ld50.svg": "2480fc1315a35fd30d3be242a4784dd8ab3679bdbdffa81a085db6e6d0fa0950",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/reviewed_models.svg": "3988a4bfafdba89a9bb38aee76b575e848c5819d8b09746cc401246bd16358cc",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/selection_overlaps.csv": "171796d81892ceddc0cad809dbe869b669bad0727c65df4371282b38b35e2230",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-reviewed-progress-2026-11-11-verified/walkthrough.html": "0ab16c75bacf78e577ee2dfa8d697ef17d91bab952385de9b3e7bab29a87d77a"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/reviewed_progress.py": "561f85cd54499373388adcf47c79d2848e0a767c2b429e074e4e9d773ee39a69"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/pyproject.toml": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "group_counts": [
+    {
+      "group": "natural_active_K1998",
+      "compounds": 5,
+      "scaffolds": 3,
+      "activity_scope": "HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1"
+    },
+    {
+      "group": "natural_activity_unknown",
+      "compounds": 14,
+      "scaffolds": 5,
+      "activity_scope": "not shared activity labels"
+    },
+    {
+      "group": "natural_tested_low_response_K1998",
+      "compounds": 0,
+      "scaffolds": 0,
+      "activity_scope": "HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1"
+    },
+    {
+      "group": "selected_herbicide_comparator",
+      "compounds": 58,
+      "scaffolds": 35,
+      "activity_scope": "not shared activity labels"
+    }
+  ],
+  "adopted_origin": 19,
+  "model_target": "provenance_comparator_target",
+  "ld50_cutoffs": [
+    1080,
+    3400
+  ],
+  "ld50_exact_compounds": 34,
+  "activity_models_fitted": 0,
+  "cohort_models": 8,
+  "scope": "Descriptive biological groups plus separate purposive cohort models; no assay pooling or biological activity model."
+}

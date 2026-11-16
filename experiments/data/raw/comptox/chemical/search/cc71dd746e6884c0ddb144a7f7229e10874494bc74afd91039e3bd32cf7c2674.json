@@ -1,0 +1,25 @@
+{
+  "search_term": "BGZZWXTVIYUUEY-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:53.889762+00:00",
+  "url": "/chemical/search/equal/BGZZWXTVIYUUEY-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7024112",
+        "dtxcid": "DTXCID704112",
+        "casrn": "72178-02-0",
+        "preferredName": "Fomesafen",
+        "hasStructureImage": 1,
+        "smiles": "CS(=O)(=O)NC(=O)C1=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=CC=C1[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "BGZZWXTVIYUUEY-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

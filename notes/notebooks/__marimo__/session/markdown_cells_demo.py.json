@@ -1,0 +1,100 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.2",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "f4da29bfd904957526d6d2177dfda42a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"dedicated-markdown-cells\">Dedicated Markdown cells</h1>\n<span class=\"paragraph\">This notebook follows <code>marimo_markdown_example.py</code>: narrative lives in native\n<strong>Markdown cells</strong>, and computation lives in separate <strong>Python cells</strong>.\nOpen it in <strong>edit</strong> mode to review the cell types and authoring experience.</span>\n<h2 id=\"1-the-intended-pattern\">1. The intended pattern</h2>\n<span class=\"paragraph\">This entire cell is Markdown. Create one with the <strong>Markdown</strong> button or\nthe cell action menu, then type Markdown directly into its editor.</span>\n<span class=\"paragraph\">Marimo saves it in the <code>.py</code> source as a standalone <code>mo.md(...)</code> expression\ninside <code>@app.cell(hide_code=True)</code>. That serialization is expected.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "bee5afec6cbddf682c64517ffa7e32ca",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"2-compare-the-cell-boundaries\">2. Compare the cell boundaries</h2>\n<span class=\"paragraph\"><strong>Avoid mixing computation and narrative in a Python cell.</strong> This is an\nillustrative code sample only; it does not execute:</span>\n<div class=\"language-python codehilite\"><pre><span></span><code><span class=\"n\">observed</span> <span class=\"o\">=</span> <span class=\"mi\">12</span>\n<span class=\"n\">total</span> <span class=\"o\">=</span> <span class=\"mi\">20</span>\n<span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span><span class=\"sa\">f</span><span class=\"s2\">\"Coverage: </span><span class=\"si\">{</span><span class=\"mi\">100</span><span class=\"w\"> </span><span class=\"o\">*</span><span class=\"w\"> </span><span class=\"n\">observed</span><span class=\"w\"> </span><span class=\"o\">/</span><span class=\"w\"> </span><span class=\"n\">total</span><span class=\"si\">:</span><span class=\"s2\">.0f</span><span class=\"si\">}</span><span class=\"s2\">%\"</span><span class=\"p\">)</span>\n</code></pre></div>\n<span class=\"paragraph\"><strong>Preferred:</strong> use a Markdown cell to introduce the result, a Python cell\nto compute/display it, and another Markdown cell to explain it. The next\nthree cells demonstrate this separation.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "5c4876ca9d2feecdf56f34c769ff235f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"3-a-small-reactive-example\">3. A small reactive example</h2>\n<span class=\"paragraph\">Choose how many of <strong>20 synthetic records</strong> have an observation. The control\nand result are Python outputs in the next cell; this explanation stays in\nits own Markdown cell. No research files are read or changed.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "c31245c3c4197a2c5cfd86f9b83a7c7f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='lEQa-0' random-id='2e4308d8-5a2b-2372-987b-cb6a8861f13e'><marimo-slider data-initial-value='12' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eRecords with an observation (out of 20)&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-start='0' data-stop='20' data-step='1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='true' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "17e340877751fc02cfc120536ee1182c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='PKri-0' random-id='a31f3514-9cde-49fa-a553-c929dd9f47c0'><marimo-table data-initial-value='[]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eSynthetic evidence coverage&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-data='&quot;[{&#92;&quot;Records with observation&#92;&quot;:12,&#92;&quot;Total records&#92;&quot;:20,&#92;&quot;Coverage (%)&#92;&quot;:60.0}]&quot;' data-total-rows='1' data-total-columns='3' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='1' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "1f1f9f51c5ee704a65ffc668c6b1d9fe",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"interpretation\">Interpretation</h3>\n<span class=\"paragraph\">At the default setting, 12 of 20 records gives <strong>60% coverage</strong>. Moving the\nslider to 0 or 20 gives 0% or 100%. Coverage describes evidence availability;\nthese synthetic values make no claim about toxicity or safety.</span>\n<h2 id=\"review-checklist\">Review checklist</h2>\n<ol>\n<li>Confirm narrative cells open in the Markdown editor, like the supplied example.</li>\n<li>Confirm imports, controls, and calculations are in separate Python cells.</li>\n<li>Inspect the <code>.py</code> source: Markdown cells have <code>hide_code=True</code> and only\n   a standalone <code>mo.md(...)</code> display expression.</li>\n<li>Move the slider in the live notebook and check the table updates.</li>\n</ol>\n<span class=\"paragraph\">The HTML preview captures the default view. Use the live notebook for\nPython-backed interaction. All files remain local under <code>notes/</code>.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

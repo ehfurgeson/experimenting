@@ -1,0 +1,113 @@
+{
+  "aeid": 724,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:39:06.119986+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/724",
+  "status": 200,
+  "response": {
+    "aeid": 724,
+    "assayList": [
+      {
+        "name": "Thyroid Bioactivity",
+        "description": "Assays related to the thyroid adverse outcome pathway network"
+      }
+    ],
+    "assayName": "NVS_NR_hTRa_Antagonist",
+    "assayComponentName": "NVS_NR_hTRa_Antagonist",
+    "assayComponentEndpointName": "NVS_NR_hTRa_Antagonist",
+    "assayComponentEndpointDesc": "Data from the assay component NVS_NR_hTRa_Antagonist was analyzed into 1 assay endpoint. This assay endpoint, NVS_NR_hTRa_Antagonist, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. \nUsing a type of binding reporter, loss-of-signal activity can be used to understand changes in the binding as they relate to the gene THRA. \nFurthermore, this assay endpoint can be referred to as a primary readout, because the performed assay has only produced 1 assay endpoint. \nTo generalize the intended target to other relatable targets, this assay endpoint is annotated to the nuclear receptor intended target family, where the subfamily is non-steroidal.",
+    "assayFunctionType": "binding",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "Bisphenol A",
+    "signalDirection": "loss",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "receptor",
+    "intendedTargetFamily": "nuclear receptor",
+    "intendedTargetFamilySub": "non-steroidal",
+    "cellViabilityAssay": 0,
+    "acid": 461,
+    "assayComponentDesc": "NVS_NR_hTRa_Antagonist is one of one assay component(s) measured or calculated from the NVS_NR_hTRa_Antagonist assay. It is designed to make measurements of enzyme-linked immunosorbent assay, a form of binding reporter, as detected with chemiluminescence signals by AlphaLISA immunoassay technology.",
+    "assayComponentTargetDesc": "Changes to chemiluminescence signals produced from the receptor-ligand binding of the key ligand [3,3",
+    "parameterReadoutType": "5-triiodo-L-thyronine] are indicative of a change in receptor antagonist activity for the human thyroid hormone receptor",
+    "assayDesignType": " alpha [GeneSymbol:THRA | GeneID:7067 | Uniprot_SwissProt_Accession:P10827].\"",
+    "assayDesignTypeSub": "single",
+    "biologicalProcessTarget": "binding reporter",
+    "detectionTechnologyType": "immunoassay: elisa",
+    "detectionTechnologyTypeSub": "receptor binding",
+    "detectionTechnology": "luminescence",
+    "keyAssayReagentType": "chemiluminescence",
+    "keyAssayReagent": "AlphaLISA immunoassay",
+    "technologicalTargetType": "ligand",
+    "technologicalTargetTypeSub": "3,3",
+    "aid": 275,
+    "assayDesc": "NVS_NR_hTRa_Antagonist is a biochemical, single-readout assay that uses extracted gene-proteins in a cell-free assay. Measurements were taken 1 hour after chemical dosing in a 384-well plate.",
+    "timepointHr": 1.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "NA",
+    "cellFormat": "cell-free",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "NA",
+    "cellGrowthMode": "NA",
+    "assayFootprint": "microplate: 384-well plate",
+    "assayFormatType": "biochemical",
+    "assayFormatTypeSub": "protein single format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 0.0,
+    "asid": 5,
+    "assaySourceName": "NVS",
+    "assaySourceLongName": "Novascreen",
+    "assaySourceDesc": "NovaScreen, part of PerkinElmer, a human and environmental health company, provides a large diverse suite of cell-free binding and biochemical assays.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "thyroid hormone receptor alpha",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 7067,
+        "officialSymbol": "THRA",
+        "officialFullName": "thyroid hormone receptor alpha",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1210/jc.2002-020209",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/12414890",
+        "pmid": 12414890,
+        "title": "Thyroid hormone action is disrupted by bisphenol A as an antagonist",
+        "author": "Moriyama K, Tagami T, Akamizu T, Usui T, Saijo M, Kanamoto N, Hataya Y, Shimatsu A, Kuzuya H, Nakao K.",
+        "citation": "Moriyama K, Tagami T, Akamizu T, Usui T, Saijo M, Kanamoto N, Hataya Y, Shimatsu A, Kuzuya H, Nakao K.Thyroid hormone action is disrupted by bisphenol A as an antagonistJ Clin Endocrinol Metab. 2002 Nov;87(11):5185-90. doi: 10.1210/jc.2002-020209. PubMed PMID: 12414890",
+        "otherId": "0",
+        "citationId": 192,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1021/tx400021f",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/23611293",
+        "pmid": 23611293,
+        "title": "Profiling 976 ToxCast chemicals across 331 enzymatic and receptor signaling assays",
+        "author": "Sipes NS, Martin MT, Kothiya P, Reif DM, Judson RS, Richard AM, Houck KA, Dix DJ, Kavlock RJ, Knudsen TB",
+        "citation": "Sipes NS, Martin MT, Kothiya P, Reif DM, Judson RS, Richard AM, Houck KA, Dix DJ, Kavlock RJ, Knudsen TB. Profiling 976 ToxCast chemicals across 331 enzymatic and receptor signaling assays. Chem Res Toxicol. 2013 Jun 17;26(6):878-95. doi: 10.1021/tx400021f. Epub 2013 May 16. PubMed PMID: 23611293; PubMed Central PMCID: PMC3685188.",
+        "otherId": "NA",
+        "citationId": 215,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1016/j.tox.2010.12.010",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/21251949",
+        "pmid": 21251949,
+        "title": "Activity profiles of 309 ToxCast chemicals evaluated across 292 biochemical targets",
+        "author": "Knudsen TB, Houck KA, Sipes NS, Singh AV, Judson RS, Martin MT, Weissman A, Kleinstreuer NC, Mortensen HM, Reif DM, Rabinowitz JR, Setzer RW, Richard AM, Dix DJ, Kavlock RJ",
+        "citation": "Knudsen TB, Houck KA, Sipes NS, Singh AV, Judson RS, Martin MT, Weissman A, Kleinstreuer NC, Mortensen HM, Reif DM, Rabinowitz JR, Setzer RW, Richard AM, Dix DJ, Kavlock RJ. Activity profiles of 309 ToxCast chemicals evaluated across 292 biochemical targets. Toxicology. 2011 Mar 28;282(1-2):1-15. doi: 10.1016/j.tox.2010.12.010. Epub 2011 Jan 18. PubMed PMID: 21251949.",
+        "otherId": "NA",
+        "citationId": 216,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

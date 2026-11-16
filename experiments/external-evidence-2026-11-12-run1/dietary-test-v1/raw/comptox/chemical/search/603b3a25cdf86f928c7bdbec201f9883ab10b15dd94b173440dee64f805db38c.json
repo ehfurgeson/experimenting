@@ -1,0 +1,25 @@
+{
+  "search_term": "COLNVLDHVKWLRT-QMMMGPOBSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:38.440810+00:00",
+  "url": "/chemical/search/equal/COLNVLDHVKWLRT-QMMMGPOBSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID4040763",
+        "dtxcid": "DTXCID2020763",
+        "casrn": "63-91-2",
+        "preferredName": "L-Phenylalanine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC1=CC=CC=C1)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "COLNVLDHVKWLRT-QMMMGPOBSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

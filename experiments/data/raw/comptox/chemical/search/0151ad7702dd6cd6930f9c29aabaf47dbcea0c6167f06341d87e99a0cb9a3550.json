@@ -1,0 +1,25 @@
+{
+  "search_term": "JHKNAYGQYUKKDQ-YUMQZZPRSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:26.513318+00:00",
+  "url": "/chemical/search/equal/JHKNAYGQYUKKDQ-YUMQZZPRSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Filifolide A",
+        "dtxsid": "DTXSID901345698",
+        "dtxcid": "DTXCID701774348",
+        "casrn": "50585-61-0",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@@]12C[C@@]([H])(C(=O)O1)C(C)(C)C=C2C",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "JHKNAYGQYUKKDQ-YUMQZZPRSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

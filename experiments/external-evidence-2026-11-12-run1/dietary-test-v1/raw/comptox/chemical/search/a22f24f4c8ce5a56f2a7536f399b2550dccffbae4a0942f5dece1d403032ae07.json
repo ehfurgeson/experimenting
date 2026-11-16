@@ -1,0 +1,25 @@
+{
+  "search_term": "OUYCCCASQSFEME-QMMMGPOBSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:50.366336+00:00",
+  "url": "/chemical/search/equal/OUYCCCASQSFEME-QMMMGPOBSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1023730",
+        "dtxcid": "DTXCID603730",
+        "casrn": "60-18-4",
+        "preferredName": "L-Tyrosine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC1=CC=C(O)C=C1)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "OUYCCCASQSFEME-QMMMGPOBSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

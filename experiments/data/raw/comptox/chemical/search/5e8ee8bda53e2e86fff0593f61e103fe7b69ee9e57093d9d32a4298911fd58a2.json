@@ -1,0 +1,25 @@
+{
+  "search_term": "WEEGYLXZBRQIMU-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:08.226663+00:00",
+  "url": "/chemical/search/equal/WEEGYLXZBRQIMU-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "1,8-Cineol",
+        "dtxsid": "DTXSID4020616",
+        "dtxcid": "DTXCID60616",
+        "casrn": "470-82-6",
+        "hasStructureImage": 1,
+        "smiles": "CC12CCC(CC1)C(C)(C)O2",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "WEEGYLXZBRQIMU-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

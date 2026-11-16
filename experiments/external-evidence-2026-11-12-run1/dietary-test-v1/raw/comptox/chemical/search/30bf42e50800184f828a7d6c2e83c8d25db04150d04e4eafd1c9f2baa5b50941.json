@@ -1,0 +1,25 @@
+{
+  "search_term": "ZDXPYRJPNDTMRX-VKHMYHEASA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:23.804224+00:00",
+  "url": "/chemical/search/equal/ZDXPYRJPNDTMRX-VKHMYHEASA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1023100",
+        "dtxcid": "DTXCID503100",
+        "casrn": "56-85-9",
+        "preferredName": "L-Glutamine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CCC(N)=O)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "ZDXPYRJPNDTMRX-VKHMYHEASA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,2439 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 43079,
+    "RecordTitle": "Fluridone",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=54",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fluridone"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Critical Effect Systems",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ocular"
+                        },
+                        {
+                          "String": "Reproductive"
+                        },
+                        {
+                          "String": "Urinary"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "Reference Dose (RfD), chronic",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8 x 10 ^-2 mg/kg-day"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Group E Evidence of Non-carcinogenicity for Humans"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ocular"
+                        },
+                        {
+                          "String": "Reproductive"
+                        },
+                        {
+                          "String": "Urinary"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Toxicity Link",
+                "Description": "This section provides the link to the aquatic acute toxicity test results, available at the Acute Toxicity Database at the U.S. Geological Survey (USGS) Columbia Environmental Research Center (CERC).",
+                "URL": "https://www.cerc.usgs.gov/data/acute/acute.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 55,
+                    "URL": "https://www.cerc.usgs.gov/data/acute/qryboth.asp?Chemical=FLURIDONE",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: FLURIDONE"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135004688"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.25"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.08"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "IRIS Current"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Subchronic Chronic Reference Dose (RfDos) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.08"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Subchronic Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "HEAST Current"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document/EPA-HQ-OPP-2019-0074-0007",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Fluridone"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.25"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "8330"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Children"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.15"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "890"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) > 2,130,000 mg/m3/1h"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900073336,
+                              "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral >10,000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900073336,
+                              "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse oral >10,000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900073336,
+                              "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Dog oral >500 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900073336,
+                              "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Cat oral >250 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900073336,
+                              "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit percutaneous >5000 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                        "Matched": {
+                          "PCLID": 900073336,
+                          "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Moderate eye irritant (rabbits)."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Fluridone as of September 27, 2005."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Fluridone as of September 27, 2005.",
+                        "Matched": {
+                          "PCLID": 900117273,
+                          "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Fluridone as of September 27, 2005."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Dose levels of 2 mL/kg of water (5 male(M)/5 female (F)), 20% (6M/4F), 40% (5M/5F), and 80% (5M/5F) fluridone 4AS; (% 4AS doses = 192 (20%), 384 (40%), and 768 (80%) mg/kg fluridone); six hours exposure, occluded patch; dermal treatments were performed five days a week for three consecutive weeks; moderate to severe erythema and slight edema, epidermal fissures, slight decrease in relative kidney weights in male treated rabbits; NOEL = 2 mL/kg of 20% fluridone 4AS.",
+                          "Markup": [
+                            {
+                              "Start": 82,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 156,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 228,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 511,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Fluridone as of September 27, 2005."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Fluridone as of September 27, 2005.",
+                        "Matched": {
+                          "PCLID": 900117273,
+                          "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Fluridone as of September 27, 2005."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Fluridone Technical (EL-171) (purity: 98.6%); 5 animals/sex/group; Doses: 0, 1000 mg/kg, 6 hours/day, applied under a damp gauze pad. No mortality. Clinical Observations: sign of mild erythema at application site, no treatment-related systemic signs or effect upon body weights or food consumption; No treatment-related effect upon hematology or serum chemistry. Necropsy: no treatment-related lesions or effect upon organ weights. Histopathology: no treatment-related lesions. ...NOEL: 1000 mg/kg/day. /98.6% pure technical fluridone/",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 77,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/EL-171",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 581,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Pesticide Programs; Human Health Risk Assessment for Fluridone TRED. August 2004. Available from, as of September 27, 2005: https://www.epa.gov/pesticides/reregistration/status.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Pesticide Programs; Human Health Risk Assessment for Fluridone TRED. August 2004. Available from, as of September 27, 2005: https://www.epa.gov/pesticides/reregistration/status.htm",
+                        "Matched": {
+                          "PCLID": 900151193,
+                          "Citation": "USEPA/Office of Pesticide Programs; Human Health Risk Assessment for Fluridone TRED. August 2004. Available from, as of September 27, 2005: https://www.epa.gov/pesticides/reregistration/status.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ The results of the subchronic dietary feeding studies showed that fluridone caused increased incidence of hepatic centrilobular hypertrophy in mice and increased absolute and relative liver weights and relative kidney weights in rats. It produced no effects in subchronic dietary feeding study in dogs at 200 mg/kg/day, the highest doses tested.",
+                          "Markup": [
+                            {
+                              "Start": 122,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for FLURIDONE (15 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6653#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FLURIDONE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 91
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                        "Matched": {
+                          "PCLID": 900073336,
+                          "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 /Colinus virginianus/ (Bobwhite quail) oral >2000 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                        "Matched": {
+                          "PCLID": 900073336,
+                          "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 /Colinus virginianus/ (Bobwhite quail) dietary >5000 mg/kg/8 days"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                        "Matched": {
+                          "PCLID": 900073336,
+                          "Citation": "Tomlin CDS, ed. Fluridone (59756-60-4). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 /Anas platyrhynchos/ (Mallard duck) dietary >5000 mg/kg/8 days"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-199"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-199",
+                        "Matched": {
+                          "PCLID": 900000938,
+                          "Citation": "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-199"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 /Oncorhynchus mykiss/ (Rainbow Trout) 11.7 mg/L/ 96 hr /Conditions of bioassay not specified in source examined/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for FLURIDONE (34 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 87,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6653#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FLURIDONE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hamelink JL et al; Environ Toxicol Chem 5 (1): 87-94 (1986)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hamelink JL et al; Environ Toxicol Chem 5 (1): 87-94 (1986)",
+                        "Matched": {
+                          "PCLID": 716854819,
+                          "Citation": "Hamelink JL, Buckler DR, Mayer FL, Palawski DU, Sanders HO. Toxicity of fluridone to aquatic invertebrates and fish. 1986 Jan 01;5(1):87–94. doi: 10.1002/etc.5620050112.",
+                          "DOI": "10.1002/etc.5620050112"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ The acute median lethal concentrations (LC50s) of fluridone were 4.3 plus or minus 3.7 mg/L for invertebrates and 10.4 plus or minus 3.9 mg/L for fish. In chronic studies, no effects were detected when daphnids (Daphnia magna ) were continuously exposed to fluridone concentrations of 0.2 mg/L or less for 32 days, amphiopods (Gammarus pseudolimnaeus ) to 0.6 mg/L or less for 60 days or midge larvae (Chironomus plumosus ) to 0.6 mg/L or less for 30 days. Fathead minnows (Pimephales promelas ) were not affected by continuous exposure to fluridone concentration of 0.48 mg/L or less over their life cycle. The growth and survival of channel catfish (Ictalurus punctatus ) were not adversely affected by continuous exposure to fluridone concentrations of 0.5 mg/L or less for 60 days after hatching.",
+                          "Markup": [
+                            {
+                              "Start": 68,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 275,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 558,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 746,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5.10e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "6.60e+04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.40e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.00e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.60e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "8.00e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.50e+04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e+05"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.30e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.00e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "8.00e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fluridone's production may result in its release to the environment through various waste streams; its use as a herbicide will result in its direct release to the environment. If released to air, a vapor pressure of 9.8X10-8 mm Hg at 25 °C indicates fluridone will exist solely in the particulate phase in the ambient atmosphere. Particulate-phase fluridone will be removed from the atmosphere by wet or dry deposition. If released to soil, fluridone is expected to have low to slight mobility based upon Koc values ranging from 350 to 2,462. The pKa of fluridone is 12.3 (tertiary amine), indicating that this compound will primarily exist in the protonated form in the environment and cations generally adsorb more strongly to organic carbon and clay than their neutral counterparts. Volatilization from moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 3.5X10-9 atm-cu m/mole. Fluridone is not expected to volatilize from dry soil surfaces based upon its vapor pressure. A biodegradation half-life of 360 days was reported in aerobic soil. If released into water, fluridone may adsorb to suspended solids and sediment based upon its Koc values. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's estimated Henry's Law constant. A pKa of 12.3 indicates fluridone will exist almost entirely in the ionized form at pH values of 5 to 9. Measured BCF values ranging from 0 to 91 suggest bioconcentration in aquatic organisms is low to moderate. Fluridone is stable to hydrolysis. Aqueous photolysis half-lives ranging from 1 to 6 days were reported in various studies. Photodegradation was found to be the major degradation pathway of fluridone in aquatic systems under actual-use conditions. A half-life of 12 months was reported for fluridone in sediment under laboratory conditions and 17 weeks under field conditions. Occupational exposure to fluridone may occur through inhalation and dermal contact with this compound at workplaces where fluridone is produced or used. Limited monitoring data indicate that the general population is unlikely to be exposed to fluridone via ingestion of food and drinking water. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 250,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 348,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 441,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 554,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 737,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 946,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1126,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1133,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1234,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1380,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1568,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1758,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1858,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1970,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 2067,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 2188,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 2233,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fluridone's production may result in its release to the environment through various waste streams(SRC); its use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Muir DCG et al; J Environ Qual 9: 151-6 (1980)",
+                      "(3) Loh A et al; Weed Sci 27: 456-9 (1979)",
+                      "(4) USDA; Agric Res Service. ARS Pesticide Properties Database on Fluridone (59756-60-4). Available from, as of Sept 17, 2005: https://www.ars.usda.gov/Services/docs.htm?docid=14199",
+                      "(5) Shiu W et al; Rev Environ Contam Toxicol 116: 15-187 (1990)",
+                      "(6) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 20003-04. Surrey, UK: British Crop Protection Council (2003)",
+                      "(7) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(8) Hornsby AG et al; Pesticide Properties in the Environment. Springer-verlag: New York, NY, p.118 (1996)",
+                      "(9) Banks PA et al; Weed Sci 27: 631-3 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Muir DCG et al; J Environ Qual 9: 151-6 (1980)"
+                      },
+                      {
+                        "Citation": "(3) Loh A et al; Weed Sci 27: 456-9 (1979)"
+                      },
+                      {
+                        "Citation": "(4) USDA; Agric Res Service. ARS Pesticide Properties Database on Fluridone (59756-60-4). Available from, as of Sept 17, 2005: https://www.ars.usda.gov/Services/docs.htm?docid=14199"
+                      },
+                      {
+                        "Citation": "(5) Shiu W et al; Rev Environ Contam Toxicol 116: 15-187 (1990)"
+                      },
+                      {
+                        "Citation": "(6) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 20003-04. Surrey, UK: British Crop Protection Council (2003)"
+                      },
+                      {
+                        "Citation": "(7) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(8) Hornsby AG et al; Pesticide Properties in the Environment. Springer-verlag: New York, NY, p.118 (1996)"
+                      },
+                      {
+                        "Citation": "(9) Banks PA et al; Weed Sci 27: 631-3 (1979)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), Koc values ranged from 350 to 2,462(2-4), indicate that fluridone is expected to have low to slight mobility in soil(SRC). The pKa of fluridone is 12.3 (tertiary amine)(6), indicating that this compound will primarily exist in the protonated form in the environment and cations generally adsorb more strongly to organic carbon and clay than their neutral counterparts(7). Volatilization of fluridone from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 3.5X10-9 atm-cu m/mole(SRC), derived from its vapor pressure, 9.8X10-8 mm Hg(5), and water solubility 12 mg/L(6). Fluridone is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(5). A biodegradation half-life of 360 days was reported in aerobic soil(8). In field studies using different soil types, <10% of the originally applied fluridone was found after 220 days in Miller clay and 20% was found remaining after 385 days in Lufkin fine sandy loam soil(9). In laboratory studies, fluridone persistence in non-sterilized soils after 210 days was 62, 44, 10, and 5% in Lufkin fine sandy loam, Miller clay, Hidalgo sandy clay loam, and Brennan fine sandy loam, respectively(9). In Miller clay and Lufkin fine sandy loam no difference was observed in the rate of fluridone degradation between sterilized and non-sterilized samples; however, significant differences in degradation were observed between sterilized and non-sterilized Brennan fine sandy loam and Hidalgo sandy clay loam(9).",
+                          "Markup": [
+                            {
+                              "Start": 111,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 189,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 375,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 445,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 661,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 690,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Muir DCG et al; J Environ Qual 9: 151-6 (1980)",
+                      "(3) Loh A et al; Weed Sci 27: 456-9 (1979)",
+                      "(4) USDA; Agric Res Service. ARS Pesticide Properties Database on Fluridone (59756-60-4). Available from, as of Sept 17, 2005: https://www.ars.usda.gov/Services/docs.htm?docid=14199",
+                      "(5) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(6) Shiu W et al; Rev Environ Contam Toxicol 116: 15-187 (1990)",
+                      "(7) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 20003-04. Surrey, UK: British Crop Protection Council (2003)",
+                      "(8) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(9) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(10) Reinert KH, Rodgers JH; Rev Environ Contam Toxicol 98: 61-98 (1987)",
+                      "(11) Muir DCG et al; J Environ Qual 9: 151-6 (1980)",
+                      "(12) Muir DCG et al;  Arch Environm Contam Toxicol 11: 595-602 (1982)",
+                      "(13) West SD et al; J Agric Food Chem 31: 579-85 (1983)",
+                      "(14) Reinert KH, Rodgers JH; Rev Environ Contam Toxicol 98: 61-98 (1987)",
+                      "(15) Muir DCG, Grift NP; J Agric Food Chem 30: 238-44 (1982)",
+                      "(16) West SD et al; J Agric Food Chem 31: 579-85 (1983)",
+                      "(17) Muir DCG et al; J Environ Qual 9: 151-6 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Muir DCG et al; J Environ Qual 9: 151-6 (1980)"
+                      },
+                      {
+                        "Citation": "(3) Loh A et al; Weed Sci 27: 456-9 (1979)"
+                      },
+                      {
+                        "Citation": "(4) USDA; Agric Res Service. ARS Pesticide Properties Database on Fluridone (59756-60-4). Available from, as of Sept 17, 2005: https://www.ars.usda.gov/Services/docs.htm?docid=14199"
+                      },
+                      {
+                        "Citation": "(5) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(6) Shiu W et al; Rev Environ Contam Toxicol 116: 15-187 (1990)"
+                      },
+                      {
+                        "Citation": "(7) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 20003-04. Surrey, UK: British Crop Protection Council (2003)"
+                      },
+                      {
+                        "Citation": "(8) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(9) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(10) Reinert KH, Rodgers JH; Rev Environ Contam Toxicol 98: 61-98 (1987)"
+                      },
+                      {
+                        "Citation": "(11) Muir DCG et al; J Environ Qual 9: 151-6 (1980)"
+                      },
+                      {
+                        "Citation": "(12) Muir DCG et al;  Arch Environm Contam Toxicol 11: 595-602 (1982)"
+                      },
+                      {
+                        "Citation": "(13) West SD et al; J Agric Food Chem 31: 579-85 (1983)"
+                      },
+                      {
+                        "Citation": "(14) Reinert KH, Rodgers JH; Rev Environ Contam Toxicol 98: 61-98 (1987)"
+                      },
+                      {
+                        "Citation": "(15) Muir DCG, Grift NP; J Agric Food Chem 30: 238-44 (1982)"
+                      },
+                      {
+                        "Citation": "(16) West SD et al; J Agric Food Chem 31: 579-85 (1983)"
+                      },
+                      {
+                        "Citation": "(17) Muir DCG et al; J Environ Qual 9: 151-6 (1980)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), Koc values ranged from 350 to 2,462(2-4), indicates that fluridone may adsorb to suspended solids and sediment(SRC). The pKa of fluridone is 12.3 (tertiary amine)(7), indicating that this compound will primarily exist in the protonated form in the environment and cations generally adsorb more strongly to suspended solids and sediment than their neutral counterparts(8). Volatilization from water surfaces is not expected(5) based upon an estimated Henry's Law constant of 3.5X10-9 atm-cu m/mole(SRC), derived from its vapor pressure, 9.8X10-8 mm Hg(6) and water solubility, 12 mg/L(7). According to a classification scheme(9), BCF values ranging from 0 to 91(10-13), suggests the potential for bioconcentration in aquatic organisms is low to moderate(SRC). Fluridone is stable to hydrolysis(4,14). Aqueous photolysis half-lives ranging from 1 to 6 days were reported in various studies(4). Photodegradation was found to be the major degradation pathway of fluridone in aquatic systems under actual-use conditions(15). A half-life of 12 months was reported for fluridone in sediment under laboratory conditions and 17 weeks under field conditions(15). Fluridone was reported to dissipate with average half-lives of 20 days and 3 months in pond water and in pond hydrosoil, respectively(16). A half-life of 4 days was observed for fluridone after treatment in a pond(17). A half-life of 1 year or more was observed for fluridone in hydrosoils(17).",
+                          "Markup": [
+                            {
+                              "Start": 108,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 179,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 443,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 609,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 810,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1009,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1113,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1204,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1296,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1382,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 1470,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), fluridone, which has a vapor pressure of 9.8X10-9 mm Hg at 25 °C(2), is expected to exist solely in the particulate phase in the ambient atmosphere. Particulate-phase fluridone may be removed from the air by wet or dry deposition(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 291,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Muir DCG, Grift NP; J Agric Food Chem 30: 238-44 (1982)",
+                      "(2) West SD et al; J Agric Food Chem 31: 579-85 (1983)",
+                      "(3) Muir DCG et al; J Environ Qual 9: 151-6 (1980)",
+                      "(4) Banks PA et al; Weed Sci 27: 631-3 (1979)",
+                      "(5) Hornsby AG et al; Pesticide Properties in the Environment. Springer-Verlag: New York, NY, p.118 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Muir DCG, Grift NP; J Agric Food Chem 30: 238-44 (1982)"
+                      },
+                      {
+                        "Citation": "(2) West SD et al; J Agric Food Chem 31: 579-85 (1983)"
+                      },
+                      {
+                        "Citation": "(3) Muir DCG et al; J Environ Qual 9: 151-6 (1980)"
+                      },
+                      {
+                        "Citation": "(4) Banks PA et al; Weed Sci 27: 631-3 (1979)"
+                      },
+                      {
+                        "Citation": "(5) Hornsby AG et al; Pesticide Properties in the Environment. Springer-Verlag: New York, NY, p.118 (1996)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: A half-life of 12 months was reported for fluridone in sediment under laboratory conditions and 17 weeks under field conditions(1). Fluridone was reported to dissipate with average half-lives of 20 days and 3 months in pond water and in pond hydrosoil, respectively(2). A half-life of 4 days was observed for fluridone after treatment in a pond(3). A half-life of 1 year or more was observed for fluridone in hydrosoils(3). Photodegradation was found to be the major degradation pathway of fluridone in aquatic systems under actual-use conditions(1). In field studies using different soil types, <10% of the originally applied fluridone was found after 220 days in Miller clay and 20% was found remaining after 385 days in Lufkin fine sandy loam soil(4). In laboratory studies, fluridone persistence in non-sterilized soils after 210 days was 62, 44, 10, and 5% in Lufkin fine sandy loam, Miller clay, Hidalgo sandy clay loam, and Brennan fine sandy loam, respectively(4). In Miller clay and Lufkin fine sandy loam no difference was observed in the rate of fluridone degradation between sterilized and non-sterilized samples; however, noticeable differences in degradation were observed between sterilized and non-sterilized Brennan fine sandy loam and Hidalgo sandy clay loam(4). A half-life of 360 days was reported in aerobic soil(5).",
+                          "Markup": [
+                            {
+                              "Start": 51,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 141,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 233,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 318,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 405,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 499,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Reinert KH, Rodgers JH; Rev Environ Contam Toxicol 98: 61-98 (1987)",
+                      "(2) USDA; Agric Res Service. ARS Pesticide Properties Database on Fluridone (59756-60-4). Available from, as of Sept 17, 2005: https://www.ars.usda.gov/Services/docs.htm?docid=14199",
+                      "(3) Saunders DG, Mosier JW; J Agric Food Chem 31: 237-41 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Reinert KH, Rodgers JH; Rev Environ Contam Toxicol 98: 61-98 (1987)"
+                      },
+                      {
+                        "Citation": "(2) USDA; Agric Res Service. ARS Pesticide Properties Database on Fluridone (59756-60-4). Available from, as of Sept 17, 2005: https://www.ars.usda.gov/Services/docs.htm?docid=14199"
+                      },
+                      {
+                        "Citation": "(3) Saunders DG, Mosier JW; J Agric Food Chem 31: 237-41 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fluridone is stable to hydrolysis(1,2). Aqueous photolysis half-lives ranging from 1 to 6 days were reported in various studies(1). Photolysis half-lives in aqueous solution (pH 3, 6, and 9) ranging from 22 to 55 hours were reported for fluridone in laboratory experiments (>280 nm)(3). Major photolysis products were two benzaldehydes, two benzoic acids and N-methylformamide(3). Fluridone was reported to degrade in photolysis experiments using water obtained from a small eutrophic pond in southern Hancock County, IN; after 30 days of exposure to sunlight, 20 to 16% of the initially applied amount of fluridone was remaining in distilled and pond water, respectively(3).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 237,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 359,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/N-methylformamide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31254"
+                            },
+                            {
+                              "Start": 381,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 447,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 606,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 652,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Reinert KH, Rodgers JH; Rev Environ Contam Toxicol 98: 61-98 (1987)",
+                      "(2) Muir DCG et al; J Environ Qual 9: 151-6 (1980)",
+                      "(3) Muir DCG et al;  Arch Environm Contam Toxicol 11: 595-602 (1982)",
+                      "(4) West SD et al; J Agric Food Chem 31: 579-85 (1983)",
+                      "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Reinert KH, Rodgers JH; Rev Environ Contam Toxicol 98: 61-98 (1987)"
+                      },
+                      {
+                        "Citation": "(2) Muir DCG et al; J Environ Qual 9: 151-6 (1980)"
+                      },
+                      {
+                        "Citation": "(3) Muir DCG et al;  Arch Environm Contam Toxicol 11: 595-602 (1982)"
+                      },
+                      {
+                        "Citation": "(4) West SD et al; J Agric Food Chem 31: 579-85 (1983)"
+                      },
+                      {
+                        "Citation": "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "BCF values ranging from  0 to 91 have been reported for fluridone in various fish(1-4). According to a classification scheme(5), BCF values of <30 are low, and from 30 to 100 are moderate.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Muir DCG et al; J Environ Qual 9: 151-6 (1980)",
+                      "(2) Loh A et al; Weed Sci 27: 456-9 (1979)",
+                      "(3) USDA; Agric Res Service. ARS Pesticide Properties Database on Fluridone (59756-60-4). Available from, as of Sept 17, 2005: https://www.ars.usda.gov/Services/docs.htm?docid=14199",
+                      "(4) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(5) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council (2003)",
+                      "(6) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Muir DCG et al; J Environ Qual 9: 151-6 (1980)"
+                      },
+                      {
+                        "Citation": "(2) Loh A et al; Weed Sci 27: 456-9 (1979)"
+                      },
+                      {
+                        "Citation": "(3) USDA; Agric Res Service. ARS Pesticide Properties Database on Fluridone (59756-60-4). Available from, as of Sept 17, 2005: https://www.ars.usda.gov/Services/docs.htm?docid=14199"
+                      },
+                      {
+                        "Citation": "(4) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(5) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council (2003)"
+                      },
+                      {
+                        "Citation": "(6) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Koc values for fluridone measured in 6 soils were reported to range from 350 to 2,462(1-3). According to a classification scheme(4), these Koc values suggest that fluridone is expected to have low to slight mobility in soil. The pKa of fluridone is 12.3(5), indicating that this compound will primarily exist in the protonated form in the environment and cations generally adsorb more strongly to organic carbon and clay than their neutral counterparts(6).",
+                          "Markup": [
+                            {
+                              "Start": 15,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 163,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 236,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 405,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Shiu W et al; Rev Environ Contam Toxicol 116: 15-187 (1990)",
+                      "(2) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council (2003)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Shiu W et al; Rev Environ Contam Toxicol 116: 15-187 (1990)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The e-Pesticide Manual. Fluridone. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council (2003)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for fluridone is estimated as 3.5X10-9 atm-cu m/mole(SRC) derived from its vapor pressure, 9.8X10-8 mm Hg(1), and water solubility, 12 mg/L(2). This Henry's Law constant indicates that fluridone is expected to be essentially nonvolatile from water surfaces(3). Fluridone is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 139,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 210,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 267,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 286,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US EPA; Pesticides in Groundwater Database. A Compilation of Monitoring Studies: 1971-1991. National Summary. USEPA Off. Pest. Programs. Prevention Pesticides and Toxic Substances. (H7507C) EPA-734-12-92-001 (1992)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US EPA; Pesticides in Groundwater Database. A Compilation of Monitoring Studies: 1971-1991. National Summary. USEPA Off. Pest. Programs. Prevention Pesticides and Toxic Substances. (H7507C) EPA-734-12-92-001 (1992)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GROUNDWATER: Fluridone was not detected in 4 wells sampled in 1989 in California as part of the Pesticides in Ground Water Database - A Compilation of Monitoring Studies: 1971-1991(1).",
+                          "Markup": [
+                            {
+                              "Start": 13,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 117,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US EPA; National Pesticide Survey: Survey Analytes. US EPA Off Water Off Pest Toxic Sub. Fall 1990. NTIS PB93-116 010. 17 pp. (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US EPA; National Pesticide Survey: Survey Analytes. US EPA Off Water Off Pest Toxic Sub. Fall 1990. NTIS PB93-116 010. 17 pp. (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DRINKING WATER: Fluridone was not detected (minimum reporting limit = 0.90 ug/L) in the US Environmental Protection Agency five-year National Survey of Pesticides in Drinking Water Wells(1). Water samples form 783 rural domestic wells and 566 community water system wells were studied in this survey(1).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 16,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 175,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 191,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 253,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Food Survey Values",
+                "Description": "Information on the amount or concentration of this compound in food, reported from various data sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) West SD, Parka SJ; J Agric Food Chem 40: 160-4 (1992)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) West SD, Parka SJ; J Agric Food Chem 40: 160-4 (1992)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fluridone was not detected in any of 26 crops irrigated with water containing fluridone(1). The detection limit for fluridone in this study was 0.05 ppm(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 61,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 78,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 116,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Plant Concentrations",
+                "Description": "Concentrations of this compound in plants.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) West SD, Parka SJ; J Agric Food Chem 40: 160-4 (1992)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) West SD, Parka SJ; J Agric Food Chem 40: 160-4 (1992)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fluridone was detected in orchardgrass and alfalfa at concentrations of 0.11 and 0.07 ppm, respectively, following irrigation of 26 associated crops with water containing fluridone(1). The detection limit for fluridone in this study was 0.05 ppm(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 154,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 171,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 209,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to fluridone may occur through inhalation and dermal contact with this compound at workplaces where fluridone is produced or used. Limited monitoring data indicate that the general population is unlikely to be exposed to fluridone via ingestion of food and drinking water. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 122,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 243,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluridone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-43079"
+                            },
+                            {
+                              "Start": 288,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135004688",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0059756604",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19485037
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_54",
+        "Name": "Fluridone",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=54",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895285
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID43079",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125486
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_336",
+        "Name": "Fluridone",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2435946
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_336",
+        "Name": "Fluridone",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8258740
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "1beeb0f20dd2665e9438db6f636d119f",
+        "Name": "Fluridone",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667354
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID8024107",
+        "Name": "1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4-pyridone",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57031468
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz5359",
+        "Name": "Fluridone",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17279495
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "6653",
+        "Name": "FLURIDONE",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6653",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4379
+      },
+      {
+        "ReferenceNumber": 48,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Fluridone",
+        "Name": "Fluridone",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401062
+      },
+      {
+        "ReferenceNumber": 55,
+        "SourceName": "USGS Columbia Environmental Research Center",
+        "SourceID": "F0160",
+        "Name": "FLURIDONE",
+        "Description": "The Acute Toxicity Database at the USGS Columbia Environmental Research Center (CERC) provides the results from aquatic acute toxicity tests.",
+        "URL": "https://www.cerc.usgs.gov/data/acute/qrychemdesc.asp?Chemical=F0160",
+        "LicenseURL": "https://www.usgs.gov/foia",
+        "ANID": 2284394
+      }
+    ]
+  }
+}

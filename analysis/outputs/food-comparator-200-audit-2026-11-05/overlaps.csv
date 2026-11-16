@@ -1,0 +1,68 @@
+source_cohort,compound_id,name,existing_id,existing_name,match
+original_selection,food200:055,L-proline,PUBCHEM:145742,Proline,full_key
+original_selection,food200:061,L-citrulline,PUBCHEM:9750,Citrulline,full_key
+original_selection,food200:079,acetic acid,PUBCHEM:176,Acetic acid,full_key
+original_selection,food200:098,ferulic acid,PUBCHEM:445858,Ferulic acid,full_key
+original_selection,food200:099,vanillic acid,PUBCHEM:8468,Vanillic acid,full_key
+original_selection,food200:100,syringic acid,PUBCHEM:10742,Syringic acid,full_key
+original_selection,food200:101,protocatechuic acid,PUBCHEM:72,Protocatechuic acid,full_key
+original_selection,food200:102,p-coumaric acid,PUBCHEM:637542,p-Coumaric acid,full_key
+original_selection,food200:103,chlorogenic acid,PUBCHEM:1794427,Chlorogenic acid,full_key
+original_selection,food200:104,gallic acid,PUBCHEM:370,Gallic acid,full_key
+original_selection,food200:105,butyric acid,PUBCHEM:264,Butyric acid,full_key
+original_selection,food200:132,linoleic acid,PUBCHEM:5280450,Linoleic acid,full_key
+original_selection,food200:147,quercetin,PUBCHEM:5280343,Quercetin,full_key
+original_selection,food200:155,naringin,PUBCHEM:442428,Naringin,full_key
+original_selection,food200:159,catechin,PUBCHEM:9064,Catechin,full_key
+original_selection,food200:160,epicatechin,PUBCHEM:9064,Catechin,connectivity_only
+original_selection,food200:200,beta-sitosterol,PUBCHEM:222284,beta-Sitosterol,full_key
+dietary40,food200:001,D-glucose,pubchem:5793,D-Glucose,full_key
+dietary40,food200:002,D-fructose,pubchem:2723872,D-Fructose,full_key
+dietary40,food200:003,D-galactose,pubchem:5793,D-Glucose,connectivity_only
+dietary40,food200:004,D-mannose,pubchem:5793,D-Glucose,connectivity_only
+dietary40,food200:012,D-tagatose,pubchem:2723872,D-Fructose,connectivity_only
+dietary40,food200:013,D-psicose,pubchem:2723872,D-Fructose,connectivity_only
+dietary40,food200:021,sucrose,pubchem:5988,Sucrose,full_key
+dietary40,food200:022,beta-lactose,pubchem:6134,Lactose,full_key
+dietary40,food200:022,beta-lactose,pubchem:439186,Maltose,connectivity_only
+dietary40,food200:023,maltose,pubchem:6134,Lactose,connectivity_only
+dietary40,food200:023,maltose,pubchem:439186,Maltose,full_key
+dietary40,food200:024,trehalose,pubchem:7427,Trehalose,full_key
+dietary40,food200:025,cellobiose,pubchem:6134,Lactose,connectivity_only
+dietary40,food200:025,cellobiose,pubchem:439186,Maltose,connectivity_only
+dietary40,food200:035,sorbitol,pubchem:5780,Sorbitol,full_key
+dietary40,food200:035,sorbitol,pubchem:6251,Mannitol,connectivity_only
+dietary40,food200:036,mannitol,pubchem:5780,Sorbitol,connectivity_only
+dietary40,food200:036,mannitol,pubchem:6251,Mannitol,full_key
+dietary40,food200:037,xylitol,pubchem:6912,Xylitol,full_key
+dietary40,food200:038,erythritol,pubchem:222285,Erythritol,full_key
+dietary40,food200:040,glycerol,pubchem:753,Glycerol,full_key
+dietary40,food200:041,L-alanine,pubchem:5950,L-Alanine,full_key
+dietary40,food200:042,L-arginine,pubchem:6322,L-Arginine,full_key
+dietary40,food200:043,L-asparagine,pubchem:6267,L-Asparagine,full_key
+dietary40,food200:044,L-aspartic acid,pubchem:5960,L-Aspartic acid,full_key
+dietary40,food200:045,L-cysteine,pubchem:5862,L-Cysteine,full_key
+dietary40,food200:046,L-glutamic acid,pubchem:33032,L-Glutamic acid,full_key
+dietary40,food200:047,L-glutamine,pubchem:5961,L-Glutamine,full_key
+dietary40,food200:048,glycine,pubchem:750,Glycine,full_key
+dietary40,food200:049,L-histidine,pubchem:6274,L-Histidine,full_key
+dietary40,food200:050,L-isoleucine,pubchem:6306,L-Isoleucine,full_key
+dietary40,food200:051,L-leucine,pubchem:6106,L-Leucine,full_key
+dietary40,food200:052,L-lysine,pubchem:5962,L-Lysine,full_key
+dietary40,food200:053,L-methionine,pubchem:6137,L-Methionine,full_key
+dietary40,food200:054,L-phenylalanine,pubchem:6140,L-Phenylalanine,full_key
+dietary40,food200:055,L-proline,pubchem:145742,L-Proline,full_key
+dietary40,food200:056,L-serine,pubchem:5951,L-Serine,full_key
+dietary40,food200:057,L-threonine,pubchem:6288,L-Threonine,full_key
+dietary40,food200:058,L-tryptophan,pubchem:6305,L-Tryptophan,full_key
+dietary40,food200:059,L-tyrosine,pubchem:6057,L-Tyrosine,full_key
+dietary40,food200:060,L-valine,pubchem:6287,L-Valine,full_key
+dietary40,food200:075,citric acid,pubchem:311,Citric acid,full_key
+dietary40,food200:076,L-malic acid,pubchem:222656,L-Malic acid,full_key
+dietary40,food200:109,octanoic acid,pubchem:379,Caprylic acid,full_key
+dietary40,food200:111,decanoic acid,pubchem:2969,Capric acid,full_key
+dietary40,food200:113,dodecanoic acid,pubchem:3893,Lauric acid,full_key
+dietary40,food200:115,tetradecanoic acid,pubchem:11005,Myristic acid,full_key
+dietary40,food200:117,hexadecanoic acid,pubchem:985,Palmitic acid,full_key
+dietary40,food200:119,octadecanoic acid,pubchem:5281,Stearic acid,full_key
+dietary40,food200:131,oleic acid,pubchem:445639,Oleic acid,full_key

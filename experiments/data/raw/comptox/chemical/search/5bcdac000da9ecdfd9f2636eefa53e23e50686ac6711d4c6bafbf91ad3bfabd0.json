@@ -1,0 +1,25 @@
+{
+  "search_term": "RODXRVNMMDRFIK-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:33.533894+00:00",
+  "url": "/chemical/search/equal/RODXRVNMMDRFIK-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Scopoletin",
+        "dtxsid": "DTXSID0075368",
+        "dtxcid": "DTXCID5048766",
+        "casrn": "92-61-5",
+        "hasStructureImage": 1,
+        "smiles": "COC1=C(O)C=C2OC(=O)C=CC2=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "RODXRVNMMDRFIK-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

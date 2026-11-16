@@ -1,0 +1,25 @@
+{
+  "search_term": "KXSDPILWMGFJMM-AEJSXWLSSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:17.314519+00:00",
+  "url": "/chemical/search/equal/KXSDPILWMGFJMM-AEJSXWLSSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID40905045",
+        "dtxcid": "DTXCID401334151",
+        "casrn": "17699-16-0",
+        "preferredName": "(+)-trans-4-Thujanol",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@@]12C[C@@]1(CC[C@@]2(C)O)C(C)C",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KXSDPILWMGFJMM-AEJSXWLSSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

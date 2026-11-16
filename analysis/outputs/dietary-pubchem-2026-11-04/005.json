@@ -1,0 +1,16 @@
+{
+  "query": "L-Glutamic acid",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Glutamic%20acid/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:07:54.231897+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 33032,
+          "SMILES": "C(CC(=O)O)[C@@H](C(=O)O)N",
+          "InChIKey": "WHUUTDBJXJRKMK-VKHMYHEASA-N"
+        }
+      ]
+    }
+  }
+}

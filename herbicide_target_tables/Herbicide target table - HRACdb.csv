@@ -1,0 +1,53 @@
+,Chemicals belonging to each class,https://hracglobal.com/hrac-global-herbicide-moa-classification-explorer,,,,
+,From Claude,,,,,
+HRAC Group,Target Protein,Protein Type,Representative Herbicide(s),confirmation of HRAC group accuracy,,Mechanisms of evolved weed herbicide resistance
+1,Acetyl-CoA carboxylase (ACCase),Enzyme,"Diclofop-methyl, sethoxydim, pinoxaden",yes,,https://pubmed.ncbi.nlm.nih.gov/32430396/
+2,Acetolactate synthase (ALS/AHAS),Enzyme,"Chlorsulfuron, imazethapyr, pyrithiobac",yes,,
+3,Microtubule (α/β-tubulin),Structural protein,"Trifluralin, pendimethalin",yes,,
+4,Auxin receptors (TIR1/AFB F-box proteins),Receptor,"2,4-D, dicamba, fluroxypyr",yes,,
+5,D1 protein of Photosystem II (Ser264 binders),Membrane protein complex,"Atrazine, simazine, metribuzin",yes,,
+6,D1 protein of Photosystem II (His215 binders),Membrane protein complex,"Bromoxynil, bentazon",yes,,
+7,D1 protein of Photosystem II (different binding),Membrane protein complex,"Diuron, linuron, propanil",??,,
+9,5-Enolpyruvylshikimate-3-phosphate synthase (EPSPS),Enzyme,Glyphosate,yes,,
+10,Glutamine synthetase (GS),Enzyme,Glufosinate,,,
+12,Phytoene desaturase (PDS),Enzyme,"Norflurazon, fluridone",,,
+13,Deoxy-D-xylulose-5-phosphate synthase (DOXP/DXS),Enzyme,Clomazone,,,
+14,Protoporphyrinogen oxidase (PPO/Protox),Enzyme,"Fomesafen, flumioxazin, saflufenacil",,,
+15,Very long-chain fatty acid synthase (VLCFA),Enzyme,"Metolachlor, acetochlor, pyroxasulfone",,,
+18,Dihydropteroate synthase (DHPS),Enzyme,Asulam,,,
+19,Auxin efflux carrier (PIN proteins),Transporter,"Diflufenzopyr, naptalam",,,
+22,Photosystem I (electron diversion),Membrane protein complex,"Paraquat, diquat",,,
+23,Microtubule organization,Structural protein,"Propham, chlorpropham",,,
+24,Mitochondrial membrane (uncoupler),Membrane,"Dinoseb, DNOC",,,
+27,Hydroxyphenylpyruvate dioxygenase (HPPD),Enzyme,"Mesotrione, tembotrione, topramezone",,,
+28,Dihydroorotate dehydrogenase (DHODH),Enzyme,Tetflupyrolimet,,,
+29,Cellulose synthase (CESA),Membrane enzyme complex,"Indaziflam, dichlobenil",,,
+30,Fatty acid thioesterase (FAT),Enzyme,Cinmethylin,,,
+31,Serine/threonine protein phosphatase,Enzyme,Endothall,,,
+32,Solanesyl diphosphate synthase (SPS),Enzyme,Aclonifen,,,
+33,Homogentisate solanesyltransferase (HST),Enzyme,Cyclopyrimorate,,,
+34,Lycopene cyclase,Enzyme,Beflubutamid,,,
+,,,,,,
+,,,,,,
+From: https://weedscience.org/Pages/SOASummary.aspx,,"for confirmation ",,,,
+1,A,Inhibition of Acetyl CoA Carboxylase,Sethoxydim,0,56,56
+2,B,Inhibition of Acetolactate Synthase,Chlorsulfuron,108,68,176
+3,K1,Inhibition of Microtubule Assembly,Trifluralin,2,10,12
+4,O,Auxin Mimics,"2,4-D",35,9,44
+5,C1 C2,PSII inhibitors - Serine 264 Binders,Chlorotoluron,53,36,89
+6,C3,PSII inhibitors - Histidine 215 Binders,Bromoxynil,3,2,5
+9,G,Inhibition of Enolpyruvyl Shikimate Phosphate Synthase,Glyphosate,29,33,62
+10,H,Inhibition of Glutamine Synthetase,Glufosinate-ammonium,2,5,7
+12,F1,Phytoene Desaturase inhibitors,Diflufenican,4,1,5
+13,F4,Inhibition of Deoxy-D-Xylulose Phosphate Synthase,Clomazone,0,3,3
+14,E,Inhibition of Protoporphyrinogen Oxidase,Oxyfluorfen,13,5,18
+15,K3 N,Very Long-Chain Fatty Acid Synthesis inhibitors,Butachlor,2,8,10
+22,D,PS I Electron Diversion,Paraquat,23,10,33
+23,K2,Inhibition of Microtubule Organization,Propham,0,1,1
+27,F2,Inhibition of Hydroxyphenyl Pyruvate Dioxygenase,Isoxaflutole,4,4,8
+29,L,Inhibition of Cellulose Synthesis,Dichlobenil,0,4,4
+34,F3,Inhibition of Lycopene Cyclase,Amitrole,1,5,6
+0,Z,Unknown,Endothall,0,4,4
+0,Z,Antimicrotubule mitotic disrupter,Flamprop-methyl,0,3,3
+0,Z,Nucleic acid inhibitors,MSMA,1,0,1
+0,Z,Cell elongation inhibitors,Difenzoquat,0,1,1

@@ -1,0 +1,41 @@
+{
+  "files": {
+    "notes/handoffs/modeled-evidence-2026-11-12/README.md": {
+      "sha256": "7dbf57ce053e71e82e336cecc35eb0ef9aace0ca3382cddf0d86eb1cf305a86c",
+      "bytes": 28152
+    },
+    "notes/handoffs/modeled-evidence-2026-11-12/README.html": {
+      "sha256": "c5a60a76b9765fc0d3916993c1670a3598b72427a62db06eba8e2fa0402f366a",
+      "bytes": 31494
+    },
+    "notes/handoffs/modeled-evidence-2026-11-12/status_snapshot.json": {
+      "sha256": "f26f284afe65c4837dffa6c75a5a503ed22c186ae842bf587a94f6382dd25344",
+      "bytes": 4645
+    },
+    "notes/notebooks/presentation_essentials.py": {
+      "sha256": "650c3e850a5219ca4ec2cc43a18abdc506e00240de60879e1fd1e89bef7c2bf6",
+      "bytes": 128557
+    },
+    "notes/notebooks/presentation_essentials.html": {
+      "sha256": "a5f9cc4ca8b021b87687aaa6f4737107e5864abc2f540b9f188855d8e3db2bfd",
+      "bytes": 1110596
+    }
+  },
+  "verification": {
+    "marimo_strict_check": "passed",
+    "executed_html_export": "passed, final process exit0",
+    "notebook_ruff": "passed",
+    "dedicated_markdown_cells": 50,
+    "all_code_hidden_by_default": true,
+    "total_cells": 98,
+    "relative_links_and_anchors": 90,
+    "unchanged_snapshot_inputs": 6,
+    "new_data_acquisition": false,
+    "new_model_fits": false,
+    "scope": "Planning and read-only tutorial update; no scientific source/label/result changes; broader goal remains paused",
+    "new_update_csv_hash_checks": 20,
+    "historical_csv_hash_checks": 38,
+    "new_transfer_metric_reports_recomputed": 24,
+    "shuffle_controls": "20 attempts per PCA representation;10 evaluated;10 unsupported;nulls preserved"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Citric acid",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Citric%20acid/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:15.516546+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 311,
+          "SMILES": "C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+          "InChIKey": "KRKNYBCHXYNGOX-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

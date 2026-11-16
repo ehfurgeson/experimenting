@@ -1,0 +1,25 @@
+{
+  "search_term": "KSEBMYQBYZTDHS-HWKANZROSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:45.954275+00:00",
+  "url": "/chemical/search/equal/KSEBMYQBYZTDHS-HWKANZROSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID70892035",
+        "dtxcid": "DTXCID90208295",
+        "casrn": "537-98-4",
+        "preferredName": "(2E)-3-(4-Hydroxy-3-methoxyphenyl)-2-propenoic acid",
+        "hasStructureImage": 1,
+        "smiles": "COC1=C(O)C=CC(\\C=C\\C(O)=O)=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KSEBMYQBYZTDHS-HWKANZROSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

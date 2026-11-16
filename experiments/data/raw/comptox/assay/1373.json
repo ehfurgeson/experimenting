@@ -1,0 +1,82 @@
+{
+  "aeid": 1373,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:39:13.220840+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/1373",
+  "status": 200,
+  "response": {
+    "aeid": 1373,
+    "assayList": [
+      {
+        "name": "Developmental Toxicity",
+        "description": "Assays associated with developmental toxicity"
+      },
+      {
+        "name": "Non-mammalian Vertebrate",
+        "description": "Assays associated with non-mammalian vertebrate species "
+      }
+    ],
+    "assayName": "Tanguay_ZF_120hpf_legacy",
+    "assayComponentName": "Tanguay_ZF_120hpf_YSE_legacy",
+    "assayComponentEndpointName": "Tanguay_ZF_120hpf_YSE_legacy",
+    "assayComponentEndpointDesc": "Data from the assay component Tanguay_ZF_120hpf_YSE_legacy was analyzed into 1 assay endpoints. This assay endpoint, Tanguay_ZF_120hpf_YSE_legacy, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of morphology reporter, gain-of-signal activity can be used to understand changes in developmentals as they relate to the whole embryo. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the zebrafish development intended target family, where the subfamily is extra-embryonic membrane development.",
+    "assayFunctionType": "developmental",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "NA",
+    "signalDirection": "gain",
+    "intendedTargetType": "organism",
+    "intendedTargetTypeSub": "malformation",
+    "intendedTargetFamily": "zebrafish development",
+    "intendedTargetFamilySub": "extra-embryonic membrane development",
+    "cellViabilityAssay": 0,
+    "acid": 940,
+    "assayComponentDesc": "Tanguay_ZF_120hpf_YSE_legacy is one of one assay component(s) measured or calculated from the Tanguay_ZF_120hpf_legacy assay. It is designed to make measurements of zebrafish development as detected with brightfield microscopy of developing zebrafish embryos.",
+    "assayComponentTargetDesc": "Morphology is measured by light microscopic examination of developing zebrafish embryos.",
+    "parameterReadoutType": "single",
+    "assayDesignType": "morphology reporter",
+    "assayDesignTypeSub": "embryo development",
+    "biologicalProcessTarget": "regulation of development",
+    "detectionTechnologyType": "fluorescence microscopy",
+    "detectionTechnologyTypeSub": "optical microscopy",
+    "detectionTechnology": "light microscopy",
+    "keyAssayReagentType": "NA",
+    "keyAssayReagent": "NA",
+    "technologicalTargetType": "embryonic development",
+    "technologicalTargetTypeSub": "extra-embryonic membrane development",
+    "aid": 409,
+    "assayDesc": "Tanguay_ZF_120hpf_legacy is a whole embryo, multiplexed endpoint assay using zebrafish larvae exposed for 120 hours post fertilization on a 96-well plate.",
+    "timepointHr": 120.0,
+    "organismId": 7955,
+    "organism": "zebrafish",
+    "tissue": "NA",
+    "cellFormat": "whole embryo",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "NA",
+    "cellGrowthMode": "suspension",
+    "assayFootprint": "microplate: 96-well plate",
+    "assayFormatType": "organism",
+    "assayFormatTypeSub": "organism-based format",
+    "contentReadoutType": "image-based",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 0.7,
+    "asid": 13,
+    "assaySourceName": "TANGUAY",
+    "assaySourceLongName": "Tanguay Lab",
+    "assaySourceDesc": "The Tanguay laboratory, based at the Oregon State University Sinnhuber Aquatic Research Laboratory, uses zebrafish as a systems toxicology model.",
+    "gene": null,
+    "citations": [
+      {
+        "doi": "10.1093/toxsci/kft235",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/24136191",
+        "pmid": 24136191,
+        "title": "Multidimensional in vivo hazard assessment using zebrafish",
+        "author": "Truong L, Reif DM, St Mary L, Geier MC, Truong HD, Tanguay RL",
+        "citation": "Truong L, Reif DM, St Mary L, Geier MC, Truong HD, Tanguay RL. Multidimensional in vivo hazard assessment using zebrafish. Toxicol Sci. 2014 Jan;137(1):212-33. doi: 10.1093/toxsci/kft235. Epub 2013 Oct 17. PubMed PMID: 24136191; PubMed Central PMCID: PMC3871932.",
+        "otherId": "NA",
+        "citationId": 220,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

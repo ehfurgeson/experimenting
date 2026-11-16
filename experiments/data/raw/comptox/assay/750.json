@@ -1,0 +1,102 @@
+{
+  "aeid": 750,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:38:19.139983+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/750",
+  "status": 200,
+  "response": {
+    "aeid": 750,
+    "assayList": [
+      {
+        "name": "ToxCast ER Pathway Model",
+        "description": "Estrogen receptor assays used in ToxCast ER Pathway model. See 10.1093/toxsci/kfv168"
+      }
+    ],
+    "assayName": "OT_ERa_GFPERaERE_0120",
+    "assayComponentName": "OT_ERa_GFPERaERE_0120",
+    "assayComponentEndpointName": "OT_ERa_GFPERaERE_0120",
+    "assayComponentEndpointDesc": "Data from the assay component OT_ERa_GFPERaERE_0120 was analyzed into 1 assay endpoint. \nThis assay endpoint, OT_ERa_EREGFP_0120, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. \nUsing a type of inducible reporter, measures of receptor for gain-of-signal activity can be used to understand the reporter gene at the pathway-level as they relate to the gene ESR1. \nFurthermore, this assay endpoint can be referred to as a primary readout, because the performed assay has only produced 1 assay endpoint. \nTo generalize the intended target to other relatable targets, this assay endpoint is annotated to the nuclear receptor intended target family, where the subfamily is steroidal.",
+    "assayFunctionType": "reporter gene",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "(Z)-4-Hydroxytamoxifen",
+    "signalDirection": "gain",
+    "intendedTargetType": "pathway",
+    "intendedTargetTypeSub": "pathway-specified",
+    "intendedTargetFamily": "nuclear receptor",
+    "intendedTargetFamilySub": "steroidal",
+    "cellViabilityAssay": 0,
+    "acid": 487,
+    "assayComponentDesc": "OT_ERa_GFPERaERE_0120 is one of one assay component(s) measured or calculated from the OT_ERa_GFPERaERE_0120 assay. It is designed to make measurements of fluorescent protein induction, a form of inducible reporter, as detected with optical microscopy: fluorescence microscopy signals by Microscopy technology.",
+    "assayComponentTargetDesc": "Changes to optical microscopy: fluorescence microscopy signals produced from the fluorescent protein induction are indicative of a change in the receptor function and kinetics for the human estrogen receptor 1 [GeneSymbol:ESR1 | GeneID:2099 | Uniprot_SwissProt_Accession:P03372].",
+    "parameterReadoutType": "single",
+    "assayDesignType": "inducible reporter",
+    "assayDesignTypeSub": "fluorescent protein induction",
+    "biologicalProcessTarget": "regulation of gene expression",
+    "detectionTechnologyType": "fluorescence microscopy",
+    "detectionTechnologyTypeSub": "optical microscopy",
+    "detectionTechnology": "light microscopy",
+    "keyAssayReagentType": "NA",
+    "keyAssayReagent": "NA",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "receptor",
+    "aid": 301,
+    "assayDesc": "OT_ERa_GFPERaERE_0120 is a cell-based, single-readout assay that uses HeLa, a human cervix cell line, with measurements taken at 2 hours after chemical dosing in a 384-well plate.",
+    "timepointHr": 2.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "cervix",
+    "cellFormat": "cell line",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "HeLa",
+    "cellGrowthMode": "adherent",
+    "assayFootprint": "microplate: 384-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "cell-based format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 0.5,
+    "asid": 6,
+    "assaySourceName": "OT",
+    "assaySourceLongName": "Odyssey Thera",
+    "assaySourceDesc": "Odyssey Thera is a drug discovery company focusing on high-throughput screening with a particular focus on developing novel protein:protein interaction assays using protein-fragment complementation technology. ",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "estrogen receptor 1",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 2099,
+        "officialSymbol": "ESR1",
+        "officialFullName": "estrogen receptor 1",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1038/onc.2013.550",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24441042/",
+        "pmid": 24441042,
+        "title": "Systems level-based RNAi screening by high content analysis identifies UBR5 as a regulator of estrogen receptor-alpha protein levels and activity",
+        "author": "Bolt MJ, Stossi F, Callison AM, Mancini MG, Dandekar R, Mancini MA",
+        "citation": "Bolt MJ, Stossi F, Callison AM, Mancini MG, Dandekar R, Mancini MA. Systems level-based RNAi screening by high content analysis identifies UBR5 as a regulator of estrogen receptor-alpha protein levels and activity. Oncogene. 2015 Jan 8;34(2):154-64. doi: 10.1038/onc.2013.550. Epub 2014 Jan 20. PMID: 24441042; PMCID: PMC4871123.",
+        "otherId": "NA",
+        "citationId": 252,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1016/j.chembiol.2014.03.013",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24856822/",
+        "pmid": 24856822,
+        "title": "Defining estrogenic mechanisms of bisphenol A analogs through high throughput microscopy-based contextual assays",
+        "author": "Stossi F, Bolt MJ, Ashcroft FJ, Lamerdin JE, Melnick JS, Powell RT, Dandekar RD, Mancini MG, Walker CL, Westwick JK, Mancini MA",
+        "citation": "Stossi F, Bolt MJ, Ashcroft FJ, Lamerdin JE, Melnick JS, Powell RT, Dandekar RD, Mancini MG, Walker CL, Westwick JK, Mancini MA. Defining estrogenic mechanisms of bisphenol A analogs through high throughput microscopy-based contextual assays. Chem Biol. 2014 Jun 19;21(6):743-53. doi: 10.1016/j.chembiol.2014.03.013. Epub 2014 May 22. PMID: 24856822; PMCID: PMC4301571.",
+        "otherId": "NA",
+        "citationId": 253,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

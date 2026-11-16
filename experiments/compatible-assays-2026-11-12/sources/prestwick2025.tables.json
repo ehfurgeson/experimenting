@@ -1,0 +1,153 @@
+[
+  [
+    [
+      "REAGENT or RESOURCE",
+      "SOURCE",
+      "IDENTIFIER"
+    ],
+    [
+      "Chemicals, peptides, and recombinant proteins"
+    ],
+    [
+      ""
+    ],
+    [
+      "Gamborg B5 medium",
+      "Duchefa Biochemie",
+      "G0209"
+    ],
+    [
+      "Sucrose",
+      "Duchefa Biochemie",
+      "S0809"
+    ],
+    [
+      "Sodium hydroxide",
+      "FISHER; RRID:SCR_009181",
+      "1310-73-2"
+    ],
+    [
+      "Mitomycin C (MMC)",
+      "Sigma-Aldrich; RRID:SCR_008988",
+      "M0503"
+    ],
+    [
+      "Dimethyl Sulfoxide",
+      "Sigma-Aldrich; RRID:SCR_008988",
+      "D2650"
+    ],
+    [
+      "Prestwick Chemical Library",
+      "Greenpharma",
+      "PCL1520.10-20-96G"
+    ],
+    [
+      ""
+    ],
+    [
+      "Experimental models: Organisms/strains"
+    ],
+    [
+      ""
+    ],
+    [
+      "Arabidopsis thaliana: wild type",
+      "Accession Columbia (Col-0)",
+      ""
+    ],
+    [
+      "mus81 mutant",
+      "SALK T-DNA insertional line",
+      "SALK_107515"
+    ],
+    [
+      ""
+    ],
+    [
+      "Oligonucleotides"
+    ],
+    [
+      ""
+    ],
+    [
+      "P1",
+      "Eurofins",
+      "5\u2032-CATGCTGACAGTTGAAGGTC-3\u2032"
+    ],
+    [
+      "P2",
+      "Eurofins",
+      "5\u2032-CCTCAAACGTTTCTCCAAAT-3\u2032"
+    ],
+    [
+      "LB-Salk2",
+      "Eurofins",
+      "5\u2032-GCTTTCTTCCCTTCCTTTCTC-3\u2032"
+    ],
+    [
+      ""
+    ],
+    [
+      "Software and algorithms"
+    ],
+    [
+      ""
+    ],
+    [
+      "Prism",
+      "GraphPad",
+      "Prism9"
+    ],
+    [
+      "Fiji",
+      "https://fiji.sc/",
+      ""
+    ],
+    [
+      "MS Ecxel",
+      "Microsoft",
+      "Excel 2019"
+    ],
+    [
+      "PyTorch",
+      "https://pytorch.org/",
+      ""
+    ],
+    [
+      "BIP",
+      "https://andreylab.versailles.inrae.fr/html/bip.html",
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      "Other"
+    ],
+    [
+      ""
+    ],
+    [
+      "Hamilton automated liquid handler system",
+      "Hamilton company",
+      "Microlab STAR"
+    ],
+    [
+      "Zeiss Axiozoom Stereo microscope",
+      "Zeiss France",
+      "Axiozoom.V16"
+    ]
+  ],
+  [
+    [
+      "Z \u2019 f a c t o r = 1 \u2212 3 SD of positive control + 3 SD of negative control Mean of positive control \u2212 Mean of negative control",
+      "(Equation 1)"
+    ]
+  ],
+  [
+    [
+      "Z s c o r e = x \u2212 m e a n S D",
+      "(Equation 2)"
+    ]
+  ]
+]

@@ -1,0 +1,102 @@
+{
+  "aeid": 3071,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:41:44.953697+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/3071",
+  "status": 200,
+  "response": {
+    "aeid": 3071,
+    "assayList": [
+      {
+        "name": "Thyroid Bioactivity",
+        "description": "Assays related to the thyroid adverse outcome pathway network"
+      }
+    ],
+    "assayName": "HCAN_AUR_hTPO",
+    "assayComponentName": "HCAN_AUR_hTPO",
+    "assayComponentEndpointName": "HCAN_AUR_hTPO",
+    "assayComponentEndpointDesc": "Data from the assay component HCAN_AUR_hTPO was analyzed at the endpoint, HCAN_AUR_hTPO, in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of enzyme reporter, the Amplex UltraRed assay, loss-of-signal activity can be used to understand decreased peroxidase activity in the presence of excess hydrogen peroxidase. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the oxidoreductase intended target family, where the subfamily is peroxidase.",
+    "assayFunctionType": "binding",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "methimazole (MMI)",
+    "signalDirection": "loss",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "enzyme",
+    "intendedTargetFamily": "oxidoreductase",
+    "intendedTargetFamilySub": "peroxidase",
+    "cellViabilityAssay": 0,
+    "acid": 2840,
+    "assayComponentDesc": "HCAN_AUR_hTPO is the assay component measured from the HCAN_AUR_hTPO assay. It is designed to make measurements of thyroperoxidase (TPO) activity as detected with fluorescence intensity signals using the Amplex UltraRed technology as a form of enzyme activity reporter.",
+    "assayComponentTargetDesc": "Inhibition of TPO is a well-characterized MIE for adverse thyroid-mediated outcomes. TPO catalyzes iodine oxidation in the presence of hydrogen peroxide, regulates nonspecific iodination of tyrosyl residues of thyroglobulin to form TH precursors, monoiodotyrosine (MIT), and diiodotyrosine (DIT), and modulates coupling of these iodotyrosyl residues. Changes in fluorescence are used to understand TPO inhibition. ",
+    "parameterReadoutType": "single",
+    "assayDesignType": "enzyme reporter",
+    "assayDesignTypeSub": "enzyme activity",
+    "biologicalProcessTarget": "regulation of catalytic activity",
+    "detectionTechnologyType": "fluorescence",
+    "detectionTechnologyTypeSub": "fluorescence intensity",
+    "detectionTechnology": "Fluorescence and electrophoretic mobility shift",
+    "keyAssayReagentType": "substrate",
+    "keyAssayReagent": "substrate",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "enzyme",
+    "aid": 868,
+    "assayDesc": "HCAN_AUR_hTPO is a biochemical, single-readout assay that uses Lenti-TPO, derived from human kidney Lenti-X 293T cells, in a cell-free assay. Measurements were taken 0.5 hour after chemical dosing in a 96-well plate.",
+    "timepointHr": 0.5,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "kidney",
+    "cellFormat": "cell-free",
+    "cellFreeComponentSource": "Lenti-TPO cells",
+    "cellShortName": "Lenti-TPO (Lenti-X 293T with TPO overexpression transgene)",
+    "cellGrowthMode": "NA",
+    "assayFootprint": "microplate: 96-well plate",
+    "assayFormatType": "biochemical",
+    "assayFormatTypeSub": "protein single format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 1.2,
+    "asid": 33,
+    "assaySourceName": "HCAN",
+    "assaySourceLongName": "Health Canada, Healthy Environments and Consumer Safety Branch",
+    "assaySourceDesc": "The Healthy Environments and Consumer Safety Branch (HECSB) is a Materials Transfer Agreement partner to EPA-ORD-CCTE and aims to protect Canadians' health through prevention, oversight, and response by leading research and regulating chemicals, biotechnology products, radiation, environmental contaminants, workplace hazardous products, consumer products, and cosmetics.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "thyroid peroxidase",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 7173,
+        "officialSymbol": "TPO",
+        "officialFullName": "thyroid peroxidase",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1016/j.tiv.2019.104662",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31629072/",
+        "pmid": 31629072,
+        "title": "A rapid assay of human thyroid peroxidase activity",
+        "author": "Dong H, Godlewska M, Wade MG",
+        "citation": "Dong H, Godlewska M, Wade MG. A rapid assay of human thyroid peroxidase activity. Toxicol In Vitro. 2020 Feb;62:104662. doi: 10.1016/j.tiv.2019.104662. Epub 2019 Oct 16. PMID: 31629072.",
+        "otherId": "NA",
+        "citationId": 285,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1016/j.tiv.2024.105946",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39349109/",
+        "pmid": 39349109,
+        "title": "A high throughput screening assay for human Thyroperoxidase inhibitors",
+        "author": "Dong, H., Friedman, K. P., Filiatreault, A., Thomson, E. M., & Wade, M. G. (2024). A high throughput screening assay for human Thyroperoxidase inhibitors. Toxicology in vitro : an international journal published in association with BIBRA, 101, 105946. Advance online publication. https://doi.org/10.1016/j.tiv.2024.105946",
+        "citation": "Dong, H., Friedman, K. P., Filiatreault, A., Thomson, E. M., & Wade, M. G.",
+        "otherId": "NA",
+        "citationId": 348,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

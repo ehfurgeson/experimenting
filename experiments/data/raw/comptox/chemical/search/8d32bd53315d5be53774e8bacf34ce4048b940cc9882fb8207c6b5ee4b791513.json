@@ -1,0 +1,25 @@
+{
+  "search_term": "Cinnamic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:41.820364+00:00",
+  "url": "/chemical/search/equal/Cinnamic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID40110056",
+        "dtxcid": "DTXCID9065316",
+        "casrn": "621-82-9",
+        "preferredName": "Cinnamic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C=CC1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Cinnamic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

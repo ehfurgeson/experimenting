@@ -1,0 +1,37 @@
+{
+  "search_term": "Indole-3-Carboxaldehyde",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:50.666237+00:00",
+  "url": "/chemical/search/equal/Indole-3-Carboxaldehyde",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5060069",
+        "dtxcid": "DTXCID8040640",
+        "casrn": "487-89-8",
+        "preferredName": "1H-Indole-3-carboxaldehyde",
+        "hasStructureImage": 1,
+        "smiles": "O=CC1=CNC2=CC=CC=C12",
+        "isMarkush": false,
+        "searchName": "Synonym from Valid Source",
+        "searchValue": "Indole-3-carboxaldehyde",
+        "rank": 11
+      },
+      {
+        "dtxsid": "DTXSID2045993",
+        "dtxcid": "DTXCID0025993",
+        "casrn": "58-63-9",
+        "preferredName": "Inosine",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C1NC=NC2=O",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Indole-3-carboxaldehyde",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

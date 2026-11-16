@@ -1,0 +1,25 @@
+{
+  "search_term": "Dinoseb",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:05.719261+00:00",
+  "url": "/chemical/search/equal/Dinoseb",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3020207",
+        "dtxcid": "DTXCID30207",
+        "casrn": "88-85-7",
+        "preferredName": "Dinoseb",
+        "hasStructureImage": 1,
+        "smiles": "CCC(C)C1=CC(=CC(=C1O)[N+]([O-])=O)[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Dinoseb",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

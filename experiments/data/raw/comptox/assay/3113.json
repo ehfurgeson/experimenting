@@ -1,0 +1,91 @@
+{
+  "aeid": 3113,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:46:55.678471+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/3113",
+  "status": 200,
+  "response": {
+    "aeid": 3113,
+    "assayList": [
+      {
+        "name": "Non-mammalian Vertebrate",
+        "description": "Assays associated with non-mammalian vertebrate species "
+      }
+    ],
+    "assayName": "ATG_EcoTox2",
+    "assayComponentName": "ATG_jmPPARa_EcoTox2",
+    "assayComponentEndpointName": "ATG_jmPPARa_EcoTox2",
+    "assayComponentEndpointDesc": "The assay endpoint ATG_jmPPARa_EcoTox2 was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of inducible reporter, measures of mRNA for gain-of-signal activity can be used to understand the reporter gene at the transcription factor-level as they relate to the gene PPARa. Furthermore, this assay endpoint can be referred to as a primary readout, because this assay has produced multiple assay endpoints where this one serves a reporter gene function. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the nuclear receptor intended target family, where the subfamily is non-steroidal.",
+    "assayFunctionType": "reporter gene",
+    "normalizedDataType": "log2_fold_induction",
+    "burstAssay": 0,
+    "keyPositiveControl": "GW7647",
+    "signalDirection": "gain",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "transcription factor",
+    "intendedTargetFamily": "nuclear receptor",
+    "intendedTargetFamilySub": "non-steroidal",
+    "cellViabilityAssay": 0,
+    "acid": 2867,
+    "assayComponentDesc": "ATG_jmPPARa_EcoTox2 is one of 29 assay components calculated in the ATG_EcoTox2 assay. It is designed to make measurements of mRNA induction, a form of inducible reporter, as detected with fluorescence intensity signals by Reverse transcription polymerase chain reaction (RT-PCR) and Capillary electrophoresis technology.",
+    "assayComponentTargetDesc": "Changes to fluorescence intensity signals are indicative of inducible changes in transcription factor activity. This is quantified by the level of mRNA reporter sequence unique to the trans-acting reporter gene response element jmPPARg, which is responsive to the japanese medaka (Oryzias latipes) peroxisome proliferator activated receptor alpha. NCBI Reference Sequence: NP_001158347.1]",
+    "parameterReadoutType": "single",
+    "assayDesignType": "inducible reporter",
+    "assayDesignTypeSub": "mRNA induction",
+    "biologicalProcessTarget": "regulation of transcription factor activity",
+    "detectionTechnologyType": "fluorescence",
+    "detectionTechnologyTypeSub": "fluorescence intensity",
+    "detectionTechnology": "RT-PCR and Capillary electrophoresis",
+    "keyAssayReagentType": "inducer",
+    "keyAssayReagent": "gal4-jmPPARa RTU",
+    "technologicalTargetType": "rna",
+    "technologicalTargetTypeSub": "mRNA",
+    "aid": 876,
+    "assayDesc": "ATG_EcoTox2 is a cell-based, multiplexed assay created by modifying the existing Attagene TRANS-FACTORIAL system to include a panel of nuclear receptors from some or all the following species:  human (Homo sapiens), african clawed frog (Xenopus laevis), rainbow trout (Oncorhynchus mykiss), japanese medaka (Oryzias latipes), and zebrafish (Danio rerio). The ECOTOX2-FACTORIAL format uses HepG2, a human liver cell line, with measurements taken at 24 hours after chemical dosing in a 24-well plate. ",
+    "timepointHr": 24.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "liver",
+    "cellFormat": "cell line",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "HepG2",
+    "cellGrowthMode": "adherent",
+    "assayFootprint": "microplate: 24-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "cell-based format",
+    "contentReadoutType": "multiplexed",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": null,
+    "asid": 3,
+    "assaySourceName": "ATG",
+    "assaySourceLongName": "Attagene",
+    "assaySourceDesc": "Attagene Inc. is a Contract Research Organization (CRO) offering a unique screening service using its proprietary multiplexed pathway profiling platform, the FACTORIAL.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "peroxisome proliferator-activated receptor alpha a",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 100304458,
+        "officialSymbol": "pparaa",
+        "officialFullName": "peroxisome proliferator-activated receptor alpha a",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1021/acs.est.8b05304.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30548063/",
+        "pmid": 30548063,
+        "title": "Potential Toxicity of Complex Mixtures in Surface Waters from a Nationwide Survey of United States Streams: Identifying in Vitro Bioactivities and Causative Chemicals.",
+        "author": "Blackwell, B. R., Ankley, G. T., Bradley, P. M., Houck, K. A., Makarov, S. S., Medvedev, A. V., Swintek, J., & Villeneuve, D. L.",
+        "citation": "Blackwell, B. R., Ankley, G. T., Bradley, P. M., Houck, K. A., Makarov, S. S., Medvedev, A. V., Swintek, J., & Villeneuve, D. L. (2019). Potential Toxicity of Complex Mixtures in Surface Waters from a Nationwide Survey of United States Streams: Identifying in Vitro Bioactivities and Causative Chemicals. Environmental science & technology, 53(2), 973-983. https://doi.org/10.1021/acs.est.8b05304",
+        "otherId": "NA",
+        "citationId": 307,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

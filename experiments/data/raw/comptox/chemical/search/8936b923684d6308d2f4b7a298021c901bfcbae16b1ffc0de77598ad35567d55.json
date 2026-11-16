@@ -1,0 +1,25 @@
+{
+  "search_term": "YQUVCSBJEUQKSH-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:53.292872+00:00",
+  "url": "/chemical/search/equal/YQUVCSBJEUQKSH-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID4021212",
+        "dtxcid": "DTXCID601212",
+        "casrn": "99-50-3",
+        "preferredName": "3,4-Dihydroxybenzoic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CC(O)=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "YQUVCSBJEUQKSH-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

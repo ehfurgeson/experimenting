@@ -1,0 +1,713 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 10364,
+    "RecordTitle": "Carvacrol",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Cosmetic Ingredient Review Conclusion",
+                    "Reference": [
+                      "International Journal of Toxicology 25(Suppl. 1):29-127, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "International Journal of Toxicology 25(Suppl. 1):29-127, 2006",
+                        "Matched": {
+                          "PCLID": 906421495,
+                          "Citation": "International Journal of Toxicology 25(Suppl. 1):29-127, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The CIR Expert panel concludes Sodium p-Chloro-m-Cresol, p-Chloro-m-Cresol, Chlorothymol, m-Cresol, o-Cresol, Isopropyl Cresols, Thymol, o-Cymen-5-ol, Cavacrol are safe at concentrations up to 0.5% in cosmetics; however, the available data are insufficient to support the safety of p-Cresol and Mixed Cresols for use in cosmetic products.",
+                          "Markup": [
+                            {
+                              "Start": 31,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sodium%20p-Chloro-m-Cresol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23672305"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/p-Chloro-m-Cresol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1732"
+                            },
+                            {
+                              "Start": 76,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlorothymol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6982"
+                            },
+                            {
+                              "Start": 90,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/m-Cresol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-342"
+                            },
+                            {
+                              "Start": 100,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/o-Cresol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-335"
+                            },
+                            {
+                              "Start": 129,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Thymol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6989"
+                            },
+                            {
+                              "Start": 137,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/o-Cymen-5-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-18597"
+                            },
+                            {
+                              "Start": 282,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/p-Cresol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2879"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Cosmetic Ingredient Review Finding(s)",
+                    "Reference": [
+                      "International Journal of Toxicology 25(Suppl. 1):29-127, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "International Journal of Toxicology 25(Suppl. 1):29-127, 2006",
+                        "Matched": {
+                          "PCLID": 906421495,
+                          "Citation": "International Journal of Toxicology 25(Suppl. 1):29-127, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Safe for use in cosmetics, with qualifications"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Effects During Pregnancy and Lactation",
+                "Description": "Drug effects during pregnancy and lactation.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "◉ Summary of Use during Lactation"
+                        },
+                        {
+                          "String": "Oregano (Origanum vulgare) leaves and oil contain carvacrol, thymol, eugenol and rosmarinic acid. Oregano has been used in medicinal doses for respiratory and gastrointestinal disorders and as an antimicrobial. Oregano oil has been advocated as a treatment for lactation-related Candida infection of the nipples; however, no clinical studies have confirmed the safety or efficacy of this use. Oregano has been used as a galactogogue in Türkiye. No data exist on the safety or efficacy of oregano in nursing mothers or infants. Oregano and oregano oil are \"generally recognized as safe\" (GRAS) as food ingredients by the U.S. Food and Drug Administration. Oregano is generally well tolerated, but gastrointestinal upset and allergic skin reactions have been reported rarely. Because of a lack of data, oregano in amounts higher than those found in foods as a flavoring should probably be avoided during breastfeeding.",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carvacrol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10364"
+                            },
+                            {
+                              "Start": 61,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/thymol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6989"
+                            },
+                            {
+                              "Start": 69,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/eugenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3314"
+                            },
+                            {
+                              "Start": 81,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/rosmarinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281792"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Dietary supplements do not require extensive pre-marketing approval from the U.S. Food and Drug Administration. Manufacturers are responsible to ensure the safety, but do not need to prove the safety and effectiveness of dietary supplements before they are marketed. Dietary supplements may contain multiple ingredients, and differences are often found between labeled and actual ingredients or their amounts. A manufacturer may contract with an independent organization to verify the quality of a product or its ingredients, but that does not certify the safety or effectiveness of a product. Because of the above issues, clinical testing results on one product may not be applicable to other products. More detailed information about dietary supplements is available elsewhere on the LactMed Web site."
+                        },
+                        {
+                          "String": "◉ Effects in Breastfed Infants"
+                        },
+                        {
+                          "String": "Relevant published information was not found as of the revision date."
+                        },
+                        {
+                          "String": "◉ Effects on Lactation and Breastmilk"
+                        },
+                        {
+                          "String": "Relevant published information was not found as of the revision date."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 33,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Neurotoxin - Other CNS neurotoxin"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134977964"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 24,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 24,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 24,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "OPDYKE DL J; MONGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "OPDYKE DL J; MONGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)",
+                        "Matched": {
+                          "PCLID": 900154978,
+                          "Citation": "OPDYKE DL J; MONGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TECHNICAL GRADE (1.0 & 0.1% IN ETHANOL) PRODUCED POS PATCH TESTS IN PT WITH ACUTE DERMATITIS OF FACE, BUT NO POS RESPONSES IN CONTROL SUBJECTS. TESTED @ 4% IN PETROLATUM, IT PRODUCED NO IRRITATION AFTER 48-HR.",
+                          "Markup": [
+                            {
+                              "Start": 31,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ETHANOL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 34,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)",
+                        "Matched": {
+                          "PCLID": 900021134,
+                          "Citation": "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CARVACROL SHOWED MODERATE CYTOTOXIC EFFECTS IN HELA CELLS.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CARVACROL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10364"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gosselin, R.E., H.C. Hodge, R.P. Smith, and M.N. Gleason. Clinical Toxicology of Commercial Products. 4th ed. Baltimore: Williams and Wilkins, 1976., p. II-126"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gosselin, R.E., H.C. Hodge, R.P. Smith, and M.N. Gleason. Clinical Toxicology of Commercial Products. 4th ed. Baltimore: Williams and Wilkins, 1976., p. II-126",
+                        "Matched": {
+                          "PCLID": 900072066,
+                          "Citation": "Gosselin, R.E., H.C. Hodge, R.P. Smith, and M.N. Gleason. Clinical Toxicology of Commercial Products. 4th ed. Baltimore: Williams and Wilkins, 1976., p. II-126"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SOMEWHAT MORE TOXIC THAN THYMOL IN RATS & RABBITS.",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/THYMOL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6989"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 34,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "ERCEGOVICH CD, RASHID KA; MUTAGENESIS INDUCED IN MUTANT STRAINS OF SALMONELLA TYPHIMURIUM BY PESTICIDES; AMER CHEM SOC ABSTR PAP 174: PEST NO 43 (1977)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "ERCEGOVICH CD, RASHID KA; MUTAGENESIS INDUCED IN MUTANT STRAINS OF SALMONELLA TYPHIMURIUM BY PESTICIDES; AMER CHEM SOC ABSTR PAP 174: PEST NO 43 (1977)",
+                        "Matched": {
+                          "PCLID": 900126002,
+                          "Citation": "ERCEGOVICH CD, RASHID KA; MUTAGENESIS INDUCED IN MUTANT STRAINS OF SALMONELLA TYPHIMURIUM BY PESTICIDES; AMER CHEM SOC ABSTR PAP 174: PEST NO 43 (1977)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EVALUATED FOR MUTAGENIC EFFECTS TO 5 STRAINS OF SALMONELLA TYPHIMURIUM EMPLOYING PROCEDURES DESCRIBED BY AMES, ISOTHYMOL HAD PRONOUNCED MUTAGENICITY.",
+                          "Markup": [
+                            {
+                              "Start": 111,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ISOTHYMOL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-78153"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 34,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)",
+                        "Matched": {
+                          "PCLID": 900021134,
+                          "Citation": "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CARVACROL APPLIED FULL STRENGTH TO INTACT OR ABRADED RABBIT SKIN FOR 24 HR UNDER OCCLUSION WAS SEVERELY IRRITATING.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CARVACROL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10364"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 34,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)",
+                        "Matched": {
+                          "PCLID": 900021134,
+                          "Citation": "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "WHEN MIXT OF 93% CARVACROL & 7% THYMOL IN ARACHIS OIL WAS ADMIN BY GASTRIC INTUBATION TO CFE STRAIN RATS IN SINGLE DOSE OF 1.5 MMOL/KG, SLIGHT INCR IN PRODUCTION OF LIVER BIPHENYL-4-HYDROXYLASE WAS NOTED.",
+                          "Markup": [
+                            {
+                              "Start": 17,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CARVACROL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10364"
+                            },
+                            {
+                              "Start": 32,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/THYMOL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6989"
+                            },
+                            {
+                              "Start": 171,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BIPHENYL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-7095"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 34,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)",
+                        "Matched": {
+                          "PCLID": 900021134,
+                          "Citation": "OPDYKE DL J; MONOGRAPHS ON FRAGRANCE RAW MATERIALS. CARVACROL; FOOD COSMET TOXICOL 17 (SUPPL) 743 (1979)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CARVACROL SHOWED PAPAVERINE-LIKE ANTISPASMODIC ACTION ON ISOLATED SMALL INTESTINE OF MOUSE. ADDED TO BOVINE SEMINAL VESICLE MICROSOMES @ 4.1 UG/ML, IT INHIBITED THE IN VITRO FORMATION OF PROSTAGLANDIN E1 BY 50%.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CARVACROL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10364"
+                            },
+                            {
+                              "Start": 17,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PAPAVERINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4680"
+                            },
+                            {
+                              "Start": 187,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PROSTAGLANDIN%20E1",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280723"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "The Merck Index. 9th ed. Rahway, New Jersey: Merck & Co., Inc., 1976., p. 238"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "The Merck Index. 9th ed. Rahway, New Jersey: Merck & Co., Inc., 1976., p. 238",
+                        "Matched": {
+                          "PCLID": 900093198,
+                          "Citation": "The Merck Index. 9th ed. Rahway, New Jersey: Merck & Co., Inc., 1976., p. 238"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "FOUND IN OIL OF ORIGANUM, THYME, MARJORAM, SUMMER SAVORY..."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 34,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Fenaroli's Handbook of Flavor Ingredients. Volume 2. Edited, translated, and revised by T.E. Furia and N. Bellanca. 2nd ed. Cleveland: The Chemical Rubber Co., 1975., p. 83"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Fenaroli's Handbook of Flavor Ingredients. Volume 2. Edited, translated, and revised by T.E. Furia and N. Bellanca. 2nd ed. Cleveland: The Chemical Rubber Co., 1975., p. 83",
+                        "Matched": {
+                          "PCLID": 900144469,
+                          "Citation": "Fenaroli's Handbook of Flavor Ingredients. Volume 2. Edited, translated, and revised by T.E. Furia and N. Bellanca. 2nd ed. Cleveland: The Chemical Rubber Co., 1975., p. 83"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "OCCURS IN BARK OIL OF THUJA ARTICULATA, CAMPHOR OIL, IN OILS OF MONARDA CITRIODORA & MONARDA FISTULOSA, IN SOME SPECIES OF SATUREJA, IN OIL OF VARIOUS SPECIES OF ORIGANUM, THYME, THYMBRA SPICATA L, IN SEED OIL OF PTYCHOTIS AJOWAN DC, & OTHERS."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Carvacrol$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Carvacrol$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Carvacrol$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Carvacrol$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134977964",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000499752",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19467967
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "Cosmetic Ingredient Review (CIR)",
+        "SourceID": "40c4ff5c-042b-42ed-a9f4-28b5e6646e97",
+        "Name": "Carvacrol",
+        "Description": "The Cosmetic Ingredient Review (CIR) studies individual chemical compounds as they are used in cosmetic products. CIR relies heavily on the International Nomenclature of Cosmetic Ingredients (INCI) when identifying the ingredients to be assessed. The Expert Panel for Cosmetic Ingredient Safety (Panel) assess the safety of ingredients for use in cosmetics. The function of an ingredient in cosmetics is noted. The Panel reviews the data relevant to the safety of an ingredient and concludes whether an ingredient is safe in cosmetics in the present practices of use and concentration described in a safety assessment.",
+        "URL": "https://cir-reports.cir-safety.org/cir-ingredient-status-report/?id=40c4ff5c-042b-42ed-a9f4-28b5e6646e97",
+        "LicenseURL": "https://cir-safety.org/terms-use",
+        "ANID": 38997378
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "Drugs and Lactation Database (LactMed)",
+        "SourceID": "LM929",
+        "Name": "Oregano",
+        "Description": "The LactMed(R) database contains information on drugs and other chemicals to which breastfeeding mothers may be exposed. https://www.ncbi.nlm.nih.gov/books/NBK501922/",
+        "URL": "https://www.ncbi.nlm.nih.gov/books/n/lactmed/LM929/",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 24797493
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "32df038597a6d6b4157b1a20d7379b13",
+        "Name": "Carvacrol",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49733758
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID6042074",
+        "Name": "Isopropyl-o-cresol",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57023551
+      },
+      {
+        "ReferenceNumber": 33,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz4240",
+        "Name": "Carvacrol",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17278964
+      },
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "906",
+        "Name": "CARVACROL",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/906",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 819
+      }
+    ]
+  }
+}

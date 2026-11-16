@@ -1,0 +1,25 @@
+{
+  "search_term": "Paraquat",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:02.588026+00:00",
+  "url": "/chemical/search/equal/Paraquat",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3034799",
+        "dtxcid": "DTXCID1014799",
+        "casrn": "4685-14-7",
+        "preferredName": "Paraquat",
+        "hasStructureImage": 1,
+        "smiles": "C[N+]1=CC=C(C=C1)C1=CC=[N+](C)C=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Paraquat",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

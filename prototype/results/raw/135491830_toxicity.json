@@ -1,0 +1,2421 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 135491830,
+    "RecordTitle": "Sethoxydim",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=190",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sethoxydim"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Critical Effect Systems",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hematologic"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Reference Dose (RfD), chronic",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "9 x 10 ^-2 mg/kg-day"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Not Likely to be Carcinogenic in Humans"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 32,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hematologic"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135011240"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 28,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.8"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 28,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 28,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.14000000000000001"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 28,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document?D=EPA-HQ-OPP-2014-0161-0006",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Sethoxydim"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.8"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "12000"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Children"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.14"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "830"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 20,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) = 6,280 mg/m3/4h"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C-425"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C-425",
+                            "Matched": {
+                              "PCLID": 906285376,
+                              "Citation": "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C-425"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 3200-3500 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C-425"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C-425",
+                            "Matched": {
+                              "PCLID": 906285376,
+                              "Citation": "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C-425"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat dermal >5000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "63 FR 41828 (8/5/1998)"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "63 FR 41828 (8/5/1998)",
+                            "Matched": {
+                              "PCLID": 900140149,
+                              "Citation": "63 FR 41828 (8/5/1998)"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat (male) oral 3125 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "63 FR 41828 (8/5/1998)"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "63 FR 41828 (8/5/1998)",
+                            "Matched": {
+                              "PCLID": 900140149,
+                              "Citation": "63 FR 41828 (8/5/1998)"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat (female) oral 2676 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "For more Non-Human Toxicity Values (Complete) data for SETHOXYDIM (8 total), please visit the HSDB record page.",
+                              "Markup": [
+                                {
+                                  "Start": 94,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7342#section=Non-Human-Toxicity-Values-(Complete)"
+                                },
+                                {
+                                  "Start": 55,
+                                  "Length": 10,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SETHOXYDIM",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-135491830"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123",
+                        "Matched": {
+                          "PCLID": 900072062,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Skin contamination should be treated promptly by washing with soap and water. Contamination of the eyes should be treated immediately by prolonged flushing of the eyes with large amounts of clean water. If dermal or ocular irritation persists medical attention should be obtained without delay. /Other Herbicides/",
+                          "Markup": [
+                            {
+                              "Start": 71,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 196,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123",
+                        "Matched": {
+                          "PCLID": 900072062,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ingestions of these herbicides are likely to be followed by vomiting and diarrhea due to the irritant properties. ... Activated charcoal is probably effective in limiting irritant effects and reducing absorption of most or all of these herbicides. Aluminum hydroxide antacids may be useful in neutralizing the irritant actions of most acidic agents. Sorbitol should be given to induce catharsis if bowel sounds are present and if spontaneous diarrhea has not already commenced. Dehydration and electrolyte disturbances may be severe enough to require intravenous fluids. There are no specific antidotes for poisoning by these herbicides. ... If large amounts of herbicide have been ingested and the patient is seen within an hour of the ingestion, gastrointestinal decontamination should be considered.  /Other Herbicides/",
+                          "Markup": [
+                            {
+                              "Start": 128,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 248,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Aluminum%20hydroxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10176082"
+                            },
+                            {
+                              "Start": 350,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sorbitol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5780"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 124"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 124",
+                        "Matched": {
+                          "PCLID": 906275439,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 124"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "If serious dehydration and electrolyte depletion have occurred as a result of vomiting and diarrhea, monitor blood electrolytes and fluid balence and administer intravenous infusions of glucose, normal saline, Ringers solution, or Ringers lactate to restore extracellular fluid volume and electrolytes. Follow this with oral nutrients as soon as fluids can be retained. Supportive measures are ordinarily sufficient for successful management of excessive exposure to these herbicides. If the patients condition deteriorates in spite of good supportive care, the operation of an alternative or additional toxicant should be suspected. /Other Herbicides/",
+                          "Markup": [
+                            {
+                              "Start": 186,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glucose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5793"
+                            },
+                            {
+                              "Start": 195,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/normal%20saline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5234"
+                            },
+                            {
+                              "Start": 239,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lactate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91435"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Sethoxydim (74051-80-2) as of April 18, 2005."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Sethoxydim (74051-80-2) as of April 18, 2005.",
+                        "Matched": {
+                          "PCLID": 900137808,
+                          "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Sethoxydim (74051-80-2) as of April 18, 2005."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Sethoxydim (95.9% purity) was admixed in the feed at concentrations of 0, 33, 100, 300, 900 and 2700 ppm and fed to 20 Wistar rats/sex/group for 14 weeks. Body weight gain was reduced 17% and 14% for high dose males and females, respectively. Total cholesterol, bilirubin levels, and liver weights were elevated at 900 to 2700 ppm. Swollen liver cells were increased in dose-related fashion in 900 ppm to 2700 ppm males. High dose females were similarly affected, but at lower incidence. Apparent NOEL was 300 ppm, estimated to be about 20 and 21 mg/kg/day in males and females, respectively.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 305,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cholesterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5997"
+                            },
+                            {
+                              "Start": 318,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bilirubin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280352"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "63 FR 41828 (8/5/1998)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "63 FR 41828 (8/5/1998)",
+                        "Matched": {
+                          "PCLID": 900140149,
+                          "Citation": "63 FR 41828 (8/5/1998)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A 21 day dermal study in rabbits with a NOAEL of </= 1,000 mg/kg/day limit dose (LD). The only dose-related finding was slight epidermal hyperplasia at the dosing site in nearly all males and females dosed at 1,000 mg/kg/day. This was probably an adaptive response."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Sethoxydim (74051-80-2) as of April 18, 2005."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Sethoxydim (74051-80-2) as of April 18, 2005.",
+                        "Matched": {
+                          "PCLID": 900137808,
+                          "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Sethoxydim (74051-80-2) as of April 18, 2005."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ NP-55 (sethoxydim), ...96.86% purity, was administered to beagle dogs in the diet at 0, 300, 600 or 3600 ppm for 1 year, 6/sex/group, in a standard chronic study. Achieved doses were 0, 8.86, 17.5 and 110 mg/kg/day for males and 0, 9.41, 19.9 and 129 mg/kg/day for females. A functional NOEL=300 ppm, with plausibly treatment-related findings of no obvious health significance at 300 ppm in livers of males: a \"ground glass\" appearance of hepatocellular cytoplasm was dose-related at and above 300 ppm in males and 600 ppm in females. Alkaline phosphatase was elevated in 600 ppm males. Liver-related findings at 3600 ppm, usually in both sexes, included the above findings, plus elevated liver weight, elevated alanine aminotransferase, and reduced calcium, albumin, and cholesterol. Hemosiderosis was unaffected in females, but appeared elevated in spleens of males, based on the original study report. This was not confirmed upon blind re-evaluation of the slides... . There was a dose-related decrement in /red blood cell/ (RBC) parameters (RBC count, /hematocrit/ (HCT), and /hemoglobin/ (Hb)) at 600-3600 ppm in males, however no clinical signs of anemia were evident at any dose level.",
+                          "Markup": [
+                            {
+                              "Start": 65,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 770,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5950"
+                            },
+                            {
+                              "Start": 830,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cholesterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5997"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Sethoxydim (74051-80-2) as of April 18, 2005."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Sethoxydim (74051-80-2) as of April 18, 2005.",
+                        "Matched": {
+                          "PCLID": 900137808,
+                          "Citation": "California Environmental Protection Agency/Department of Pesticide Regulation; Toxicology  Data Review Summaries. Available from: https://www.cdpr.ca.gov/docs/toxsums/toxsumlist.htm on Sethoxydim (74051-80-2) as of April 18, 2005."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Sethoxydim, ...95.4%, was administered to BDF1 mice in the diet for 2 years at 0, 40, 120, 360 or 1080 ppm, 60/sex/treated group, 90/sex/control group. An additional 10/sex/group were sacrificed at 1 yr for interim histopathology evaluation. NOEL=120 ppm. Primary findings were increased liver weight and fatty degeneration of liver in both sexes at 1080 ppm: the latter also in 360 ppm males. Males at 1080 ppm had a body weight decrease despite increased food consumption, and also increased /serum glutamic oxaloacetic transaminase/ (SGOT) and /serum pyruvic transaminase/ (SGPT) values. No treatment-related oncogenicity.",
+                          "Markup": [
+                            {
+                              "Start": 58,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for SETHOXYDIM (12 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 97,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7342#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SETHOXYDIM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "TSCA Test Submissions",
+                "Description": "Under the Toxic Substances Control Act (TSCA), EPA has broad authority to issue regulations designed to require manufacturers (including importers) or processors to test chemical substances and mixtures for health and environmental effects.  This section provides information on test reports submitted for this chemical under TSCA.",
+                "URL": "https://www.epa.gov/assessing-and-managing-chemicals-under-tsca",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "BASF Wyandotte Corp; Chronic Feeding Study of NP-55 in the Mouse (Interim Report); EPA Doc. No. 8EHQ-0592-4381; Fiche No. OTS0539611"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "BASF Wyandotte Corp; Chronic Feeding Study of NP-55 in the Mouse (Interim Report); EPA Doc. No. 8EHQ-0592-4381; Fiche No. OTS0539611",
+                        "Matched": {
+                          "PCLID": 900148908,
+                          "Citation": "BASF Wyandotte Corp; Chronic Feeding Study of NP-55 in the Mouse (Interim Report); EPA Doc. No. 8EHQ-0592-4381; Fiche No. OTS0539611"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sethoxydim (NP-55) (CAS RN 74051-80-2) was evaluated for toxicity when administered to BD (C57BL/6 x DBA) mice (70/sex/group; control group had 100/sex) in the diet at dose levels of 0, 40, 120, 360, and 1080 ppm. At week 52 of a 104-week study, there were no clinical signs of toxicity reported. A total of 10 mortalities, cause unrelated to treatment, was noted for all groups (1-2 per group), including 1 control male. Mean body weight change for males and females in the 1080 ppm group was significantly different (decreased) from controls, and food consumption was increased. Water consumption for all groups was not affected by treatment. Hematological parameters showed no dose-related effects for all groups, but analysis of blood chemistry revealed decreased glucose levels in males receiving 1080 ppm, decreased A/G ratio in males from the 360 and 1080 ppm groups, and females receiving 40 and 120 ppm NP-55 showed an increased ALP. Necropsy at interim sacrifice (52 weeks) revealed greater absolute and relative (to body weight) liver and spleen weights in males from the 1080 ppm group as compared to controls and females in the 360 and 1080 ppm groups showed a significantly greater liver/body weight ratio. Microscopic examination revealed swollen cells and fatty degeneration in the livers of the 360 and 1080 ppm groups. The interim NOAEL under the conditions of this study was considered to be 120 ppm.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 27,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/74051-80-2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 581,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 768,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glucose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5793"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "BASF Corporation; Teratogenicity Study of NP-55 in the Rat; EPA Doc. No. 8EHQ-0592-4427; Fiche No. OTS0539657"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "BASF Corporation; Teratogenicity Study of NP-55 in the Rat; EPA Doc. No. 8EHQ-0592-4427; Fiche No. OTS0539657",
+                        "Matched": {
+                          "PCLID": 900018064,
+                          "Citation": "BASF Corporation; Teratogenicity Study of NP-55 in the Rat; EPA Doc. No. 8EHQ-0592-4427; Fiche No. OTS0539657"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sethoxydim (NP-55) (CAS RN 74051-80-2) was evaluated for developmental toxicity in SPF Sprague-Dawley rats. Groups of 24 pregnant females were administered 2 ml of 40, 100, or 250 mg/kg body weight/day of NP-55 suspended in a 1% sodium carboxymethyl cellulose aqueous solution with 0.1% Tween 80 by oral gavage. Two control groups, vehicle and positive controls, were given an equivalent volume of vehicle only or 200 mg/kg of acetylsalicylic acid (aspirin) suspended in the vehicle. Dosing took place on days 7-17 of gestation, with terminal sacrifice on day 21. No mortalities or clinical signs of maternal toxicity were reported for any group. Significant decreases in body weight gain were noted in dams receiving 100 and 250 mg/kg of NP-55 but there was no difference in net weight gain at sacrifice when compared with controls. The mean absolute weight of the adrenal glands was significantly reduced in females receiving 100 mg/kg NP-55, while the 250 mg/kg group showed increased mean absolute and relative liver weights and decreased mean and absolute adrenal weights. No significant changes were reported for spleen, kidney, or ovary mean and absolute weights in any groups receiving NP-55. Females treated with aspirin showed decreased body weight gain on days 16-19, but net body weight gain was reported as being increased at terminal sacrifice when compared to controls. Mean absolute and relative liver and spleen weights were increased, while those of the adrenal glands were significantly decreased in females treated with 200 mg/kg aspirin. Mean implantation sites, corpora lutea, sex ratio, and litter size were not affected by treatment at any dose level. There was a low, non-dose related incidence (0.3%-0.7%) of external variations in all NP-55 treated groups, however, fetuses from the aspirin group showed significantly higher incidence of craniorachischisis (5.1%) over controls and NP-55 treated groups. A slight increase over controls in the incidence of a 14th rudimentary rib in fetuses from the 250 mg/kg group was reported, but there was no evidence of a dose relationship.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 27,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/74051-80-2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 229,
+                              "Length": 30,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20carboxymethyl%20cellulose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6328154"
+                            },
+                            {
+                              "Start": 427,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylsalicylic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2244"
+                            },
+                            {
+                              "Start": 449,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspirin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2244"
+                            },
+                            {
+                              "Start": 1222,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspirin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2244"
+                            },
+                            {
+                              "Start": 1550,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspirin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2244"
+                            },
+                            {
+                              "Start": 1810,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspirin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2244"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 71
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one (74051-80-2). Available from, as of April 20, 2005"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one (74051-80-2). Available from, as of April 20, 2005",
+                        "Matched": {
+                          "PCLID": 900122587,
+                          "Citation": "2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one (74051-80-2). Available from, as of April 20, 2005"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Anas platyrhynchos (Mallard duck, mature) oral 2510 mg/kg/14 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-[1-(Ethoxyimino)butyl]-5-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one (74051-80-2). Available from, as of April 20, 2005"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one (74051-80-2). Available from, as of April 20, 2005",
+                        "Matched": {
+                          "PCLID": 900122587,
+                          "Citation": "2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one (74051-80-2). Available from, as of April 20, 2005"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Anas platyrhynchos (Mallard duck, 14 days) dietary >5620 ppm/8 days[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-[1-(Ethoxyimino)butyl]-5-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin CDS, ed. Sethoxydim (74051-80-2). In: The e-Pesticide Manual, 13th Edition Version 3.0 (2003-04). Surrey UK, British Crop Protection Council."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin CDS, ed. Sethoxydim (74051-80-2). In: The e-Pesticide Manual, 13th Edition Version 3.0 (2003-04). Surrey UK, British Crop Protection Council.",
+                        "Matched": {
+                          "PCLID": 900020668,
+                          "Citation": "Tomlin CDS, ed. Sethoxydim (74051-80-2). In: The e-Pesticide Manual, 13th Edition Version 3.0 (2003-04). Surrey UK, British Crop Protection Council."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Coturnix japonica (Japanese quail) oral >5000 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one (74051-80-2). Available from, as of April 20, 2005"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one (74051-80-2). Available from, as of April 20, 2005",
+                        "Matched": {
+                          "PCLID": 900122587,
+                          "Citation": "2-(ethylthio)propyl]-3-hydroxy-2-cyclohexen-1-one (74051-80-2). Available from, as of April 20, 2005"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Apis mellifera (Honey bee) topical, general 10 ug/bee/48 hr[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-[1-(Ethoxyimino)butyl]-5-"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for SETHOXYDIM (8 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 87,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7342#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SETHOXYDIM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "8.80e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.10e+05"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.60e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5.00e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.40e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.40e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.70e+04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.40e+05"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.80e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5.00e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.40e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sethoxydim's production may result in its release to the environment through various waste streams; it's use as a herbicide will result in its direct release to the environment. If released to air, a vapor pressure of 1.6X10-7 mm Hg at 20-25 °C indicates sethoxydim will exist in both the vapor and particulate phases atmosphere. Vapor-phase sethoxydim will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 1 day. Particulate-phase sethoxydim will be removed from the atmosphere by wet and dry deposition. Sethoxydim has been shown to be stable to light. If released to soil, sethoxydim is expected to have moderate mobility based upon an estimated Koc of 190; however, very little leaching of sethoxydim into soil has been reported. Based on a reported half-lives of 4 weeks in clay and 2 weeks in sandy loam, biodegradation may be an important environmental fate process in soil. Volatilization from water and moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 2.2X10-11 atm-cu m/mole. Sethoxydim will not volatilize from dry soil surfaces based upon its vapor pressure. If released into water, sethoxydim is expected to adsorb to suspended solids and sediment based upon the estimated Koc. An estimated BCF of 11 suggests the potential for bioconcentration in aquatic organisms is low. Sethoxydim has reported hydrolysis half-lives in water of 1.6, 45, and 438 days at pH 3, 6, and 9, respectively. Occupational exposure to sethoxydim may occur through dermal contact with this compound at workplaces where sethoxydim is produced or used.  (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 255,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 342,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 430,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 532,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 606,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 676,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 794,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 1002,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1153,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 1255,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1262,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 1454,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 1503,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1592,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 1675,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sethoxydim's production may result in its release to the environment through various waste streams; it's use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(4) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(5) Wauchope et al.; Rev Environ Contam Toxicol 123: 1-36 (1991)",
+                      "(6) Smith AE; Environ Behavior Pesticide Regulation Aspects. European Study Ser. pp. 349-354 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(5) Wauchope et al.; Rev Environ Contam Toxicol 123: 1-36 (1991)"
+                      },
+                      {
+                        "Citation": "(6) Smith AE; Environ Behavior Pesticide Regulation Aspects. European Study Ser. pp. 349-354 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 190(SRC), determined from a log Kow of 1.65(2) and a regression-derived equation(3), indicates that sethoxydim is expected to have moderate mobility in soil(SRC). Volatilization of sethoxydim from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 2.2X10-11 atm-cu m/mole(SRC), using a fragment constant estimation method(4). Sethoxydim is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of 1.6X10-7 mm Hg(5). Based on a reported half-lives of 4 weeks in clay and 2 weeks in sandy loam(6), biodegradation may be an important factor in the environmental fate of sethoxydim in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 181,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 262,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 472,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 742,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Koskinen et al; Weed Science 41: 634-640 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Koskinen et al; Weed Science 41: 634-640 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Field dissipation studies of sethoxydim were conducted on three different types of soils in Minnesota, Sandy loam from Westport, MN, silt loam from Rochester MN and clay loam from Waseca, MN. Sethoxydim was applied to corn corps at the rate of 0.3 kg/hr. Applications were made in June 1989 and June 1990. 37%, 51%, and 29% of the initial concentration of 100 ug/kg of sethoxydim to soil was found in sandy loam, silt loam, and clay loam, respectively, 29 days after treatment in 1989 while in 1990 86%, 52% ,and 24%, respectively, of sethoxydim remained in the same soils 21 days after treatment(1). Most of the compound was found at depths of 0-15 cm. 173 days after application trace amounts of the compound were detected(1).",
+                          "Markup": [
+                            {
+                              "Start": 47,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 210,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 387,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 553,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(4) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(6) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(7) Flury M; J Environ Qual 25: 25-45 (1996)",
+                      "(8) Smith AE; Environ Behavior Pesticide Regulation Aspects. European Study Ser. pp. 349-354 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(6) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(7) Flury M; J Environ Qual 25: 25-45 (1996)"
+                      },
+                      {
+                        "Citation": "(8) Smith AE; Environ Behavior Pesticide Regulation Aspects. European Study Ser. pp. 349-354 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 190(SRC), determined from a log Kow of 1.65(2)and a regression-derived equation(3), indicates that sethoxydim is expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(3) based upon an estimated Henry's Law constant of 2.2X10-11 atm-cu m/mole(SRC), developed using a fragment constant estimation method(4). According to a classification scheme(5), an estimated BCF of 11(SRC), from its known log Kow(2) and a regression-derived equation(6), suggests the potential for bioconcentration in aquatic organisms is low(SRC). Hydrolysis may be an important factor in the environmental fate of sethoxydim which had reported half-lives of 1.6, 45, and 438 days at pH 3, 6, and 9, respectively(7). Based on a reported half-life of 4 weeks in clay and 2 weeks in sandy loam(8), biodegradation may be an important environmental fate process in water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 176,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 268,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 717,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 963,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Wauchope et al; Rev Environ Contam Toxicol 123: 1-36 (1991)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(4) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)",
+                      "(5) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Wauchope et al; Rev Environ Contam Toxicol 123: 1-36 (1991)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)"
+                      },
+                      {
+                        "Citation": "(5) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), sethoxydim, which has a vapor pressure of 1.6X10-7 mm Hg at 20-25 deg(2), will exist in both the vapor and particulate phases in the atmosphere. Vapor-phase sethoxydim is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 1 day(SRC), calculated from its rate constant of 1.5X10-10 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(3). The rate constant for the vapor-phase reaction of sethoxydim with ozone has been estimated as 1.1X10-17 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(3). This corresponds to an atmospheric half-life of about 1 day at an atmospheric concentration of 7X10+11 ozone molecules per cu cm(4). Particulate-phase sethoxydim may be removed from the air by wet and dry deposition(SRC). Sethoxydim has been shown to be stable to light(5).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 281,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 364,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 645,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 661,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 892,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 940,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 1011,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Smith AE; Environ Behavior Pesticide Regulation Aspects. European Study Ser. pp. 349-354 (1994)",
+                      "(2) Roslycky EB; Can J Soil Sci 66: 411-9 (1986)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Smith AE; Environ Behavior Pesticide Regulation Aspects. European Study Ser. pp. 349-354 (1994)"
+                      },
+                      {
+                        "Citation": "(2) Roslycky EB; Can J Soil Sci 66: 411-9 (1986)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: When incubated in Saskatchewan soils at 20 °C and 85% field capacity, sethoxydim half-lives of 4 and 2 weeks in clay and sandy loam, respectively, were reported(1). Less than 5% of sethoxydim was carried over into the field during the next crop year(1). Sethoxydim was applied to soil comprised of 53% sand, 40% silt, and 7% clay at a rate of 0.8-4.4 L/hr. The soil was treated with sethoxydim on days 1, 3, 6, 10, and weekly until day 49 and then biweekly until day 120. Microbial media of 239 different strains from 44 different species were then fed the soil. A half-life of 50 days was observed when sethoxydim was applied in concentrations of 1 and 5 ug/g soil(2).",
+                          "Markup": [
+                            {
+                              "Start": 79,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 190,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 263,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 392,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 613,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)",
+                      "(3) Flury M; J Environ Qual 25: 25-45 (1996)",
+                      "(4) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)"
+                      },
+                      {
+                        "Citation": "(3) Flury M; J Environ Qual 25: 25-45 (1996)"
+                      },
+                      {
+                        "Citation": "(4) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of sethoxydim with photochemically-produced hydroxyl radicals has been estimated as 1.5X10-10 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 1 day at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). The rate constant for the vapor-phase reaction of sethoxydim with ozone has been estimated as 1.1X10-17 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(1). This corresponds to an atmospheric half-life of about 1 day at an atmospheric concentration of 7X10+11 ozone molecules per cu cm(2). Sethoxydim has reported half-lives in water of 1.6, 45 and 438 days at pH 3, 6, and 9, respectively(3). Sethoxydim has been shown to be stable to light(4). At 10 mg/L, the half-life is 5.5 days when illuminated for 12 hours/day with a xenon lamp at 25 deg and pH 8.7(4).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 91,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 316,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 398,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 414,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 645,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 675,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 713,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 779,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 910,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Xenon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Xenon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Vern 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Vern 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 11 was calculated for sethoxydim(SRC), using a log Kow of 1.65(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low.",
+                          "Markup": [
+                            {
+                              "Start": 42,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(4) Koskinen et al; Weed Science 41: 634-640 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual. Sethoxydim. 13th ed. PC CD-ROM, Ver 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(4) Koskinen et al; Weed Science 41: 634-640 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of sethoxydim is estimated as 190(SRC), using a log Kow of 1.65(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that sethoxydim is expected to have moderate mobility in soil. Soil studies of sethoxydim have found little evidence of soil leaching. In a field study, the majority of sethoxydim was found in the first 15 cm of soil; samples were taken at day 0, 7, 21,73 and 138(4).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 193,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 267,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 357,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)",
+                      "(3) Wauchope et al; Rev Environ Contam Toxicol 123: 1-36 (1991)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Wauchope et al; Rev Environ Contam Toxicol 123: 1-36 (1991)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for sethoxydim is estimated as 2.2X10-11 atm-cu m/mole(SRC) using a fragment constant estimation method(1). This Henry's Law constant indicates that sethoxydim is expected to be essentially nonvolatile from moist soil(SRC) and water surfaces(2). Sethoxydim is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of 1.6X10-7 mm Hg(3).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 174,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 252,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 271,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Sediment/Soil Concentrations",
+                "Description": "Concentrations of this compound in sediment/soil. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:8130408",
+                      "(1) Melluso G et al; Bull Environ Contam Toxicol 52: 13-18 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:8130408",
+                        "Matched": {
+                          "PCLID": 906283051,
+                          "Citation": "PMID:8130408"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Melluso G et al; Bull Environ Contam Toxicol 52: 13-18 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SEDIMENT: Ten sampling sites on the Sarno and Volturno Rivers in the Campania region, Italy were studied from July 1, 1988 through June 30 , 1989(1). Three of four Sarno River sites tested positive, at concentrations of 26 ng/g (very polluted), 13 ng/g (agricultural area), and 64 ng/g (mouth of the Sarno River(1). One of six Vulturno River sites tested positive, with a concentration of 130 ng/g in a sample from the Regi Lagni mouth; all concentrations reported in ng/g dry weight(1)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to sethoxydim may occur through dermal contact with this compound at workplaces where sethoxydim is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 108,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135011240",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0074051802",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19490337
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_190",
+        "Name": "Sethoxydim",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=190",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895493
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID135491830",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 6877708
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_747",
+        "Name": "Sethoxydim",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2436349
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_746",
+        "Name": "Sethoxydim",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8259150
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "6a2900aaa89e561eb5320bd040aebc9a",
+        "Name": "Sethoxydim",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667523
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID9024304",
+        "Name": "Sethoxydim",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57035660
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz7027",
+        "Name": "Sethoxydim",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17280236
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7342",
+        "Name": "SETHOXYDIM",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7342",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4931
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Sethoxydim",
+        "Name": "Sethoxydim",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401966
+      },
+      {
+        "ReferenceNumber": 32,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D3921",
+        "Name": "Sethoxydim",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D3921",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443354
+      }
+    ]
+  }
+}

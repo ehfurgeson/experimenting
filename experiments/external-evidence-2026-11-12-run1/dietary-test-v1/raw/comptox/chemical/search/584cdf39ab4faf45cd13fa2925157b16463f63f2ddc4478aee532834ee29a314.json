@@ -1,0 +1,25 @@
+{
+  "search_term": "Xylitol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:14.586454+00:00",
+  "url": "/chemical/search/equal/Xylitol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7042514",
+        "dtxcid": "DTXCID60209830",
+        "casrn": "87-99-0",
+        "preferredName": "Xylitol",
+        "hasStructureImage": 1,
+        "smiles": "OCC(O)C(O)C(O)CO",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Xylitol",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

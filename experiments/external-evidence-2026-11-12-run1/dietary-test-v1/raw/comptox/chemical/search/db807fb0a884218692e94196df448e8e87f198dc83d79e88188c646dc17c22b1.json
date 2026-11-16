@@ -1,0 +1,25 @@
+{
+  "search_term": "WWZKQHOCKIZLMA-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:17.731395+00:00",
+  "url": "/chemical/search/equal/WWZKQHOCKIZLMA-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3021645",
+        "dtxcid": "DTXCID501645",
+        "casrn": "124-07-2",
+        "preferredName": "Octanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchValue": "WWZKQHOCKIZLMA-UHFFFAOYSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

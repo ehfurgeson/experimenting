@@ -1,0 +1,1 @@
+The root pooled_labels.csv and pooled_preflight/ are superseded: the Ambrosia DOI was mistyped as molecules24050951. Use pooled-v2-corrected-doi/. The original preflight is retained for audit; no model was trained from that version. Correct DOI: 10.3390/molecules24050835, verified from cached primary article header.

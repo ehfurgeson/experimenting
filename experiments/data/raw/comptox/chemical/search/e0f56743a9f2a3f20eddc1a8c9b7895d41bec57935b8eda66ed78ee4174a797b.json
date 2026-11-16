@@ -1,0 +1,25 @@
+{
+  "search_term": "ZYGHJZDHTFUPRJ-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:35.248693+00:00",
+  "url": "/chemical/search/equal/ZYGHJZDHTFUPRJ-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7020348",
+        "dtxcid": "DTXCID50348",
+        "casrn": "91-64-5",
+        "preferredName": "Coumarin",
+        "hasStructureImage": 1,
+        "smiles": "O=C1OC2=C(C=CC=C2)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "ZYGHJZDHTFUPRJ-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

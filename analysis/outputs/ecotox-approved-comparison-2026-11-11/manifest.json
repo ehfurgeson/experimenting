@@ -1,0 +1,59 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-reconciliation-2026-11-11/manifest.json": "bb434524b66148da9d2141ad8b460bcedb25aff3d185782685c85a3bcab2dee9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-identities-approved-2026-11-11/manifest.json": "fe9aa300121441f9073537ff084601396eefb0323b6dca2d2b4e388e6ebe3245",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json": "ce55d0efcfe8b3893025d6156313d0dc000be6f995e625e841fea82bb869fb39",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json": "d099ce66c0689297f689de59f6b5877162572e296905bfafc5a84f0b4366cded",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11-final/manifest.json": "57f48bd8a586b5496af7e8f8d1145936815f2817c84d6c09f4e3c5b51ccb5434",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/structure-2026-10-28-stress-baseline/structural_features.parquet": "42d932ee2896382c3cbb5c5eceaf0a2948111c848be6670a502ede4864dd5a06"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11/aquatic_observations.csv": "024d93f2ba6cf4d9fd4dbd9182bc6d54f89d79d1207c7c62f63c3efb93f1ba5d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11/aquatic_observations.svg": "4ad7ff6f9789a1f24d37b9d44fe2b27f95218d46c9530e84bb0b5e4f307ba876",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11/compound_context_summaries.csv": "ca175b9f9320b6ff198b8561ac6129e564e179f7c303b66293ef29ddc2eab363",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11/exposure_contexts.csv": "44f2c55f33cf10333dba10b7096e714a00c734358b6fad69238b9c38343d7bcd",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11/exposure_coverage.svg": "99c1e68671cc81eb8cc080b78facdba6a49380ad73218ee339ffdb569af5a65e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11/policy_coverage.csv": "0edde0047fc612bebfe2450377461ae0903e1861f90c4a4feba1688fe4dfcf77",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11/rat_ld50_review.csv": "fb5b3c53f780971d8bce47a28fedce7bed6f35dee6aad065014c1b5c0978a81e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11/row_accounting.csv": "9b3979c44e6952f60c03c7904f689663ba55c31a03456885e30de333b052f60c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11/sensitivity.csv": "a23185414cffd22c4d5bc69e8884e4d39ae445ff03b0b4c7eec6d08c1c42eece",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11/walkthrough.html": "50cf99aec369bcc28e21bef6659593b4140741401a49973553e380741947f956"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_approved.py": "ee74b50dedf6ebdcca1595a56ae72f035e3dd5c26d5b97d4c2d5a034e744fe36",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py": "e6e224a40e794c01eb4be07fe1c27a52bb090dad27e8bb1fa5ac60c16f3623a4"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/pyproject.toml": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "identity_approvals": 104,
+  "policy_coverage": [
+    {
+      "policy": "daphnia_immobilization_ec50_48h",
+      "approved_slots": 13,
+      "distinct_results": 13,
+      "distinct_tests": 13,
+      "distinct_compounds": 11,
+      "measured_slots": 1,
+      "unmeasured_slots": 12,
+      "natural_active_slots": 0,
+      "natural_activity_unknown_slots": 2
+    },
+    {
+      "policy": "trout_lc50_96h",
+      "approved_slots": 28,
+      "distinct_results": 28,
+      "distinct_tests": 28,
+      "distinct_compounds": 7,
+      "measured_slots": 6,
+      "unmeasured_slots": 22,
+      "natural_active_slots": 6,
+      "natural_activity_unknown_slots": 1
+    }
+  ],
+  "rat_ld50_review_records": 16,
+  "new_rat_baseline_observations": 0,
+  "duplicate_observations_collapsed": 0,
+  "scope": "Identity-approved ecological context comparisons; no endpoint pooling, inferred biological labels or new model fitting."
+}

@@ -1,0 +1,141 @@
+{
+  "reports": [
+    {
+      "representation": "formula",
+      "n": 20,
+      "inactive": 18,
+      "active": 2,
+      "inactive_scaffolds": 9,
+      "active_scaffolds": 2,
+      "inactive_compound_deficit": 0,
+      "active_compound_deficit": 3,
+      "inactive_scaffold_deficit": 0,
+      "active_scaffold_deficit": 3,
+      "status": "insufficient_class_support",
+      "folds": 0
+    },
+    {
+      "representation": "descriptors",
+      "n": 20,
+      "inactive": 18,
+      "active": 2,
+      "inactive_scaffolds": 9,
+      "active_scaffolds": 2,
+      "inactive_compound_deficit": 0,
+      "active_compound_deficit": 3,
+      "inactive_scaffold_deficit": 0,
+      "active_scaffold_deficit": 3,
+      "status": "insufficient_class_support",
+      "folds": 0
+    },
+    {
+      "representation": "morgan",
+      "n": 20,
+      "inactive": 18,
+      "active": 2,
+      "inactive_scaffolds": 9,
+      "active_scaffolds": 2,
+      "inactive_compound_deficit": 0,
+      "active_compound_deficit": 3,
+      "inactive_scaffold_deficit": 0,
+      "active_scaffold_deficit": 3,
+      "status": "insufficient_class_support",
+      "folds": 0
+    },
+    {
+      "representation": "combined",
+      "n": 20,
+      "inactive": 18,
+      "active": 2,
+      "inactive_scaffolds": 9,
+      "active_scaffolds": 2,
+      "inactive_compound_deficit": 0,
+      "active_compound_deficit": 3,
+      "inactive_scaffold_deficit": 0,
+      "active_scaffold_deficit": 3,
+      "status": "insufficient_class_support",
+      "folds": 0
+    }
+  ],
+  "structure_statuses": {
+    "valid": 27
+  },
+  "activity_policies": [
+    "EXPERIMENT-FLAV2012-LEPIDIUM-RADICLE_LENGTH-100UM-120H-v1"
+  ],
+  "identity_holds": [
+    "CHEMBL2253236",
+    "CHEMBL2253237",
+    "CHEMBL2253255"
+  ],
+  "holds_outside_cohort": [
+    "CHEMBL2253236",
+    "CHEMBL2253237",
+    "CHEMBL2253255"
+  ],
+  "scientific_approval_verified": false,
+  "models_fitted": 0,
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/identity_holds.csv": "5c6bdeb3e2d84d492e13fe039123601c14a70e062c92024d22d8c425d75764f1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/compatible-assays-2026-11-12/analysis-v1/compounds.csv": "a9e366252c5fb891ef123171bb52e0efb630d92a25ecc204ed086ba4bcdfbbf9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_labels.csv": "738f5b60c49b26b6dece3c280531efc6e00be0cde75c7816ef6f0f1d711cb9b5"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ablations.py": "69c9ab5ecbbeb7d4e8f990818df1e58876211387e239d88fba4905c82cdb4f25",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/binding_catalog.py": "8ae097a14cfb8eb1d884a081ad35db20e2e99ec4a753413bc46745c05a4a7656",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/build_traits.py": "fcc3416a925b3a7f5ee174b1c9e1922418061f83ffa5c088ddf15c9ec7d55c55",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/classifiers.py": "17623c3f885c58f9b4279d71e935085c8e1b5696eded6215b44a93a736f10e7b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/compare.py": "91fe1dee8d8ee2f09fee4ffb57e06af0d1427d3a430d19e85b8ed21ad6048004",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/context_overlay.py": "5cf38ce4d204bfac09586aa9bcc5ca7212d263e98a0a4f46f40e1ab54d00a282",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/dietary_candidates.py": "7f1b6b33b90c39ebd50d817e37c9d60fb0220bf40710fb2498b5da421c7f56e4",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/distributions.py": "705855cdb194d2cbe5c65873b464f03e5fab6dcdbc5d271a5125579e7bbe3d65",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_approved.py": "ee74b50dedf6ebdcca1595a56ae72f035e3dd5c26d5b97d4c2d5a034e744fe36",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/endpoint_analysis.py": "83f4380a4bda00563dbb9f7b61e3a777a082e12b8d93ba84ed31f487421debab",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/endpoint_coverage.py": "531c143d7b492cd2c358c157cb1153b5e3217c72a2db7293feb5d7ca5a6fe85a",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_review.py": "03264770c627332281ce655ffacaa951baba9d6a23ae03d4fef8ef8b16c2501a",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_report.py": "726098e09e23ac3c5409b87c20408a0e2812f5794cea02931ba36f6deb846f64",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/formula.py": "d326c65e8740a46232c8c2ae15a5211e03c97d356a48f74e12dc6eea8a661bad",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/labels.py": "de58a73de3beac73a2a3eb81f2f636706814fc63d4acd470e4e9d88acbc0e6c1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/oob.py": "da7a436a6df7c42456ac80c1362831634826502750d7136d47e95757ad2b9eda",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/presentation.py": "6c9492eb16a69f10be3f11d5c70b1857daf6f67344a65f70d400e683d5d68f2e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/professor_followup.py": "4b5949867531ffc4b63ccd5b6632224f3ca4b556179bad03571f3b3263d3386c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/professor_notebook.py": "3e52ce405616283f8266989c421281aa1f4be50b6436cc24aebb42271f048aec",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/publication_transfer.py": "62e09a5cca46c9dbc52968ce44bb0cc1a3bd738b4402befe24eb0302b7355ae6",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/rebuild.py": "4447dff742870d99edb5b619d4163445443783d5c080dae848b28f23fb5aaece",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/review_adoption.py": "62267159a3f98cbee920c28b498700b72878ad2988b86e41f4b9abd09c6afd9c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/review_assays.py": "52857ae99430a7ce8184da5d027b74c2d5ee3041140c931ac83ed2ac788f8208",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/reviewed_progress.py": "f23deef38d891d069a2eb8180d92b18fdae81bfb46f42c78b96726f5996f415f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/screen.py": "5db7a6d1c7cf992b858211284c576c91eabc68ba47adce3234dafa52847efa74",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/stats.py": "f6b63e5c5817dd5f9d37a6e7a3355170c06c6718e28daa193b30c122267e57d3",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/stress.py": "bf62a7c047f1b80ef864e9ab78d2d30cd754035d56d5ea66d53bba8bd99e838c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure.py": "763fd952f2c4c57ed16136cf6efb58d7454daf8106cc9075a8064114578dae4c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure_models.py": "e9608fd81fb0c318ec5357a103992bb0c010a005068420a059dfa714a915a219",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/triage_dietary.py": "bfab17b3d5b4bfc35a448fe38ee8bc11a1c383bd8a69071fa1724430540ca726",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/validate_activity_proposal.py": "47e2ad3d86829b4d5946326351d2ea2cf0d80a53bffada892c98fe4755c4bb6f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/verification_release.py": "29fe59c6a7e7dec871e78bc5aa8f3fe83c6f805be9bcf23db8e799587b4bfebb",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_literature.py": "c63940bbb76fef11d7005fb11b0bb9be1624212ed2908110f5533591738d62c4",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_report.py": "da72ca26118ded379cc2b4b7737ca33fa8efe3d0afd97481415276afc0514a0b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_toxicity.py": "e5a305e86dba1d5b73aa0595f46fdd58c8625af495cda3a0f1444ab278898ca4"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/pyproject.toml": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_preflight/folds.csv": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_preflight/members.csv": "4efc05a96a67a86e0de896ceb31692be78c8106aa73945c9866909bea27af3f9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_preflight/support.csv": "1b0991803a876865cfd099d92d6666490d7e37bcbd6a1088eb0ae06849328e1a"
+  },
+  "seed": 20261027,
+  "requested_folds": 5,
+  "versions": {
+    "rdkit": "2026.9.1",
+    "scikit-learn": "1.9.1",
+    "numpy": "2.5.4",
+    "polars": "2.0.0"
+  },
+  "scope": "Computational support only; no scientific approval, feature-variation check or fit. Deficits are lower bounds, not sufficient additions. Holds are supplied by caller."
+}

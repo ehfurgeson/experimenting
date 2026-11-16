@@ -1,0 +1,25 @@
+{
+  "search_term": "Oxyfluorfen",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:22.097844+00:00",
+  "url": "/chemical/search/equal/Oxyfluorfen",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Oxyfluorfen",
+        "dtxsid": "DTXSID7024241",
+        "dtxcid": "DTXCID404241",
+        "casrn": "42874-03-3",
+        "hasStructureImage": 1,
+        "smiles": "CCOC1=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=CC=C1[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Oxyfluorfen",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-review-screen-2026-10-29-final/structural_features.parquet": "b6fdbd0f45c47e0a84ad17c9b2b1f42427cd2d5e12af2f0d050109ac496c73d8",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/dietary-review-2026-11-04-final/features.parquet": "fede83a2529e24de8c2cdb4558a4699e92053480323411bd64a33151a83abeec",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/structure-2026-10-28-stress-baseline/structural_features.parquet": "42d932ee2896382c3cbb5c5eceaf0a2948111c848be6670a502ede4864dd5a06",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/notes/plant_animal_food_compounds_200.tsv": "ae9d44e322dbec4badb17fb126e0fead55f4f0d99fcd53e8e631101269522284"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/formula.py": "d326c65e8740a46232c8c2ae15a5211e03c97d356a48f74e12dc6eea8a661bad",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/food-comparator-200-audit-2026-11-05/audit.py": "0d41e6afe9fd73a7dd3ae8d0bce2a318a4dcb26459564b2e091bb713c9b88afc",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure.py": "763fd952f2c4c57ed16136cf6efb58d7454daf8106cc9075a8064114578dae4c"
+  },
+  "versions": {
+    "rdkit": "2026.9.1",
+    "polars": "2.0.0"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/food-comparator-200-audit-2026-11-05/audit.json": "143738f006048ce0cd65c8b585b600f9314ae9420054f5aef0938cb52bb65a1c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/food-comparator-200-audit-2026-11-05/audit.py": "0d41e6afe9fd73a7dd3ae8d0bce2a318a4dcb26459564b2e091bb713c9b88afc",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/food-comparator-200-audit-2026-11-05/features.parquet": "d55c8cdac153f7acbef58d782745c66b638d3e86a2ad9295e4a12e78abebf6f9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/food-comparator-200-audit-2026-11-05/identity_checks.csv": "673b0f0d2c794f80a79e12a0d136b9f541d9e4b6d3a9f9ba0f8c5904546be4cf",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/food-comparator-200-audit-2026-11-05/overlaps.csv": "dda34e09525826e1126e7581fbb3db6bd9ed4dc4c20e2152d59e80c57a9256dd"
+  },
+  "scope": "Frozen structural audit of user-reported benign food compounds; no biological labels assigned."
+}

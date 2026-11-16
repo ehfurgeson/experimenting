@@ -1,0 +1,25 @@
+{
+  "search_term": "4-Hydroxybenzaldehyde",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:02.718455+00:00",
+  "url": "/chemical/search/equal/4-Hydroxybenzaldehyde",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8059552",
+        "dtxcid": "DTXCID7033787",
+        "casrn": "123-08-0",
+        "preferredName": "p-Hydroxybenzaldehyde",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC=C(C=O)C=C1",
+        "isMarkush": false,
+        "searchName": "Systematic Name",
+        "searchValue": "4-Hydroxybenzaldehyde",
+        "rank": 12
+      }
+    ],
+    "suggestions": []
+  }
+}

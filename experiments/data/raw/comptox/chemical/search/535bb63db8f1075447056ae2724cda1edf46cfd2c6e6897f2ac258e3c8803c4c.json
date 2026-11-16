@@ -1,0 +1,25 @@
+{
+  "search_term": "ODCWYMIRDDJXKW-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:44.104240+00:00",
+  "url": "/chemical/search/equal/ODCWYMIRDDJXKW-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Simazine",
+        "dtxsid": "DTXSID4021268",
+        "dtxcid": "DTXCID501268",
+        "casrn": "122-34-9",
+        "hasStructureImage": 1,
+        "smiles": "CCNC1=NC(NCC)=NC(Cl)=N1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "ODCWYMIRDDJXKW-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

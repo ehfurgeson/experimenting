@@ -1,0 +1,32 @@
+[
+  {
+    "policy": "EXPERIMENT-FLAV2012-RAPHANUS-RADICLE_LENGTH-100UM-120H-v1",
+    "representation": "formula",
+    "n": 20,
+    "inactive": 18,
+    "active": 2,
+    "inactive_scaffolds": 9,
+    "active_scaffolds": 2,
+    "inactive_compound_deficit": 0,
+    "active_compound_deficit": 3,
+    "inactive_scaffold_deficit": 0,
+    "active_scaffold_deficit": 3,
+    "status": "insufficient_class_support",
+    "folds": 0
+  },
+  {
+    "policy": "EXPERIMENT-FLAV2012-LEPIDIUM-RADICLE_LENGTH-100UM-120H-v1",
+    "representation": "formula",
+    "n": 20,
+    "inactive": 18,
+    "active": 2,
+    "inactive_scaffolds": 9,
+    "active_scaffolds": 2,
+    "inactive_compound_deficit": 0,
+    "active_compound_deficit": 3,
+    "inactive_scaffold_deficit": 0,
+    "active_scaffold_deficit": 3,
+    "status": "insufficient_class_support",
+    "folds": 0
+  }
+]

@@ -1,0 +1,22 @@
+trout_lc50_96h:
+  endpoint: LC50
+  species: [oncorhynchus mykiss]
+  effect_code: MOR
+  measurement_code: MORT
+  duration_hours: 96
+  medium: [FW, AQU]
+  standard_unit: mg/L
+  concentration_types: [A, D, T]
+  formulations: [AI, CP, PF, PU, ARST, RST, RC, CRY]
+  analysis_codes: [M, U]
+daphnia_immobilization_ec50_48h:
+  endpoint: EC50
+  species: [daphnia magna]
+  effect_code: ITX
+  measurement_code: IMBL
+  duration_hours: 48
+  medium: [FW, AQU]
+  standard_unit: mg/L
+  concentration_types: [A, D, T]
+  formulations: [AI, CP, PF, PU, ARST, RST, RC, CRY]
+  analysis_codes: [M, U]

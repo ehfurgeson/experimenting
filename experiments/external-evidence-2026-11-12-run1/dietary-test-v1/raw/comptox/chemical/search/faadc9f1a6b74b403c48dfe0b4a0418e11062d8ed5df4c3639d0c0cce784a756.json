@@ -1,0 +1,25 @@
+{
+  "search_term": "Palmitic acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:26.196265+00:00",
+  "url": "/chemical/search/equal/Palmitic acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2021602",
+        "dtxcid": "DTXCID101602",
+        "casrn": "57-10-3",
+        "preferredName": "Hexadecanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCCCCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "Palmitic acid",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

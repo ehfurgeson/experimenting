@@ -1,0 +1,96 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/chembl-review-screen-2026-10-29-final/structural_features.parquet": "b6fdbd0f45c47e0a84ad17c9b2b1f42427cd2d5e12af2f0d050109ac496c73d8",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11-verified/compound_evidence_second_pass_2026-11-11.xlsx": "e82da716e91be895ea767ae3adda4d34e5a7c8d3b179e8eca33076c41129836c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11-verified/manifest.json": "9e7a886b10afa8e02e41523fdb8a436d45dada09295f17c85b18eda7fb967ca0",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-2026-11-11-inputs/approval.json": "c67ae7cff6829692ab19b08eedf5a440a3987688366eb7725da6b058cf93749a",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/verification-release-audit-2026-11-05-final/manifest.json": "aa84064998b57e85c85996e57469883f69f22c69f9663e2d5b1ce15c1c8bc886",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/notes/compound_verification_release_2026-11-05/PROPOSED_ORIGIN_FULL_STRUCTURE_MATCHES_NOT_FOR_TRAINING.csv": "9f7674dd70fca087bddeedc43598b269882d2404b1a69d1b6714f72641474e87",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/notes/compound_verification_release_2026-11-05/conditional_assay_screen_NOT_FOR_TRAINING.csv": "1623756bb64fbaf1d4391d1494df217d9e50608568f65c3d2a3f800bde713057",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/notes/compound_verification_release_2026-11-05/li_2006_24_compound_source_crosswalk.csv": "859e82c7434ef30815a2273b0c6907541a321d0e1e432dd68b1970b32c2b8a48"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/HUMAN-D2015-PIGWEED-7DAY-v1.csv": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/HUMAN-HE2011-AR-1500G-POST-BANDS-v0.1.csv": "853dfc0185ce989275836a97b3969c3dc287325f6ed2cfd616a5ddf3572dbc00",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1.csv": "a51dcda7b6c160ff299116d91c17149b3b7099e498c1ff258a150a9d0479e010",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/HUMAN-LI2006-AR-150G-POST-BOUNDS-v0.1.csv": "0a1dbb58c3d9ea4c81d87925b757be590c59d84cd7085100b197cd904bb01838",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/HUMAN-M2020-AMARANTHUS-1DAY-v1.csv": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/HUMAN-OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1.csv": "fd6c09a36c6a783c165f01d15862ac256122f2e866c61299c7324d349a557138",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/HUMAN-T2024-UPV-4WAT-BASE-v1.csv": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/accepted_activity_features.csv": "79a81525e7c7759dc068160d6b09444a2fe0efa90aa69322ad6759e46812e33d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/activity_models.csv": "d41d2dd41aeaace9627010818964215383b782b8372c954157a7ed1f9f37effc",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/activity_observations.csv": "e1a55f2f71f9a438abbdb835029b14376a68220b48ce2d0c03e366619941c7da",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/adoption_ledger.csv": "63d155bbab510a1b69816af7eba991a7eaf88352676ce36474e5e3dcb02cb42f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/approval_statement.json": "c67ae7cff6829692ab19b08eedf5a440a3987688366eb7725da6b058cf93749a",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/contrast_features.parquet": "279d9a30cfc06add106254114648916194f196cacef9159ab4530764c2df5299",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/identity_holds.csv": "59af347c76d5db3f130f5f79a4764cc27cf8d02c93b9ee2015ef14d86c6328f1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/legacy_adoption_ledger.csv": "ff95c65f0d4395eddf6764bebb61cef348ca6068b393fa0b848342777c9390a9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/origin_evidence.csv": "befff853b1ab5217ba4ff99c8c6d0a6bc73e5cbabfc5d42007b1c3f6babb371c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/origin_labels.csv": "be17e7a41b36e2457636d752e7790b726e4466f6f846a55de2f9b228e71dec62",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/priority_actions.csv": "cbb8289138bc64f992da49f585036cdb41ff31fabce160f4e827db2fe0f80af3",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/review_summary.csv": "6e88b02623e1bf41160a60c302158dce6f72b94b78d5087c72bd31cb5b99dacd",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/human-review-adopted-2026-11-11/reviewed_worksheet.csv": "1130e1b642c0f0f9f68f77485ff06e996f4800f1980197e971fd898f96cb1cd7"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/labels.py": "de58a73de3beac73a2a3eb81f2f636706814fc63d4acd470e4e9d88acbc0e6c1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/review_adoption.py": "9577a4b8bfe3d78543bc914503a79cde63b08d519da95a720b1e24f9670bd94e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure_models.py": "e9608fd81fb0c318ec5357a103992bb0c010a005068420a059dfa714a915a219"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/pyproject.toml": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "approval": {
+    "approval_id": "USER-HUMAN-ADOPTION-2026-11-11",
+    "reviewer": "Research lead (user session assertion)",
+    "review_date": "2026-11-11",
+    "statement": "The supplied second-pass workbook has been reviewed by a human. The user also reports human review and approval of remaining supported automatic proposals and authorizes models and analyses for this week\u2019s goals.",
+    "scope": "Workbook dispositions take precedence. Adopt supported historical assay proposals under separate bounded policies; unknown outcomes and explicit identity/source/stereochemistry conflicts remain unresolved. Manufacture does not establish absence of natural occurrence. No blanket same-observation duplicate or candidate ECOTOX identity approval is inferred.",
+    "source": "User instruction in this session on 2026-11-11"
+  },
+  "policies": [
+    "HUMAN-D2015-PIGWEED-7DAY-v1",
+    "HUMAN-HE2011-AR-1500G-POST-BANDS-v0.1",
+    "HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1",
+    "HUMAN-LI2006-AR-150G-POST-BOUNDS-v0.1",
+    "HUMAN-M2020-AMARANTHUS-1DAY-v1",
+    "HUMAN-OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1",
+    "HUMAN-T2024-UPV-4WAT-BASE-v1"
+  ],
+  "accepted_origin": 19,
+  "accepted_activity_per_policy": {
+    "HUMAN-M2020-AMARANTHUS-1DAY-v1": {
+      "unknown": 15
+    },
+    "HUMAN-T2024-UPV-4WAT-BASE-v1": {
+      "unknown": 15
+    },
+    "HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1": {
+      "unknown": 10,
+      "active": 5
+    },
+    "HUMAN-D2015-PIGWEED-7DAY-v1": {
+      "unknown": 15
+    },
+    "HUMAN-OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1": {
+      "unknown": 150,
+      "active": 4
+    },
+    "HUMAN-HE2011-AR-1500G-POST-BANDS-v0.1": {
+      "unknown": 104,
+      "active": 29,
+      "inactive": 21
+    },
+    "HUMAN-LI2006-AR-150G-POST-BOUNDS-v0.1": {
+      "unknown": 133,
+      "active": 11,
+      "inactive": 10
+    }
+  },
+  "activity_models_fitted": 0,
+  "contrast_counts": {
+    "reviewed_natural_occurrence": 19,
+    "documented_commercial_herbicide_comparator": 11
+  },
+  "scope": "Human adoption of supported proposals. Explicit gaps persist. Contrast predicts purposive group membership, not activity or natural occurrence."
+}

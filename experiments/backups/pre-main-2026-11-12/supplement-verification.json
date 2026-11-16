@@ -1,0 +1,37 @@
+{
+  "archive_sha256": "104b5c9f5edf429e5350fa89b375691b623c68f98130c7db759e86549e4c8eb4",
+  "archive_bytes": 8908,
+  "files": {
+    "analysis/outputs/weekly-literature-acquisition-input-2026-11-10/acquisition_resource.json": {
+      "sha256": "3a99ae9420ae72aa371c6f71ba664a26b645953ca2f42008813d4968e8d362af",
+      "bytes": 7590
+    },
+    "analysis/outputs/weekly-literature-acquisition-input-2026-11-10/manifest.json": {
+      "sha256": "d42335996719ddbaa07501af9142d4c3f303cec18799e0e0ddfaea9004e04be1",
+      "bytes": 466
+    },
+    "experiments/backups/pre-main-2026-11-12/README.md": {
+      "sha256": "958c8cb72034b304d298e7805183d61536df87dc177394b6acac8ea59ce3a2cb",
+      "bytes": 2759
+    },
+    "experiments/backups/pre-main-2026-11-12/verify_archive.py": {
+      "sha256": "c275d1ce28046cdc0fd65ee3fb76d87965ffcbf4c8b6cc591a33899100044b4d",
+      "bytes": 2159
+    },
+    "experiments/backups/pre-main-2026-11-12/resolve_history.py": {
+      "sha256": "63aba7638f00d854198ef90f62646e14eb91b5a1ed7ce36690445fb6bedece89",
+      "bytes": 1423
+    },
+    "experiments/backups/pre-main-2026-11-12/historical_reference_resolution.json": {
+      "sha256": "db63d76cd6964e370820cec2d099c3470934a21ef3f95ca7a45cdc98c17cf4f4",
+      "bytes": 27713
+    },
+    "experiments/backups/pre-main-2026-11-12/make_supplement.py": {
+      "sha256": "24dcc1d0d5c0fbcb756ec7e81c5e707cedbbde8ccaf35b9d8f77c9b9f4d385dd",
+      "bytes": 1872
+    }
+  },
+  "git_bundle_restore_fsck_passed": true,
+  "historical_differences_resolved": 44,
+  "historical_differences_unresolved": 1
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "2-Pinen-7-one",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:29.368006+00:00",
+  "url": "/chemical/search/equal/2-Pinen-7-one",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID80894868",
+        "dtxcid": "DTXCID201011133",
+        "casrn": "473-06-3",
+        "preferredName": "Chrysanthenone",
+        "hasStructureImage": 1,
+        "smiles": "CC1=CCC2C(=O)C1C2(C)C",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "2-Pinen-7-one",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

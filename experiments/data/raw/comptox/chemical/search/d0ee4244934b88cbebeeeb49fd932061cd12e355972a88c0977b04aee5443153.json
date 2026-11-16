@@ -1,0 +1,25 @@
+{
+  "search_term": "ZOMSMJKLGFBRBS-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:46.468774+00:00",
+  "url": "/chemical/search/equal/ZOMSMJKLGFBRBS-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0023901",
+        "dtxcid": "DTXCID503901",
+        "casrn": "25057-89-0",
+        "preferredName": "Bentazone",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)N1C(=O)C2=C(NS1(=O)=O)C=CC=C2",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "ZOMSMJKLGFBRBS-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

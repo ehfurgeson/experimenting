@@ -1,0 +1,25 @@
+{
+  "search_term": "Cinmethylin",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:14.490251+00:00",
+  "url": "/chemical/search/equal/Cinmethylin",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Cinmethylin",
+        "dtxsid": "DTXSID3034456",
+        "dtxcid": "DTXCID60196478",
+        "casrn": "87818-31-3",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)[C@]12CC[C@](C)(O1)[C@@H](C2)OCC1=C(C)C=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Cinmethylin",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Tricin",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:32.337583+00:00",
+  "url": "/chemical/search/equal/Tricin",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID20199965",
+        "dtxcid": "DTXCID80122456",
+        "casrn": "520-32-1",
+        "preferredName": "Tricin",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(=CC(OC)=C1O)C1=CC(=O)C2=C(O)C=C(O)C=C2O1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Tricin",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

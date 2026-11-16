@@ -1,0 +1,18 @@
+{
+  "plant_observations": 213,
+  "nontarget_observations": 39,
+  "plant_rows_by_study": {
+    "AMBROSIA2019": 12,
+    "NONENOLIDES2021": 39,
+    "SORBICILLINOIDS2019": 80,
+    "CLEOMSIDE2020": 40,
+    "ROSEMARY2018": 42
+  },
+  "plant_parse_status": {
+    "numeric": 209,
+    "unparsed_categorical_or_bound": 4
+  },
+  "models_fitted": 0,
+  "human_approved_new_labels": 0,
+  "limits": "AI provisional transcription; source tables have not received independent review. Controls/extracts retained; observations are not independent compounds. n/a remains categorical, not zero or a numerical LC50 bound. Missing times remain null; percent control is not percent inhibition. Omitted figure-only responses were not digitized."
+}

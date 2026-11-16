@@ -1,0 +1,375 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 91745,
+    "RecordTitle": "Cinmethylin",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cinmethylin is a cholinesterase or acetylcholinesterase (AChE) inhibitor. A cholinesterase inhibitor (or 'anticholinesterase') suppresses the action of acetylcholinesterase. Because of its essential function, chemicals that interfere with the action of acetylcholinesterase are potent neurotoxins, causing excessive salivation and eye-watering in low doses, followed by muscle spasms and ultimately death.  Nerve gases and many substances used in insecticides have been shown to act by binding a serine in the active site of acetylcholine esterase, inhibiting the enzyme completely. Acetylcholine esterase breaks down the neurotransmitter acetylcholine, which is released at nerve and muscle junctions, in order to allow the muscle or organ to relax. The result of acetylcholine esterase inhibition is that acetylcholine builds up and continues to act so that any nerve impulses are continually transmitted and muscle contractions do not stop. Among the most common acetylcholinesterase inhibitors are phosphorus-based compounds, which are designed to bind to the active site of the enzyme. The structural requirements are a phosphorus atom bearing two lipophilic groups, a leaving group (such as a halide or thiocyanate), and a terminal oxygen.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Cinmethylin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91745"
+                            },
+                            {
+                              "Start": 496,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/serine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5951"
+                            },
+                            {
+                              "Start": 525,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 583,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 639,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 765,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 807,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 1002,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Phosphorus",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Phosphorus"
+                            },
+                            {
+                              "Start": 1125,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Phosphorus",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Phosphorus"
+                            },
+                            {
+                              "Start": 1209,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/thiocyanate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9322"
+                            },
+                            {
+                              "Start": 1238,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Health Effects",
+                "Description": "Principal effect(s) of exposure to each substance, listed by OSHA Health Code, Health Effects from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Acute exposure to cholinesterase inhibitors can cause a cholinergic crisis characterized by severe nausea/vomiting, salivation, sweating, bradycardia, hypotension, collapse, and convulsions. Increasing muscle weakness is a possibility and may result in death if respiratory muscles are involved.  Accumulation of ACh at motor nerves causes overstimulation of nicotinic expression at the neuromuscular junction. When this occurs symptoms such as muscle weakness, fatigue, muscle cramps, fasciculation, and paralysis can be seen. When there is an accumulation of ACh at autonomic ganglia this causes overstimulation of nicotinic expression in the sympathetic system. Symptoms associated with this are hypertension, and hypoglycemia. Overstimulation of nicotinic acetylcholine receptors in the central nervous system, due to accumulation of ACh, results in anxiety, headache, convulsions, ataxia, depression of respiration and circulation, tremor, general weakness, and potentially coma. When there is expression of muscarinic overstimulation due to excess acetylcholine at muscarinic acetylcholine receptors symptoms of visual disturbances, tightness in chest, wheezing due to bronchoconstriction, increased bronchial secretions, increased salivation, lacrimation, sweating, peristalsis, and urination can occur.  Certain reproductive effects in fertility, growth, and development for males and females have been linked specifically to organophosphate pesticide exposure. Most of the research on reproductive effects has been conducted on farmers working with pesticides and insecticdes in rural areas. In females menstrual cycle disturbances, longer pregnancies, spontaneous abortions, stillbirths, and some developmental effects in offspring have been linked to organophosphate pesticide exposure. Prenatal exposure has been linked to impaired fetal growth and development. Neurotoxic effects have also been linked to poisoning with OP pesticides causing four neurotoxic effects in humans: cholinergic syndrome, intermediate syndrome, organophosphate-induced delayed polyneuropathy (OPIDP), and chronic organophosphate-induced neuropsychiatric disorder (COPIND). These syndromes result after acute and chronic exposure to OP pesticides.",
+                          "Markup": [
+                            {
+                              "Start": 760,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 1054,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 1082,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Symptoms of low dose exposure include excessive salivation and eye-watering.  Acute dose symptoms include severe nausea/vomiting, salivation, sweating, bradycardia, hypotension, collapse, and convulsions. Increasing muscle weakness is a possibility and may result in death if respiratory muscles are involved.  Hypertension, hypoglycemia, anxiety, headache, tremor and ataxia may also result."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135049176"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 10,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 10,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Treatment",
+                "Description": "Treatment when exposed to toxin",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "If the compound has been ingested, rapid gastric lavage should be performed using 5% sodium bicarbonate. For skin contact, the skin should be washed with soap and water. If the compound has entered the eyes, they should be washed with large quantities of isotonic saline or water. In serious cases, atropine and/or pralidoxime should be administered. Anti-cholinergic drugs work to counteract the effects of excess acetylcholine and reactivate AChE. Atropine can be used as an antidote in conjunction with pralidoxime or other pyridinium oximes (such as trimedoxime or obidoxime), though the use of '-oximes' has been found to be of no benefit, or possibly harmful, in at least two meta-analyses. Atropine is a muscarinic antagonist, and thus blocks the action of acetylcholine peripherally.",
+                          "Markup": [
+                            {
+                              "Start": 85,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20bicarbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-516892"
+                            },
+                            {
+                              "Start": 163,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 299,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/atropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-174174"
+                            },
+                            {
+                              "Start": 315,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pralidoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398747"
+                            },
+                            {
+                              "Start": 415,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 450,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Atropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-174174"
+                            },
+                            {
+                              "Start": 506,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pralidoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398747"
+                            },
+                            {
+                              "Start": 554,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/trimedoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135539427"
+                            },
+                            {
+                              "Start": 569,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/obidoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135412781"
+                            },
+                            {
+                              "Start": 697,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Atropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-174174"
+                            },
+                            {
+                              "Start": 764,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135049176",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0087818313",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19502868
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID3034456",
+        "Name": "Cinmethylin",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57010820
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D3810",
+        "Name": "Cinmethylin",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D3810",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443245
+      }
+    ]
+  }
+}

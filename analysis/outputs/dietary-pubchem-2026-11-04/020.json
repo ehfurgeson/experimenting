@@ -1,0 +1,16 @@
+{
+  "query": "D-Glucose",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/D-Glucose/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:03.696877+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 5793,
+          "SMILES": "C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O",
+          "InChIKey": "WQZGKKKJIJFFOK-GASJEMHNSA-N"
+        }
+      ]
+    }
+  }
+}

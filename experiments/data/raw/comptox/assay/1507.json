@@ -1,0 +1,82 @@
+{
+  "aeid": 1507,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:37:39.954703+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/1507",
+  "status": 200,
+  "response": {
+    "aeid": 1507,
+    "assayList": [
+      {
+        "name": "Developmental Toxicity",
+        "description": "Assays associated with developmental toxicity"
+      },
+      {
+        "name": "Non-mammalian Vertebrate",
+        "description": "Assays associated with non-mammalian vertebrate species "
+      }
+    ],
+    "assayName": "CCTE_Padilla_ZF_144hpf",
+    "assayComponentName": "CCTE_Padilla_ZF_144hpf_TERATOSCORE",
+    "assayComponentEndpointName": "CCTE_Padilla_ZF_144hpf_TERATOSCORE",
+    "assayComponentEndpointDesc": "Data from the assay component CCTE_Padilla_ZF_144hpf_TERATOSCORE was analyzed into 1 assay endpoint. This assay endpoint, CCTE_Padilla_ZF_144hpf_TERATOSCORE, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of morphological reporter, gain-of-signal activity can be used to understand changes in developmental defect as they relate to the whole embryo. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the malformation intended target family, where the subfamily is total.",
+    "assayFunctionType": "developmental",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "Chlorpyrifos",
+    "signalDirection": "gain",
+    "intendedTargetType": "organism",
+    "intendedTargetTypeSub": "malformation",
+    "intendedTargetFamily": "zebrafish development",
+    "intendedTargetFamilySub": "embryonic morphogenesis and mortality",
+    "cellViabilityAssay": 0,
+    "acid": 962,
+    "assayComponentDesc": "CCTE_Padilla_ZF_144hpf_TERATOSCORE is one of one assay component(s) measured or calculated from the CCTE_Padilla_ZF_144hpf assay. It is designed to make measurements of developmental malformations and mortality as detected with brightfield microscopy.",
+    "assayComponentTargetDesc": "Individual embryos were examined daily for malformations, failure to hatch and mortality. Results were scored by customized rubric and a composite score derived.",
+    "parameterReadoutType": "multiple",
+    "assayDesignType": "morphology reporter",
+    "assayDesignTypeSub": "embryo development",
+    "biologicalProcessTarget": "regulation of development",
+    "detectionTechnologyType": "fluorescence microscopy",
+    "detectionTechnologyTypeSub": "optical microscopy",
+    "detectionTechnology": "light microscopy",
+    "keyAssayReagentType": "NA",
+    "keyAssayReagent": "NA",
+    "technologicalTargetType": "embryonic development",
+    "technologicalTargetTypeSub": "physical feature",
+    "aid": 410,
+    "assayDesc": "CCTE_Padilla_ZF_144hpf is a whole embryo, multiplexed assay. Zebrafish embryos were exposed to chemicals starting 6 hr post-fertilization for 5 days in 96-well plates. Developing larvae were examined microscopically daily for malformation and mortality.",
+    "timepointHr": 144.0,
+    "organismId": 7955,
+    "organism": "zebrafish",
+    "tissue": "NA",
+    "cellFormat": "whole embryo",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "NA",
+    "cellGrowthMode": "suspension",
+    "assayFootprint": "microplate: 96-well plate",
+    "assayFormatType": "organism",
+    "assayFormatTypeSub": "organism-based format",
+    "contentReadoutType": "image-based",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 0.4,
+    "asid": 12,
+    "assaySourceName": "CCTE_PADILLA",
+    "assaySourceLongName": "CCTE Padilla Lab",
+    "assaySourceDesc": "The Padilla laboratory at the EPA Center for Computational Toxicology focuses on the development and screening in zebrafish assays.",
+    "gene": null,
+    "citations": [
+      {
+        "doi": "10.1016/j.reprotox.2011.10.018",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/22182468",
+        "pmid": 22182468,
+        "title": "Zebrafish developmental screening of the ToxCast Phase I chemical library",
+        "author": "Padilla S, Corum D, Padnos B, Hunter DL, Beam A, Houck KA, Sipes N, Kleinstreuer N, Knudsen T, Dix DJ, Reif DM",
+        "citation": "Padilla S, Corum D, Padnos B, Hunter DL, Beam A, Houck KA, Sipes N, Kleinstreuer N, Knudsen T, Dix DJ, Reif DM. Zebrafish developmental screening of the ToxCast Phase I chemical library. Reprod Toxicol. 2012 Apr;33(2):174-87. doi: 10.1016/j.reprotox.2011.10.018. Epub 2011 Dec 9. PubMed PMID: 22182468.",
+        "otherId": "NA",
+        "citationId": 217,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

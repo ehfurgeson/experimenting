@@ -1,0 +1,102 @@
+{
+  "Record": {
+    "RecordTitle": "Synthetic Alpha",
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "Synthetic source A",
+        "URL": "https://example.org/a"
+      },
+      {
+        "ReferenceNumber": 2,
+        "Name": "Synthetic source B",
+        "URL": "https://example.org/b"
+      }
+    ],
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Section": [
+          {
+            "TOCHeading": "Acute Toxicity",
+            "Information": [
+              {
+                "Name": "LD50",
+                "Description": "rat oral",
+                "ReferenceNumber": [
+                  1,
+                  2
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "1 g/kg"
+                    }
+                  ]
+                }
+              },
+              {
+                "Name": "LD50",
+                "Description": "rat oral",
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "3 g/kg"
+                    }
+                  ]
+                }
+              },
+              {
+                "Name": "LD50",
+                "Description": "rat oral",
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": ">8 g/kg"
+                    }
+                  ]
+                }
+              },
+              {
+                "Name": "LC50",
+                "Description": "Oncorhynchus mykiss 96 h",
+                "ReferenceNumber": 1,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "2-4 mg/L"
+                    }
+                  ]
+                }
+              },
+              {
+                "Name": "EC50",
+                "Description": "Daphnia magna 48 h",
+                "ReferenceNumber": 1,
+                "Value": {
+                  "Number": [
+                    3,
+                    5
+                  ],
+                  "Unit": "mg/L"
+                }
+              },
+              {
+                "Name": "Narrative",
+                "Description": "",
+                "ReferenceNumber": 1,
+                "Value": {
+                  "CustomShape": {
+                    "note": "not a measurement"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

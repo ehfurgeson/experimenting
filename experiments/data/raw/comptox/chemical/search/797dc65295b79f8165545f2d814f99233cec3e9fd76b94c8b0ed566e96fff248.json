@@ -1,0 +1,25 @@
+{
+  "search_term": "Citrulline",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:28.156642+00:00",
+  "url": "/chemical/search/equal/Citrulline",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Citrulline",
+        "dtxsid": "DTXSID80883373",
+        "dtxcid": "DTXCID301022909",
+        "casrn": "372-75-8",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CCCNC(N)=O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Citrulline",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

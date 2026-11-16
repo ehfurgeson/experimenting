@@ -1,0 +1,25 @@
+{
+  "search_term": "SYJFEGQWDCRVNX-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:02.861925+00:00",
+  "url": "/chemical/search/equal/SYJFEGQWDCRVNX-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Diquat",
+        "dtxsid": "DTXSID6034554",
+        "dtxcid": "DTXCID4014554",
+        "casrn": "2764-72-9",
+        "hasStructureImage": 1,
+        "smiles": "C1C[N+]2=CC=CC=C2C2=CC=CC=[N+]12",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "SYJFEGQWDCRVNX-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

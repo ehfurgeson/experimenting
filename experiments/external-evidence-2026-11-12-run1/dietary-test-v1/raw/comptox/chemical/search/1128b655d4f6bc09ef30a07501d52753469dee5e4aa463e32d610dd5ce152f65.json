@@ -1,0 +1,25 @@
+{
+  "search_term": "GUBGYTABKSRVRQ-DCSYEGIMSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:03.261266+00:00",
+  "url": "/chemical/search/equal/GUBGYTABKSRVRQ-DCSYEGIMSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2023193",
+        "dtxcid": "DTXCID403193",
+        "casrn": "63-42-3",
+        "preferredName": "Lactose",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@]1(O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@H](O)O[C@@H]1CO",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "GUBGYTABKSRVRQ-DCSYEGIMSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

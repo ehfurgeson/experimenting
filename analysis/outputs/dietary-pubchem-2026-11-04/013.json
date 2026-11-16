@@ -1,0 +1,16 @@
+{
+  "query": "L-Phenylalanine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Phenylalanine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:00.177192+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6140,
+          "SMILES": "C1=CC=C(C=C1)C[C@@H](C(=O)O)N",
+          "InChIKey": "COLNVLDHVKWLRT-QMMMGPOBSA-N"
+        }
+      ]
+    }
+  }
+}

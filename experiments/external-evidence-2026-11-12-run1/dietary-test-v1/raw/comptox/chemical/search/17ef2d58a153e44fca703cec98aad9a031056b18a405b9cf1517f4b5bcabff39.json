@@ -1,0 +1,25 @@
+{
+  "search_term": "Glycerol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:16.578170+00:00",
+  "url": "/chemical/search/equal/Glycerol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9020663",
+        "dtxcid": "DTXCID40662",
+        "casrn": "56-81-5",
+        "preferredName": "Glycerol",
+        "hasStructureImage": 1,
+        "smiles": "OCC(O)CO",
+        "isMarkush": false,
+        "searchValue": "Glycerol",
+        "rank": 9,
+        "searchName": "Approved Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

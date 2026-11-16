@@ -1,0 +1,16 @@
+{
+  "query": "Maltose",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Maltose/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:06.154496+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 439186,
+          "SMILES": "C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O)CO)O)O)O)O",
+          "InChIKey": "GUBGYTABKSRVRQ-PICCSMPSSA-N"
+        }
+      ]
+    }
+  }
+}

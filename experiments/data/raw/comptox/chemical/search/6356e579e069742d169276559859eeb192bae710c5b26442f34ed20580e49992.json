@@ -1,0 +1,25 @@
+{
+  "search_term": "USMNOWBWPHYOEA-MRTMQBJTSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:36.955604+00:00",
+  "url": "/chemical/search/equal/USMNOWBWPHYOEA-MRTMQBJTSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3026148",
+        "dtxcid": "DTXCID206148",
+        "casrn": "546-80-5",
+        "preferredName": "alpha-Thujone",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)[C@@]12C[C@@H]1[C@@H](C)C(=O)C2",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "USMNOWBWPHYOEA-MRTMQBJTSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

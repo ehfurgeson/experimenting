@@ -1,0 +1,25 @@
+{
+  "search_term": "Aclonifen",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:16.705984+00:00",
+  "url": "/chemical/search/equal/Aclonifen",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7058175",
+        "dtxcid": "DTXCID3031943",
+        "casrn": "74070-46-5",
+        "preferredName": "Aclonifen",
+        "hasStructureImage": 1,
+        "smiles": "NC1=C(C=CC(OC2=CC=CC=C2)=C1Cl)[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Aclonifen",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

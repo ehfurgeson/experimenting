@@ -1,0 +1,25 @@
+{
+  "search_term": "DFPMSGMNTNDNHN-ZPHOTFPESA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:36.898102+00:00",
+  "url": "/chemical/search/equal/DFPMSGMNTNDNHN-ZPHOTFPESA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6022478",
+        "dtxcid": "DTXCID302478",
+        "casrn": "10236-47-2",
+        "preferredName": "Naringin",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@@]1(O[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@H]2OC2=CC(O)=C3C(=O)C[C@H](OC3=C2)C2=CC=C(O)C=C2)O[C@@H](C)[C@H](O)[C@@H](O)[C@H]1O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "DFPMSGMNTNDNHN-ZPHOTFPESA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "ODKSFYDXXFIFQN-BYPYZUCNSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:13.321208+00:00",
+  "url": "/chemical/search/equal/ODKSFYDXXFIFQN-BYPYZUCNSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6041056",
+        "dtxcid": "DTXCID4021056",
+        "casrn": "74-79-3",
+        "preferredName": "L-Arginine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CCCNC(N)=N)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "ODKSFYDXXFIFQN-BYPYZUCNSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

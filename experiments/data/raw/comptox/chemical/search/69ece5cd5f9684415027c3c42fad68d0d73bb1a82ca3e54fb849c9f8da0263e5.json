@@ -1,0 +1,25 @@
+{
+  "search_term": "Pyroxasulfone",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:59.060973+00:00",
+  "url": "/chemical/search/equal/Pyroxasulfone",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID4058104",
+        "dtxcid": "DTXCID7031872",
+        "casrn": "447399-55-5",
+        "preferredName": "Pyroxasulfone",
+        "hasStructureImage": 1,
+        "smiles": "CN1N=C(C(CS(=O)(=O)C2=NOC(C)(C)C2)=C1OC(F)F)C(F)(F)F",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Pyroxasulfone",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

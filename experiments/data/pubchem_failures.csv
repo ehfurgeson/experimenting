@@ -1,0 +1,24 @@
+query,cid,status,stage,error_type,message
+"4,6-Dimethylbicyclo[3.1.0]hex-2-ene-2,6-dimethanol",,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/4%2C6-Dimethylbicyclo%5B3.1.0%5Dhex-2-ene-2%2C6-dimethanol/cids/JSON
+cis-Sabinene hydrate,,error,resolve,ValueError,"Ambiguous PubChem name 'cis-Sabinene hydrate': [11744854, 20055523, 62367, 12315152]; use an explicit CID"
+cis-Thujone,,error,resolve,ValueError,"Ambiguous PubChem name 'cis-Thujone': [249286, 91456, 12304612]; use an explicit CID"
+beta-Davanone-2-ol,,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/beta-Davanone-2-ol/cids/JSON
+"2alpha,3beta,7beta,23-Tetrahydroxyurs-12-ene-28-oic acid",,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2alpha%2C3beta%2C7beta%2C23-Tetrahydroxyurs-12-ene-28-oic%20acid/cids/JSON
+17-alpha-Hydroxycabraleactone,,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/17-alpha-Hydroxycabraleactone/cids/JSON
+11-alpha-Acetylbrachycarpone-22(23)-ene,,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/11-alpha-Acetylbrachycarpone-22%2823%29-ene/cids/JSON
+LNA (2-amino-9-(4-oxoazetidin-2-yl)nonanoic acid),,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/LNA%20%282-amino-9-%284-oxoazetidin-2-yl%29nonanoic%20acid%29/cids/JSON
+Benzoxazolin-2(3H)-one (BOA),,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Benzoxazolin-2%283H%29-one%20%28BOA%29/cids/JSON
+"1,2-Benzenedicarboxylic acid bis(2-ethylhexyl) ester (dioctyl phthalate)",,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1%2C2-Benzenedicarboxylic%20acid%20bis%282-ethylhexyl%29%20ester%20%28dioctyl%20phthalate%29/cids/JSON
+6-Methoxybenzoxazolin-2-one (MBOA),,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/6-Methoxybenzoxazolin-2-one%20%28MBOA%29/cids/JSON
+5-Chloro-6-methoxy-2-benzoxazolinone (Cl-MBOA),,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/5-Chloro-6-methoxy-2-benzoxazolinone%20%28Cl-MBOA%29/cids/JSON
+"2,4-Dihydroxy-1,4-benzoxazin-3-one (DIBOA)",,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/2%2C4-Dihydroxy-1%2C4-benzoxazin-3-one%20%28DIBOA%29/cids/JSON
+"3,3',5-Trihydroxy-4',7-dimethoxyflavone",,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/3%2C3%27%2C5-Trihydroxy-4%27%2C7-dimethoxyflavone/cids/JSON
+"3,3',5-Trihydroxy-4',7-dimethoxyflavone-3-O-sulfate",,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/3%2C3%27%2C5-Trihydroxy-4%27%2C7-dimethoxyflavone-3-O-sulfate/cids/JSON
+Hyoscyamine,,error,resolve,ValueError,"Ambiguous PubChem name 'Hyoscyamine': [154417, 3661, 64692, 174174, 5318386, 637577, 78358485]; use an explicit CID"
+Scopolamine,,error,resolve,ValueError,"Ambiguous PubChem name 'Scopolamine': [3000322, 5184, 11968014, 153311, 6451257, 452977, 2723877, 6432494, 638340, 3081743, 5284456, 9916237, 16399351, 134767951]; use an explicit CID"
+Suaveolic acid,,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Suaveolic%20acid/cids/JSON
+m-Tyrosine (meta-tyrosine),,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/m-Tyrosine%20%28meta-tyrosine%29/cids/JSON
+(-)-Hamanasic acid A,,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/%28-%29-Hamanasic%20acid%20A/cids/JSON
+Ethyl 2-methylacetoacetate (EMA),,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Ethyl%202-methylacetoacetate%20%28EMA%29/cids/JSON
+Indole-3-acetic acid (IAA),,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Indole-3-acetic%20acid%20%28IAA%29/cids/JSON
+Abscisic acid (ABA),,error,resolve,HTTPError,404 Client Error: PUGREST.NotFound for url: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Abscisic%20acid%20%28ABA%29/cids/JSON

@@ -1,0 +1,25 @@
+{
+  "search_term": "XKJMBINCVNINCA-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:48.143160+00:00",
+  "url": "/chemical/search/equal/XKJMBINCVNINCA-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2024163",
+        "dtxcid": "DTXCID604163",
+        "casrn": "330-55-2",
+        "preferredName": "Linuron",
+        "hasStructureImage": 1,
+        "smiles": "CON(C)C(=O)NC1=CC=C(Cl)C(Cl)=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "XKJMBINCVNINCA-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

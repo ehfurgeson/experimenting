@@ -1,0 +1,49 @@
+{
+  "search_term": "D-Fructose",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:58.380495+00:00",
+  "url": "/chemical/search/equal/D-Fructose",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5023081",
+        "dtxcid": "DTXCID901474554",
+        "casrn": "57-48-7",
+        "preferredName": "D-Fructose",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO",
+        "isMarkush": false,
+        "searchValue": "D-Fructose",
+        "rank": 9,
+        "searchName": "Approved Name"
+      },
+      {
+        "dtxsid": "DTXSID201371662",
+        "dtxcid": "DTXCID201849956",
+        "casrn": "NOCAS_1371662",
+        "preferredName": "D-Fructopyranoside",
+        "hasStructureImage": 1,
+        "smiles": "OCC1(O)OC[C@@H](O)[C@@H](O)[C@@H]1O",
+        "isMarkush": false,
+        "searchValue": "D-Fructose",
+        "rank": 10,
+        "searchName": "Expert Validated Synonym"
+      },
+      {
+        "dtxsid": "DTXSID301352154",
+        "dtxcid": "DTXCID201781138",
+        "casrn": "30237-26-4",
+        "preferredName": "DL-Fructose",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@@H](O)[C@@H](O)[C@H](O)C(=O)CO",
+        "isMarkush": false,
+        "searchValue": "D-Fructose",
+        "rank": 12,
+        "searchName": "Systematic Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

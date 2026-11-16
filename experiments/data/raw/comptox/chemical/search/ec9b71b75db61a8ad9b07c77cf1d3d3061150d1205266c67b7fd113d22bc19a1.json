@@ -1,0 +1,25 @@
+{
+  "search_term": "Butyric Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:58.566338+00:00",
+  "url": "/chemical/search/equal/Butyric Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8021515",
+        "dtxcid": "DTXCID401515",
+        "casrn": "107-92-6",
+        "preferredName": "Butanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCC(O)=O",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "Butyric acid",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

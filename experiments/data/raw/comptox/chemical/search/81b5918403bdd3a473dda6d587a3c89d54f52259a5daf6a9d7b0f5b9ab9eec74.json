@@ -1,0 +1,25 @@
+{
+  "search_term": "Flavesone",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:20.181939+00:00",
+  "url": "/chemical/search/equal/Flavesone",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID10177116",
+        "dtxcid": "DTXCID0099607",
+        "casrn": "22595-45-5",
+        "preferredName": "Flavesone",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)C(=O)C1C(=O)C(C)(C)C(=O)C(C)(C)C1=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Flavesone",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

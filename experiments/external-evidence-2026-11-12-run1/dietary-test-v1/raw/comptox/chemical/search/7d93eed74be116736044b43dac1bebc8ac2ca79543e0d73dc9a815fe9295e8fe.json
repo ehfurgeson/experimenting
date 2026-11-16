@@ -1,0 +1,25 @@
+{
+  "search_term": "Sorbitol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:10.557324+00:00",
+  "url": "/chemical/search/equal/Sorbitol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5023588",
+        "dtxcid": "DTXCID903588",
+        "casrn": "50-70-4",
+        "preferredName": "D-Glucitol",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO",
+        "isMarkush": false,
+        "searchValue": "Sorbitol",
+        "rank": 10,
+        "searchName": "Expert Validated Synonym"
+      }
+    ],
+    "suggestions": []
+  }
+}

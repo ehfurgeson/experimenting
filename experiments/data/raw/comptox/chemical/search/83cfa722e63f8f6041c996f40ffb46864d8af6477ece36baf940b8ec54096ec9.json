@@ -1,0 +1,25 @@
+{
+  "search_term": "Camphene",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:27.489362+00:00",
+  "url": "/chemical/search/equal/Camphene",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8026488",
+        "dtxcid": "DTXCID006488",
+        "casrn": "79-92-5",
+        "preferredName": "Camphene",
+        "hasStructureImage": 1,
+        "smiles": "CC1(C)C2CCC(C2)C1=C",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Camphene",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,1857 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 689043,
+    "RecordTitle": "Caffeic Acid",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Evaluation: No data were available on the carcinogenicity of caffeic acid to humans. There is sufficient evidence in experimental animals for the carcinogenicity of caffeic acid. Overall evaluation: Caffeic acid is possibly carcinogenic to humans (Group 2B).",
+                          "Markup": [
+                            {
+                              "Start": 61,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 165,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 199,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "IARC Carcinogenic Agent",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Caffeic acid"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "IARC Carcinogenic Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Group 2B: Possibly carcinogenic to humans"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "IARC Monographs",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Volume 56: (1993) Some Naturally Occurring Substances: Food Items and Constituents, Heterocyclic Aromatic Amines and Mycotoxins",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "http://publications.iarc.who.int/74"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "Publication Year",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1993"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "Evaluation Year",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1992"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 168,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php",
+                        "Matched": {
+                          "PCLID": 900177075,
+                          "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2B, possibly carcinogenic to humans. (L135)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 39,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "IARC Carcinogen - Class 3: Chemicals are not classifiable by the International Agency for Research on Cancer."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134973965"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:10961374",
+                      "Cheng J et al; Naunyn Schmiedebergs Arch Pharmacol 362(2): 122-127 (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:10961374",
+                        "Matched": {
+                          "PCLID": 20613198,
+                          "Citation": "Cheng JT, Liu IM. Stimulatory effect of caffeic acid on alpha1A-adrenoceptors to increase glucose uptake into cultured C2C12 cells. Naunyn Schmiedebergs Arch Pharmacol. 2000 Aug;362(2):122–7. doi: 10.1007/s002100000274. PMID: 10961374.",
+                          "PMID": 10961374,
+                          "DOI": "10.1007/s002100000274"
+                        }
+                      },
+                      {
+                        "Citation": "Cheng J et al; Naunyn Schmiedebergs Arch Pharmacol 362(2): 122-127 (2000)",
+                        "Matched": {
+                          "PCLID": 20613198,
+                          "Citation": "Cheng JT, Liu IM. Stimulatory effect of caffeic acid on alpha1A-adrenoceptors to increase glucose uptake into cultured C2C12 cells. Naunyn Schmiedebergs Arch Pharmacol. 2000 Aug;362(2):122–7. doi: 10.1007/s002100000274. PMID: 10961374.",
+                          "PMID": 10961374,
+                          "DOI": "10.1007/s002100000274"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Caffeic acid  enhanced the uptake of radioactive glucose into C2C12 cells in a  concentration-dependent  manner. Similar effect of phenylephrine on the uptake of radioactive  glucose was also  observed in C2C12 cells. Prazosin attenuated the action of caffeic acid in a  way parallel to  the blockade of phenylephrine.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 131,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenylephrine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6041"
+                            },
+                            {
+                              "Start": 218,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Prazosin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4893"
+                            },
+                            {
+                              "Start": 252,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 304,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenylephrine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6041"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Female ICR/Ha mice, nine weeks of age, were fed a diet containing 0.06 mmol/g (10 g/kg of diet) caffeic acid (purity, 99%). From experimental day 8, the mice were also given 1 mg benzo(a)pyrene by gavage twice a week for four weeks. The diet containing caffeic acid was removed three days after the last benzo(a)pyrene treatment. Mice were killed at 211 days of age. In the 17 effective mice, the number of forestomach tumors (> or = 1 mm)/mouse (histology unspecified) was significantly decreased by caffeic acid (p < 0.05) (3.1 versus 5.0 tumors/mouse among 38 mice treated with benzo(a)pyrene alone).",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 179,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzo%28a%29pyrene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2336"
+                            },
+                            {
+                              "Start": 253,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 304,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzo%28a%29pyrene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2336"
+                            },
+                            {
+                              "Start": 501,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 152-3"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 152-3",
+                        "Matched": {
+                          "PCLID": 900012210,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 152-3"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Basic treatment: Establish a patent airway. Suction if necessary. Watch for signs of respiratory insufficiency and assist respirations if necessary. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with normal saline during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 ml/kg up to 200 ml of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool. Activated charcoal is not effective ... . Do not attempt to neutralize because of exothermic reaction. Cover skin burns with dry, sterile dressings after decontamination ... . /Organic acids and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 160,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 363,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 406,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/normal%20saline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5234"
+                            },
+                            {
+                              "Start": 529,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 631,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 153"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 153",
+                        "Matched": {
+                          "PCLID": 900141134,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 153"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in respiratory arrest. Early intubation, at the first sign of upper airway obstruction, may be necessary. Positive pressure ventilation techniques with a bag valve mask device may be beneficial. Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start an IV with D5W /SRP: \"To keep open\", minimal flow rate/. Use lactated Ringer's if signs of hypovolemia are present. Watch for signs of fluid overload. Consider drug therapy for pulmonary edema ... . For hypotension with signs of hypovolemia, administer fluid cautiously. Consider vasopressors if patient is hypotensive with a normal fluid volume. Watch for signs of fluid overload ... . Use proparacaine hydrochloride to assist eye irrigation ... . /Organic acids and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 812,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Medical Surveillance",
+                "Description": "Medical surveillance information for this compound.  Medical surveillance is the systematic assessment of employees exposed or potentially exposed to occupational hazards. This assessment monitors individuals for adverse health effects and determines the effectiveness of exposure prevention strategies.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Montesano, R., H. Bartsch, E.Boyland, G. Della Porta, L. Fishbein, R. A. Griesemer, A.B. Swan, L. Tomatis, and W. Davis (eds.). Handling Chemical Carcinogens in the Laboratory: Problems of Safety. IARC Scientific Publications No. 33. Lyon, France: International Agency for Research on Cancer, 1979., p. 23"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Montesano, R., H. Bartsch, E.Boyland, G. Della Porta, L. Fishbein, R. A. Griesemer, A.B. Swan, L. Tomatis, and W. Davis (eds.). Handling Chemical Carcinogens in the Laboratory: Problems of Safety. IARC Scientific Publications No. 33. Lyon, France: International Agency for Research on Cancer, 1979., p. 23",
+                        "Matched": {
+                          "PCLID": 900022884,
+                          "Citation": "Montesano, R., H. Bartsch, E.Boyland, G. Della Porta, L. Fishbein, R. A. Griesemer, A.B. Swan, L. Tomatis, and W. Davis (eds.). Handling Chemical Carcinogens in the Laboratory: Problems of Safety. IARC Scientific Publications No. 33. Lyon, France: International Agency for Research on Cancer, 1979., p. 23"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "PRECAUTIONS FOR \"CARCINOGENS\": Whenever medical surveillance is indicated, in particular when exposure to a carcinogen has occurred, ad hoc decisions should be taken concerning ... /cytogenetic and/or other/ tests that might become useful or mandatory. /Chemical Carcinogens/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Five male Fischer 344 rats, six weeks of age, were given 20 g/kg of diet caffeic acid (purity, > 98%) in basal diet for four weeks. The forestomachs of all treated animals showed epithelial hyperplasia. No hyperplasia was detected in the five untreated controls.",
+                          "Markup": [
+                            {
+                              "Start": 129,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ A group of 15 male Syrian golden hamsters, seven weeks of age, was fed a diet containing 1% (10 g/kg diet) caffeic acid (purity, > 98%) for 20 weeks. The dose level of 1% was selected as one-fourth the LD50 in rats. The stomachs and urinary bladders were processed for histopathological and autoradiographic examinations. Mild epithelial hyperplasia of the forestomach was noted in 14/15 treated animals (severe in one) and in 7/15 untreated animals (p < 0.001). Assessment of (3)H-thymidine incorporation revealed an increase in the number of labelled cells in the forestomach and pyloric region of the glandular stomach as compared with untreated rats, but this was not statistically significant.",
+                          "Markup": [
+                            {
+                              "Start": 163,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:1913684",
+                      "Hagiwara A et al; Cancer Res 51(20): 5655-5660 (1991)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:1913684",
+                        "Matched": {
+                          "PCLID": 20444734,
+                          "Citation": "Hagiwara A, Hirose M, Takahashi S, Ogawa K, Shirai T, Ito N. Forestomach and kidney carcinogenicity of caffeic acid in F344 rats and C57BL/6N x C3H/HeN F1 mice. Cancer Res. 1991 Oct 15;51(20):5655–60. PMID: 1913684.",
+                          "PMID": 1913684
+                        }
+                      },
+                      {
+                        "Citation": "Hagiwara A et al; Cancer Res 51(20): 5655-5660 (1991)",
+                        "Matched": {
+                          "PCLID": 900053446,
+                          "Citation": "Hagiwara A et al; Cancer Res 51(20): 5655-5660 (1991)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The carcinogenic potential of caffeic acid was investigated in  both sexes of F344 rats and C57BL/6N x C3H/HeN F1 mice. After groups of 30 animals received  diet containing 0 and 2.0% caffeic acid for 104 weeks in rats or 96 weeks in mice, detailed  histopathological examination revealed induction of forestomach squamous cell papillomas or  carcinomas in rats at high incidence (77% for males; 80% for females) and in mice at low  incidence (13% for males; 3% for females). Invasion to the abdominal cavity of these squamous cell carcinomas was observed in three rats and two mice. In addition, renal tubular cell  hyperplasias and adenomas, clearly related to toxic lesions, were found in treated rats at high incidence for males (73 and 13%) and low incidence for females (20 and 0%). In mice, renal  tubular cell hyperplasias and tumors also occurred in treated females (97 and 28%), and at a lower incidence in treated males (27 and 3%). No toxic renal injuries were apparent in mice.  Alveolar type II cell tumors also developed in treated male mice (27%) with statistical  significance. Thus, the current investigation showed caffeic acid to exert carcinogenic activity for the forestomach squamous cell epithelium in both sexes of F344 rats and C57BL/6N x  C3H/HeN F1 mice, for the renal tubular cell in male rats and female mice, and for the alveolar  type II cell in male mice.",
+                          "Markup": [
+                            {
+                              "Start": 88,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 242,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1192,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Two groups of 20 female Sprague-Dawley rats, 50 days of age, received 25 mg/kg body weight 7,12-dimethylbenz(a)anthracene in 0.5 ml sesame oil by gavage. One week later, the animals were fed a diet containing 0.5% (5 g/kg of diet) caffeic acid (purity, > 99%) for 51 weeks. The mammary glands, ear ducts, stomach, liver and kidneys were examined. The incidence of papillomas of the forestomach was significantly increased (6/19) in animals treated with 7,12-dimethylbenz(a)anthracene alone (0/19; p < 0.01). No other significant increase in tumor incidence was found.",
+                          "Markup": [
+                            {
+                              "Start": 149,
+                              "Length": 30,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7%2C12-dimethylbenz%28a%29anthracene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6001"
+                            },
+                            {
+                              "Start": 289,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 511,
+                              "Length": 30,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7%2C12-dimethylbenz%28a%29anthracene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6001"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for CAFFEIC ACID (6 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 98,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7088#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CAFFEIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 169,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf",
+                        "Matched": {
+                          "PCLID": 906318723,
+                          "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^331-39-5$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Caffeic acid's production as a laboratory chemical and its use in the development of asthmatic  and allergenic drugs may result in its release to the environment through various waste  streams. If released to air, an estimated vapor pressure of 2.5X10-7 mm Hg at 25 °C  indicates caffeic acid will exist in both the vapor and particulate phases in the ambient  atmosphere. Vapor-phase caffeic acid will be degraded in the atmosphere by reaction with  photochemically-produced hydroxyl radicals; the half-life for this reaction in air is  estimated to be 8.6 hrs. Caffeic acid has been shown to absorb light in the environmental  UV spectrum and therefore has the potential for direct photolysis. If released to soil,  caffeic acid is expected to have high mobility based upon an estimated Koc of 100.  Volatilization from moist soil surfaces is not expected to be an important fate process based  upon an estimated Henry's Law constant of 1.4X10-16 atm-cu m/mole. The pKa of caffeic acid is  4.62, indicating that this compound will primarily exist in anion form in the environment and  anions generally do not adsorb to organic carbon and clay more strongly than their neutral  counterparts. Caffeic acid is not expected to volatilize from dry soil surfaces based upon its  vapor pressure. C-14 ring labeled caffeic acid underwent approximately 55 percent  mineralization after two weeks in a sandy loam mixed culture, indicating the potential for  biodegradation in soil. If released into water, caffeic acid is not expected to adsorb to  suspended solids and sediment based upon the estimated Koc. Caffeic acid will be degraded in  natural sunlit waters by reaction with photochemically-produced hydroxyl radicals; the  half-life for this reaction in water is estimated to be 11 days. Volatilization from water  surfaces is not expected to be an important fate process based upon this compound's estimated  Henry's Law constant. An estimated BCF of 3.2 suggests the potential for bioconcentration in  aquatic organisms is low. Hydrolysis is not expected to be an important environmental fate  process since this compound lacks functional groups that hydrolyze under environmental  conditions. Occupational exposure to caffeic acid may occur through inhalation and dermal  contact with this compound at workplaces where caffeic acid is produced or used. Monitoring  data indicate that the general population may be exposed to caffeic acid via ingestion of food  and medicine made from plants and dermal contact with this compound and other plant products  containing caffeic acid. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 280,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 385,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 476,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 563,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 718,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 975,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1129,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1193,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1309,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1491,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1498,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1601,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1699,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 1754,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1808,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2221,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 2322,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 2428,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 2569,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer. 56: 122 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer. 56: 122 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Caffeic acid has been detected in wood smoke condensates(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer. 56: 115 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer. 56: 115 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Caffeic acid's production as a laboratory chemical and its use in the development of asthmatic and allergenic drugs(1) may result in its release to the environment through various waste streams(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(4) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(5) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)",
+                      "(6) Overcash MR, Pal D; Design of Land Treatment Systems for Industrial Wastes. Ann Arbor, Mi: Ann Arbor Science, pp. 182-457 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(5) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      },
+                      {
+                        "Citation": "(6) Overcash MR, Pal D; Design of Land Treatment Systems for Industrial Wastes. Ann Arbor, Mi: Ann Arbor Science, pp. 182-457 (1979)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 100(SRC), determined from a log Kow of 1.15(2) and a regression-derived equation(3), indicates that caffeic acid is expected to have high mobility in soil(SRC). Volatilization of caffeic acid from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 1.4X10-16 atm-cu m/mole(SRC), using a fragment constant estimation method(4). Caffeic acid is not expected to volatilize from dry soil surfaces(SRC) based upon an estimated vapor pressure of 2.5X10-7 mm Hg(SRC), determined from a fragment constant method(5). C-14 ring-labeled caffeic acid underwent approximately 55 percent mineralization after two weeks in a sandy loam mixed culture(6).",
+                          "Markup": [
+                            {
+                              "Start": 181,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 260,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 472,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 671,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Sangster J; LOGKOW Databank. Sangster Res.  Lab., Montreal Quebec, Canada (1994)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property  Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(4) Meylan WM,  Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(5) Serjeant EP, Dempsey B; Ionisation  constants of organic acids in aqueous solution. IUPAC Chem Data Ser No. 23. NY, NY: Pergamon  pp. 989 (1979)",
+                      "(6) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for  Chemicals. Boethling RS, Mackay D, eds, Boca Raton, FL: Lewis Publ (2000)",
+                      "(7) Lyman WJ; p. 207  in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC  Press (1985)",
+                      "(8) Bors W et al; Oxygen Radicals Chem Biol. Berlin, West Ger: W. Degruyter and  Co. pp. 95-99 (1984)",
+                      "(9) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(10) Meylan WM et al;  Environ Toxicol Chem 18: 664-72 (1999)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Sangster J; LOGKOW Databank. Sangster Res.  Lab., Montreal Quebec, Canada (1994)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property  Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Meylan WM,  Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(5) Serjeant EP, Dempsey B; Ionisation  constants of organic acids in aqueous solution. IUPAC Chem Data Ser No. 23. NY, NY: Pergamon  pp. 989 (1979)"
+                      },
+                      {
+                        "Citation": "(6) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for  Chemicals. Boethling RS, Mackay D, eds, Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(7) Lyman WJ; p. 207  in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC  Press (1985)"
+                      },
+                      {
+                        "Citation": "(8) Bors W et al; Oxygen Radicals Chem Biol. Berlin, West Ger: W. Degruyter and  Co. pp. 95-99 (1984)"
+                      },
+                      {
+                        "Citation": "(9) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(10) Meylan WM et al;  Environ Toxicol Chem 18: 664-72 (1999)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 100(SRC),  determined from a log Kow of 1.15(2) and a regression-derived equation(3), indicates that  caffeic acid is not expected to adsorb to suspended solids and sediment(SRC). Volatilization  from water surfaces is not expected(3) based upon an estimated Henry's Law constant of  1.4X10-16 atm-cu m/mole(SRC), developed using a fragment constant estimation method(4). The  pKa of caffeic acid is 4.62(5), indicating that this compound will primarily exist in anion  form in the environment and anions generally do not adsorb to organic carbon and clay more  strongly than their neutral counterparts(6). Caffeic acid is degraded in natural sunlit waters  by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this  reaction in water is 11 days(SRC) at an aquatic hydroxyl radical concentration of 3X10-17  M(7), calculated from its rate constant of 2.41X10+10 per M-sec at 25 °C(8). According to a  classification scheme(9), an estimated BCF of 3.2(SRC), from its log Kow(2) and a regression-  derived equation(10), suggests the potential for bioconcentration in aquatic organisms is  low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 179,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 278,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 461,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 617,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 684,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 777,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 837,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 873,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Lyman WJ; p. 31 in Environmental  Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(4) Bors W et al; Oxygen Radicals Chem  Biol. Berlin, West Ger: W. Degruyter and Co. pp. 95-99 (1984)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ; p. 31 in Environmental  Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Bors W et al; Oxygen Radicals Chem  Biol. Berlin, West Ger: W. Degruyter and Co. pp. 95-99 (1984)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic  compounds in the atmosphere(1), caffeic acid, which has an estimated vapor pressure of  2.5X10-7 mm Hg at 25 °C(SRC), determined from a fragment constant method(2), will exist in  both the vapor and particulate phases in the ambient atmosphere. Vapor-phase caffeic acid is  degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC);  the half-life for this reaction in air is estimated to be 8.6 hrs(SRC), calculated from its  rate constant of 4.5X10-11 cu cm/molecule-sec at 25 °C(SRC) that was derived using a  structure estimation method(3). Caffeic acid has been shown to absorb light at 325 nm and 442  nm, indicating the potential for direct photolysis(4).",
+                          "Markup": [
+                            {
+                              "Start": 125,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 350,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 436,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 672,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Overcash MR, Pal D; Design of Land Treatment Systems for Industrial Wastes. Ann Arbor, MI: Ann Arbor Science, pp. 182-457 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Overcash MR, Pal D; Design of Land Treatment Systems for Industrial Wastes. Ann Arbor, MI: Ann Arbor Science, pp. 182-457 (1979)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: C-14 ring-labeled caffeic acid underwent approximately 55 percent mineralization after two weeks in a sandy loam mixed culture indicating the potential for biodegradation in soil(1).",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:3377491",
+                      "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC202530",
+                      "(1) Harwood CS, Gibson J; Appl Environ Microbiol 54:712-7 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:3377491",
+                        "Matched": {
+                          "PCLID": 15042359,
+                          "Citation": "Harwood CS, Gibson J. Anaerobic and aerobic metabolism of diverse aromatic compounds by the photosynthetic bacterium Rhodopseudomonas palustris. Appl Environ Microbiol. 1988 Mar;54(3):712–7. doi: 10.1128/aem.54.3.712-717.1988.",
+                          "PMID": 3377491,
+                          "PMCID": "PMC202530",
+                          "DOI": "10.1128/aem.54.3.712-717.1988"
+                        }
+                      },
+                      {
+                        "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC202530",
+                        "Matched": {
+                          "PCLID": 900150110,
+                          "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC202530"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Harwood CS, Gibson J; Appl Environ Microbiol 54:712-7 (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: A possible anearobic degradation pathway for caffeic acid is conversion to protocatechuic acid, then to 4-hydroxybenzoic acid, and then to central metabolites(1).",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 86,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/protocatechuic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-72"
+                            },
+                            {
+                              "Start": 115,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-hydroxybenzoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Meylan WM, Howard PH; Chemosphere  26: 2293-99 (1993)",
+                      "(3) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)",
+                      "(4) Lyman WJ; p. 207  in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC  Press (1985)",
+                      "(5) Bors W et al; Oxygen Radicals Chem Biol. Berlin, West Ger: W. Degruyter and  Co. pp. 95-99 (1984)",
+                      "(6) Lyman WJ et al; Handbook of Chemical Property Estimation Methods.  Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)",
+                      "(7) Langvik V et al; Micropollut Aquat  Environ: Proc Eur Supp 6th pp. 518-22 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM, Howard PH; Chemosphere  26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(3) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ; p. 207  in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC  Press (1985)"
+                      },
+                      {
+                        "Citation": "(5) Bors W et al; Oxygen Radicals Chem Biol. Berlin, West Ger: W. Degruyter and  Co. pp. 95-99 (1984)"
+                      },
+                      {
+                        "Citation": "(6) Lyman WJ et al; Handbook of Chemical Property Estimation Methods.  Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)"
+                      },
+                      {
+                        "Citation": "(7) Langvik V et al; Micropollut Aquat  Environ: Proc Eur Supp 6th pp. 518-22 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of caffeic acid with photochemically-produced  hydroxyl radicals has been estimated as 4.5X10-11 cu cm/molecule-sec at 25 °C(SRC) using a  structure estimation method(1). This corresponds to an atmospheric half-life of about 8.6 hrs at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). The rate  constant for the vapor-phase reaction of caffeic acid with ozone has been estimated as  2.1X10-17 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation  method(2). This corresponds to an atmospheric half-life of about 13 hours at an atmospheric  concentration of 7X10+11 ozone molecules per cu cm(3). Caffeic acid is degraded in natural  sunlit waters by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life  for this reaction in water is 11 days(SRC) at an aquatic concentration of 3X10-17 M(4),  calculated from its rate constant of 2.41X10+10 per M-sec at 25 °C(5). Caffeic acid is not  expected to undergo hydrolysis in the environment due to the lack of hydrolyzable functional  groups(6). Caffeic acid has been shown to absorb light at 325 nm and 442 nm, indicating the  potential for direct photolysis(5). Caffeic acid will react with chlorine in acidic  chlorinated water to form the mutagen (Z)-2-chloro-3-(dichloromethyl)-4-oxobutenoic acid(7).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 94,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 322,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 405,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 423,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 660,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 690,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 783,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 843,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 982,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1108,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1226,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1255,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Chlorine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Chlorine"
+                            },
+                            {
+                              "Start": 1287,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1313,
+                              "Length": 50,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/%28Z%29-2-chloro-3-%28dichloromethyl%29-4-oxobutenoic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3036483"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+                      "(2) Meylan  WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14  (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)"
+                      },
+                      {
+                        "Citation": "(2) Meylan  WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14  (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 3.2 was calculated for caffeic acid(SRC), using a log Kow of 1.15(1) and a  regression-derived equation(2). According to a classification scheme(3), this BCF suggests the  potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 43,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(4) Serjeant EP, Dempsey B; Ionisation constants of organic acids in aqueous solution. IUPAC Chem Data Ser No. 23. NY, NY: Pergamon pp. 989 (1979)",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Sangster J; LOGKOW Databank. Sangster Res. Lab., Montreal Quebec, Canada (1994)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(4) Serjeant EP, Dempsey B; Ionisation constants of organic acids in aqueous solution. IUPAC Chem Data Ser No. 23. NY, NY: Pergamon pp. 989 (1979)"
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of caffeic acid is estimated as 100(SRC), using a log Kow of 1.15(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that caffeic acid is expected to have high mobility in soil. The pKa of caffeic acid is 4.62(4), indicating that this compound will primarily exist in anion form in the environment and anions generally do not adsorb to organic carbon and clay more strongly than their neutral counterparts(5).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 195,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 262,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 417,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)",
+                      "(3) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for caffeic acid is estimated as 1.4X10-16 atm-cu m/mole(SRC) using a fragment constant estimation method(1). This Henry's Law constant indicates that caffeic acid is expected to be essentially nonvolatile from water surfaces(2). Caffeic acid is not expected to volatilize from dry soil surfaces(SRC) based upon an estimated vapor pressure of 2.5X10-7 mm Hg(SRC), determined from a fragment constant method(3).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 176,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 236,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 255,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Food Survey Values",
+                "Description": "Information on the amount or concentration of this compound in food, reported from various data sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer, Vol 56, p. 117 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer, Vol 56, p. 117 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Caffeic acid has been detected in thyme, basil, aniseed, caraway, rosemery tarragon, marojoram, savory, sage, dill, and absinthe at concentrations greater than 1000 ppm(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer, Vol 56, p. 117 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer, Vol 56, p. 117 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Caffeic acid has been detected in the following vegetables (fresh weight): broad bush bean hulls (12-14 mg/kg); broad bush bean unripe fruit (less than 0.5-9 mg/kg); red beetroot whole vegetable (3-4 mg/kg); red beetroot outside (5 mg/kg); red beetroot heart (4 mg/kg); sugar beetroot whole vegetable (3-4 mg/kg); Broccoli florets (8 mg/kg and 10 mg/kg); brussels sprouts (34-44 mg/kg and 35-50 mg/kg); Chinese cabbage outer leaves (11-42 mg/kg and 52 mg/kg); Chinese cabbage inner leaves (4-11 mg/kg and 11 mg/kg); red cabbage outer leaves (6-11 mg/kg and 16-24 mg/kg); red cabbage head (12-16 mg/kg and 16-17 mg/kg); savoy cabbage outer leaves (9-14 mg/kg and 4-7 mg/kg); savoy cabbage head (4-7 mg/kg); white cabbage outer leaves (less than 0.5-31 mg/kg and less than 0.5-62 mg/kg); white cabbage head (less than 0.5-10 mg/kg and less than 0.5-12 mg/kg); carrot whole vegetable (18-96 mg/kg); carrot rind (27-141 mg/kg); carrot central cylinder (8-73 mg/kg); cauliflower leaves (9-29 mg/kg, 58 mg/kg, and 90 mg/kg); cauliflower florets (1-3 mg/kg, 4 mg/kg, and 6 mg/kg); celery whole vegetable (89-104 mg/kg); celery outside (87-122 mg/kg); celery heart (84-109 mg/kg); celery root (168 mg/kg); chives green leaves (less than 0.5 mg/kg); fennel tuber (100 mg/kg); garlic dry bulb skin (less than 20 mg/kg); garlic fleshy tissue of bulb (14 mg/kg and 7 mg/kg); horseradish whole vegetable (10-11 mg/kg); horseradish peel (14 mg/kg); horseradish heart (4 mg/kg); kale stalk and midrib (9 mg/kg and 13 mg/kg); kale leaf and stalk (77 mg/kg and 92 mg/kg); kale leaf and blade (125 mg/kg, 51-136 mg/kg, and 305 mg/kg); kohlrabi leaves (15-66 mg/kg and 34-113 mg/kg); kohlrabi tuber (less than 0.5-2 mg/kg and 2-5 mg/kg); lettuce leaves (767-1570 mg/kg and 804-1440 mg/kg); onion green leaves (less than 0.5-15 mg/kg, less than 0.5 mg/kg, and 19 mg/kg); parsley whole plant (6 mg/kg); parsley leaf (less than 0.5 mg/kg); pea unripe seeds (less than 0.5-1 mg/kg); pea hulls (less than 0.5 mg/kg); potato peel (163- 280 mg/kg, 167-196 mg/kg, and 205 mg/kg); potato whole tuber (3- 30 mg/kg, 5-33 mg/kg, and 8 mg/kg); radish whole vegetable (13-17 mg/kg); radish peel (47-52 mg/kg); radish heart (3-9 mg/kg); radish leaves (394-396 mg/kg); black radish whole vegetable (5-8 mg/kg); black radish peel (6-7 mg/kg); black radish heart (7 mg/kg); black radish leaves (163-247 mg/kg and 156-220 mg/kg); rhubarb leaves (8-13 mg/kg, 6 mg/kg, and 16 mg/kg); rhubarb outer stem (less than 0.5 mg/kg); rutabaga whole vegetable (2 mg/kg); rutabaga peel (3 mg/kg); rutabaga heart (4 mg/kg); scorzonera whole vegetable (49-212 mg/kg); scorzonera outside (106 mg/kg); scorzonera heart (62 mg/kg)(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer, Vol 56, p. 117 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer, Vol 56, p. 117 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Caffeic acid has been detected in the following fruits (fresh weight): Blueberry (83-588 mg/kg); corgette (10 mg/kg); black currant (14-93 mg/kg); red currant (8- 16 mg/kg); white currant (10-21 mg/kg); ripe eggplant (360-436 mg/kg; green gooseberry (24-32 mg/kg); red gooseberry (29-32 mg/kg); yellow gooseberry (23-27 mg/kg); grapefruit (11-40 mg/kg); grapefruit peel (14-51 mg/kg); lemon (13-27 mg/kg); lemon peel (16-35 mg/kg); orange (19-50 mg/kg); orange peel (12-36 mg/kg); green sweet pepper (3-7 mg/kg); red sweet pepper (4-10 mg/kg); strawberry (less than 0.5-14 mg/kg); sweet melon (less than 0.5 mg/kg); sweet melon peel (3 mg/kg); unripe green tomato (13-79 mg/kg and 44 mg/kg); ripe red tomato (32-97 mg/kg); tomato peel (97 mg/kg); tomato pulp (41 mg/kg); tomato seeds (119 mg/kg); watermelon or watermelon peel (less than 0.5 mg/kg)(1). Caffeic acid has also been detected in sweet potatoes, sunflower seeds and meal, soya beans, tobacco, spinach, apricots, coconut, and rolled oats(1). Caffeic acid is also found in coffee, fruit juices, and wine(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 853,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1003,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Plant Concentrations",
+                "Description": "Concentrations of this compound in plants.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer. 56: 117 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, International Agency For Research on Cancer. 56: 117 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Caffeic acid is found in the following species of plants: Umbelliferae, Cruciferae, Cucurbitaceae, Polygonaceae, Compositae, Labiatea, Solanaceae, Leguminosae, Saxifragaceae, Caprifoliaceae, Theaceae, and Valerianaceae(1). Caffeic acid is found in the following plants used to make medicines: Davallia mariesii Moore (Korean medicine for the cold, neuralgia, and stomach cancer; Chinese medicine for lumbago, rheumatism, toothache, and tinnitus); Carissa spinarum L. (Indian purgative and rheumatism treatment); Ixora javanica (Indian antitumor agent, gastric sedative, intestinal antiseptic, and astringent); Centaurium umbellatum Gil. (medicinal plant used in many countries); Artemisia rubripes Nakai (Chinese medicinal plant); Crataegus oxyacantha L. (cardiovascular effects); Cytisus scoparium L.; Melissa officinalis L. (antiviral, antitumor); Phleum pratense L.; Argyreaia speciosa Sweet (hypotensive and spasmolytic activity); Foeniculum vulgare; Veronica chamaedrys L.; and Arctium lappa L. (diuretic)(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 223,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 40,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to caffeic acid may occur through inhalation and dermal contact with this compound at workplaces where caffeic acid is produced or used. Monitoring data indicate that the general population may be exposed to caffeic acid via ingestion of food and medicine made from plants and dermal contact with this compound and other plant products containing caffeic acid. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 125,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 230,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 369,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134973965",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000331395",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19465404
+      },
+      {
+        "ReferenceNumber": 39,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz4135",
+        "Name": "Caffeic acid",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17278865
+      },
+      {
+        "ReferenceNumber": 40,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7088",
+        "Name": "CAFFEIC ACID",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7088",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4701
+      },
+      {
+        "ReferenceNumber": 54,
+        "SourceName": "International Agency for Research on Cancer (IARC)",
+        "SourceID": "2233980644",
+        "Name": "Caffeic acid",
+        "Description": "",
+        "URL": "https://monographs.iarc.who.int/list-of-classifications",
+        "LicenseNote": "Materials made available by IARC/WHO enjoy copyright protection under the Berne Convention for the Protection of Literature and Artistic Works, under other international conventions, and under national laws on copyright and neighbouring rights. IARC exercises copyright over its Materials to make sure that they are used in accordance with the Agency's principles. All rights are reserved.",
+        "LicenseURL": "https://publications.iarc.who.int/Terms-Of-Use",
+        "ANID": 39310948
+      },
+      {
+        "ReferenceNumber": 168,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4201",
+        "Name": "Caffeic acid",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4201",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443528
+      },
+      {
+        "ReferenceNumber": 169,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "1672595023",
+        "Name": "Caffeic acid",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49293449
+      }
+    ]
+  }
+}

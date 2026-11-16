@@ -1,0 +1,25 @@
+{
+  "search_term": "Ethyl Cinnamate",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:24.981463+00:00",
+  "url": "/chemical/search/equal/Ethyl Cinnamate",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Ethyl cinnamate",
+        "dtxsid": "DTXSID9022520",
+        "dtxcid": "DTXCID802520",
+        "casrn": "103-36-6",
+        "hasStructureImage": 1,
+        "smiles": "CCOC(=O)C=CC1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Ethyl cinnamate",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

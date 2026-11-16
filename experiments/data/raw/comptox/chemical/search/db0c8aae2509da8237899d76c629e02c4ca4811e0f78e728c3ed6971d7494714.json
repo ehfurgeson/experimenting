@@ -1,0 +1,25 @@
+{
+  "search_term": "alpha-Thujene",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:21.263230+00:00",
+  "url": "/chemical/search/equal/alpha-Thujene",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID30722248",
+        "dtxcid": "DTXCID401847099",
+        "casrn": "563-34-8",
+        "preferredName": "(1S)-2-Methyl-5-(1-methylethyl)bicyclo[3.1.0]hex-2-ene",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@@]12C[C@@]1(CC=C2C)C(C)C",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "alpha-Thujene",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

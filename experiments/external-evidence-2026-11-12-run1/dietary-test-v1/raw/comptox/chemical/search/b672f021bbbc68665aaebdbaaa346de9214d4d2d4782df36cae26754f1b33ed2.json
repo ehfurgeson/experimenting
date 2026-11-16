@@ -1,0 +1,25 @@
+{
+  "search_term": "TUNFSRHWOTWDNC-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:23.539625+00:00",
+  "url": "/chemical/search/equal/TUNFSRHWOTWDNC-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6021666",
+        "dtxcid": "DTXCID501666",
+        "casrn": "544-63-8",
+        "preferredName": "Tetradecanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchValue": "TUNFSRHWOTWDNC-UHFFFAOYSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

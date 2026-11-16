@@ -1,0 +1,16 @@
+{
+  "query": "Caprylic acid",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Caprylic%20acid/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:09.240675+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 379,
+          "SMILES": "CCCCCCCC(=O)O",
+          "InChIKey": "WWZKQHOCKIZLMA-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

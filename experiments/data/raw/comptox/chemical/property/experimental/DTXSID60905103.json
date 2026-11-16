@@ -1,0 +1,43 @@
+{
+  "dtxsid": "DTXSID60905103",
+  "provider": "EPA CompTox",
+  "property_kind": "experimental",
+  "retrieved_at": "2026-10-21T13:54:56.763412+00:00",
+  "url": "/chemical/property/experimental/search/by-dtxsid/DTXSID60905103",
+  "status": 200,
+  "response": [
+    {
+      "id": 299361,
+      "dtxsid": "DTXSID60905103",
+      "dtxcid": "DTXCID401334206",
+      "smiles": "[H][C@@]1(O[C@@H]2OC=C([C@@H](CC(=O)OCCC3=CC(O)=C(O)C=C3)\\C2=C/C)C(=O)OC)O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O",
+      "propName": "Melting Point",
+      "dataset": "exp_prop_MELTING_POINT_v2.0",
+      "propValue": 90.0,
+      "propUnit": "°C",
+      "propValueId": 5076366,
+      "propValueOriginal": "89 - 91 °C",
+      "propValueText": null,
+      "expDetailsTemperatureC": null,
+      "expDetailsPressureMmhg": null,
+      "expDetailsPh": null,
+      "expDetailsResponseSite": null,
+      "expDetailsSpeciesLatin": null,
+      "expDetailsSpeciesCommon": null,
+      "expDetailsSpeciesSupercategory": null,
+      "sourceName": "PubChem_2024_11_27",
+      "sourceDescription": "Open chemistry database at the National Institutes of Health (NIH)",
+      "publicSourceName": "PubChem_2024_11_27",
+      "publicSourceDescription": "Open chemistry database at the National Institutes of Health (NIH)",
+      "publicSourceUrl": "https://pubchem.ncbi.nlm.nih.gov/",
+      "directUrl": "http://www.hmdb.ca/metabolites/HMDB0035872",
+      "lsName": null,
+      "lsCitation": null,
+      "lsDoi": null,
+      "briefCitation": null,
+      "publicSourceOriginalName": "Human Metabolome Database (HMDB)",
+      "publicSourceOriginalDescription": "The Human Metabolome Database (HMDB) is a freely available electronic database containing detailed information about small molecule metabolites found in the human body.",
+      "publicSourceOriginalUrl": "http://www.hmdb.ca/metabolites/HMDB0012136"
+    }
+  ]
+}

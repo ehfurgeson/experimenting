@@ -1,0 +1,25 @@
+{
+  "search_term": "QTBSBXVTEAMEQO-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:56.633321+00:00",
+  "url": "/chemical/search/equal/QTBSBXVTEAMEQO-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5024394",
+        "dtxcid": "DTXCID304394",
+        "casrn": "64-19-7",
+        "preferredName": "Acetic acid",
+        "hasStructureImage": 1,
+        "smiles": "CC(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "QTBSBXVTEAMEQO-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

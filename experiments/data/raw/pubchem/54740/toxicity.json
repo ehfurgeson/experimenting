@@ -1,0 +1,2578 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 54740,
+    "RecordTitle": "Imazethapyr",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=439",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pursuit"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Critical Effect Systems",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hematologic"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Reference Dose (RfD), chronic",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.5 x 10 ^-1 mg/kg-day"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "USGS Health-Based Screening Levels for Evaluating Water-Quality",
+                "Description": "This section provides the USGS Health-Based Screening Levels for Evaluating Water-Quality data.",
+                "URL": "https://water.usgs.gov/water-resources/hbsl/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Imazethapyr"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "USGS Parameter Code",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "61683"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "Chemical Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pesticide"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "Chronic Noncancer HHBP (Human Health Benchmarks for Pesticides)[μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "15000"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "Reference",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Smith, C.D. and Nowell, L.H., 2024. Health-Based Screening Levels for evaluating water-quality data (3rd ed.). DOI:10.5066/F71C1TWP",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Not Likely to be Carcinogenic to Humans"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hematologic"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Neurotoxin - Other CNS neurotoxin"
+                        },
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 6,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135013679"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 47,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.5"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 47,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.federalregister.gov/documents/2002/08/29/02-22093/imazethapyr-pesticide-tolerance",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Imazethapyr"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.5"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "15000"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) = 3,270 mg/m3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 20,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.11 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.11 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home",
+                            "Matched": {
+                              "PCLID": 906272518,
+                              "Citation": "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.11 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral >5000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.11 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.11 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home",
+                            "Matched": {
+                              "PCLID": 906272518,
+                              "Citation": "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.11 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit dermal >2000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.11 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.11 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home",
+                            "Matched": {
+                              "PCLID": 906272518,
+                              "Citation": "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.11 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 Rat inhalation 3.27 mg/L /Duration not specified/"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Immediate first aid: Ensure that adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR if necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on the left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 324,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 mL/kg up to 200 mL of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 216,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 468,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 637,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1",
+                        "Matched": {
+                          "PCLID": 900090294,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in severe respiratory distress. Positive-pressure ventilation techniques with a bag valve mask device may be beneficial. Consider drug therapy for pulmonary edema ... . Consider administering a beta agonist such as albuterol for severe bronchospasm ... . Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start IV administration of D5W /SRP: \"To keep open\", minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's if signs of hypovolemia are present. For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam or lorazepam ... . Use proparacaine hydrochloride to assist eye irrigation ... .  /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 378,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/albuterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2083"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 798,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123",
+                        "Matched": {
+                          "PCLID": 900072062,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 123"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Skin decontamination. Skin contamination should be treated promptly by washing with soap and water. Contamination of the eyes should be treated immediately by prolonged flushing of the eyes with large amounts of clean water. If dermal or ocular irritation persists, medical attention should be obtained without delay. /Herbicides/",
+                          "Markup": [
+                            {
+                              "Start": 93,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 218,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Antidote and Emergency Treatment (Complete) data for IMAZETHAPYR (7 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 102,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6678#section=Antidote-and-Emergency-Treatment-(Complete)"
+                            },
+                            {
+                              "Start": 62,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/IMAZETHAPYR",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A928/Aug 87"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A928/Aug 87",
+                        "Matched": {
+                          "PCLID": 900052809,
+                          "Citation": "Hartley, D. and H. Kidd (eds.). The Agrochemicals Handbook. 2nd ed. Lechworth, Herts, England: The Royal Society of Chemistry, 1987., p. A928/Aug 87"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In 28 days feeding trials, no effect level for rats was 10,000 mg/kg (highest dose tested)."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "60 FR 4091 (January 20, 1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "60 FR 4091 (January 20, 1995)",
+                        "Matched": {
+                          "PCLID": 900058775,
+                          "Citation": "60 FR 4091 (January 20, 1995)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A 1-year feeding study in dogs fed diets containing 0, 1,000, 5,000, or 10,000 ppm with a NOEL of 1,000 ppm (25 mg/kg/day and a LOEL of 5,000 ppm (125 mg/kg/day), based on decreased packed cell volume, hemoglobin, and erythrocytes in females."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "60 FR 4091 (January 20, 1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "60 FR 4091 (January 20, 1995)",
+                        "Matched": {
+                          "PCLID": 900058775,
+                          "Citation": "60 FR 4091 (January 20, 1995)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ A 2-year chronic toxicity/ carcinogenicity study in rats fed diets containing 0, 1,000, 5,000, or 10,000 ppm with no carcinogenic effects observed under the conditions of the study at levels up to and including 10,000 ppm (500 mg/kg/day [HDT]) and a systemic NOEL of 10,000 ppm (500 mg/kg/day (HDT))."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "60 FR 4091 (January 20, 1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "60 FR 4091 (January 20, 1995)",
+                        "Matched": {
+                          "PCLID": 900058775,
+                          "Citation": "60 FR 4091 (January 20, 1995)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ An 18-month carcinogenicity study with mice fed diets containing 0, 1,000, 5,000, or 10,000 ppm with no carcinogenic effects observed under the conditions of the study at levels up to and including 10,000 ppm (1,500 mg/ kg/day) (highest dose tested [HDT]), a systemic no-observed-effect level (NOEL) of 5,000 ppm (750 mg/kg/day), and a systemic LOEL of 10,000 ppm (1,500 mg/kg/day), based on decreased body weight gain in both sexes."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for IMAZETHAPYR (9 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 97,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6678#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/IMAZETHAPYR",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 55
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475",
+                        "Matched": {
+                          "PCLID": 906281860,
+                          "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50; Species: Colinus virginianus (Bobwhite quail) oral >2150 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475",
+                        "Matched": {
+                          "PCLID": 906281860,
+                          "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50; Species: Anas platyrhynchos (Mallard) oral >2150 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475",
+                        "Matched": {
+                          "PCLID": 906281860,
+                          "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: Lepomis macrochirus (Bluegill); Concentration: 420 mg/L for 96 hr /Conditions of bioassay not specified/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475",
+                        "Matched": {
+                          "PCLID": 906281860,
+                          "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 475"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: Onchorhynchus mykiss (Rainbow trout); Concentration: 340 mg/L for 96 hr /Conditions of bioassay not specified/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for IMAZETHAPYR (13 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 89,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6678#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/IMAZETHAPYR",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Moraes BS et al; Ecotoxicol Environ Saf 74 (3): 328-35 (2011)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Moraes BS et al; Ecotoxicol Environ Saf 74 (3): 328-35 (2011)",
+                        "Matched": {
+                          "PCLID": 26903978,
+                          "Citation": "Moraes BS, Clasen B, Loro VL, Pretto A, Toni C, de Avila LA, Marchesan E, de Oliveira Machado SL, Zanella R, Reimche GB. Toxicological responses of Cyprinus carpio after exposure to a commercial herbicide containing imazethapyr and imazapic. Ecotoxicology and Environmental Safety. 2011 Mar;74(3):328–35. doi: 10.1016/j.ecoenv.2009.05.013.",
+                          "PMID": 21095003,
+                          "DOI": "10.1016/j.ecoenv.2009.05.013"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ Cyprinus carpio was exposed to imazethapyr and imazapic at laboratory and at field conditions. The laboratory experiment was carried out for 7 days and at rice field for 7, 30 and 90 days. Oxidative stress parameters and antioxidant profile were studied as well as metabolic parameters. After 7 days, brain AChE activity increases in laboratory and field, but in muscle, reduction was observed only in laboratory. At the same period, brain and muscle TBARS and liver CAT increase in the laboratory. Metabolic parameters showed changes in both conditions and exposure periods. After 30 days in rice field, brain AChE activity decreases and in muscle it was enhanced. After 90 days in field, only muscle AChE activity was reduced. The disorders in oxidative stress parameters and metabolism remained, indicating mainly a protein catabolism.",
+                          "Markup": [
+                            {
+                              "Start": 49,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 65,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazapic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91770"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.3 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.3 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900099133,
+                          "Citation": "USEPA; Health Effects Division (HED) Risk Assessment for Imazethapyr, Document ID: EPA-HQ-OPP-2002-0189-0003. p.3 (April 23, 2002). Available from, as of June 14, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/OTHER TERRESTRIAL SPECIES/ Imazethapyr is a member of the imidazolinone class of herbicides. These chemicals are active through inhibition of acetohydroxyacid synthase (AHAS) which is involved in amino acid synthesis (leucine, isoleucine, and valine). The inhibition causes a disruption in protein synthesis that leads to an interference in cell growth.",
+                          "Markup": [
+                            {
+                              "Start": 28,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 59,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imidazolinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-504"
+                            },
+                            {
+                              "Start": 219,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/leucine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6106"
+                            },
+                            {
+                              "Start": 228,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoleucine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6306"
+                            },
+                            {
+                              "Start": 244,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/valine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6287"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.60e+05"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.10e+06"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.70e+04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5.00e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.10e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.50e+00"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 11,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.70e+05"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "6.20e+06"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.40e+05"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5.00e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.50e+00"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Imazethapyr's production may result in its release to the environment through various waste streams; its use as a herbicide will result in its direct release to the environment. If released to air, an estimated vapor pressure of 2.3X10-11 mm Hg at 25 °C indicates imazethapyr will exist solely in the particulate phase in the atmosphere. Particulate-phase imazethapyr will be removed from the atmosphere by wet or dry deposition. If released to soil, imazethapyr is expected to have very high to moderate mobility based upon Koc values of 1.4 to 173. The pKa2 of imazethapyr is 3.9, indicating that this compound will exist almost entirely in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts. Volatilization from moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 1.0X10-16 atm-cu m/mole. Although low amounts of imazethapyr were observed to evaporate from dry soil, volatilization is not expected based upon the very low estimated vapor pressure. Photodecomposition of 14C-imazethapyr from Taloka silt loam was 8% for 43 hours. Reported aerobic soil biodegradation half-lives for imazethapyr are 23.5 days to 10.6 months. If released into water, imazethapyr is expected to adsorb to suspended solids and sediment based upon the Koc values. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's pKa. An estimated BCF of 3 suggests the potential for bioconcentration in aquatic organisms is low. Reported aqueous photodegradation half-lives for imazethapyr are 4 to 5.1 hours. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions. Occupational exposure to imazethapyr may occur through inhalation of spray mists or aerosols and dermal contact with this herbicide during or after its application or at workplaces where imazethapyr is produced. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 264,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 356,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 451,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 563,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 750,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 984,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1145,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1252,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1311,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1318,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1432,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1671,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1892,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 2054,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Imazethapyr (81335-77-5) (2008-2010)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Imazethapyr (81335-77-5) (2008-2010)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Imazethapyr's production may result in its release to the environment through various waste streams; its use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Ahmad R, Rahman A; J Agric Food Chem 57: 10866-75 (2009)",
+                      "(3) Bresnahan GA et al; J Agric Food Chem 48: 1929-34 (2000)",
+                      "(4) Kah M, Brown CD; Rev Environ Contam Toxicol 188: 149-217 (2006)",
+                      "(5) Senesi N et al; J Environ Qual 26: 1264-70 (1997)",
+                      "(6) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Imazethapyr (81335-77-5) (2008-2010)",
+                      "(7) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(8) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(9) Goetz AJ et al; Weed Sci 38: 421-8 (1990)",
+                      "(10) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)",
+                      "(11) Ramezani MK et al; Chemosphere 79: 1040-5 (2010)",
+                      "(12) Vischetti C; Bull Environ Contam Toxicol 54: 420-7 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Ahmad R, Rahman A; J Agric Food Chem 57: 10866-75 (2009)"
+                      },
+                      {
+                        "Citation": "(3) Bresnahan GA et al; J Agric Food Chem 48: 1929-34 (2000)"
+                      },
+                      {
+                        "Citation": "(4) Kah M, Brown CD; Rev Environ Contam Toxicol 188: 149-217 (2006)"
+                      },
+                      {
+                        "Citation": "(5) Senesi N et al; J Environ Qual 26: 1264-70 (1997)"
+                      },
+                      {
+                        "Citation": "(6) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Imazethapyr (81335-77-5) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(7) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(8) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(9) Goetz AJ et al; Weed Sci 38: 421-8 (1990)"
+                      },
+                      {
+                        "Citation": "(10) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      },
+                      {
+                        "Citation": "(11) Ramezani MK et al; Chemosphere 79: 1040-5 (2010)"
+                      },
+                      {
+                        "Citation": "(12) Vischetti C; Bull Environ Contam Toxicol 54: 420-7 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), Koc values of 1.4 to 173(2-5), indicate that imazethapyr is expected to have very high to moderate mobility in soil(SRC). The pKa2 of imazethapyr is 3.9(6), indicating that this compound exists almost entirely in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(7). Volatilization of imazethapyr from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 1.0X10-16 atm-cu m/mole(SRC), using a fragment constant estimation method(8). Although low amounts of imazethapyr have evaporated from dry soil(9), volatilization is not expected based upon its very low estimated vapor pressure of 2.1X10-11 mm Hg at 25 °C(SRC), determined from a fragment constant method(10). Imazethapyr has been shown to biodegrade under aerobic conditions with biodegradation half-lives of 23.5 days(11) to 10.6 months(12). Photo decomposition of 14C-imazethapyr from Taloka silt loam, irradiated with sunlight between 8:00 am and 5:00 pm from June 26 thru July 5th was 8% for 43 hours, chain labeled degraded more than ring labeled imazethapyr(9).",
+                          "Markup": [
+                            {
+                              "Start": 100,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 189,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 375,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 445,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 680,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 888,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1049,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1231,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Curran WS et al; Weed Sci 40: 482-9 (1992)",
+                      "(2) Jensen KIN et al; Can J Soil Sci 75: 525-7 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Curran WS et al; Weed Sci 40: 482-9 (1992)"
+                      },
+                      {
+                        "Citation": "(2) Jensen KIN et al; Can J Soil Sci 75: 525-7 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: In a two year (1987-1988) field study, imazethapyr was applied to two soil types at pre-plant and pre-emergence times and plots were tilled with conventional and reduced conditions(1). Dissipation half-lives were 49 to 122 days, this included all environmental factors (volatilization, leaching, surface runoff, plant uptake and degradation)(1). Two test fields established in 1991 were treated with imazethapyr both pre-emergence and post-emergence(2). Pre-emergence and post-emergence half-lives were 47 and 19 days for Prince Edward Island site (60% sand, 29% silt, 11% clay, 2.9% organic matter, pH 5.8), and 63 and 34 days for Nova Scotia site (57% sand, 34% silt, 9% clay, 3.3% organic matter, pH 5.8), respectively(2).",
+                          "Markup": [
+                            {
+                              "Start": 57,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 418,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Ahmad R, Rahman A; J Agric Food Chem 57: 10866-75 (2009)",
+                      "(3) Bresnahan GA et al; J Agric Food Chem 48: 1929-34 (2000)",
+                      "(4) Kah M, Brown CD; Rev Environ Contam Toxicol 188: 149-217 (2006)",
+                      "(5) Senesi N et al; J Environ Qual 26: 1264-70 (1997)",
+                      "(6) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Imazethapyr (81335-77-5) (2008-2010)",
+                      "(7) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(8) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 13, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(9) Ramezani MK et al; Chemosphere 79: 1040-5 (2010)",
+                      "(10) Goetz AJ et al; Weed Sci 38: 421-8 (1990)",
+                      "(11) Avila LA et al; J Agric Food Chem 54: 2635-9 (2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Ahmad R, Rahman A; J Agric Food Chem 57: 10866-75 (2009)"
+                      },
+                      {
+                        "Citation": "(3) Bresnahan GA et al; J Agric Food Chem 48: 1929-34 (2000)"
+                      },
+                      {
+                        "Citation": "(4) Kah M, Brown CD; Rev Environ Contam Toxicol 188: 149-217 (2006)"
+                      },
+                      {
+                        "Citation": "(5) Senesi N et al; J Environ Qual 26: 1264-70 (1997)"
+                      },
+                      {
+                        "Citation": "(6) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Imazethapyr (81335-77-5) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(7) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(8) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 13, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(9) Ramezani MK et al; Chemosphere 79: 1040-5 (2010)"
+                      },
+                      {
+                        "Citation": "(10) Goetz AJ et al; Weed Sci 38: 421-8 (1990)"
+                      },
+                      {
+                        "Citation": "(11) Avila LA et al; J Agric Food Chem 54: 2635-9 (2006)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), Koc values of 1.4 to 173(2-5), indicate that imazethapyr is expected to adsorb to suspended solids and sediment(SRC). A pKa2 of 3.9(6) indicates imazethapyr will exist almost entirely in the anion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process(SRC). According to a classification scheme(7), an estimated BCF of 3(SRC), from an estimated log Kow of 1.49(6) and a regression-derived equation(8), suggests the potential for bioconcentration in aquatic organisms is low(SRC). Imazethapyr has been reported to biodegrade in soil under aerobic conditions with half-lives of 23.5 days(9) to 10.6 months(10). Imazethapyr had measured aqueous photodegradation half-lives of 4.0 to 5.1 hours in 3 rice paddy waters collected from Beaumont and Eagle Lake, TX and Clarksdale, MS(11).",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 196,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 310,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 601,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 730,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), imazethapyr, which has an estimated vapor pressure of 2.3X10-11 mm Hg at 25 °C(SRC), determined from a fragment constant method(2), is expected to exist solely in the particulate phase in the ambient atmosphere. Particulate-phase imazethapyr may be removed from the air by wet or dry deposition(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 354,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Avila LA et al; J Agric Food Chem 54: 2635-9 (2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Avila LA et al; J Agric Food Chem 54: 2635-9 (2006)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Little anaerobic biodegradation was reported in soil and sediment(1). Aerobic field soil half-lives of 53 to 122 days were reported(1)."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Cantwell JR et al; Weed Sci 37: 815-9 (1989)",
+                      "(2) Flint JL, Witt WL; Weed Sci 45: 586-91 (1997)",
+                      "(3) Goetz AJ et al; Weed Sci 38: 421-8 (1990)",
+                      "(4) Ramezani MK et al; Chemosphere 79: 1040-5 (2010)",
+                      "(5) Vischetti C; Bull Environ Contam Toxicol 54: 420-7 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Cantwell JR et al; Weed Sci 37: 815-9 (1989)"
+                      },
+                      {
+                        "Citation": "(2) Flint JL, Witt WL; Weed Sci 45: 586-91 (1997)"
+                      },
+                      {
+                        "Citation": "(3) Goetz AJ et al; Weed Sci 38: 421-8 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Ramezani MK et al; Chemosphere 79: 1040-5 (2010)"
+                      },
+                      {
+                        "Citation": "(5) Vischetti C; Bull Environ Contam Toxicol 54: 420-7 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: 14C Radio-labeled imazethapyr was incubated for 12 weeks at 28 °C in the dark in two soil types; Drummer silty loam (9% sand, 57% silt, 34% clay, pH 5.7, 5.8% organic carbon) and Cisne silt (14% sand, 74% silt, 12% clay, pH 7.0, 1.3% organic carbon)(1). Imazethapyr was biodegraded 18.2 and 26.8% in Drummer loam when 14C labeled on the carboxyl group and ring structure, respectively(1). Imazethapyr was biodegraded 46.9 and 53.5% in Cisne silt when 14C labeled on the carboxyl group and ring structure, respectively(1). Maury silt loam (8% sand, 67% silt, 25% clay, 2.6% organic matter, pH 6.3) was used in an 8 week study with radio-labeled 14C imazethapyr to determine effects of temperature and moisture on biodegradation(2). 14CO2 evolution from soil incubated at 15 and 30 °C was 1.5 and 4.4% for ring labeled imazethapyr and 2.0 and 5.4% for carboxyl labeled imazethapyr, respectively(2). 14CO2 evolution from ring labeled imazethapyr was 1.1, 3.4, 4.3, 5.4 and 4.6% at 15, 25, 50, 75 and 100% field capacity water content, respectively(2). Biodegradation half-lives of 14C-labeled imazethapyr were 2.6 to 9.0 months for Taloka silt loam (23% sand, 62% silt, 15% clay, 1.7% organic matter, pH 6.3) and 6.4 to 10.6 months for Sharkey silty clay (9% sand, 40% silt, 51% clay, 2.4% organic matter, pH 6.7)(3). Aerobic biodegradation rates were measured in six soils with a range of physico-chemical properties, incubation time was 60 days in the dark at 25 °C and 50% moisture(4). Half-lives were 23.5 to 62.2 days(4). Biodegradation half-lives for imazethapyr in soil are reported as 72.94 to 257.28 days under 33 to 75% field capacity moisture, 10 to 20 °C incubation temperature and 0.1 to 10 ppm initial concentration(5).",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 176,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 251,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 263,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 398,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 657,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 826,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 876,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 940,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1026,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1099,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1563,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)",
+                      "(2) Curran WS et al; Weed Sci 40: 143-8 (1992)",
+                      "(3) Avila LA et al; J Agric Food Chem 54: 2635-9 (2006)",
+                      "(4) Goetz AJ et al; Weed Sci 38: 421-8 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)"
+                      },
+                      {
+                        "Citation": "(2) Curran WS et al; Weed Sci 40: 143-8 (1992)"
+                      },
+                      {
+                        "Citation": "(3) Avila LA et al; J Agric Food Chem 54: 2635-9 (2006)"
+                      },
+                      {
+                        "Citation": "(4) Goetz AJ et al; Weed Sci 38: 421-8 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Imazethapyr is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(1). Exposure to UV light (using sunlamps, wavelengths >290 nm and <620 nm) in aqueous solutions caused complete degradation of imazethapyr in 48 hrs, with a half-life of 4 hrs reported(2). Imazethapyr had measured aqueous photodegradation half-lives of 4.0 to 5.1 hours in 3 rice paddy waters collected from Beaumont and Eagle Lake, TX and Clarksdale, MS(3). Photo decomposition of 14C-imazethapyr from Taloka silt loam, irradiated with sunlight between 8:00 am and 5:00 pm from June 26 thru July 5th was 8% for 43 hours, chain labeled degraded more than ring labeled imazethapyr(4).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Imazethapyr (81335-77-5) (2008-2010)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 13, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Imazethapyr (81335-77-5) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Jan, 2010. Available from, as of Jul 13, 2011: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 3 was calculated in fish for imazethapyr(SRC), using a log Kow of 1.49(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 49,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Ahmad R, Rahman A; J Agric Food Chem 57: 10866-75 (2009)",
+                      "(2) Bresnahan GA et al; J Agric Food Chem 48: 1929-34 (2000)",
+                      "(3) Kah M, Brown CD; Rev Environ Contam Toxicol 188: 149-217 (2006)",
+                      "(4) Senesi N et al; J Environ Qual 26: 1264-70 (1997)",
+                      "(5) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(6) Gennari M et al; J Environ Sci Health 33B: 547-67 (1998)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Ahmad R, Rahman A; J Agric Food Chem 57: 10866-75 (2009)"
+                      },
+                      {
+                        "Citation": "(2) Bresnahan GA et al; J Agric Food Chem 48: 1929-34 (2000)"
+                      },
+                      {
+                        "Citation": "(3) Kah M, Brown CD; Rev Environ Contam Toxicol 188: 149-217 (2006)"
+                      },
+                      {
+                        "Citation": "(4) Senesi N et al; J Environ Qual 26: 1264-70 (1997)"
+                      },
+                      {
+                        "Citation": "(5) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(6) Gennari M et al; J Environ Sci Health 33B: 547-67 (1998)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Imazethapyr had a reported mean Koc of 13.2 (range of 2 to 55) in 101 allophanic and non-allophanic surface soil samples collected throughout New Zealand(1). Imazethapyr had a reported Koc of 19 at pH 7.7 and an increased Koc of 163 as the pH was reduced to 5.4(2). Imazethapyr has a reported Koc range of 75 to 173(3). Koc values for Trani (55.1% sand, 22.0% silt, 22.9% clay, pH 7.5, organic carbon 1.46%) and Andria (69.1% sand, 18% silt, 12.9% clay, pH 7.8, organic carbon 0.62%) soils were 1.4 and 12.9, respectively(4). According to a classification scheme(5), these reported Koc values suggest that imazethapyr is expected to have very high to moderate mobility in soil. In an adsorption study using 2 humic acids, no measurable adsorption of imazethapyr occurred at pH 4.7, while at pH 3.6 and 3.7, the compound did adsorb(6). The pKa2, 3.9, indicates that at the lower pH values, about half of the amount of herbicide would exist in the molecular form and most of the carboxyl groups of humic acids are combined(6); at pH 4.7, the herbicide is mainly in the ionic form and most of the carboxyl groups of humic acids are also ionized(6). Using 10 soils, Kd values ranging from no detectable adsorption (pH 7.5, % organic carbon 0.86-1.39) to 14.74 (pH 4.5, % organic carbon 11.66) were obtained(6).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 158,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 266,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 394,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 470,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 606,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 750,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1229,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1275,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Imazethapyr (81335-77-5) (2008-2010)",
+                      "(2) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(3) Goetz AJ et al; Weed Sci 38: 421-8 (1992)",
+                      "(4) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Imazethapyr (81335-77-5) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(3) Goetz AJ et al; Weed Sci 38: 421-8 (1992)"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A pKa2 of 3.9(1) indicates imazethapyr will exist almost entirely in the anion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process(SRC). Volatilization of imazethapyr from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 1.0X10-16 atm-cu m/mole(SRC), calculated using a fragment constant estimation method(2). Volatilization of 14C radio-labeled imazethapyr (ring and chain labeled) from dry soil was 1.5% from Taloka silt loam (23% sand, 62% silt, 15% clay, 1.7% organic matter, pH 6.3) and 1.0% from Sharkey silty clay (9% sand, 40% silt, 51% clay, 2.4% organic matter, pH 6.7), soil was incubated at 49 °C for a maximum of 168 hours(3); these values are very low(SRC). Volatilization is not expected based upon its very low estimated vapor pressure of 2.1X10-11 mm Hg at 25 °C(SRC), determined from a fragment constant method(4).",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 141,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 228,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 486,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Battaglin WA et al; Sci Total Environ 248: 123-33 (2000)",
+                      "(2) Steinheimer TR et al; in Agrochemical Fate and Movement. Amer Chem Soc. Washington, DC pp 248-71 (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Battaglin WA et al; Sci Total Environ 248: 123-33 (2000)"
+                      },
+                      {
+                        "Citation": "(2) Steinheimer TR et al; in Agrochemical Fate and Movement. Amer Chem Soc. Washington, DC pp 248-71 (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GROUNDWATER: Imazethapyr was detected in 4 of 25 groundwater samples collected in the Midwestern United States from May to Aug 1998 at median and maximum concentrations of <0.01 and 0.059 ug/L, respectively, method reporting limit of 0.01 ug/L(1). Imazethapyr was detected at <0.02 ug/L in groundwater in Belle Plaine, IA and at 0.09 ug/L in Correctionville, IA, samples were collected June to Sept 1997(2).",
+                          "Markup": [
+                            {
+                              "Start": 13,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Donald DB et al; Environ Health Perspect 115(8): 1183-91 (2007)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Donald DB et al; Environ Health Perspect 115(8): 1183-91 (2007)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DRINKING WATER: Imazethapyr was detected at a maximum concentration of 3 ng/L in 163 drinking water samples taken from 15 treatment facilities located in Manitoba, Saskatchewan and Alberta, Canada, samples were collected July 2004 and 2005(1).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 16,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 94,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Battaglin WA et al; Sci Total Environ 248: 123-33 (2000)",
+                      "(2) Donald DB et al; Environ Health Perspect 115(8): 1183-91 (2007)",
+                      "(3) Phillips PJ, Bode RW; Pest Manag Sci 60: 531-43 (2004)",
+                      "(4) Steinheimer TR et al; IN: Agrochemical Fate and Movement. Amer Chem Soc. Washington, DC pp 248-71 (2000)",
+                      "(5) USGS; USGS Water Res Invest Rep 00-4025, US Dept Int, Iowa City, IA (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Battaglin WA et al; Sci Total Environ 248: 123-33 (2000)"
+                      },
+                      {
+                        "Citation": "(2) Donald DB et al; Environ Health Perspect 115(8): 1183-91 (2007)"
+                      },
+                      {
+                        "Citation": "(3) Phillips PJ, Bode RW; Pest Manag Sci 60: 531-43 (2004)"
+                      },
+                      {
+                        "Citation": "(4) Steinheimer TR et al; IN: Agrochemical Fate and Movement. Amer Chem Soc. Washington, DC pp 248-71 (2000)"
+                      },
+                      {
+                        "Citation": "(5) USGS; USGS Water Res Invest Rep 00-4025, US Dept Int, Iowa City, IA (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATER: Imazethapyr was detected in 92 of 129 surface water samples collected from 75 surface water sites from the Upper Mississippi, Missouri, and Ohio River basins in the United States from May to Aug 1998 at median and maximum concentrations of 0.031 and 0.689 ug/L, respectively, method reporting limit of 0.01 ug/L(1). Imazethapyr was detected in 12 of 206 surface water samples at a maximum concentration of 11.0 ng/L taken from 15 drinking water reservoirs located in Manitoba, Saskatchewan and Alberta, Canada, samples were collected May to Aug 2003, Oct 2003, Jan 2004, and April 2004 and 2005(2). Imazethapyr was detected in 8% of samples taken from the Kisco river with a maximum concentration of 0.074 ug/L and in 25% of samples taken from the middle branch of the Croton River with a maximum concentration of 0.096 ug/L, samples were collected May 2000 to Feb 2001, rivers are part of New York City water supply system(3). Imazethapyr was not detected in the Tensas River near Tendal or the Illinois River near Valley City, IA(4). Imazethapyr was detected at 0.21, 0.05, 0.03 and 0.11 ug/L in the Iowa river near Rowan, IA, Mississippi River near Clinton, IA, Wabash River near New Harmony, IN and Illinois River near Ottawa, IL, samples were collected June to Sept 1997(4). Imazethapyr was detected at 0.10 ug/L in the Nishnabotna River near Hamburg, IA from samples collected Jun 17, 1998 after a 500 year flood(5).",
+                          "Markup": [
+                            {
+                              "Start": 8,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 15,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 61,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 101,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 331,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 377,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 454,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 614,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 919,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 943,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1051,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1295,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to imazethapyr may occur through inhalation of spray mists or aerosols and dermal contact with this herbicide during or after its application or at workplaces where imazethapyr is produced. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 187,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135013679",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0081335775",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19492361
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_439",
+        "Name": "Pursuit",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=439",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895476
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID54740",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125646
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_400",
+        "Name": "Imazethapyr",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2436009
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_400",
+        "Name": "Imazethapyr",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8258804
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "d3f9fdd550285a8176a940844eb92c14",
+        "Name": "Imazethapyr",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667388
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID3024287",
+        "Name": "Imazethapyr",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57010502
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz5610",
+        "Name": "Imazethapyr",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17279603
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "6678",
+        "Name": "IMAZETHAPYR",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6678",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4395
+      },
+      {
+        "ReferenceNumber": 47,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Imazethapyr",
+        "Name": "Imazethapyr",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401212
+      },
+      {
+        "ReferenceNumber": 51,
+        "SourceName": "USGS Health-Based Screening Levels for Evaluating Water-Quality Data",
+        "SourceID": "ef3d1fbfe216969b07a9a9feabe0da1c",
+        "Name": "Imazethapyr",
+        "Description": "The USGS Health-Based Screening Levels for Evaluating Water-Quality Data contains Health-Based Screening Levels (HBSLs) that are non-enforceable water-quality benchmarks that can be used to (1) supplement U.S. Environmental Protection Agency (USEPA) Maximum Contaminant Levels (MCLs) and Human Health Benchmarks for Pesticides (HHBPs), (2) determine whether contaminants found in surface-water or groundwater sources of drinking water may indicate a potential human-health concern, and (3) help prioritize monitoring efforts. HBSLs were developed by the U.S. Geological Survey (USGS).",
+        "URL": "https://water.usgs.gov/water-resources/hbsl/index.html",
+        "LicenseURL": "https://www.usgs.gov/legal",
+        "ANID": 39668118
+      }
+    ]
+  }
+}

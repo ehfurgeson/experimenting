@@ -1,0 +1,37 @@
+{
+  "search_term": "L-Serine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:43.211803+00:00",
+  "url": "/chemical/search/equal/L-Serine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID60883230",
+        "dtxcid": "DTXCID501022779",
+        "casrn": "56-45-1",
+        "preferredName": "L-Serine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CO)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "L-Serine",
+        "rank": 9
+      },
+      {
+        "dtxsid": "DTXSID301031857",
+        "dtxcid": "DTXCID301516855",
+        "casrn": "6898-95-9",
+        "preferredName": "(2S)-2-Amino-3-hydroxy-propanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CO)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "L-Serine",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

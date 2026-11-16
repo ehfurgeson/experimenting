@@ -1,0 +1,25 @@
+{
+  "search_term": "MGOHCFMYLBAPRN-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:28:09.409436+00:00",
+  "url": "/chemical/search/equal/MGOHCFMYLBAPRN-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Pinoxaden",
+        "dtxsid": "DTXSID8034823",
+        "dtxcid": "DTXCID6014823",
+        "casrn": "243973-20-8",
+        "hasStructureImage": 1,
+        "smiles": "CCC1=CC(C)=CC(CC)=C1C1=C(OC(=O)C(C)(C)C)N2CCOCCN2C1=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "MGOHCFMYLBAPRN-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

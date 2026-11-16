@@ -1,0 +1,25 @@
+{
+  "search_term": "Myristic acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:24.295435+00:00",
+  "url": "/chemical/search/equal/Myristic acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6021666",
+        "dtxcid": "DTXCID501666",
+        "casrn": "544-63-8",
+        "preferredName": "Tetradecanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchValue": "Myristic acid",
+        "rank": 10,
+        "searchName": "Expert Validated Synonym"
+      }
+    ],
+    "suggestions": []
+  }
+}

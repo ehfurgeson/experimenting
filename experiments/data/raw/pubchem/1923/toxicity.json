@@ -1,0 +1,2589 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 1923,
+    "RecordTitle": "8-Hydroxyquinoline",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Name": "Cosmetic Ingredient Review Conclusion",
+                    "Reference": [
+                      "Journal of the American College of Toxicology 11(4):497-507, 1992",
+                      "International Journal of Toxicology 25(Suppl. 1):1-9, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Journal of the American College of Toxicology 11(4):497-507, 1992",
+                        "Matched": {
+                          "PCLID": 906421714,
+                          "Citation": "Journal of the American College of Toxicology 11(4):497-507, 1992"
+                        }
+                      },
+                      {
+                        "Citation": "International Journal of Toxicology 25(Suppl. 1):1-9, 2006",
+                        "Matched": {
+                          "PCLID": 906421443,
+                          "Citation": "International Journal of Toxicology 25(Suppl. 1):1-9, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Based on the available information, the CIR Expert Panel concludes that Oxyquinoline and Oxyquinoline Sulfate are safe as used as stabilizers for hydrogen peroxide in leave-on hair care cosmetic products. There are insufficient data to support the safety of Oxyquinoline and Oxyquinoline Sulfate in leave-on cosmetic products.",
+                          "Markup": [
+                            {
+                              "Start": 72,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 89,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyquinoline%20Sulfate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517000"
+                            },
+                            {
+                              "Start": 146,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydrogen%20peroxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-784"
+                            },
+                            {
+                              "Start": 258,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 275,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyquinoline%20Sulfate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517000"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 20,
+                    "Name": "Cosmetic Ingredient Review Finding(s)",
+                    "Reference": [
+                      "Journal of the American College of Toxicology 11(4):497-507, 1992",
+                      "International Journal of Toxicology 25(Suppl. 1):1-9, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Journal of the American College of Toxicology 11(4):497-507, 1992",
+                        "Matched": {
+                          "PCLID": 906421714,
+                          "Citation": "Journal of the American College of Toxicology 11(4):497-507, 1992"
+                        }
+                      },
+                      {
+                        "Citation": "International Journal of Toxicology 25(Suppl. 1):1-9, 2006",
+                        "Matched": {
+                          "PCLID": 906421443,
+                          "Citation": "International Journal of Toxicology 25(Suppl. 1):1-9, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Safe for use in cosmetics, with qualifications"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Drug Induced Liver Injury",
+                "Description": "This compound's potential to cause drug-induced liver injury.  This information is from the FDA's Drug-Induced Liver Injury Rank (DILIrank) dataset.  DILIrank groups more than 1,000 FDA-approved drugs into 4 categories (most-, less-, no-, and ambiguous-DILI-concerns).  DILIrank assigns a severity grade, ranging from 0 (no-DILI-concern) to 8 (fatal hepatotoxicity).",
+                "URL": "https://www.fda.gov/science-research/liver-toxicity-knowledge-base-ltkb/drug-induced-liver-injury-rank-dilirank-dataset",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "Dataset",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Drug-Induced Liver Injury Severity and Toxicity (DILIst)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "Compound",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "oxyquinoline"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "DILIst Classification",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DILI Positive"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "Routes of Administration",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "oral, Topical,Vaginal, Dental"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 44,
+                    "Name": "References",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DOI:10.1016/j.drudis.2019.09.022",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 32,
+                              "URL": "https://doi.org/10.1016/j.drudis.2019.09.022"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No data are available in humans. Inadequate evidence of carcinogenicity in animals. OVERALL EVALUATION: Group 3: The agent is not classifiable as to its carcinogenicity to humans."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Name": "IARC Carcinogenic Agent",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8-Hydroxyquinoline"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Name": "IARC Carcinogenic Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Group 3: Not classifiable as to its carcinogenicity to humans"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Name": "IARC Monographs",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Volume 13: (1977) Some Miscellaneous Pharmaceutical Substances",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "http://publications.iarc.who.int/31"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Volume Sup 7: Overall Evaluations of Carcinogenicity: An Updating of IARC Monographs Volumes 1 to 42, 1987; 440 pages; ISBN 92-832-1411-0 (out of print)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "http://publications.iarc.who.int/139"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Name": "Publication Year",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1987"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Name": "Evaluation Year",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1987"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 82,
+                    "Name": "Substance",
+                    "URL": "https://doi.org/10.22427/NTP-DATA-DTXSID5020730",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8-Hydroxyquinoline"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 82,
+                    "Name": "NTP Technical Report",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TR-276: Toxicology and Carcinogenesis Studies of 8-Hydroxyquinoline (CASRN 148-24-3) in F344/N Rats and B6C3F1 Mice (Feed Studies)  (1985 )",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 6,
+                              "URL": "https://ntp.niehs.nih.gov/go/tr276abs"
+                            },
+                            {
+                              "Start": 49,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 75,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/148-24-3",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 82,
+                    "Name": "Peer Review Date",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "03/23/84",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 8,
+                              "URL": "https://ntp.niehs.nih.gov/data/tr/200s/tr276levels"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 82,
+                    "Name": "Conclusion for Male Rat",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "  No Evidence",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ntp/ntpne.png",
+                              "Type": "Icon",
+                              "Extra": "No Evidence"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 82,
+                    "Name": "Conclusion for Female Rat",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "  No Evidence",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ntp/ntpne.png",
+                              "Type": "Icon",
+                              "Extra": "No Evidence"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 82,
+                    "Name": "Conclusion for Male Mice",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "  No Evidence",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ntp/ntpne.png",
+                              "Type": "Icon",
+                              "Extra": "No Evidence"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 82,
+                    "Name": "Conclusion for Female Mice",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "  No Evidence",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ntp/ntpne.png",
+                              "Type": "Icon",
+                              "Extra": "No Evidence"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 82,
+                    "Name": "Summary",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Under the conditions of these studies, there was no evidence of carcinogenicity for male and female F344/N rats or for male and female B6C3F1 mice given 8-hydroxyquinoline in feed at concentrations of 1,500 or 3,000 ppm for 103 weeks.",
+                          "Markup": [
+                            {
+                              "Start": 153,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 45,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Neurotoxin - Other CNS neurotoxin"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134975266"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 45,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) > 1,210 mg/m3/6h"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 47,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "DHHS/NTP; Toxicology and Carcinogenesis Studies of 8-Hydroxyquinoline in F344/N Rats and B6C3F1 Mice (Feed Studies) p.15 (1985) Technical Rpt Series No. 276 NIH Pub No. 85-2532"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "DHHS/NTP; Toxicology and Carcinogenesis Studies of 8-Hydroxyquinoline in F344/N Rats and B6C3F1 Mice (Feed Studies) p.15 (1985) Technical Rpt Series No. 276 NIH Pub No. 85-2532",
+                            "Matched": {
+                              "PCLID": 906285505,
+                              "Citation": "DHHS/NTP; Toxicology and Carcinogenesis Studies of 8-Hydroxyquinoline in F344/N Rats and B6C3F1 Mice (Feed Studies) p.15 (1985) Technical Rpt Series No. 276 NIH Pub No. 85-2532"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 1200 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 47,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "DHHS/NTP; Toxicology and Carcinogenesis Studies of 8-Hydroxyquinoline in F344/N Rats and B6C3F1 Mice (Feed Studies) p.15 (1985) Technical Rpt Series No. 276 NIH Pub No. 85-2532"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "DHHS/NTP; Toxicology and Carcinogenesis Studies of 8-Hydroxyquinoline in F344/N Rats and B6C3F1 Mice (Feed Studies) p.15 (1985) Technical Rpt Series No. 276 NIH Pub No. 85-2532",
+                            "Matched": {
+                              "PCLID": 906285505,
+                              "Citation": "DHHS/NTP; Toxicology and Carcinogenesis Studies of 8-Hydroxyquinoline in F344/N Rats and B6C3F1 Mice (Feed Studies) p.15 (1985) Technical Rpt Series No. 276 NIH Pub No. 85-2532"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mice ip 48 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 47,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383",
+                            "Matched": {
+                              "PCLID": 900092737,
+                              "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat ip 50 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 47,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2855"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2855",
+                            "Matched": {
+                              "PCLID": 900118653,
+                              "Citation": "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 2855"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse sc 83,600 ug/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 47,
+                        "Description": "PEER REVIEWED",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "For more Non-Human Toxicity Values (Complete) data for 8-HYDROXYQUINOLINE (6 total), please visit the HSDB record page.",
+                              "Markup": [
+                                {
+                                  "Start": 102,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/4073#section=Non-Human-Toxicity-Values-(Complete)"
+                                },
+                                {
+                                  "Start": 55,
+                                  "Length": 18,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-HYDROXYQUINOLINE",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-1923"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 38,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 38,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 38,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 38,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 38,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383",
+                        "Matched": {
+                          "PCLID": 900092737,
+                          "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AFTER LETHAL IM DOSES IN MICE (30 MG/KG) INJECTED D-PENICILLAMINE (1 G/KG) PREVENTED /TOXIC/ SYMPTOMS & DEATH BUT NOT TRANSIENT HYPERGLYCEMIA.",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/D-PENICILLAMINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5852"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:4712313",
+                      "GEBHART E; MUTAT RES 18 (3): 353-61 (1973)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:4712313",
+                        "Matched": {
+                          "PCLID": 19130659,
+                          "Citation": "Gebhart E. [Comparative studies on the influence of radioprotectors and amino acids on the chromosome-damaging activity of 8-hydroxyquinoline sulfate in human lymphocytes in vitro]. Mutat Res. 1973 Jun;18(3):353–61. doi: 10.1016/0027-5107(73)90219-4. PMID: 4712313.",
+                          "PMID": 4712313,
+                          "DOI": "10.1016/0027-5107(73)90219-4"
+                        }
+                      },
+                      {
+                        "Citation": "GEBHART E; MUTAT RES 18 (3): 353-61 (1973)",
+                        "Matched": {
+                          "PCLID": 900072682,
+                          "Citation": "GEBHART E; MUTAT RES 18 (3): 353-61 (1973)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "THE INFLUENCE OF RADIOPROTECTORS, CYSTEAMINE & AMINOETHYLISOTHIOURONIUM AS WELL AS OF THE AMINO ACIDS L-ALANINE, L-CYSTEINE, L-ARGININE, L-ASPARAGINE, L-GLUTAMIC ACID, L-HISTIDINE, & L-METHIONINE, ON THE CYTOGENETIC ACTION OF 8-HYDROXYQUINOLINE SULFATE WAS TESTED IN HUMAN LYMPHOCYTE CULTURES IN VITRO. EXCESS L-CYSTEINE, CYSTEAMINE, & L-ASPARAGINE ADDED SIMULTANEOUSLY WITH 8-HYDROXYQUINOLINE SULFATE DISTINCTLY REDUCED THE CHROMOSOME. DAMAGING EFFECT OF 8-HYDROXYQUINOLINE. L-GLUTAMIC ACID & AMINOETHYLISOTHIOURONIUM EXERTED LESSER PROTECTIVE ACTIVITY. L-METHIONINE DISPLAYED SOME EFFECT ONLY IN REDUCING THE RELATIVELY RARE ISOCHROMATID ABERRATIONS INDUCED BY 8-HYDROXYQUINOLINE SULFATE. THE OTHER AMINO ACIDS HAD NO EFFECT.",
+                          "Markup": [
+                            {
+                              "Start": 34,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CYSTEAMINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6058"
+                            },
+                            {
+                              "Start": 102,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-ALANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5950"
+                            },
+                            {
+                              "Start": 113,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-CYSTEINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5862"
+                            },
+                            {
+                              "Start": 125,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-ARGININE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            },
+                            {
+                              "Start": 137,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-ASPARAGINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6267"
+                            },
+                            {
+                              "Start": 151,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-GLUTAMIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33032"
+                            },
+                            {
+                              "Start": 168,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-HISTIDINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6274"
+                            },
+                            {
+                              "Start": 183,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-METHIONINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6137"
+                            },
+                            {
+                              "Start": 226,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-HYDROXYQUINOLINE%20SULFATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517000"
+                            },
+                            {
+                              "Start": 310,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-CYSTEINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5862"
+                            },
+                            {
+                              "Start": 322,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CYSTEAMINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6058"
+                            },
+                            {
+                              "Start": 336,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-ASPARAGINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6267"
+                            },
+                            {
+                              "Start": 375,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-HYDROXYQUINOLINE%20SULFATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517000"
+                            },
+                            {
+                              "Start": 456,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-HYDROXYQUINOLINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 476,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-GLUTAMIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33032"
+                            },
+                            {
+                              "Start": 555,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-METHIONINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6137"
+                            },
+                            {
+                              "Start": 663,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-HYDROXYQUINOLINE%20SULFATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517000"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:8631142",
+                      "Leanderson P, Tagesson C; Carcinogenesis 17 (3): 545-50 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:8631142",
+                        "Matched": {
+                          "PCLID": 32704043,
+                          "Citation": "Leanderson P, Tagesson C. Iron bound to the lipophilic iron chelator, 8-hydroxyquinoline, causes DNA strand breakage in cultured lung cells. Carcinogenesis. 1996 Mar;17(3):545–50. doi: 10.1093/carcin/17.3.545. PMID: 8631142.",
+                          "PMID": 8631142,
+                          "DOI": "10.1093/carcin/17.3.545"
+                        }
+                      },
+                      {
+                        "Citation": "Leanderson P, Tagesson C; Carcinogenesis 17 (3): 545-50 (1996)",
+                        "Matched": {
+                          "PCLID": 32704043,
+                          "Citation": "Leanderson P, Tagesson C. Iron bound to the lipophilic iron chelator, 8-hydroxyquinoline, causes DNA strand breakage in cultured lung cells. Carcinogenesis. 1996 Mar;17(3):545–50. doi: 10.1093/carcin/17.3.545. PMID: 8631142.",
+                          "PMID": 8631142,
+                          "DOI": "10.1093/carcin/17.3.545"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The formation of DNA-strand breaks was studied in cultured human lung cells (A 549) subjected to iron, either in the form of iron(III) citrate or in combination with the metal chelators ethylene diamine tetra-acetic acid (EDTA), nitrilo triacetic acid (NTA), or 8-hydroxyquinoline (8HQ). After 15 min exposure to 5 uM iron(III) citrate or iron chelate, the cellular levels of iron were found to be three times higher in cells subjected to iron-8HQ than in cells subjected to iron(III) citrate, iron-EDTA or iron-NTA. Exposure to iron-8HQ caused extensive DNA-strand breakage, whereas no such breakage was found in cells exposed to iron-EDTA or iron-NTA. The DNA damage caused by iron-8HQ increased with time and dose, and DNA-strand breakage was clearly demonstrable in cells after 15 min exposure to as little as 0.1 uM iron-8HQ. Moreover, iron-8HQ was strongly toxic to the cells and inhibited their growth after exposure. Along with the formation of DNA-strand breaks, the concentration of cellular malondialdehyde increased four-fold after exposure to iron-8HQ and two-fold after exposure to iron-EDTA or iron-NTA, suggesting that reactive oxygen metabolites might be involved in the toxic action. Moreover, both iron-EDTA and iron-NTA caused a considerable hydroxylation of deoxyguanosine (dG) residues in DNA in vitro, whereas iron(III) citrate and iron-8HQ only caused a minor hydroxylation of dG. This points to the possibility that iron-8HQ-mediated DNA-strand breakage in cells might be due to the action of a metal-bound oxyl radical formed from the iron-8HQ complex rather than to the formation of hydroxyl radicals. Altogether, these findings indicate that iron bound to the lipophilic chelator, 8HQ, has strong toxic properties and that it may cause substantial DNA-strand breakage and lipid peroxidation in living cells.",
+                          "Markup": [
+                            {
+                              "Start": 97,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 125,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/iron%28III%29%20citrate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-61300"
+                            },
+                            {
+                              "Start": 222,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/EDTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6049"
+                            },
+                            {
+                              "Start": 229,
+                              "Length": 22,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitrilotriacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8758"
+                            },
+                            {
+                              "Start": 262,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 318,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/iron%28III%29%20citrate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-61300"
+                            },
+                            {
+                              "Start": 376,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 439,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 475,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/iron%28III%29%20citrate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-61300"
+                            },
+                            {
+                              "Start": 494,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/iron-EDTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            },
+                            {
+                              "Start": 507,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 529,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 631,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/iron-EDTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            },
+                            {
+                              "Start": 644,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 679,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 821,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 841,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 1002,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/malondialdehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10964"
+                            },
+                            {
+                              "Start": 1056,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 1096,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/iron-EDTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            },
+                            {
+                              "Start": 1109,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 1144,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 1217,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/iron-EDTA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            },
+                            {
+                              "Start": 1231,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 1279,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/deoxyguanosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398592"
+                            },
+                            {
+                              "Start": 1333,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/iron%28III%29%20citrate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-61300"
+                            },
+                            {
+                              "Start": 1355,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 1441,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 1561,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 1610,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 1670,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 181-2"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 181-2",
+                        "Matched": {
+                          "PCLID": 900065659,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 181-2"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Basic treatment: Establish a patent airway. Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if necessary. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with normal saline during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 ml/kg up to 200 ml of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool. Administer activated charcoal ... . /Aromatic hydrocarbons and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 160,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 363,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 406,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/normal%20saline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5234"
+                            },
+                            {
+                              "Start": 529,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 642,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 182"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 182",
+                        "Matched": {
+                          "PCLID": 900148923,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 182"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious or in respiratory arrest. Positive pressure ventilation techniques with a bag valve mask device may be beneficial. Monitor cardiac rhythm and treat arrhythmias if necessary ... Start an IV with D5W /SRP: \"To keep open\", minimal flow rate/. Use lactated Ringer's if signs of hypovolemia are present. Watch for signs of fluid overload. Consider drug therapy for pulmonary edema ... . Treat seizures with diazepam (Valium) ... . Use proparacaine hydrochloride to assist eye irrigation ... . /Aromatic hydrocarbons and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 523,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 533,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 551,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383",
+                        "Matched": {
+                          "PCLID": 900092737,
+                          "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "VARIOUS HALOGENATED DERIVATIVES USED IN TREATING AMEBIASIS IN MAN ARE ... COMPARATIVELY BENIGN EXCEPT FOR FREQUENT ALLERGIC REACTIONS ... /8-HYDROXYQUINOLINE SULFATE/",
+                          "Markup": [
+                            {
+                              "Start": 139,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-HYDROXYQUINOLINE%20SULFATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517000"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383",
+                        "Matched": {
+                          "PCLID": 900092737,
+                          "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-383"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hydroxyquinoline is moderately toxic in rats (oral LD50 1.2 g/kg). When injected, it is distinctly toxic (rat ip LD50 50 mg/kg) & causes marked stimulation of CNS. Mice given large doses exhibited confusion, resp difficulty, hind leg paralysis & violent convulsions, with death within 2 hr. After smaller fatal doses, death was delayed several days. Toxic symptoms then included anorexia, malaise, & general indifference to sound or light."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 503"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 503",
+                        "Matched": {
+                          "PCLID": 900156983,
+                          "Citation": "Grant, W.M. Toxicology of the Eye. 3rd ed. Springfield, IL: Charles C. Thomas Publisher, 1986., p. 503"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TESTS BY INJECTION OF 0.01 MOLAR SOLN INTO RABBIT CORNEA CAUSED VERY SLIGHT REACTION, GRADED 5 ON A SCALE OF 0-100. IV INJECTIONS OF /0.04-0.075 G/KG/ IN RABBITS CAUSED PROMPT & TRANSIENT PROPTOSIS ASSOC WITH VENOUS ENGORGEMENT, HYPERPNEA, RAPID PULSE, & SALIVATION."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A GROUP OF 49 CC57W MICE WERE GIVEN 1.5 MG/ANIMAL ... /ORALLY/ IN SUNFLOWER OIL 6 TIMES/WK FOR 660 DAYS (TOTAL DOSE, 852 MG/ANIMAL). OF 21 SURVIVING AT ... APPEARANCE OF 1ST TUMOR (460 DAYS) 4 DEVELOPED 2 LYMPHOMAS, 2 LUNG ADENOMAS & 1 HEMANGIOMA OF LIVER. TUMOR INCIDENCE IN UNTREATED CC57W MICE ... WAS ... 17%. (ABSENCE OF CONCURRENT CONTROLS WAS NOTED)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A GROUP OF 15 6-WK OLD MALE FISCHER F344 RATS RECEIVED 0.8% ... IN DIET FOR 78 WK, AT WHICH TIME 13 SURVIVED. ... 4 LEYDIG-CELL TUMORS OF THE TESTIS /WERE OBSERVED/. HYPERPLASIA OF INTERSTITIAL CELLS OF TESTIS WAS OBSERVED IN 2/8 SURVIVING CONTROLS. (THE SMALL NUMBER OF ANIMALS & SHORT DURATION OF EXPT WERE NOTED)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for 8-HYDROXYQUINOLINE (31 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 105,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/4073#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-HYDROXYQUINOLINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ongoing Test Status",
+                "Description": "Toxicity test status of this chemical, performed by authoritative entities (e.g., government agencies).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "QC REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The following link will take the user to the National Toxicology Program (NTP) Test Agent Search Results page, which tabulates all of the \"Standard Toxicology & Carcinogenesis Studies\", \"Developmental Studies\", and \"Genetic Toxicity Studies\" performed with this chemical. Clicking on the \"Testing Status\" link will take the user to the status (i.e., in review, in progress, in preparation, on test, completed, etc.) and results of all the studies that the NTP has done on this chemical. [http://ntp-apps.niehs.nih.gov/ntp_tox/index.cfm?fuseaction=ntpsearch.searchresults&searchterm=148-24-3]",
+                          "Markup": [
+                            {
+                              "Start": 582,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/148-24-3",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "National Toxicology Program Studies",
+                "Description": "Reports from the National Toxicology Program, an interagency program supported by three government agencies (NIH, FDA, and CDC) within the Department of Health and Human Services.  This program plays a critical role in generating, interpreting, and sharing toxicological information about chemicals of public health concerns.",
+                "URL": "https://ntp.niehs.nih.gov/whoweare/about/index.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "DHHS/NTP; Toxicology and Carcinogenesis Studies of 8-Hydroxyquinoline in F344/N Rats and B6C3F1 Mice (Feed Studies) p.9 (1985) Technical Rpt Series No. 276 NIH Pub No. 85-2532"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "DHHS/NTP; Toxicology and Carcinogenesis Studies of 8-Hydroxyquinoline in F344/N Rats and B6C3F1 Mice (Feed Studies) p.9 (1985) Technical Rpt Series No. 276 NIH Pub No. 85-2532",
+                        "Matched": {
+                          "PCLID": 906278537,
+                          "Citation": "DHHS/NTP; Toxicology and Carcinogenesis Studies of 8-Hydroxyquinoline in F344/N Rats and B6C3F1 Mice (Feed Studies) p.9 (1985) Technical Rpt Series No. 276 NIH Pub No. 85-2532"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8-Hydroxyquinoline, given at 1500-3000 ppm in the feed of male and female F344/N rats and B6C3F1 mice for 103 wk, showed no evidence of carcinogenicity. Survival was similar to that of controls, with slight decreases in appetite and body weight with the high dose level.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "TSCA Test Submissions",
+                "Description": "Under the Toxic Substances Control Act (TSCA), EPA has broad authority to issue regulations designed to require manufacturers (including importers) or processors to test chemical substances and mixtures for health and environmental effects.  This section provides information on test reports submitted for this chemical under TSCA.",
+                "URL": "https://www.epa.gov/assessing-and-managing-chemicals-under-tsca",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "H.R. Skeggs & M.M. Cook; Microbial Mutagen Tests, (1978), EPA Document No. FYI-OTS-0584-0315, Fiche No. OTS0000315-0"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "H.R. Skeggs & M.M. Cook; Microbial Mutagen Tests, (1978), EPA Document No. FYI-OTS-0584-0315, Fiche No. OTS0000315-0",
+                        "Matched": {
+                          "PCLID": 900112347,
+                          "Citation": "H.R. Skeggs & M.M. Cook; Microbial Mutagen Tests, (1978), EPA Document No. FYI-OTS-0584-0315, Fiche No. OTS0000315-0"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The mutagenicity of 8-hydroxyquinoline was evaluated in Salmonella tester strains TA1535, TA1537, TA92, TA98 and TA100 (Ames Test), both in the presence and absence of added metabolic activation by either Aroclor or phenobarbital-induced rat liver S9 fraction. 8-Hydroxyquinoline, diluted in DMSO, was tested at concentrations up to 60ug/plate. 8-Hydroxyquinoline produced a positive response in Salmonella tester strain TA100 in the presence of added metabolic activation. The treatments failed to produce a positive response in any of the remaining tester strains with or without metabolic activation.",
+                          "Markup": [
+                            {
+                              "Start": 20,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 216,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenobarbital",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4763"
+                            },
+                            {
+                              "Start": 261,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 292,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DMSO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-679"
+                            },
+                            {
+                              "Start": 345,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "UNREVIEWED",
+                    "Reference": [
+                      "H.R. Skeggs; Microbial Mutagen Tests, (1977), EPA Document No. FYI-OTS-0584-0315, Fiche No. OTS0000315-0"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "H.R. Skeggs; Microbial Mutagen Tests, (1977), EPA Document No. FYI-OTS-0584-0315, Fiche No. OTS0000315-0",
+                        "Matched": {
+                          "PCLID": 900051606,
+                          "Citation": "H.R. Skeggs; Microbial Mutagen Tests, (1977), EPA Document No. FYI-OTS-0584-0315, Fiche No. OTS0000315-0"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The mutagenicity of 8-hydroxyquinoline was evaluated in Salmonella tester strains TA1537, TA92, TA98 and TA100 (Ames Test), both in the presence and absence of metabolic activation by Aroclor or phenobarbital-induced rat liver preparation. 8-Hydroxyquinoline, diluted in DMSO, was tested at concentrations up to 100mcg/plate. 8-Hydroxyquinoline produced a positive response only in Salmonella tester strains TA92 with metabolic activation and TA100 with and without metabolic activation.",
+                          "Markup": [
+                            {
+                              "Start": 20,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 195,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenobarbital",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4763"
+                            },
+                            {
+                              "Start": 240,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 271,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DMSO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-679"
+                            },
+                            {
+                              "Start": 326,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 105,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf",
+                      "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf",
+                        "Matched": {
+                          "PCLID": 906318723,
+                          "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                        }
+                      },
+                      {
+                        "Citation": "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf",
+                        "Matched": {
+                          "PCLID": 906318726,
+                          "Citation": "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^148-24-3$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8-Hydroxyquinoline's production and use as a chemical intermediate and in steel electroplating may result in its release to the environment through various waste streams. It's former use as a fungicide may have resulted in its direct release to the environment. If released to air, a vapor pressure of 1.66X10-3 mm Hg at 25 °C indicates 8-hydroxyquinoline will exist solely as a vapor. Vapor-phase 8-hydroxyquinoline will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 2.0 hrs. 8-Hydroxyquinoline is expected to undergo photolysis in the atmosphere based upon aquatic photolytic experiments. The half-life for the photolytic degradation of 8-hydroxyquinoline in aqueous solution illuminated with filtered light, simulating daylight, ranged from 40-64 hours. If released to soil, 8-hydroxyquinoline is expected to have slight mobility based upon an estimated Koc of 3,000. Volatilization from water and moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 5.7X10-7 atm-cu m/mole. Biodegradation in soil or water is not likely to be an important environmental fate process based on a 0% theoretical BOD using sewage sludge. If released into water, 8-hydroxyquinoline is expected to adsorb to suspended solids and sediment based upon the estimated Koc. An estimated BCF of 7 suggests the potential for bioconcentration in aquatic organisms is low. Hydrolysis is not expected to occur due to the lack of hydrolyzable functional groups. Occupational exposure to 8-hydroxyquinoline may have occured through inhalation of dust and dermal contact with this compound at workplaces where 8-hydroxyquinoline was produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 337,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 398,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 494,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 580,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 742,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 881,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 994,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1170,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1304,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1311,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 1622,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 1743,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... IS NOT KNOWN TO OCCUR IN NATURE."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Ross E et al; Ullmann's Encycl Indus Chem. 5th ed. Gerhartz W, ed. Deerfield Beach, FL: VCH Publ A14: 142 (1989)",
+                      "(2) Hunger K et al; Ullmann's Encycl Indus Chem. 5th ed. Gerhartz W, ed. Deerfield Beach, FL: VCH Publ A3: 254 (1985)",
+                      "(3) Howard WL, Wilson DA; Kirk-Othmer Encycl Chem Tech. 4th ed. NY, NY: John Wiley and Sons 5: 768 (1993)",
+                      "(4) Finley KT; Kirk-Othmer Encycl Chem Tech. 4th ed. NY, NY: John Wiley and Sons 20: 779 (1996)",
+                      "(5) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, Inter Agency Res Cancer 19: 103 (1977)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Ross E et al; Ullmann's Encycl Indus Chem. 5th ed. Gerhartz W, ed. Deerfield Beach, FL: VCH Publ A14: 142 (1989)"
+                      },
+                      {
+                        "Citation": "(2) Hunger K et al; Ullmann's Encycl Indus Chem. 5th ed. Gerhartz W, ed. Deerfield Beach, FL: VCH Publ A3: 254 (1985)"
+                      },
+                      {
+                        "Citation": "(3) Howard WL, Wilson DA; Kirk-Othmer Encycl Chem Tech. 4th ed. NY, NY: John Wiley and Sons 5: 768 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Finley KT; Kirk-Othmer Encycl Chem Tech. 4th ed. NY, NY: John Wiley and Sons 20: 779 (1996)"
+                      },
+                      {
+                        "Citation": "(5) IARC; Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Man. Geneva, Switzerland: World Health Organization, Inter Agency Res Cancer 19: 103 (1977)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "8-Hydroxyquinoline's production and use as a chemical intermediate(1-3) and in steel electroplating(4) may result in its release to the environment through various waste streams(SRC). It's former use as a fungicide(5) may have resulted in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992)",
+                      "(3) Daubert, TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)",
+                      "(4) Yalkowsky SH, Dannenfelser RM; The AQUASOL dATAbASE of Aqueous Solubility. Fifth Ed, Tucson, AZ: Univ Az, College of Pharmacy (1992)",
+                      "(5) Heukelekian H, Rand MC; J Water Pollut Control Assoc 27: 1040-53 (1955)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992)"
+                      },
+                      {
+                        "Citation": "(3) Daubert, TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)"
+                      },
+                      {
+                        "Citation": "(4) Yalkowsky SH, Dannenfelser RM; The AQUASOL dATAbASE of Aqueous Solubility. Fifth Ed, Tucson, AZ: Univ Az, College of Pharmacy (1992)"
+                      },
+                      {
+                        "Citation": "(5) Heukelekian H, Rand MC; J Water Pollut Control Assoc 27: 1040-53 (1955)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 3,000(SRC), determined from a structure estimation method(2), indicates that 8-hydroxyquinoline is expected to have slight mobility in soil(SRC). Volatilization of 8-hydroxyquinoline from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 5.7X10-7 atm-cu m/mole(SRC), based upon its vapor pressure, 1.66X10-3 mm Hg(3), and water solubility, 556 mg/l(4). 8-Hydroxyquinoline is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(3). Biodegradation in soil is not an important environmental fate process based on a 0% theoretical BOD using sewage sludge(5).",
+                          "Markup": [
+                            {
+                              "Start": 158,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 245,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 469,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 500,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(4) Daubert, TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)",
+                      "(5) Yalkowsky SH, Dannenfelser RM; The AQUASOL dATAbASE of Aqueous Solubility. Fifth Ed, Tucson, AZ: Univ Az, College of Pharmacy (1992)",
+                      "(6) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(7) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 51 (1995)",
+                      "(8) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(9) Svenson A, Bjorndal; Chemosphere 17: 2397-2405 (1988)",
+                      "(10) Heukelekian H, Rand MC; J Water Pollut Control Assoc 27: 1040-53 (1955)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Daubert, TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)"
+                      },
+                      {
+                        "Citation": "(5) Yalkowsky SH, Dannenfelser RM; The AQUASOL dATAbASE of Aqueous Solubility. Fifth Ed, Tucson, AZ: Univ Az, College of Pharmacy (1992)"
+                      },
+                      {
+                        "Citation": "(6) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(7) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 51 (1995)"
+                      },
+                      {
+                        "Citation": "(8) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(9) Svenson A, Bjorndal; Chemosphere 17: 2397-2405 (1988)"
+                      },
+                      {
+                        "Citation": "(10) Heukelekian H, Rand MC; J Water Pollut Control Assoc 27: 1040-53 (1955)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 3,000(SRC), determined from a structure estimation method(2), indicates that 8-hydroxyquinoline is expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(3) based upon an estimated Henry's Law constant of 5.7X10-7 atm-cu m/mole(SRC) derived from its vapor pressure, 1.66X10-3 mm Hg(4) and water solubility, 556 mg/l(5). According to a classification scheme(6), an estimated BCF of 7(SRC), from its log Kow of 2.02(7) and a regression-derived equation(8), suggests the potential for bioconcentration in aquatic organisms is low(SRC). To test for photolytic degradation in aqueous solution, 8-hydroxyquinoline was illuminated with filtered light, simulating daylight(9). The half-life for the photolytic degradation of 8-hydroxyquinoline ranged from 40-64 hours. Biodegradation in water is not an important environmental fate process based on a 0% theoretical BOD using sewage sledge(10).",
+                          "Markup": [
+                            {
+                              "Start": 154,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 254,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 420,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 720,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 848,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 910,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Daubert, TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(4) Svenson A, Bjorndal; Chemosphere 17: 2397-2405 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Daubert, TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Svenson A, Bjorndal; Chemosphere 17: 2397-2405 (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), 8-hydroxyquinoline, which has a vapor pressure of 1.66X10-3 mm Hg at 25 °C(2), is expected to exist solely as a vapor in the ambient atmosphere. Vapor-phase 8-hydroxyquinoline is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 2.0 hrs(SRC), calculated from its rate constant of 2.0X10-10 cu cm/molecule-sec at 25 °C(SRC) determined using a structure estimation method(3). 8-Hydroxyquinoline is expected to undergo photolysis in the atmosphere based upon aquatic photolytic experiments. The half-life for the photolytic degradation of 8-hydroxyquinoline in aqueous solution illuminated with filtered light, simulating daylight, ranged from 40-64 hours(4).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 281,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 372,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 599,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 761,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Heukelekian H, Rand MC; J Water Pollut Control Assoc 27: 1040-53 (1955)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Heukelekian H, Rand MC; J Water Pollut Control Assoc 27: 1040-53 (1955)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: 8-Hydroxyquinoline, concentration not specified, reached 0% of its theoretical BOD in 5 days using a sewage sludge inoculum and standard dilution method(1).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)",
+                      "(3) Svenson A, Bjorndal; Chemosphere 17: 2397-2405 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Svenson A, Bjorndal; Chemosphere 17: 2397-2405 (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of 8-hydroxyquinoline with photochemically-produced hydroxyl radicals has been estimated as 2.0X10-10 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 2.0 hrs at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). 8-Hydroxyquinoline is not expected to undergo hydrolysis in the environment due to the lack of hydrolyzable functional groups(2). To test for photolytic degradation in aqueous solution, 8-hydroxyquinoline was illuminated with filtered light, simulating daylight(3). The half-life for the photolytic degradation of 8-hydroxyquinoline ranged from 40-64 hours.",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 99,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 326,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 358,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 544,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 672,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 51 (1995)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 51 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 7 was calculated for 8-hydroxyquinoline(SRC), using a log Kow of 2.02(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 41,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992)",
+                      "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992)"
+                      },
+                      {
+                        "Citation": "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for 8-hydroxyquinoline can be estimated to be 3,000(SRC). According to a classification scheme(2), this estimated Koc value suggests that 8-hydroxyquinoline is expected to have slight mobility in soil.",
+                          "Markup": [
+                            {
+                              "Start": 92,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 226,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Daubert, TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)",
+                      "(2) Yalkowsky SH, Dannenfelser RM; The AQUASOL dATAbASE of Aqueous Solubility. Fifth Ed, Tucson, AZ: Univ Az, College of Pharmacy (1992)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Daubert, TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)"
+                      },
+                      {
+                        "Citation": "(2) Yalkowsky SH, Dannenfelser RM; The AQUASOL dATAbASE of Aqueous Solubility. Fifth Ed, Tucson, AZ: Univ Az, College of Pharmacy (1992)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for 8-hydroxyquinoline is estimated as 5.7X10-7 atm-cu m/mole(SRC) derived from its vapor pressure, 1.66X10-3 mm Hg(1), and water solubility, 556 mg/l(2). This Henry's Law constant indicates that 8-hydroxyquinoline is not expected to volatilize from water surfaces(3). 8-Hydroxyquinoline estimated Henry's Law constant indicates that volatilization from moist soil surfaces is not expected to occur(SRC). 8-Hydroxyquinoline is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 149,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 221,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 275,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 294,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 430,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-Hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 47,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) NIOSH; National Occupational Exposure Survey (NOES) (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) NIOSH; National Occupational Exposure Survey (NOES) (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NIOSH (NOES Survey 1981-1983) has statistically estimated that 13,728 workers (9,645 of these are female) were potentially exposed to 8-hydroxyquinoline in the US(1). Occupational exposure to 8-hydroxyquinoline may have occured through inhalation of dust and dermal contact with this compound at workplaces where 8-hydroxyquinoline was produced or used(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 134,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 192,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            },
+                            {
+                              "Start": 313,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/8-hydroxyquinoline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1923"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^8-Hydroxyquinoline$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^8-Hydroxyquinoline$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^8-Hydroxyquinoline$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^8-Hydroxyquinoline$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134975266",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000148243",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19466367
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "Cosmetic Ingredient Review (CIR)",
+        "SourceID": "d0b26816-d6b3-ef11-b8e8-7c1e5259daa2",
+        "Name": "Oxyquinoline",
+        "Description": "The Cosmetic Ingredient Review (CIR) studies individual chemical compounds as they are used in cosmetic products. CIR relies heavily on the International Nomenclature of Cosmetic Ingredients (INCI) when identifying the ingredients to be assessed. The Expert Panel for Cosmetic Ingredient Safety (Panel) assess the safety of ingredients for use in cosmetics. The function of an ingredient in cosmetics is noted. The Panel reviews the data relevant to the safety of an ingredient and concludes whether an ingredient is safe in cosmetics in the present practices of use and concentration described in a safety assessment.",
+        "URL": "https://cir-reports.cir-safety.org/cir-ingredient-status-report/?id=d0b26816-d6b3-ef11-b8e8-7c1e5259daa2",
+        "LicenseURL": "https://cir-safety.org/terms-use",
+        "ANID": 49616675
+      },
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "7a30048e5693c96404292845f7a8ec83",
+        "Name": "8-Hydroxyquinoline",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49732641
+      },
+      {
+        "ReferenceNumber": 38,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID5020730",
+        "Name": "8-Hydroxyquinoline",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57018291
+      },
+      {
+        "ReferenceNumber": 44,
+        "SourceName": "FDA Liver Toxicity Knowledge Base (LTKB)",
+        "SourceID": "395505266",
+        "Name": "oxyquinoline",
+        "Description": "The drugs listed in the drug-induced liver injury severity and toxicity (DILIst) dataset are divided into two classes according to their potential for causing drug-induced liver injury (DILI).",
+        "URL": "https://www.fda.gov/science-research/liver-toxicity-knowledge-base-ltkb/drug-induced-liver-injury-severity-and-toxicity-dilist-dataset",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 55257603
+      },
+      {
+        "ReferenceNumber": 45,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz3354",
+        "Name": "8-Hydroxyquinoline",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17278345
+      },
+      {
+        "ReferenceNumber": 47,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "4073",
+        "Name": "8-HYDROXYQUINOLINE",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/4073",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 2826
+      },
+      {
+        "ReferenceNumber": 48,
+        "SourceName": "International Agency for Research on Cancer (IARC)",
+        "SourceID": "1783657620",
+        "Name": "8-Hydroxyquinoline",
+        "Description": "",
+        "URL": "https://monographs.iarc.who.int/list-of-classifications",
+        "LicenseNote": "Materials made available by IARC/WHO enjoy copyright protection under the Berne Convention for the Protection of Literature and Artistic Works, under other international conventions, and under national laws on copyright and neighbouring rights. IARC exercises copyright over its Materials to make sure that they are used in accordance with the Agency's principles. All rights are reserved.",
+        "LicenseURL": "https://publications.iarc.who.int/Terms-Of-Use",
+        "ANID": 39310768
+      },
+      {
+        "ReferenceNumber": 82,
+        "SourceName": "NTP Technical Reports",
+        "SourceID": "4068036303",
+        "Name": "8-Hydroxyquinoline",
+        "Description": "The NTP technical reports provide the long-term NTP toxicology and carcinogenicity studies that usually involve exposing laboratory animals (rats and mice) to a substance for a period of two years. These studies are designed and conducted to characterize and evaluate the toxicologic potential, including carcinogenic activity, of selected substances. Substances selected for NTP toxicology and carcinogenesis studies are chosen primarily on the basis of human exposure, level of production, and chemical structure. Substance selection is not an indicator of a substance's carcinogenic potential.",
+        "URL": "https://ntp.niehs.nih.gov/data/tr",
+        "LicenseURL": "https://ntp.niehs.nih.gov/support/policies",
+        "ANID": 45735798
+      },
+      {
+        "ReferenceNumber": 105,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "3301377550",
+        "Name": "Bioquin",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49292829
+      }
+    ]
+  }
+}

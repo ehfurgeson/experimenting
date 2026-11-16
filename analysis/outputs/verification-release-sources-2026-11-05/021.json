@@ -1,0 +1,11 @@
+{
+  "key": "lead:ophiobolin E",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ophiobolin%20E/property/IsomericSMILES,InChIKey/JSON",
+  "kind": "pubchem_json",
+  "reference_url": "https://www.sciencedirect.com/science/article/abs/pii/S0031942206004201",
+  "retrieved_at": "2026-11-05T19:14:29.065706+00:00",
+  "status": 200,
+  "body": "{\n  \"PropertyTable\": {\n    \"Properties\": [\n      {\n        \"CID\": 139246834,\n        \"SMILES\": \"C[C@H]1CC(OC2=C[C@@]3(C[C@H]4[C@H](CC[C@@]4(C)O)/C(=C\\\\CC3=C12)/C=O)C)C=C(C)C\",\n        \"InChIKey\": \"NQDBNLQDCPWIPD-RPPKRXJDSA-N\"\n      }\n    ]\n  }\n}\n",
+  "error": null,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/ophiobolin%20E/property/IsomericSMILES,InChIKey/JSON"
+}

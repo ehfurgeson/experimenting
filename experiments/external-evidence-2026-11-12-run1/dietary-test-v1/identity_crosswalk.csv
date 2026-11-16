@@ -1,0 +1,41 @@
+compound_id,pubchem_cid,input_queries,dtxsid,status,match_strength,inchikey,candidate_count,reason
+PUBCHEM:5950,5950,['L-Alanine'],DTXSID20873899,approved,exact_structure,QNAYBMKLOCPYGJ-REOHCLBHSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:6322,6322,['L-Arginine'],DTXSID6041056,approved,exact_structure,ODKSFYDXXFIFQN-BYPYZUCNSA-N,2,one candidate has the same full InChIKey
+PUBCHEM:6267,6267,['L-Asparagine'],DTXSID10883220,approved,exact_structure,DCXYFEDJOCDNAF-REOHCLBHSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:5960,5960,['L-Aspartic acid'],DTXSID7022621,approved,exact_structure,CKLJMWTZIZZHCS-REOHCLBHSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:5862,5862,['L-Cysteine'],DTXSID8022876,approved,exact_structure,XUJNEKJLAYXESH-REOHCLBHSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:33032,33032,['L-Glutamic acid'],DTXSID5020659,approved,exact_structure,WHUUTDBJXJRKMK-VKHMYHEASA-N,1,one candidate has the same full InChIKey
+PUBCHEM:5961,5961,['L-Glutamine'],DTXSID1023100,approved,exact_structure,ZDXPYRJPNDTMRX-VKHMYHEASA-N,1,one candidate has the same full InChIKey
+PUBCHEM:750,750,['Glycine'],DTXSID9020667,approved,exact_structure,DHMQDGOQFOQNFH-UHFFFAOYSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:6274,6274,['L-Histidine'],DTXSID9023126,approved,exact_structure,HNDVDQJCIGZPNO-YFKPBYRVSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:6306,6306,['L-Isoleucine'],DTXSID1047441,approved,exact_structure,AGPKZVBTJJNPAG-WHFBIAKZSA-N,2,one candidate has the same full InChIKey
+PUBCHEM:6106,6106,['L-Leucine'],DTXSID9023203,approved,exact_structure,ROHFNLRQFUQHCH-YFKPBYRVSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:5962,5962,['L-Lysine'],DTXSID6023232,approved,exact_structure,KDXKERNSBIXSRK-YFKPBYRVSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:6137,6137,['L-Methionine'],DTXSID5040548,approved,exact_structure,FFEARJCKVFRZRR-BYPYZUCNSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:6140,6140,['L-Phenylalanine'],DTXSID4040763,approved,exact_structure,COLNVLDHVKWLRT-QMMMGPOBSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:145742,145742,['L-Proline'],DTXSID5044021,approved,exact_structure,ONIBWKKTOPOVIA-BYPYZUCNSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:5951,5951,['L-Serine'],DTXSID60883230,approved,exact_structure,MTCFGRXMJLQNBG-REOHCLBHSA-N,2,one candidate has the same full InChIKey
+PUBCHEM:6288,6288,['L-Threonine'],DTXSID2046412,approved,exact_structure,AYFVYJQAPQTCCC-GBXIJSLDSA-N,3,one candidate has the same full InChIKey
+PUBCHEM:6305,6305,['L-Tryptophan'],DTXSID5021419,approved,exact_structure,QIVBCDIJIAJPQS-VIFPVBQESA-N,1,one candidate has the same full InChIKey
+PUBCHEM:6057,6057,['L-Tyrosine'],DTXSID1023730,approved,exact_structure,OUYCCCASQSFEME-QMMMGPOBSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:6287,6287,['L-Valine'],DTXSID40883233,approved,exact_structure,KZSNJWFQEVHDMF-BYPYZUCNSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:5793,5793,['D-Glucose'],DTXSID501015215,approved,exact_structure,WQZGKKKJIJFFOK-GASJEMHNSA-N,3,one candidate has the same full InChIKey
+PUBCHEM:2723872,2723872,['D-Fructose'],DTXSID201371662,approved,exact_structure,LKDRXBCSQODPBY-VRPWFDPXSA-N,3,one candidate has the same full InChIKey
+PUBCHEM:5988,5988,['Sucrose'],DTXSID2021288,approved,exact_structure,CZMRCDWAGMRECN-UGDNZRGBSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:6134,6134,['Lactose'],DTXSID2023193,approved,exact_structure,GUBGYTABKSRVRQ-DCSYEGIMSA-N,2,one candidate has the same full InChIKey
+PUBCHEM:439186,439186,['Maltose'],DTXSID101018093,approved,exact_structure,GUBGYTABKSRVRQ-PICCSMPSSA-N,2,one candidate has the same full InChIKey
+PUBCHEM:7427,7427,['Trehalose'],DTXSID3048102,approved,exact_structure,HDTRYLNUVZCQOY-LIZSDCNHSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:5780,5780,['Sorbitol'],DTXSID5023588,approved,exact_structure,FBPFZTCFMRRESA-JGWLITMVSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:6251,6251,['Mannitol'],DTXSID1023235,approved,exact_structure,FBPFZTCFMRRESA-KVTDHHQDSA-N,2,one candidate has the same full InChIKey
+PUBCHEM:6912,6912,['Xylitol'],,needs_review,connectivity_only,HEBKCHPVOIAQTA-NGQZWQHPSA-N,1,a candidate shares the connection layer but not the full InChIKey
+PUBCHEM:222285,222285,['Erythritol'],,needs_review,connectivity_only,UNXHWFMMPAWVPI-ZXZARUISSA-N,1,a candidate shares the connection layer but not the full InChIKey
+PUBCHEM:753,753,['Glycerol'],DTXSID9020663,approved,exact_structure,PEDCQBHIVMGVHV-UHFFFAOYSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:379,379,['Caprylic acid'],DTXSID3021645,approved,exact_structure,WWZKQHOCKIZLMA-UHFFFAOYSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:2969,2969,['Capric acid'],DTXSID9021554,approved,exact_structure,GHVNFZFCNZKVNT-UHFFFAOYSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:3893,3893,['Lauric acid'],DTXSID5021590,approved,exact_structure,POULHZVOKOAJMA-UHFFFAOYSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:11005,11005,['Myristic acid'],DTXSID6021666,approved,exact_structure,TUNFSRHWOTWDNC-UHFFFAOYSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:985,985,['Palmitic acid'],DTXSID2021602,approved,exact_structure,IPCSVZSSVZVIGE-UHFFFAOYSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:5281,5281,['Stearic acid'],DTXSID8021642,approved,exact_structure,QIQXTHQIDYTFRH-UHFFFAOYSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:445639,445639,['Oleic acid'],DTXSID1025809,approved,exact_structure,ZQPPMHVWECSIRJ-KTKRTIGZSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:311,311,['Citric acid'],DTXSID3020332,approved,exact_structure,KRKNYBCHXYNGOX-UHFFFAOYSA-N,1,one candidate has the same full InChIKey
+PUBCHEM:222656,222656,['L-Malic acid'],DTXSID30273987,approved,exact_structure,BJEPYKJPYRNKOW-REOHCLBHSA-N,1,one candidate has the same full InChIKey

@@ -1,0 +1,25 @@
+{
+  "search_term": "MCJGNVYPOGVAJF-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:43.559800+00:00",
+  "url": "/chemical/search/equal/MCJGNVYPOGVAJF-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5020730",
+        "dtxcid": "DTXCID30730",
+        "casrn": "148-24-3",
+        "preferredName": "8-Hydroxyquinoline",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC=CC2=CC=CN=C12",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "MCJGNVYPOGVAJF-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

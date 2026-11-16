@@ -1,0 +1,540 @@
+{
+  "historical_differences": 45,
+  "resolved": 44,
+  "records": [
+    {
+      "manifest": "experiments/compatible-assays-2026-11-12/analysis-v2/lepidium_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/compatible-assays-2026-11-12/analysis-v2/raphanus_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/compatible-assays-2026-11-12/analysis-v1/raphanus_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/compatible-assays-2026-11-12/external-inputs-v1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ambrosia_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ophiobolin_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py",
+      "recorded_sha256": "2af0f2c7b3533919ce59bf328d415edb912cb5b48f373847ced9cf5b76b802e0",
+      "current_sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "b771c872bea25a78c25679dcc8d076da8fe8a225",
+        "path": "analysis/ecotox_comparison.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py",
+      "recorded_sha256": "5164c170d2f5becdbe8bddbf992dda67e9493abd98669500eaad4a4e74a28faa",
+      "current_sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "95a8a59fc49889232989328311d74fef7e2e822b",
+        "path": "analysis/expansion_toxicity.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/LI2006-AR-150G-POST-BOUNDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/LI2006-AR-150G-POST-BOUNDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py",
+      "recorded_sha256": "2af0f2c7b3533919ce59bf328d415edb912cb5b48f373847ced9cf5b76b802e0",
+      "current_sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "b771c872bea25a78c25679dcc8d076da8fe8a225",
+        "path": "analysis/ecotox_comparison.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/LI2006-AR-150G-POST-BOUNDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py",
+      "recorded_sha256": "5164c170d2f5becdbe8bddbf992dda67e9493abd98669500eaad4a4e74a28faa",
+      "current_sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "95a8a59fc49889232989328311d74fef7e2e822b",
+        "path": "analysis/expansion_toxicity.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py",
+      "recorded_sha256": "2af0f2c7b3533919ce59bf328d415edb912cb5b48f373847ced9cf5b76b802e0",
+      "current_sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "b771c872bea25a78c25679dcc8d076da8fe8a225",
+        "path": "analysis/ecotox_comparison.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py",
+      "recorded_sha256": "5164c170d2f5becdbe8bddbf992dda67e9493abd98669500eaad4a4e74a28faa",
+      "current_sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "95a8a59fc49889232989328311d74fef7e2e822b",
+        "path": "analysis/expansion_toxicity.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/HE2011-AR-1500G-POST-BANDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/HE2011-AR-1500G-POST-BANDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py",
+      "recorded_sha256": "2af0f2c7b3533919ce59bf328d415edb912cb5b48f373847ced9cf5b76b802e0",
+      "current_sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "b771c872bea25a78c25679dcc8d076da8fe8a225",
+        "path": "analysis/ecotox_comparison.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/HE2011-AR-1500G-POST-BANDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py",
+      "recorded_sha256": "5164c170d2f5becdbe8bddbf992dda67e9493abd98669500eaad4a4e74a28faa",
+      "current_sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "95a8a59fc49889232989328311d74fef7e2e822b",
+        "path": "analysis/expansion_toxicity.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/pooled-v2-corrected-doi/pooled_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/pooled_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/units.py",
+      "recorded_sha256": "e42a4c07d40713b8ff50ad2a9f890b0bc05cf0f6a6acc56270eb2c20ae68b29a",
+      "current_sha256": "5e35c8160780daa7037b0258759466e5f156e54179c6f4091b4707e3367d1f5f",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "bc593ab3bf27145ef769081c7075943defce1386",
+        "path": "pipeline/src/agrotox/units.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/normalize.py",
+      "recorded_sha256": "46e6ef98395259ce317e487c3cbf11cf0c8f37987d857fac11e3fd22a549b4cc",
+      "current_sha256": "5042a463088bc4cdc58ba6b36bc518c8baee84e380327f3f22f3be5ffdfb75d4",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "cc5f5597360853c5f7784291301c99f91c1dd035",
+        "path": "pipeline/src/agrotox/normalize.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/_context.py",
+      "recorded_sha256": "d2117520e5ce275c6387dc3bcbbb80a2f3866fabb9705a914f8f4656392317a7",
+      "current_sha256": "095e5bd3c1a915bf5c07c82524c0ffd94c39944880e19c0cd1603d16e4897568",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "7fafb408d25f4ef23df355d35caa725593e8082d",
+        "path": "pipeline/src/agrotox/_context.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/ecotox_selected.py",
+      "recorded_sha256": "fb2046b537a0253b775d217d1bf9b250685b3f21fbcddd8d54b9fd21cbfde20f",
+      "current_sha256": "ddc0a233555ebdbaa20fe874e73ef429c07d026fe13119fdcdc554a89ca6562c",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "2e5d7467220ba8e5ade50f60463426a436eaa51a",
+        "path": "pipeline/src/agrotox/ecotox_selected.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/experimental-publication-transfer-2026-11-12-final/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/experimental-publication-transfer-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/experimental-publication-transfer-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/publication_transfer.py",
+      "recorded_sha256": "31522b7c2dc1cddeb40bf33d5ac0f52f4bead0fb1b921110923c3663fb4c75ae",
+      "current_sha256": "62e09a5cca46c9dbc52968ce44bb0cc1a3bd738b4402befe24eb0302b7355ae6",
+      "resolution": {
+        "kind": "unresolved"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/experimental-heterogeneous-diagnostics-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/experimental-heterogeneous-controls-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/experimental-heterogeneous-activity-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/experimental-flavonoid-transfer-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "6503b62a6d546aa3a8d3e993b18b2b2cce932d2b",
+        "path": "analysis/activity_preflight.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/verification-release-audit-2026-11-05-final/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ablations.py",
+      "recorded_sha256": "22b04b48ca43a5fe991586221da78495620e4ba402c86ec784c0b5c6feaa5776",
+      "current_sha256": "69c9ab5ecbbeb7d4e8f990818df1e58876211387e239d88fba4905c82cdb4f25",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "01949a78e92c064526fd653de273ec4f6fbc4ed6",
+        "path": "analysis/ablations.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/verification-release-audit-2026-11-05-final/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure_models.py",
+      "recorded_sha256": "35c230d96fce4c378addf13c14d9a72fc548d3d523945807c6067afb272b224b",
+      "current_sha256": "e9608fd81fb0c318ec5357a103992bb0c010a005068420a059dfa714a915a219",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "b868b04c9837d7db15d433570507c75b2425ade7",
+        "path": "analysis/structure_models.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/weekly-literature-2026-11-10-reviewed/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_literature.py",
+      "recorded_sha256": "63414e074a302e0e00d8e3a6f58393cd28c0b0c9429d444e024ff53bd365a0eb",
+      "current_sha256": "c63940bbb76fef11d7005fb11b0bb9be1624212ed2908110f5533591738d62c4",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "035aa00ab3620fcfc380e4aa1e8a46ed057e2f15",
+        "path": "analysis/weekly_literature.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/weekly-literature-sources-2026-11-10/manifest.json",
+      "section": "input_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/resources/weekly_literature.json",
+      "recorded_sha256": "3a99ae9420ae72aa371c6f71ba664a26b645953ca2f42008813d4968e8d362af",
+      "current_sha256": "f931210ebc555ef2b52704fc6172564cc15856fca74611f335e790308c884f80",
+      "resolution": {
+        "kind": "supplementary_archive_file",
+        "path": "analysis/outputs/weekly-literature-acquisition-input-2026-11-10/acquisition_resource.json"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/units.py",
+      "recorded_sha256": "e42a4c07d40713b8ff50ad2a9f890b0bc05cf0f6a6acc56270eb2c20ae68b29a",
+      "current_sha256": "5e35c8160780daa7037b0258759466e5f156e54179c6f4091b4707e3367d1f5f",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "bc593ab3bf27145ef769081c7075943defce1386",
+        "path": "pipeline/src/agrotox/units.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/normalize.py",
+      "recorded_sha256": "46e6ef98395259ce317e487c3cbf11cf0c8f37987d857fac11e3fd22a549b4cc",
+      "current_sha256": "5042a463088bc4cdc58ba6b36bc518c8baee84e380327f3f22f3be5ffdfb75d4",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "cc5f5597360853c5f7784291301c99f91c1dd035",
+        "path": "pipeline/src/agrotox/normalize.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/_context.py",
+      "recorded_sha256": "d2117520e5ce275c6387dc3bcbbb80a2f3866fabb9705a914f8f4656392317a7",
+      "current_sha256": "095e5bd3c1a915bf5c07c82524c0ffd94c39944880e19c0cd1603d16e4897568",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "7fafb408d25f4ef23df355d35caa725593e8082d",
+        "path": "pipeline/src/agrotox/_context.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/ecotox_selected.py",
+      "recorded_sha256": "fb2046b537a0253b775d217d1bf9b250685b3f21fbcddd8d54b9fd21cbfde20f",
+      "current_sha256": "ddc0a233555ebdbaa20fe874e73ef429c07d026fe13119fdcdc554a89ca6562c",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "2e5d7467220ba8e5ade50f60463426a436eaa51a",
+        "path": "pipeline/src/agrotox/ecotox_selected.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py",
+      "recorded_sha256": "5164c170d2f5becdbe8bddbf992dda67e9493abd98669500eaad4a4e74a28faa",
+      "current_sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "95a8a59fc49889232989328311d74fef7e2e822b",
+        "path": "analysis/expansion_toxicity.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/binding-structural-pilot-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/binding_catalog.py",
+      "recorded_sha256": "93924444a72bf5e19366a8e6c5b8cc46b4fe4976aa1ba72d02f09939189b1f13",
+      "current_sha256": "8ae097a14cfb8eb1d884a081ad35db20e2e99ec4a753413bc46745c05a4a7656",
+      "resolution": {
+        "kind": "archived_file",
+        "path": "experiments/binding-pilot-2026-11-12/binding_catalog_initial_run_source.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/aquatic-context-reviewed-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/context_overlay.py",
+      "recorded_sha256": "c9d5b08f64866916c67468efebfede9e79dd1cb1d93423e439135676c7899e41",
+      "current_sha256": "5cf38ce4d204bfac09586aa9bcc5ca7212d263e98a0a4f46f40e1ab54d00a282",
+      "resolution": {
+        "kind": "archived_file",
+        "path": "experiments/aquatic-context-2026-11-12/context_overlay_run_source.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py",
+      "recorded_sha256": "2af0f2c7b3533919ce59bf328d415edb912cb5b48f373847ced9cf5b76b802e0",
+      "current_sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137",
+      "resolution": {
+        "kind": "git_bundle_history",
+        "commit": "b771c872bea25a78c25679dcc8d076da8fe8a225",
+        "path": "analysis/ecotox_comparison.py"
+      }
+    },
+    {
+      "manifest": "analysis/outputs/aquatic-context-experimental-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/context_overlay.py",
+      "recorded_sha256": "c9d5b08f64866916c67468efebfede9e79dd1cb1d93423e439135676c7899e41",
+      "current_sha256": "5cf38ce4d204bfac09586aa9bcc5ca7212d263e98a0a4f46f40e1ab54d00a282",
+      "resolution": {
+        "kind": "archived_file",
+        "path": "experiments/aquatic-context-2026-11-12/context_overlay_run_source.py"
+      }
+    }
+  ]
+}

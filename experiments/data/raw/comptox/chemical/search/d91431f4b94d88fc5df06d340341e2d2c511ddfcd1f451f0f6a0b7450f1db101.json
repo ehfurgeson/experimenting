@@ -1,0 +1,25 @@
+{
+  "search_term": "CHIFOSRWCNZCFN-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:40.091400+00:00",
+  "url": "/chemical/search/equal/CHIFOSRWCNZCFN-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Pendimethalin",
+        "dtxsid": "DTXSID7024245",
+        "dtxcid": "DTXCID004245",
+        "casrn": "40487-42-1",
+        "hasStructureImage": 1,
+        "smiles": "CCC(CC)NC1=C(C=C(C)C(C)=C1[N+]([O-])=O)[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "CHIFOSRWCNZCFN-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

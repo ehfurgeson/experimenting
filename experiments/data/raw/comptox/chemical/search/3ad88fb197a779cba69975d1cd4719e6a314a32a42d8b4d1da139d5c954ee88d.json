@@ -1,0 +1,25 @@
+{
+  "search_term": "Fluroxypyr",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:43.042584+00:00",
+  "url": "/chemical/search/equal/Fluroxypyr",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Fluroxypyr",
+        "dtxsid": "DTXSID2034627",
+        "dtxcid": "DTXCID0014627",
+        "casrn": "69377-81-7",
+        "hasStructureImage": 1,
+        "smiles": "NC1=C(Cl)C(F)=NC(OCC(O)=O)=C1Cl",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Fluroxypyr",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

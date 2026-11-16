@@ -1,0 +1,91 @@
+{
+  "aeid": 2386,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:28:15.386882+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/2386",
+  "status": 200,
+  "response": {
+    "aeid": 2386,
+    "assayList": [
+      {
+        "name": "ToxCast AR Pathway Model",
+        "description": "Androgen receptor assays used in ToxCast AR Pathway model. See 10.1016/j.yrtph.2020.104764 and 10.1021/acs.chemrestox.6b00347"
+      }
+    ],
+    "assayName": "UPITT_AR_TIF2_PPIB",
+    "assayComponentName": "UPITT_HCI_U2OS_AR_TIF2_Nucleoli_Antagonist",
+    "assayComponentEndpointName": "UPITT_HCI_U2OS_AR_TIF2_Nucleoli_Antagonist",
+    "assayComponentEndpointDesc": "Data from the assay component UPITT_HCI_U2OS_AR_TIF2_Nucleoli_Antagonist was analyzed into 1 assay endpoint. This assay endpoint, UPITT_HCI_U2OS_AR_TIF2_Nucleoli_Antagonist, was analyzed in the positive analysis fitting direction relative to DHT as the baseline of activity. Using a type of binding reporter, measures of receptor for loss-of-signal activity can be used to understand the binding at the pathway-level as it relates to the gene AR.",
+    "assayFunctionType": "binding",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "DMSO",
+    "signalDirection": "loss",
+    "intendedTargetType": "pathway",
+    "intendedTargetTypeSub": "pathway-specified",
+    "intendedTargetFamily": "nuclear receptor",
+    "intendedTargetFamilySub": "steroidal",
+    "cellViabilityAssay": 0,
+    "acid": 2393,
+    "assayComponentDesc": "UPITT_HCI_U2OS_AR_TIF2_Nucleoli_Antagonist is one of four assay components measured from the UPITT_AR_TIF2_PPIB assay. It is designed to make measurements of red fluorescence localized in the nucleolar region of the cell nucleus as detected with high-content fluorescent imaging.",
+    "assayComponentTargetDesc": "Loss of DHT-induced red fluorescence in nucleolar region of the cell nucleus is consistent with antagonism of human androgen receptor activity [GeneSymbol: AR | GeneID: 367 |",
+    "parameterReadoutType": "single",
+    "assayDesignType": "binding reporter",
+    "assayDesignTypeSub": "protein-protein binding",
+    "biologicalProcessTarget": "receptor binding",
+    "detectionTechnologyType": "fluorescence",
+    "detectionTechnologyTypeSub": "optical microscopy",
+    "detectionTechnology": "HCS Fluorescent Imaging",
+    "keyAssayReagentType": "NA",
+    "keyAssayReagent": "NA",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "receptor",
+    "aid": 681,
+    "assayDesc": "UPITT_AR_TIF2_PPIB is a cell-based, high-content imaging assay that uses U2OS, a human osteosarcoma cell line, expressing a human androgen receptor fused to red fluorescent protein and the coactivator TIF2 fused to green fluorescent protein. ",
+    "timepointHr": 3.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "bone",
+    "cellFormat": "cell line",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "U2OS",
+    "cellGrowthMode": "NA",
+    "assayFootprint": "microplate: 384-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "protein complex format",
+    "contentReadoutType": "image-based",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 0.5,
+    "asid": 25,
+    "assaySourceName": "UPITT",
+    "assaySourceLongName": "University of Pittsburgh Johnston Lab",
+    "assaySourceDesc": "The Johnston laboratory at the University of Pittsburgh ran androgen receptor nuclear translocation assays under a Material Transfer Agreement (MTA) for the ToxCast Phase 1, Phase 2, and E1K chemicals. ",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "androgen receptor",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 367,
+        "officialSymbol": "AR",
+        "officialFullName": "androgen receptor",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1016/j.yrtph.2020.104764",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32798611/",
+        "pmid": 32798611,
+        "title": "Selecting a minimal set of androgen receptor assays for screening chemicals",
+        "author": "Judson R, Houck K, Paul Friedman K, Brown J, Browne P, Johnston PA, Close DA, Mansouri K, Kleinstreuer N",
+        "citation": "Judson R, Houck K, Paul Friedman K, Brown J, Browne P, Johnston PA, Close DA, Mansouri K, Kleinstreuer N. Selecting a minimal set of androgen receptor assays for screening chemicals. Regul Toxicol Pharmacol. 2020 Nov;117:104764. doi: 10.1016/j.yrtph.2020.104764. Epub 2020 Aug 14. PMID: 32798611; PMCID: PMC8356084.",
+        "otherId": "NA",
+        "citationId": 283,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

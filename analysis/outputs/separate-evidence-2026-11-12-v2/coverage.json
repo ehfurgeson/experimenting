@@ -1,0 +1,42 @@
+{
+  "A": {
+    "excluded": 10753,
+    "exact": 5921,
+    "censored": 47
+  },
+  "B": {
+    "eligible": 50330,
+    "excluded": 330
+  },
+  "A_compounds": 4234,
+  "B_compounds": 43128,
+  "A_structures_beyond_selection": 4188,
+  "B_structures_beyond_selection": 43064,
+  "B_domains": {
+    "Inside": 50581,
+    "unknown": 79
+  },
+  "B_training_membership": {
+    "unknown": 38671,
+    "Tst": 2997,
+    "Tr": 8992
+  },
+  "selection_TEST_states": {
+    "identity_needs_review": 24,
+    "stored_output": 136,
+    "identity_unresolved": 16
+  },
+  "TEST_records": 2176,
+  "TEST_compounds": 136,
+  "TEST_versions": {
+    "TEST5.1.3": 2176
+  },
+  "cached_property_versions": {
+    "Percepta2023.1.2": 2062,
+    "TEST5.1.3": 2176,
+    "OPERA2.8": 3752,
+    "Percepta2025.1.4": 16
+  },
+  "held_zenodo_rows": 13680,
+  "independent_measured_study_count": null
+}

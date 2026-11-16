@@ -1,0 +1,25 @@
+{
+  "search_term": "JMSVCTWVEWCHDZ-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:52.338884+00:00",
+  "url": "/chemical/search/equal/JMSVCTWVEWCHDZ-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0060191",
+        "dtxcid": "DTXCID2041337",
+        "casrn": "530-57-4",
+        "preferredName": "Syringic acid",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(=CC(OC)=C1O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "JMSVCTWVEWCHDZ-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

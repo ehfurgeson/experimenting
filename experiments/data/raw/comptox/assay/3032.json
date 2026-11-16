@@ -1,0 +1,102 @@
+{
+  "aeid": 3032,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:42:00.057832+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/3032",
+  "status": 200,
+  "response": {
+    "aeid": 3032,
+    "assayList": [
+      {
+        "name": "Thyroid Bioactivity",
+        "description": "Assays related to the thyroid adverse outcome pathway network"
+      }
+    ],
+    "assayName": "CCTE_GLTED_hIYD",
+    "assayComponentName": "CCTE_GLTED_hIYD",
+    "assayComponentEndpointName": "CCTE_GLTED_hIYD",
+    "assayComponentEndpointDesc": "Data from the assay component CCTE_GLTED_hIYD was analyzed at the assay endpoint CCTE_GLTED_hIYD in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of enzyme reporter, loss-of-signal activity can be used to understand iodotyrosine deiodinase activity. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the 'dehalogenase' intended target family, where the subfamily is 'iodotyrosine deiodinase'.",
+    "assayFunctionType": "enzymatic activity",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "3-Nitro-L-tyrosine (0.05 M NaOH for model inhibitor (MNT))",
+    "signalDirection": "loss",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "enzyme",
+    "intendedTargetFamily": "dehalogenase",
+    "intendedTargetFamilySub": "iodotyrosine deiodinase",
+    "cellViabilityAssay": 0,
+    "acid": 2818,
+    "assayComponentDesc": "CCTE_GLTED_hIYD is the assay component measured from the CCTE_GLTED_hIYD assay. It measures substrate involved in regulation of catalytic activity using spectrophotometry. The assay measures the deiodination activity of human IYD on the substrate monoiodotyrosine (MIT). After 3h incubation of substrate, enzyme, and test chemical, the components are applied to a 96-well Dowex column. Free iodide is not retained by the column and is separated from interfering assay components. The free iodide is measured by the Sandell-Kolthoff reaction in which the rate of reduction of cerium (Ce+4 to Ce+3) by arsenic (As+3 to As+5) is increased by the presence of iodide. This is observed as the loss of yellow color in the reaction and the quantified by the change in absorbance at 420 nm. The change in reaction rate is proportional to the amount of iodide present.",
+    "assayComponentTargetDesc": "The iodide recycling enzyme, iodotyrosine deiodinase (IYD), is one conserved putative molecular target that plays an essential role in maintaining adequate levels of free iodide in the thyroid gland for hormone synthesis.",
+    "parameterReadoutType": "single",
+    "assayDesignType": "enzyme reporter",
+    "assayDesignTypeSub": "enzyme activity",
+    "biologicalProcessTarget": "regulation of catalytic activity",
+    "detectionTechnologyType": "absorbance",
+    "detectionTechnologyTypeSub": "colorimetric",
+    "detectionTechnology": "spectrophotometry",
+    "keyAssayReagentType": "substrate",
+    "keyAssayReagent": "Monoiodotyrosine (MIT)",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "enzyme",
+    "aid": 866,
+    "assayDesc": "CCTE_GLTED_hIYD is a cell-free, single-readout assay that uses human iodotyrosine deiodinase (hIYD) enzyme produced with baculovirus-insect cell system. The assay is based on iodide release measured by the Sandell-Kolthoff method and is run in 96-well plate format with assay plates run in triplicate (n=3) with measurements taken at 3 hours after chemical dosing. Platewise-normalization was used based on positive control (3-Nitro-L-tyrosine, MNT) and negative/solvent controls (DMSO, NaOH).",
+    "timepointHr": 3.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "NA",
+    "cellFormat": "cell-free",
+    "cellFreeComponentSource": "baculovirus-insect cells",
+    "cellShortName": "Sf21",
+    "cellGrowthMode": "NA",
+    "assayFootprint": "microplate: 96-well plate",
+    "assayFormatType": "biochemical",
+    "assayFormatTypeSub": "protein single format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 1.65,
+    "asid": 24,
+    "assaySourceName": "CCTE_GLTED",
+    "assaySourceLongName": "CCTE Great Lakes Toxicology and Ecology Division",
+    "assaySourceDesc": "The laboratories at EPA CCTE Great Lakes Toxicology and Ecology Division focus on ecotoxicology and stressors of water resources, including development and implementation of in vitro and in vivo assays.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "iodotyrosine deiodinase",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 389434,
+        "officialSymbol": "IYD",
+        "officialFullName": "iodotyrosine deiodinase",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1016/j.tiv.2020.105073",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33352258/",
+        "pmid": 33352258,
+        "title": "In vitro screening for chemical inhibition of the iodide recycling enzyme, iodotyrosine deiodinase",
+        "author": "Olker JH, Korte JJ, Denny JS, Haselman JT, Hartig PC, Cardon MC, Hornung MW, Degitz SJ",
+        "citation": "Olker JH, Korte JJ, Denny JS, Haselman JT, Hartig PC, Cardon MC, Hornung MW, Degitz SJ. In vitro screening for chemical inhibition of the iodide recycling enzyme, iodotyrosine deiodinase. Toxicol In Vitro. 2021 Mar;71:105073. doi: 10.1016/j.tiv.2020.105073. Epub 2020 Dec 29. PMID: 33352258; PMCID: PMC8130633.",
+        "otherId": "NA",
+        "citationId": 239,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1016/j.tiv.2023.105762.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38072180/",
+        "pmid": 38072180,
+        "title": "In vitro screening of per- and polyfluorinated substances (PFAS) for interference with seven thyroid hormone system targets across nine assays.",
+        "author": "Degitz, S. J., Olker, J. H., Denny, J. S., Degoey, P. P., Hartig, P. C., Cardon, M. C., Eytcheson, S. A., Haselman, J. T., Mayasich, S. A., & Hornung, M. W.",
+        "citation": "Degitz, S. J., Olker, J. H., Denny, J. S., Degoey, P. P., Hartig, P. C., Cardon, M. C., Eytcheson, S. A., Haselman, J. T., Mayasich, S. A., & Hornung, M. W. (2024). In vitro screening of per- and polyfluorinated substances (PFAS) for interference with seven thyroid hormone system targets across nine assays. Toxicology in vitro : an international journal published in association with BIBRA, 95, 105762. https://doi.org/10.1016/j.tiv.2023.105762",
+        "otherId": "NA",
+        "citationId": 305,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

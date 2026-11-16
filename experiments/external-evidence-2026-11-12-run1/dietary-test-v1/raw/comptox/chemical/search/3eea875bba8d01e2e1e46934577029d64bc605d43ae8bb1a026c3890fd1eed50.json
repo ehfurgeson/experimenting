@@ -1,0 +1,25 @@
+{
+  "search_term": "KZSNJWFQEVHDMF-BYPYZUCNSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:52.252284+00:00",
+  "url": "/chemical/search/equal/KZSNJWFQEVHDMF-BYPYZUCNSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID40883233",
+        "dtxcid": "DTXCID201022782",
+        "casrn": "72-18-4",
+        "preferredName": "L-Valine",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KZSNJWFQEVHDMF-BYPYZUCNSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

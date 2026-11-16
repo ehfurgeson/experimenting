@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Malic acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:34.572452+00:00",
+  "url": "/chemical/search/equal/L-Malic acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID30273987",
+        "dtxcid": "DTXCID10819943",
+        "casrn": "97-67-6",
+        "preferredName": "(2S)-2-Hydroxybutanedioic acid",
+        "hasStructureImage": 1,
+        "smiles": "O[C@@H](CC(O)=O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "L-Malic acid",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Stearic acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:28.499474+00:00",
+  "url": "/chemical/search/equal/Stearic acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8021642",
+        "dtxcid": "DTXCID301642",
+        "casrn": "57-11-4",
+        "preferredName": "1-Octadecanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCCCCCCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchValue": "Stearic acid",
+        "rank": 10,
+        "searchName": "Expert Validated Synonym"
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,2044 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 84098,
+    "RecordTitle": "Isoxaflutole",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "USGS Health-Based Screening Levels for Evaluating Water-Quality",
+                "Description": "This section provides the USGS Health-Based Screening Levels for Evaluating Water-Quality data.",
+                "URL": "https://water.usgs.gov/water-resources/hbsl/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 97,
+                    "Name": "Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Isoxaflutole"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 97,
+                    "Name": "USGS Parameter Code",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "68632"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 97,
+                    "Name": "Chemical Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pesticide"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 97,
+                    "Name": "Chronic Noncancer HHBP (Human Health Benchmarks for Pesticides)[μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "100"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 97,
+                    "Name": "Carcinogenic HHBP [μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2.6−260"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 97,
+                    "Name": "Reference",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Smith, C.D. and Nowell, L.H., 2024. Health-Based Screening Levels for evaluating water-quality data (3rd ed.). DOI:10.5066/F71C1TWP",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Likely to be Carcinogenic to Humans"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 95,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Not listed by IARC."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        },
+                        {
+                          "String": "Reproductive Toxin - A chemical that is toxic to the reproductive system, including defects in the progeny and injury to male or female reproductive function. Reproductive toxicity includes developmental effects. See Guidelines for Reproductive Toxicity Risk Assessment."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 91,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 91,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 91,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 91,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 91,
+                        "Name": "Oral Slope Factor (CSFo)(mg/kg-day)^-1",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0114"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 91,
+                        "Name": "Oral Slope Factor Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document?D=EPA-HQ-OPP-2010-0845-0005",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Isoxaflutole"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "600"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Females 13-49 yrs"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "100"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Cancer Quantification c (Q1) Values (CSF) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0114"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Carcinogenic HHBP (E-6 to E-4 ) [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.60-260"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 23,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) =  5,230 mg/m3/4h"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 25,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 937"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 937",
+                            "Matched": {
+                              "PCLID": 900021519,
+                              "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 937"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral >5000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 25,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 937"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 937",
+                            "Matched": {
+                              "PCLID": 900021519,
+                              "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 937"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit dermal >2000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 25,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C-287"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C-287",
+                            "Matched": {
+                              "PCLID": 900107964,
+                              "Citation": "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C-287"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 Rat inhalation >5.23 mg/L 4 hr"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Benchmark Values",
+                    "Description": "Benchmark values are model-derived dose or concentration values estimated from dose-response data and used in toxicological and risk assessments. Examples include Benchmark Dose (BMD), Benchmark Dose Lower Confidence Limit (BMDL), Benchmark Concentration (BMC), and Benchmark Concentration Lower Confidence Limit (BMCL).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^BV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Other Toxicity Values",
+                    "Description": "Other toxicity values that are less commonly used in toxicological studies.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^Other$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139",
+                        "Matched": {
+                          "PCLID": 900120265,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway. Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with normal saline during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 ml/kg up to 200 ml of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poison A and B/",
+                          "Markup": [
+                            {
+                              "Start": 164,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 416,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 459,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/normal%20saline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5234"
+                            },
+                            {
+                              "Start": 582,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139",
+                        "Matched": {
+                          "PCLID": 900120265,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in respiratory arrest. Positive pressure ventilation techniques with a bag valve mask device may be beneficial. Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start an IV with D5W /SRP: \"To keep open\", minimal flow rate/. Use lactated Ringer's if signs of hypovolemia are present. Watch for signs of fluid overload. Consider drug therapy for pulmonary edema ... . For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam (Valium) ... . Use proparacaine hydrochloride to assist eye irrigation ... . /Poison A and B/",
+                          "Markup": [
+                            {
+                              "Start": 676,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 686,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 704,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin CDS, ed. Isoxaflutole (141112-29-0). In: The e-Pesticide Manual, Version 2.2 (2002). Surrey UK, British Crop Protection Council."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin CDS, ed. Isoxaflutole (141112-29-0). In: The e-Pesticide Manual, Version 2.2 (2002). Surrey UK, British Crop Protection Council.",
+                        "Matched": {
+                          "PCLID": 900143483,
+                          "Citation": "Tomlin CDS, ed. Isoxaflutole (141112-29-0). In: The e-Pesticide Manual, Version 2.2 (2002). Surrey UK, British Crop Protection Council."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Not a skin irritant; minimal eye irritation (rabbits). Not a skin sensitiser."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Health Canada, Pest Management Regulatory Agency; Regulatory Note- Isoxaflutole REG2000-16 (November 8, 2000). Available from, as of October 20, 2004: https://www.pmra-arla.gc.ca/english/pdf/reg/reg2000-16-e.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Health Canada, Pest Management Regulatory Agency; Regulatory Note- Isoxaflutole REG2000-16 (November 8, 2000). Available from, as of October 20, 2004: https://www.pmra-arla.gc.ca/english/pdf/reg/reg2000-16-e.pdf",
+                        "Matched": {
+                          "PCLID": 900022386,
+                          "Citation": "Health Canada, Pest Management Regulatory Agency; Regulatory Note- Isoxaflutole REG2000-16 (November 8, 2000). Available from, as of October 20, 2004: https://www.pmra-arla.gc.ca/english/pdf/reg/reg2000-16-e.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 90-day dietary study, groups of 10 CD rats/sex/dose received either 0, 1.0, 3.0, 10 or 100 mg/kg bw/day isoxaflutole (purity 99.4%) via dietary administration daily for 13 weeks and three days. There were no treatment-related mortalities and no treatment-related effects on body weight, body-weight gain, food consumption or food efficiency. There were no significant treatment-related effects on hematological, clinical chemistry or urinalysis parameters examined. Treatment-related findings in males at 100 mg/kg bw/day included increased absolute and relative liver weights, with an associated increased incidence of periacinar hepatocytic hypertrophy; these were considered to be an adaptive response and not adverse. Significant treatment-related clinical, ophthalmoscopic, gross pathological and histopathological findings were observed in the eye in males at 10 mg/kg bw/day and in both sexes at 100 mg/kg bw/day. Clinical and ophthalmoscopic observations included increased incidences of bilateral and unilateral opaque eyes and focal corneal opacity, respectively. Focal corneal opacity was first apparent during week 3 and persisted throughout the study. Significant gross pathological observation included an increased incidence of corneal opacity (unilateral and bilateral) in both sexes at 100 mg/kg bw/day. The overall incidence of corneal lesions was similar in both sexes, although the severity of the lesions was more significant in the males. The most notable histopathological findings included vacuolation (males and females) and superficial exfoliation of the epithelial cells (males and females), epithelial thickening (males), necrosis and inflammation (males and females), subepithelial fibroblastic reaction (males and females) and vascularization of the stroma (males and females). The changes were considered by the study author to be reversible after a short recovery period following cessation of treatment in the previous study..., with the exception of residual evidence of tissue repair detectable only by histopathological examination. There were no treatment-related effects at 1.0 or 3.0 mg/kg bw/day; therefore, the NOEL for isoxaflutole was 3.0 mg/kg bw/day.",
+                          "Markup": [
+                            {
+                              "Start": 165,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 2222,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Health Canada, Pest Management Regulatory Agency; Regulatory Note- Isoxaflutole REG2000-16 (November 8, 2000). Available from, as of October 20, 2004: https://www.pmra-arla.gc.ca/english/pdf/reg/reg2000-16-e.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Health Canada, Pest Management Regulatory Agency; Regulatory Note- Isoxaflutole REG2000-16 (November 8, 2000). Available from, as of October 20, 2004: https://www.pmra-arla.gc.ca/english/pdf/reg/reg2000-16-e.pdf",
+                        "Matched": {
+                          "PCLID": 900022386,
+                          "Citation": "Health Canada, Pest Management Regulatory Agency; Regulatory Note- Isoxaflutole REG2000-16 (November 8, 2000). Available from, as of October 20, 2004: https://www.pmra-arla.gc.ca/english/pdf/reg/reg2000-16-e.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 28-day preliminary dietary study, groups of 10 male or female CD-1 mice received isoxaflutole (99.9% purity) via dietary administration at concentrations of 0, 175, 700, 2800 or 7000 ppm daily for 28 days. The dose levels were equal to 0, 29.4, 120.7, 474.6 and 1140.1 mg/kg bw/day in males and 0, 34.7, 142.9, 534.4 and 1347.4 mg/kg bw/day in females. There were no treatment-related mortalities, clinical or ophthalmoscopic observations or treatment-related effects on body weight, body-weight gain or food consumption. The liver appeared to be the target organ. Significant treatment-related clinical chemistry findings included increased alanine aminotransferase (ALAT) (males at 2800 and 7000 ppm and females at 700, 2800 and 7000 ppm) and aspartate aminotransferase (ASAT) (males at 2800 and 7000 ppm and females at 7000 ppm) activity. Increased liver weights were observed at all dose levels in both sexes. Significant treatment-related gross pathological observations were noted in the liver and included enlarged liver (males at 700, 2800 and 7000 ppm and females at 2800 and 7000 ppm) and white striations (both sexes at 7000 ppm). Treatment-related histopathological findings in the liver included centrilobular hepatocellular hypertrophy (both sexes at 700 ppm and above) and hepatocellular necrosis (males at 2800 and 7000 ppm and females at 7000 ppm). Other histopathological findings included increased extramedullary hematopoiesis in spleen(both sexes at 7000 ppm) and X-zone cell vacuolation in the adrenal glands (females at 7000 ppm). In the absence of any other significant findings at 175 ppm, the increased liver weights were considered a minor adaptive change; therefore, the no observed adverse effect level (NOAEL) was 175 ppm, equal to 29 mg/kg bw/day in males and 35 mg/kg bw/day in females.",
+                          "Markup": [
+                            {
+                              "Start": 142,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 703,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5950"
+                            },
+                            {
+                              "Start": 806,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspartate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Pesticide Programs; Pesticide Fact Sheet- Isoxaflutole (September 1998). Available from, as of October 12, 2004: https://www.epa.gov/opprd001/factsheets/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Pesticide Programs; Pesticide Fact Sheet- Isoxaflutole (September 1998). Available from, as of October 12, 2004: https://www.epa.gov/opprd001/factsheets/",
+                        "Matched": {
+                          "PCLID": 900025619,
+                          "Citation": "USEPA/Office of Pesticide Programs; Pesticide Fact Sheet- Isoxaflutole (September 1998). Available from, as of October 12, 2004: https://www.epa.gov/opprd001/factsheets/"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 28-day oral subchronic toxicity study, RPA 203328 (a metabolite of isoxaflutole) was administered in the diet to male and female rats. There were no compound related adverse effects on survival, clinical signs, body weight, food consumption, clinical chemistry, hematology, and gross or microscopic pathology. The LOAEL is >1,117.79 mg/kg/day in males and 1,268.73 mg/kg/day in females. The NOEL for both sexes is 1,117.79 mg/kg/day in males and 1,268.73 mg/kg/day in females. /RPA 203328 (metabolite)/",
+                          "Markup": [
+                            {
+                              "Start": 128,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for ISOXAFLUTOLE (18 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 99,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7275#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ISOXAFLUTOLE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 178
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin CDS, ed. Isoxaflutole (141112-29-0). In: The e-Pesticide Manual, Version 2.2 (2002). Surrey UK, British Crop Protection Council."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin CDS, ed. Isoxaflutole (141112-29-0). In: The e-Pesticide Manual, Version 2.2 (2002). Surrey UK, British Crop Protection Council.",
+                        "Matched": {
+                          "PCLID": 900143483,
+                          "Citation": "Tomlin CDS, ed. Isoxaflutole (141112-29-0). In: The e-Pesticide Manual, Version 2.2 (2002). Surrey UK, British Crop Protection Council."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Bee contact >100 ug/bee"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone (141112-29-0). Available from, as of October 6, 2004"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone (141112-29-0). Available from, as of October 6, 2004",
+                        "Matched": {
+                          "PCLID": 900099699,
+                          "Citation": "2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone (141112-29-0). Available from, as of October 6, 2004"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Anas platyrhynchos (Mallard duck, age 5 days) dietary >4255 ppm (8 days)[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone (141112-29-0). Available from, as of October 6, 2004"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone (141112-29-0). Available from, as of October 6, 2004",
+                        "Matched": {
+                          "PCLID": 900099699,
+                          "Citation": "2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone (141112-29-0). Available from, as of October 6, 2004"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Anas platyrhynchos (Mallard duck, age 2 wk) oral >2150 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone (141112-29-0). Available from, as of October 6, 2004"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone (141112-29-0). Available from, as of October 6, 2004",
+                        "Matched": {
+                          "PCLID": 900099699,
+                          "Citation": "2-(methylsulfonyl)-4-(trifluoromethyl)phenyl]methanone (141112-29-0). Available from, as of October 6, 2004"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 Colinus virginianus (Northern bobwhite, age 26 wk) oral >2150 mg/kg[USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on (5-Cyclopropyl-4-isoxazolyl)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for ISOXAFLUTOLE (9 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 89,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7275#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ISOXAFLUTOLE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Isoxaflutole's production may result in its release to the environment through various waste streams; it's use as a herbicide will result in its direct release to the environment. If released to air, a vapor pressure of 7.50X10-9 mm Hg at 25 °C indicates isoxaflutole will exist solely in the particulate phase in the ambient atmosphere. Particulate-phase isoxaflutole will be removed from the atmosphere by wet and dry deposition. If released to soil, isoxaflutole is expected to have moderate mobility based upon an estimated Koc of 440. Neither isoxaflutole nor any of its metabolites were detected in the soil below 10 cm during a soil field dissipation study. Volatilization from moist soil surfaces is not expected to be an important fate process based upon a Henry's Law constant of 1.85X10-10 atm-cu m/mole. Isoxaflutole is not expected to volatilize from dry soil surfaces based upon its vapor pressure. Half-lives of isoxaflutole in laboratory soil degradation studies range from 12 hours to 13.9 days. The effects of moisture and temperature on isoxaflutole degradation and the similarity of the degradation patterns between sterile and non-sterile samples indicate that chemical hydrolysis to the active product (2-cyano-3-cyclopropyl-1-(2-methylsulfonyl-4-trifluoromethylphenyl)-propane-1,3-dione) is the primary route of isoxaflutole degradation in soil. If released into water, isoxaflutole may adsorb to suspended solids and sediment based upon the estimated Koc. Biodegradation in water is not expected to compete with hydrolysis based on the results from soil laboratory studies. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's Henry's Law constant. An estimated BCF of 34 suggests the potential for bioconcentration in aquatic organisms is moderate. The half-lives reported for the hydrolysis of isoxaflutole in aqueous mineral buffered solutions were 433, 241, 95, 43, 65, and 5 hours at pH values of 5.2, 6.0, 7.2, 8.0, 8.3, and 9.3, respectively, at 22 °C. The half-lives at these same pH values were 182, 87, 18, 8, 9, and 1.2 hours, respectively, at 35 °C. Occupational exposure to isoxaflutole may occur through inhalation and dermal contact with this compound at workplaces where isoxaflutole is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 255,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 356,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 453,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 548,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 816,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 927,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1056,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1335,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1386,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1393,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1498,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1618,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1877,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 2168,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 2268,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Isoxaflutole's production may result in its release to the environment through various waste streams; it's use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(4) Rouchaud J et al.; Arch Environ Contam Toxicol 42: 280-285 (2002)",
+                      "(5) USEPA/OPPTS; Pesticide Fact Sheet: Isoxaflutole. 1998. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub, 2003. Available at https://www.epa.gov/opprd001/factsheets/ as of Sept 22, 2004.",
+                      "(6) Taylor-Lovell S et al; J Agric Food Chem 50: 5626-5633 (2002)",
+                      "(7) Beltran E et al.; J Agric Food Chem 51: 146-151 (2003)",
+                      "(8) Pallett KE et al; Pest Manag Sci 57: 133-142 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Rouchaud J et al.; Arch Environ Contam Toxicol 42: 280-285 (2002)"
+                      },
+                      {
+                        "Citation": "(5) USEPA/OPPTS; Pesticide Fact Sheet: Isoxaflutole. 1998. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub, 2003. Available at https://www.epa.gov/opprd001/factsheets/ as of Sept 22, 2004."
+                      },
+                      {
+                        "Citation": "(6) Taylor-Lovell S et al; J Agric Food Chem 50: 5626-5633 (2002)"
+                      },
+                      {
+                        "Citation": "(7) Beltran E et al.; J Agric Food Chem 51: 146-151 (2003)"
+                      },
+                      {
+                        "Citation": "(8) Pallett KE et al; Pest Manag Sci 57: 133-142 (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 440(SRC), determined from a log Kow of 2.32(2) and a regression-derived equation(3), indicates that isoxaflutole is expected to have moderate mobility in soil(SRC). Neither isoxaflutole nor any of its metabolites were detected in the soil below 10 cm during a field dissipation study(4). Volatilization of isoxaflutole from moist soil surfaces is not expected to be an important fate process(SRC) given a Henry's Law constant of 1.85X10-10 atm-cu m/mole(2). Isoxaflutole is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of 7.50X10-9 mm Hg(2). The half-life for the photolysis of isoxaflutole has been reported as 23 hours in soil(5). Half-lives of isoxaflutole in laboratory soil degradation studies range from 12 hours to 13.9 days(6,7,8). The effects of moisture and temperature on isoxaflutole degradation and the similarity of the degradation patterns between sterile and non-sterile samples indicate that chemical hydrolysis to the active product (2-cyano-3-cyclopropyl-1-(2-methylsulfonyl-4-trifluoromethylphenyl)-propane-1,3-dione) is the primary route of isoxaflutole degradation in soil(6-8). The half-lives for the conversion of isoxaflutole into its primary metabolite in the 0-10 cm surface soil layer of corn crops were between 9 and 18 days during a soil field dissipation study(4). The sum of isoxaflutole and this metabolite disappeared in the 0-10 cm layer with half-lives of 45-65 days(4).",
+                          "Markup": [
+                            {
+                              "Start": 181,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 254,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 387,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 539,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 697,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 902,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1181,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1257,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1426,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(4) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(5) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(6) Beltran E et al; J Agric Food Chem 48: 4399-4403 (2000)",
+                      "(7) USEPA/OPPTS; Pesticide Fact Sheet: Isoxaflutole. 1998. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub, 2003. Available at https://www.epa.gov/opprd001/factsheets/ as of Sept 22, 2004.",
+                      "(8) Taylor-Lovell S et al; J Agric Food Chem 50: 5626-5633 (2002)",
+                      "(9) Beltran E et al.; J Agric Food Chem 51: 146-151 (2003)",
+                      "(10) Pallett KE et al; Pest Manag Sci 57: 133-142 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(5) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(6) Beltran E et al; J Agric Food Chem 48: 4399-4403 (2000)"
+                      },
+                      {
+                        "Citation": "(7) USEPA/OPPTS; Pesticide Fact Sheet: Isoxaflutole. 1998. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub, 2003. Available at https://www.epa.gov/opprd001/factsheets/ as of Sept 22, 2004."
+                      },
+                      {
+                        "Citation": "(8) Taylor-Lovell S et al; J Agric Food Chem 50: 5626-5633 (2002)"
+                      },
+                      {
+                        "Citation": "(9) Beltran E et al.; J Agric Food Chem 51: 146-151 (2003)"
+                      },
+                      {
+                        "Citation": "(10) Pallett KE et al; Pest Manag Sci 57: 133-142 (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 440(SRC), determined from a log Kow of 2.32(2) and a regression-derived equation(3), indicates that isoxaflutole may adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(3) based upon a Henry's Law constant of 1.85X10-10 atm-cu m/mole(2). According to a classification scheme(4), an estimated BCF of 34(SRC), from its log Kow(2) and a regression-derived equation(5), suggests the potential for bioconcentration in aquatic organisms is moderate(SRC). The half-lives reported for the hydrolysis of isoxaflutole in aqueous mineral buffered solutions were 433, 241, 95, 43, 65, and 5 hours at pH values of 5.2, 6.0, 7.2, 8.0, 8.3, and 9.3, respectively, at 22 °C(1). The half-lives at these same pH values were 182, 87, 18, 8, 9, and 1.2 hours, respectively, at 35 °C(6). The half-life for the photolysis of isoxaflutole has been reported as 6.7 days in water(7). Half-lives of isoxaflutole in laboratory soil degradation studies range from 12 hours to 13.9 days(8-10). The effects of moisture and temperature on isoxaflutole degradation and the similarity of the degradation patterns between sterile and non-sterile samples indicate that chemical hydrolysis to the active product (2-cyano-3-cyclopropyl-1-(2-methylsulfonyl-4-trifluoromethylphenyl)-propane-1,3-dione) is the primary route of isoxaflutole degradation in soil(8-10) and may also true for water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 177,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 260,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 617,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 925,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 971,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 995,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1130,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1409,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1470,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), isoxaflutole, which has a vapor pressure of 7.50X10-9 mm Hg at 25 °C(2), is expected to exist solely in the particulate phase in the ambient atmosphere. Particulate-phase isoxaflutole may be removed from the air by wet and dry deposition(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 295,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA/OPPTS; Pesticide Fact Sheet: Isoxaflutole. 1998. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub, 2003. Available at https://www.epa.gov/opprd001/factsheets/ as of Sept 22, 2004.",
+                      "(2) Taylor-Lovell S et al; J Agric Food Chem 50: 5626-5633 (2002)",
+                      "(3) Beltran E et al; J Agric Food Chem 51: 146-151 (2003)",
+                      "(4) Pallett KE et al; Pest Manag Sci 57: 133-142 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA/OPPTS; Pesticide Fact Sheet: Isoxaflutole. 1998. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub, 2003. Available at https://www.epa.gov/opprd001/factsheets/ as of Sept 22, 2004."
+                      },
+                      {
+                        "Citation": "(2) Taylor-Lovell S et al; J Agric Food Chem 50: 5626-5633 (2002)"
+                      },
+                      {
+                        "Citation": "(3) Beltran E et al; J Agric Food Chem 51: 146-151 (2003)"
+                      },
+                      {
+                        "Citation": "(4) Pallett KE et al; Pest Manag Sci 57: 133-142 (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: The half-life for the aerobic soil metabolism of isoxaflutole has been reported as 2.4 days(1). Half-lives for the terrestrial field dissipation of this compound have been reported to range from 1.4 to 3.0 days(1). Additional information regarding these values were not provided(1). The effects of temperature and moisture on isoxaflutole degradation have been studied(2-4). During a controlled laboratory soil degradation study, half-lives of 1.5 and 2.4 days were measured at moisture contents of -100 kPa (25%) and -1500 kPa (13%), respectively, while the half-life in air-dry soil (3% moisture content) was reported as 9.6 days(2). No mineralization was observed in the air-dry soil, although degradation was rapid after water was added (-100 kPa) to an air dry soil sample on day 14(2). Half-lives reported in a similar study were 67, 49, and 33 hours at moisture contents of 17, 29, and 45%, respectively(3). A third laboratory study reported half-lives of 24, 24, 22, and 19 hours in sandy loam at moisture content 5, 10, 20, and 30%, respectively, and an application rate of 100 g/ha(4). Half-lives in sandy loam at these moisture contents were 41, 36, 32, and 29 hours, respectively, for a 750 g/ha application rate using a water dispersible granule formulation(4). Half-lives in clay loam at moisture contents <2, 10, 20, and 30% were 144, 33, 20, and 12 hours, respectively, for a 250 g/ha application rate(4). Isoxaflutole degradation was inversely affected by changes in temperature. Half-lives were 13.9 days at 5 °C, 3.3 days at 15 °C, 1.3 days at 25 °C, and 0.8 days at 35 °C(2). The activation energy calculated from the rate constants at these temperatures was 67 kJ/mol(2). The authors reported that an activation energy above 60 kJ/mol and responsiveness to changes in temperature such as was observed with isoxaflutole are indicative of a chemically controlled process as opposed to an enzyme-mediated biological process(2).",
+                          "Markup": [
+                            {
+                              "Start": 58,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 335,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 734,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1242,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Taylor-Lovell S et al; J Agric Food Chem 50: 5626-5633 (2002)",
+                      "(2) Beltran E et al; J Agric Food Chem 51: 146-151 (2003)",
+                      "(3) Pallett KE et al; Pest Manag Sci 57: 133-142 (2001)",
+                      "(4) Rouchaud J et al; Arch Environ Contam Toxicol 42: 280-285 (2002)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Taylor-Lovell S et al; J Agric Food Chem 50: 5626-5633 (2002)"
+                      },
+                      {
+                        "Citation": "(2) Beltran E et al; J Agric Food Chem 51: 146-151 (2003)"
+                      },
+                      {
+                        "Citation": "(3) Pallett KE et al; Pest Manag Sci 57: 133-142 (2001)"
+                      },
+                      {
+                        "Citation": "(4) Rouchaud J et al; Arch Environ Contam Toxicol 42: 280-285 (2002)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Half-lives observed in sterile and non-sterile soils were similar (1.8 days and 1.4 days, respectively)(1). Four percent mineralization was observed in the non-sterile soil by day 56 while no mineralization was observed in the sterile soil throughout the experiment(1). Based on the data from these tests, the authors concluded that chemical hydrolysis to the active product (2-cyano-3-cyclopropyl-1-(2-methylsulfonyl-4-trifluoromethylphenyl)-propane-1,3-dione) is the primary route of isoxaflutole degradation in the environment(1-3). Any mineralization observed was considered to be from the degradation of this active product while forming inactive metabolites through biological processes(1). An activation energy of 81.2 kJ/mol, calculated using isoxaflutole degradation rate constants measured at various temperatures in non-sterile soil, was similar to a value of 82.4, calculated from degradation rates in sterile aqueous solutions(2). The half-lives for the conversion of isoxaflutole into its primary metabolite in the 0-10 cm surface soil layer of corn crops were between 9 and 18 days during a soil field dissipation study(4). The sum of isoxaflutole and this metabolite disappeared in the 0-10 cm layer with half-lives of 45-65 days(4).",
+                          "Markup": [
+                            {
+                              "Start": 495,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 760,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 990,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 1159,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA/OPPTS; Pesticide Fact Sheet: Isoxaflutole. 1998. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub, 2003. Available at https://www.epa.gov/opprd001/factsheets/ as of Sept 22, 2004."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA/OPPTS; Pesticide Fact Sheet: Isoxaflutole. 1998. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub, 2003. Available at https://www.epa.gov/opprd001/factsheets/ as of Sept 22, 2004."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: The half-life for the anaerobic aquatic metabolism of isoxaflutole was reported to be less than 2 hours(1).",
+                          "Markup": [
+                            {
+                              "Start": 65,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Beltran E et al; J Agric Food Chem 48: 4399-4403 (2000)",
+                      "(2) USEPA/OPPTS; Pesticide Fact Sheet: Isoxaflutole. 1998. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub, 2003. Available at https://www.epa.gov/opprd001/factsheets/ as of Sept 22, 2004."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Beltran E et al; J Agric Food Chem 48: 4399-4403 (2000)"
+                      },
+                      {
+                        "Citation": "(2) USEPA/OPPTS; Pesticide Fact Sheet: Isoxaflutole. 1998. Washington, DC: Environmental Protection Agency, Off Prevent Pest Tox Sub, 2003. Available at https://www.epa.gov/opprd001/factsheets/ as of Sept 22, 2004."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The half-lives reported for the hydrolysis of isoxaflutole in aqueous mineral buffered solutions were 433, 241, 95, 43, 65, and 5 hours at pH values of 5.2, 6.0, 7.2, 8.0, 8.3, and 9.3, respectively, at 22 °C(1). The half-lives at these same pH values were 182, 87, 18, 8, 9, and 1.2 hours, respectively, at 35 °C(1). Isoxaflutole hydrolysis half-lives have also been reported as 11.1 hours at pH 5, 20.1 hours at pH 7, and 3.2 hours at pH 9(2). The half-life for the photolysis of isoxaflutole has been reported as 6.7 days in water and 23 hours in soil(2).",
+                          "Markup": [
+                            {
+                              "Start": 46,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 318,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 482,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 528,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 34 was calculated for isoxaflutole(SRC), using a log Kow of 2.32(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC), provided the compound is not altered physically or chemically once released into the environment.",
+                          "Markup": [
+                            {
+                              "Start": 42,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(4) Rouchaud J et al; Arch Environ Contam Toxicol 42: 280-285 (2002)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(4) Rouchaud J et al; Arch Environ Contam Toxicol 42: 280-285 (2002)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of isoxaflutole is estimated as 440(SRC), using a log Kow of 2.32(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that isoxaflutole is expected to have moderate mobility in soil. Neither isoxaflutole nor any of its metabolites were detected in the soil below 10 cm during a soil field dissipation study(4).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 195,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 263,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)",
+                      "(3) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual. 13th ed. Surrey, UK: British Crop Protection Council. Version 3.0. Isoxaflutole (2003)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for isoxaflutole is 1.85X10-10 atm-cu m/mole(1). This Henry's Law constant indicates that isoxaflutole is expected to be essentially nonvolatile from moist soil or water surfaces(2). Isoxaflutole is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of 7.50X10-9 mm Hg(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 115,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 189,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 208,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Milk Concentrations",
+                "Description": "Concentrations of this compound in milk.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Health Canada, Pest Management Regulatory Agency; Regulatory Note- Isoxaflutole REG2000-16 (November 8, 2000). Available from: https://www.pmra-arla.gc.ca/english/pdf/reg/reg2000-16-e.pdf as of October 20, 2004."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Health Canada, Pest Management Regulatory Agency; Regulatory Note- Isoxaflutole REG2000-16 (November 8, 2000). Available from: https://www.pmra-arla.gc.ca/english/pdf/reg/reg2000-16-e.pdf as of October 20, 2004.",
+                        "Matched": {
+                          "PCLID": 900085300,
+                          "Citation": "Health Canada, Pest Management Regulatory Agency; Regulatory Note- Isoxaflutole REG2000-16 (November 8, 2000). Available from: https://www.pmra-arla.gc.ca/english/pdf/reg/reg2000-16-e.pdf as of October 20, 2004."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The goats were dosed (balling gun) at a dietary burden of 10 ppm for seven days. The administered radioactivity was mainly eliminated via the urine and feces with the remaining radioactivity found in tissues, milk and cage wash and debris. Isoxaflutole was not identified in any of the tissues and milk. RPA 202248 was identified as a major component in all tissues, including milk. RPA 207048 was identified as a minor component in tissues and milk.",
+                          "Markup": [
+                            {
+                              "Start": 240,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to isoxaflutole may occur through inhalation and dermal contact with this compound at workplaces where isoxaflutole is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            },
+                            {
+                              "Start": 125,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isoxaflutole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-84098"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Isoxaflutole$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Isoxaflutole$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Isoxaflutole$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Isoxaflutole$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "56c0f41b44c6eea54be9ff88f2331f29",
+        "Name": "Isoxaflutole",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49737511
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID84098",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125938
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "982ab3ab3d151f32c5e873e01d26bf9d",
+        "Name": "Isoxaflutole",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667404
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID5034723",
+        "Name": "Isoxaflutole",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57019235
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz5739",
+        "Name": "Isoxaflutole",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17279671
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7275",
+        "Name": "ISOXAFLUTOLE",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7275",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4868
+      },
+      {
+        "ReferenceNumber": 91,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Isoxaflutole",
+        "Name": "Isoxaflutole",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401254
+      },
+      {
+        "ReferenceNumber": 95,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D3868",
+        "Name": "Isoxaflutole",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D3868",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443302
+      },
+      {
+        "ReferenceNumber": 97,
+        "SourceName": "USGS Health-Based Screening Levels for Evaluating Water-Quality Data",
+        "SourceID": "3e08a913d5d09d0e4b0fb3672693099a",
+        "Name": "Isoxaflutole",
+        "Description": "The USGS Health-Based Screening Levels for Evaluating Water-Quality Data contains Health-Based Screening Levels (HBSLs) that are non-enforceable water-quality benchmarks that can be used to (1) supplement U.S. Environmental Protection Agency (USEPA) Maximum Contaminant Levels (MCLs) and Human Health Benchmarks for Pesticides (HHBPs), (2) determine whether contaminants found in surface-water or groundwater sources of drinking water may indicate a potential human-health concern, and (3) help prioritize monitoring efforts. HBSLs were developed by the U.S. Geological Survey (USGS).",
+        "URL": "https://water.usgs.gov/water-resources/hbsl/index.html",
+        "LicenseURL": "https://www.usgs.gov/legal",
+        "ANID": 39668137
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "YFONKFDEZLYQDH-BOURZNODSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:12.579966+00:00",
+  "url": "/chemical/search/equal/YFONKFDEZLYQDH-BOURZNODSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0058223",
+        "dtxcid": "DTXCID3031991",
+        "casrn": "950782-86-2",
+        "preferredName": "Indaziflam",
+        "hasStructureImage": 1,
+        "smiles": "CC(F)C1=NC(N)=NC(N[C@@H]2[C@@H](C)CC3=C2C=C(C)C=C3)=N1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "YFONKFDEZLYQDH-BOURZNODSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "KUWGTESSHWPSOB-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:18.677602+00:00",
+  "url": "/chemical/search/equal/KUWGTESSHWPSOB-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID50146902",
+        "dtxcid": "DTXCID4069393",
+        "casrn": "10499-26-0",
+        "preferredName": "4-Cyclohexene-1,3-dione, 5-hydroxy-2,2,6,6-tetramethyl-4-(1-oxo-3-phenylpropyl)-",
+        "hasStructureImage": 1,
+        "smiles": "CC1(C)C(O)=C(C(=O)CCC2=CC=CC=C2)C(=O)C(C)(C)C1=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KUWGTESSHWPSOB-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

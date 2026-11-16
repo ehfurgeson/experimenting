@@ -1,0 +1,25 @@
+{
+  "search_term": "NVGOPFQZYCNLDU-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:51.396539+00:00",
+  "url": "/chemical/search/equal/NVGOPFQZYCNLDU-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8024234",
+        "dtxcid": "DTXCID304234",
+        "casrn": "27314-13-2",
+        "preferredName": "Norflurazon",
+        "hasStructureImage": 1,
+        "smiles": "CNC1=C(Cl)C(=O)N(N=C1)C1=CC(=CC=C1)C(F)(F)F",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "NVGOPFQZYCNLDU-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

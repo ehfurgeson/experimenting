@@ -1,0 +1,25 @@
+{
+  "search_term": "PFTAWBLQPZVEMU-DZGCQCFKSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:38.539671+00:00",
+  "url": "/chemical/search/equal/PFTAWBLQPZVEMU-DZGCQCFKSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3022322",
+        "dtxcid": "DTXCID202322",
+        "casrn": "154-23-4",
+        "preferredName": "Cianidanol",
+        "hasStructureImage": 1,
+        "smiles": "O[C@H]1CC2=C(O)C=C(O)C=C2O[C@@H]1C1=CC(O)=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "PFTAWBLQPZVEMU-DZGCQCFKSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

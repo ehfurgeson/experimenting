@@ -1,0 +1,25 @@
+{
+  "search_term": "Diflufenican",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:21.297484+00:00",
+  "url": "/chemical/search/equal/Diflufenican",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Diflufenican",
+        "dtxsid": "DTXSID4041494",
+        "dtxcid": "DTXCID2021494",
+        "casrn": "83164-33-4",
+        "hasStructureImage": 1,
+        "smiles": "FC1=CC=C(NC(=O)C2=C(OC3=CC(=CC=C3)C(F)(F)F)N=CC=C2)C(F)=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Diflufenican",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

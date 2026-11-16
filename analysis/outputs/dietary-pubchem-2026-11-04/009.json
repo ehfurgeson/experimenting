@@ -1,0 +1,16 @@
+{
+  "query": "L-Isoleucine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Isoleucine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:07:56.194916+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6306,
+          "SMILES": "CC[C@H](C)[C@@H](C(=O)O)N",
+          "InChIKey": "AGPKZVBTJJNPAG-WHFBIAKZSA-N"
+        }
+      ]
+    }
+  }
+}

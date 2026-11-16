@@ -1,0 +1,31 @@
+{
+  "inputs": {
+    "analysis/outputs/separate-evidence-2026-11-12-v2/manifest.json": "4414111cee796418a727a3f850d13c5f85b89778eb9283b9ad3dc3cf677f8336",
+    "analysis/outputs/separate-evidence-models-2026-11-12-v3/manifest.json": "b41ee8d3ef9ad59eaeaaae4ac8a217e4a8efcf72d195bf2473b1a39a33db5ff4",
+    "experiments/external-evidence-2026-11-12-run1/dietary-test-v1/manifest.json": "b682480b5709a011272fb4c9250d6e40754727cbc02dfe36a6a60ec9876d1924"
+  },
+  "traits_input": {
+    "experiments/data/compound_traits.parquet": "b7603ce28182ca93650074e40bf6c573af971a06daa7e67c7d9a87e9bda1c90e"
+  },
+  "code": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_comparison.py": "b40318ce17584cbb45b73741a273a9fef7c3ebf95889f28252ef9f66b124f5ec",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_models.py": "b8ee1eebb91a0fdb87c504c3d7663c68184f52fba2cca4db2a353429d2e5e0d0",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_release.py": "e727eef0dec6e323a2bf979af6e1b80d3148123b9b43d66fcb3f9e91e17886f4"
+  },
+  "outputs": {
+    "B_TEST_all_batches.csv": "321a01105e6df3df00fd66bef4210ba87d8e9d6d3290d81424f61995d21c60ee",
+    "TEST_duplicate_audit.csv": "795997e29cebfb4e3d42eaafc273032045d69d0416b3b92768f3fda94a5c2fb8",
+    "TEST_group_coverage.csv": "fe00cb13739af1ccfab9a07dba44fe335bccb91b96b619c3c067ad0b778ce52a",
+    "cohort_memberships.csv": "11e4a8b0c88fd900c7b8ee213ba20c3e20d653a35efb678f21078a03645bf572",
+    "descriptive_groups.csv": "934c50bba21614b9d81abbdb4a3a3c7c850dfa066a8dee098b8f77253c82d9b8",
+    "paired_agreement.svg": "6629901dd0a2a0f1b4664c1bb2a38288c89afc05f7b0b015f8a9d8138d1729e2",
+    "paired_group_summary.csv": "e9306e95700b29ee9beb4d80338b627563bc1f42707a65272dfa73abbe3e4087",
+    "paired_lineage_group_similarity.csv": "def910ebc8a343df485ef99f67a3866669eebefaca2d29140f92dfd86f429bd4",
+    "reproduction/evidence_comparison.py": "b40318ce17584cbb45b73741a273a9fef7c3ebf95889f28252ef9f66b124f5ec",
+    "reproduction/evidence_models.py": "b8ee1eebb91a0fdb87c504c3d7663c68184f52fba2cca4db2a353429d2e5e0d0",
+    "reproduction/evidence_release.py": "e727eef0dec6e323a2bf979af6e1b80d3148123b9b43d66fcb3f9e91e17886f4",
+    "residuals.svg": "0d1bff75afe4e557d5c3ee8d57efcf9b2862cbe818b35a570c8359208bd1fc64",
+    "summary.json": "6416b4a9604cb59fe788d6e3dce307773109cc802f2d3838034c5c38984b69eb",
+    "walkthrough.html": "e1a19025eb0e6b457beb210cf2ec76b8ec2409ce9d7e5ead2cb5b892570683a1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "NGSWKAQJJWESNS-ZZXKWVIFSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:42.383110+00:00",
+  "url": "/chemical/search/equal/NGSWKAQJJWESNS-ZZXKWVIFSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID30901076",
+        "dtxcid": "DTXCID00211210",
+        "casrn": "501-98-4",
+        "preferredName": "(2E)-3-(4-Hydroxyphenyl)-2-propenoic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)\\C=C\\C1=CC=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "NGSWKAQJJWESNS-ZZXKWVIFSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "WTDRDQBEARUVNC-LURJTMIESA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:20.376711+00:00",
+  "url": "/chemical/search/equal/WTDRDQBEARUVNC-LURJTMIESA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Levodopa",
+        "dtxsid": "DTXSID9023209",
+        "dtxcid": "DTXCID303209",
+        "casrn": "59-92-7",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC1=CC=C(O)C(O)=C1)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "WTDRDQBEARUVNC-LURJTMIESA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

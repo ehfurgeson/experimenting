@@ -1,0 +1,25 @@
+{
+  "search_term": "KMAKOBLIOCQGJP-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:51.206780+00:00",
+  "url": "/chemical/search/equal/KMAKOBLIOCQGJP-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Indole-3-carboxylic acid",
+        "dtxsid": "DTXSID50227886",
+        "dtxcid": "DTXCID00150377",
+        "casrn": "771-50-6",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CNC2=CC=CC=C12",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KMAKOBLIOCQGJP-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

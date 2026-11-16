@@ -1,0 +1,16 @@
+{
+  "query": "L-Asparagine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Asparagine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:07:52.253163+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6267,
+          "SMILES": "C([C@@H](C(=O)O)N)C(=O)N",
+          "InChIKey": "DCXYFEDJOCDNAF-REOHCLBHSA-N"
+        }
+      ]
+    }
+  }
+}

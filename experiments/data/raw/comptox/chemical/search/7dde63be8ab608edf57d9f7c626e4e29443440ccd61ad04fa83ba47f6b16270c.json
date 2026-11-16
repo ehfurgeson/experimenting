@@ -1,0 +1,25 @@
+{
+  "search_term": "Oleuropein",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:48.215155+00:00",
+  "url": "/chemical/search/equal/Oleuropein",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Oleuropein",
+        "dtxsid": "DTXSID60905103",
+        "dtxcid": "DTXCID401334206",
+        "casrn": "32619-42-4",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@@]1(O[C@@H]2OC=C([C@@H](CC(=O)OCCC3=CC(O)=C(O)C=C3)\\C2=C/C)C(=O)OC)O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Oleuropein",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

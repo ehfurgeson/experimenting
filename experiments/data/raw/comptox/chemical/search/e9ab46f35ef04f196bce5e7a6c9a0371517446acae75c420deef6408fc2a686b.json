@@ -1,0 +1,25 @@
+{
+  "search_term": "Sorgoleone",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:31.390418+00:00",
+  "url": "/chemical/search/equal/Sorgoleone",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID901035221",
+        "dtxcid": "DTXCID601519658",
+        "casrn": "105018-76-6",
+        "preferredName": "(Z,Z)-2-Hydroxy-5-methoxy-3-(8,11,14-pentadecatrienyl)-2,5-cyclohexadiene-1,4-dione",
+        "hasStructureImage": 1,
+        "smiles": "CC\\C=C\\C(CC\\C=C/C\\C=C/CC(C)C1=C(O)C(=O)C=CC1=O)OC",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Sorgoleone",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

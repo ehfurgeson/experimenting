@@ -1,0 +1,452 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 1742210,
+    "RecordTitle": "Caryophyllene oxide",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134981137"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "FOURNIER G ET AL; TOXIC EFFECTS OF THE ESSENTIAL OIL OF CANNABIS SATIVA L AND ITS MAIN CONSTITUENTS ON PLANARIA (DUGESIA TIGRINA) TOXICOL EUR RES 1(6) 385 (1978)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "FOURNIER G ET AL; TOXIC EFFECTS OF THE ESSENTIAL OIL OF CANNABIS SATIVA L AND ITS MAIN CONSTITUENTS ON PLANARIA (DUGESIA TIGRINA) TOXICOL EUR RES 1(6) 385 (1978)",
+                        "Matched": {
+                          "PCLID": 900055096,
+                          "Citation": "FOURNIER G ET AL; TOXIC EFFECTS OF THE ESSENTIAL OIL OF CANNABIS SATIVA L AND ITS MAIN CONSTITUENTS ON PLANARIA (DUGESIA TIGRINA) TOXICOL EUR RES 1(6) 385 (1978)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "48-HR LD50 VALUES DETERMINED IN ESSENTIAL OILS REVEALED 0.20 FOR BETA-CARYOPHYLLENE EPOXIDE. THE VALUES EXPRESSED IN ML OF THE ORIGINAL 0.1% SOLN OF THE ACTIVE INGREDIENTS PLACED IN CHLOROFORM. SEROTONIN FAILED TO ALLEVIATE THE HIGH TOXICITY OF BETA-CARYOPHYLLENE. LD50 OF SYNTHETIC BETA-CARYOPHYLLENE WAS 0.30 ML OF 0.1% CHLOROFORM SOLUTION, INDICATING SOME DIFFERENCES BETWEEN THE NATURAL AND SYNTHETIC BETA-CARYOPHYLLENE.",
+                          "Markup": [
+                            {
+                              "Start": 65,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BETA-CARYOPHYLLENE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-20831623"
+                            },
+                            {
+                              "Start": 182,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CHLOROFORM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6212"
+                            },
+                            {
+                              "Start": 194,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SEROTONIN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5202"
+                            },
+                            {
+                              "Start": 245,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BETA-CARYOPHYLLENE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-20831623"
+                            },
+                            {
+                              "Start": 283,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BETA-CARYOPHYLLENE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-20831623"
+                            },
+                            {
+                              "Start": 322,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CHLOROFORM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6212"
+                            },
+                            {
+                              "Start": 405,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BETA-CARYOPHYLLENE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-20831623"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf",
+                        "Matched": {
+                          "PCLID": 906318732,
+                          "Citation": "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^1139-30-6$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "AGGARWAL SG ET AL; TERPENES AND COUMARINS FROM THE SEEDS OF PEUCEDANUM DHANA HAM SEEDS; INDIAN PERFUM 25(1) 123 (1981)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "AGGARWAL SG ET AL; TERPENES AND COUMARINS FROM THE SEEDS OF PEUCEDANUM DHANA HAM SEEDS; INDIAN PERFUM 25(1) 123 (1981)",
+                        "Matched": {
+                          "PCLID": 900114996,
+                          "Citation": "AGGARWAL SG ET AL; TERPENES AND COUMARINS FROM THE SEEDS OF PEUCEDANUM DHANA HAM SEEDS; INDIAN PERFUM 25(1) 123 (1981)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "BETA-CARYOPHYLLENE OXIDE WAS IDENTIFIED AS COMPONENTS IN THE ESSENTIAL OIL OBTAINED FROM PEUCEDANUM DHANA SEEDS.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BETA-CARYOPHYLLENE%20OXIDE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1742210"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "DE PASCUAL-T J ET AL; ESSENTIAL OIL OF ARTEMISA CAMPESTRIS, LINNAEUS, SUBSPECIES GLUTINOSA; RIV ITAL EPPOS 63(4) 205 1981)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "DE PASCUAL-T J ET AL; ESSENTIAL OIL OF ARTEMISA CAMPESTRIS, LINNAEUS, SUBSPECIES GLUTINOSA; RIV ITAL EPPOS 63(4) 205 1981)",
+                        "Matched": {
+                          "PCLID": 900117696,
+                          "Citation": "DE PASCUAL-T J ET AL; ESSENTIAL OIL OF ARTEMISA CAMPESTRIS, LINNAEUS, SUBSPECIES GLUTINOSA; RIV ITAL EPPOS 63(4) 205 1981)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ARTEMISA CAMPESTRIS OIL CONTAINS MONOTERPENES, SESQUITERPENES, & OXIDES, WITH AR-CURCUMENE AND CARYOPHYLLENE OXIDE AS MAIN COMPONENTS.",
+                          "Markup": [
+                            {
+                              "Start": 78,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/AR-CURCUMENE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            },
+                            {
+                              "Start": 95,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CARYOPHYLLENE%20OXIDE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1742210"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "DE PASCUAL-T J ET AL; COMPONENTS OF CHRYSANTHEMUM INDICUM, LINNAEUS (VAR CULT); RIV ITAL EPPOS 62(5) 236 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "DE PASCUAL-T J ET AL; COMPONENTS OF CHRYSANTHEMUM INDICUM, LINNAEUS (VAR CULT); RIV ITAL EPPOS 62(5) 236 (1980)",
+                        "Matched": {
+                          "PCLID": 900005045,
+                          "Citation": "DE PASCUAL-T J ET AL; COMPONENTS OF CHRYSANTHEMUM INDICUM, LINNAEUS (VAR CULT); RIV ITAL EPPOS 62(5) 236 (1980)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "THE ESSENTIAL OIL & THE NONVOLATILE FRACTION FROM THE HEXANE EXTRACTION OF CHRYSANTHEMUM INDICUM AERIAL PARTS WERE ANALYZED AND FOUND TO INCLUDE BETA-CARYOPHYLLENE OXIDE AS ONE OF THE PRIMARY COMPONENTS.",
+                          "Markup": [
+                            {
+                              "Start": 54,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/HEXANE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-8058"
+                            },
+                            {
+                              "Start": 145,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BETA-CARYOPHYLLENE%20OXIDE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1742210"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "DINGA A ET AL; PRELIMINARY STUDY OF AFRICAN LABIATES. I. COMPARATIVE ANALYSIS OF ESSENTIAL OILS OF LEOCUS AFRICANUS AND ALVESIA ROSMARINIFOLIA; HERBA HUNG 19(1) 139 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "DINGA A ET AL; PRELIMINARY STUDY OF AFRICAN LABIATES. I. COMPARATIVE ANALYSIS OF ESSENTIAL OILS OF LEOCUS AFRICANUS AND ALVESIA ROSMARINIFOLIA; HERBA HUNG 19(1) 139 (1980)",
+                        "Matched": {
+                          "PCLID": 900080135,
+                          "Citation": "DINGA A ET AL; PRELIMINARY STUDY OF AFRICAN LABIATES. I. COMPARATIVE ANALYSIS OF ESSENTIAL OILS OF LEOCUS AFRICANUS AND ALVESIA ROSMARINIFOLIA; HERBA HUNG 19(1) 139 (1980)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "BETA-CARYOPHYLLENE AND CARYOPHYLLENE EPOXIDE WERE PRESENT IN THE OILS OF BOTH LEOCUS AFRICANUS AND ALVESIA ROSMARINIFOLIA PLANTS.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/BETA-CARYOPHYLLENE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-20831623"
+                            },
+                            {
+                              "Start": 23,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CARYOPHYLLENE%20EPOXIDE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 26,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Natural Pollution Sources (Complete) data for (-)-BETA-CARYOPHYLLENE EPOXIDE (33 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 115,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/5466#section=Natural-Pollution-Sources-(Complete)"
+                            },
+                            {
+                              "Start": 55,
+                              "Length": 30,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/%28-%29-BETA-CARYOPHYLLENE%20EPOXIDE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1742210"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^1R,4R,6R,10S-betacaryophyllene epoxide$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^1R,4R,6R,10S-betacaryophyllene epoxide$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^1R,4R,6R,10S-betacaryophyllene epoxide$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134981137",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0001139306",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19469830
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "bb6ce7cae8a6e79f8494739d500ad74d",
+        "Name": "1R,4R,6R,10S-betacaryophyllene epoxide",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49734092
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID4051586",
+        "Name": "(-)Carophyllene oxide",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57015407
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "5466",
+        "Name": "(-)-BETA-CARYOPHYLLENE EPOXIDE",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/5466",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 3525
+      },
+      {
+        "ReferenceNumber": 51,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "3611598862",
+        "Name": "Caryophyllene oxide",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49292228
+      }
+    ]
+  }
+}

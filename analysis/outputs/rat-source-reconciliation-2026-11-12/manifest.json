@@ -1,0 +1,86 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-identities-approved-2026-11-11/approved_crosswalk.csv": "e943006a6fa86fec06d586fa13b7ccdcba746e137c7716ecf30f61b929327ca9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json": "ce55d0efcfe8b3893025d6156313d0dc000be6f995e625e841fea82bb869fb39",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/manifest.json": "fd2248e11af947fd90ed0f39bf8b459d4b75bb10afc0938f3066fd23189cb2ac",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/curation-v1/duplicate_decisions.csv": "1c6c3157e36f643b12c46985e1331d82f71aac198204ab9deda9987ba8311b25"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_report.py": "da72ca26118ded379cc2b4b7737ca33fa8efe3d0afd97481415276afc0514a0b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_toxicity.py": "e5a305e86dba1d5b73aa0595f46fdd58c8625af495cda3a0f1444ab278898ca4"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/rat-source-reconciliation-2026-11-12/aquatic_exposure_strata.csv": "01a960af1335235b58e5449baf5b4c9776dcd7ebc949ec59d6ed4ec9cec8915d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/rat-source-reconciliation-2026-11-12/aquatic_policy_summary.csv": "0aac35b5b54ede314b1bf52943446627379e68ea06ac4ddee9dacd109eb4b326",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/rat-source-reconciliation-2026-11-12/censored_bins.csv": "3f919c6b8f8eda69a361185bc527b5966a4f32f13ac7ec616d952736ea754a01",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/rat-source-reconciliation-2026-11-12/context_missingness.csv": "6d9fa8a0b8b06866f3ec788b74c2d806e35a751399f383857067b5ff2cb7d193",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/rat-source-reconciliation-2026-11-12/missingness.svg": "407da521600054aa56c65ee14f7b391f8ccf87c2f6f7dd98192f8d0b8d8b0f20",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/rat-source-reconciliation-2026-11-12/sensitivity_compounds.csv": "8b0d0b2e2fe3fc0930a73620f71afc444ae6045a64abee6e98c31d4ed249497a",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/rat-source-reconciliation-2026-11-12/study_overlap_review.csv": "0c0d60f8e6aa8a2ee9beaf67f4e55e8c3f4c1167e950a8f166d305d8daa9cd0d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/rat-source-reconciliation-2026-11-12/study_values.svg": "4c43ad7fc4e2fe782a7ea8f6af09ad017b1dda0bde9d0f5791274afb05917ae7"
+  },
+  "scenarios": [
+    {
+      "scenario": "historical_exact",
+      "exact_records": 43,
+      "compounds": 34,
+      "fixed_cutoffs": [
+        1080.0,
+        3400.0
+      ],
+      "cohort_tertiles": [
+        1080.0,
+        3400.0
+      ],
+      "status": "descriptive"
+    },
+    {
+      "scenario": "reviewed_duplicate_decisions",
+      "exact_records": 43,
+      "compounds": 34,
+      "fixed_cutoffs": [
+        1080.0,
+        3400.0
+      ],
+      "cohort_tertiles": [
+        1080.0,
+        3400.0
+      ],
+      "status": "descriptive"
+    },
+    {
+      "scenario": "exclude_unresolved_overlap_candidates",
+      "exact_records": 43,
+      "compounds": 34,
+      "fixed_cutoffs": [
+        1080.0,
+        3400.0
+      ],
+      "cohort_tertiles": [
+        1080.0,
+        3400.0
+      ],
+      "status": "descriptive"
+    },
+    {
+      "scenario": "documented_context_only",
+      "exact_records": 0,
+      "compounds": 0,
+      "fixed_cutoffs": [
+        1080.0,
+        3400.0
+      ],
+      "cohort_tertiles": [],
+      "status": "insufficient_documented_context"
+    }
+  ],
+  "overlap_pairs": 18992,
+  "documented_duplicate_exclusions": [],
+  "censored_observations": 25,
+  "approved_ecotox_identities": 103,
+  "limits": "Overlap is a review lead, not duplicate proof. No automatic merging. Rat oral cutoffs stay frozen; new-cohort tertiles are separate. Aquatic context eligibility is not canonical identity approval or a safety claim."
+}

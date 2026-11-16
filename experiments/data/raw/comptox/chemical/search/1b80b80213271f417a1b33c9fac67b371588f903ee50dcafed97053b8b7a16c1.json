@@ -1,0 +1,25 @@
+{
+  "search_term": "Salicylic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:01.742615+00:00",
+  "url": "/chemical/search/equal/Salicylic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7026368",
+        "dtxcid": "DTXCID206368",
+        "casrn": "69-72-7",
+        "preferredName": "Salicylic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=C(O)C=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Salicylic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

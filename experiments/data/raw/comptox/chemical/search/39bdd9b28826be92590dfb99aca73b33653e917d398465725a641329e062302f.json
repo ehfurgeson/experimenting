@@ -1,0 +1,25 @@
+{
+  "search_term": "Pyrithiobac",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:39.052271+00:00",
+  "url": "/chemical/search/equal/Pyrithiobac",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Pyrithiobac",
+        "dtxsid": "DTXSID3037703",
+        "dtxcid": "DTXCID1017703",
+        "casrn": "123342-93-8",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(OC)=NC(SC2=C(C(O)=O)C(Cl)=CC=C2)=N1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Pyrithiobac",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

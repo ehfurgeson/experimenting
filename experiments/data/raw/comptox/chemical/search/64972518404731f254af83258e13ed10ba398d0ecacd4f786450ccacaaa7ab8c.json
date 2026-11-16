@@ -1,0 +1,25 @@
+{
+  "search_term": "Butachlor",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:22.934468+00:00",
+  "url": "/chemical/search/equal/Butachlor",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3034402",
+        "dtxcid": "DTXCID1014402",
+        "casrn": "23184-66-9",
+        "preferredName": "Butachlor",
+        "hasStructureImage": 1,
+        "smiles": "CCCCOCN(C(=O)CCl)C1=C(CC)C=CC=C1CC",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Butachlor",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Eugenol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:22.221880+00:00",
+  "url": "/chemical/search/equal/Eugenol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Eugenol",
+        "dtxsid": "DTXSID9020617",
+        "dtxcid": "DTXCID90617",
+        "casrn": "97-53-0",
+        "hasStructureImage": 1,
+        "smiles": "COC1=C(O)C=CC(CC=C)=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Eugenol",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

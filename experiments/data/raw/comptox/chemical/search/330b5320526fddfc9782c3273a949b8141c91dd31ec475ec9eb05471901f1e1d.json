@@ -1,0 +1,25 @@
+{
+  "search_term": "Methyl Vanillate",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:07.955213+00:00",
+  "url": "/chemical/search/equal/Methyl Vanillate",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5074345",
+        "dtxcid": "DTXCID6039631",
+        "casrn": "3943-74-6",
+        "preferredName": "Benzoic acid, 4-hydroxy-3-methoxy-, methyl ester",
+        "hasStructureImage": 1,
+        "smiles": "COC(=O)C1=CC(OC)=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "methyl vanillate",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

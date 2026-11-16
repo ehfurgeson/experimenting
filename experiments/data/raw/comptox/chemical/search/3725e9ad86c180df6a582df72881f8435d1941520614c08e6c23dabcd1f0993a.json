@@ -1,0 +1,25 @@
+{
+  "search_term": "Calycopterin",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:46.477762+00:00",
+  "url": "/chemical/search/equal/Calycopterin",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID401317858",
+        "dtxcid": "DTXCID001747655",
+        "casrn": "481-52-7",
+        "preferredName": "Calycopterin",
+        "hasStructureImage": 1,
+        "smiles": "COC1=C(OC)C(OC)=C2OC(=C(OC)C(=O)C2=C1O)C1=CC=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Calycopterin",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

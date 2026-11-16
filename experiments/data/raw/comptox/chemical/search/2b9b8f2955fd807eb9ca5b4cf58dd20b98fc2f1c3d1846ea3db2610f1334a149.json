@@ -1,0 +1,25 @@
+{
+  "search_term": "Emodin",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:38.261296+00:00",
+  "url": "/chemical/search/equal/Emodin",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5025231",
+        "dtxcid": "DTXCID205231",
+        "casrn": "518-82-1",
+        "preferredName": "Emodin",
+        "hasStructureImage": 1,
+        "smiles": "CC1=CC(O)=C2C(=O)C3=C(O)C=C(O)C=C3C(=O)C2=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Emodin",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

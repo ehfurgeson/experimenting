@@ -1,0 +1,102 @@
+{
+  "aeid": 1508,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:42:36.355534+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/1508",
+  "status": 200,
+  "response": {
+    "aeid": 1508,
+    "assayList": [
+      {
+        "name": "Thyroid Bioactivity",
+        "description": "Assays related to the thyroid adverse outcome pathway network"
+      }
+    ],
+    "assayName": "CCTE_Simmons_AUR_rTPO",
+    "assayComponentName": "CCTE_Simmons_AUR_rTPO",
+    "assayComponentEndpointName": "CCTE_Simmons_AUR_rTPO",
+    "assayComponentEndpointDesc": "Data from the assay component CCTE_Simmons_AUR_rTPO was analyzed at the endpoint, CCTE_Simmons_AUR_rTPO, in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of enzyme reporter, the Amplex UltraRed assay, loss-of-signal activity can be used to understand decreased peroxidase activity in the presence of excess hydrogen peroxidase. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the oxidoreductase intended target family, where the subfamily is peroxidase.",
+    "assayFunctionType": "binding",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "methimazole (MMI)",
+    "signalDirection": "loss",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "enzyme",
+    "intendedTargetFamily": "oxidoreductase",
+    "intendedTargetFamilySub": "peroxidase",
+    "cellViabilityAssay": 0,
+    "acid": 963,
+    "assayComponentDesc": "CCTE_Simmons_AUR_rTPO is the assay component measured from the CCTE_Simmons_AUR_rTPO assay. It is designed to make measurements of thyroperoxidase (TPO) activity as detected with fluorescence intensity signals using the Amplex UltraRed technology as a form of enzyme activity reporter.",
+    "assayComponentTargetDesc": "Inhibition of TPO is a well-characterized MIE for adverse thyroid-mediated outcomes. TPO catalyzes iodine oxidation in the presence of hydrogen peroxide, regulates nonspecific iodination of tyrosyl residues of thyroglobulin to form TH precursors, monoiodotyrosine (MIT), and diiodotyrosine (DIT), and modulates coupling of these iodotyrosyl residues. Changes in fluorescence are used to understand TPO inhibition. ",
+    "parameterReadoutType": "single",
+    "assayDesignType": "enzyme reporter",
+    "assayDesignTypeSub": "enzyme activity",
+    "biologicalProcessTarget": "regulation of catalytic activity",
+    "detectionTechnologyType": "fluorescence",
+    "detectionTechnologyTypeSub": "fluorescence intensity",
+    "detectionTechnology": "Fluorescence and electrophoretic mobility shift",
+    "keyAssayReagentType": "substrate",
+    "keyAssayReagent": "substrate",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "enzyme",
+    "aid": 411,
+    "assayDesc": "CCTE_Simmons_AUR_rTPO is a biochemical, single-readout assay that uses microsomes from rat thyroid gland in a tissue-based cell-free assay. Measurements were taken 0.5 hour after chemical dosing in a 384-well plate.",
+    "timepointHr": 0.5,
+    "organismId": 10116,
+    "organism": "rat",
+    "tissue": "thyroid gland",
+    "cellFormat": "tissue-based cell-free",
+    "cellFreeComponentSource": "thyroid gland",
+    "cellShortName": "NA",
+    "cellGrowthMode": "NA",
+    "assayFootprint": "microplate: 384-well plate",
+    "assayFormatType": "biochemical",
+    "assayFormatTypeSub": "protein single format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 1.2,
+    "asid": 19,
+    "assaySourceName": "CCTE_SIMMONS",
+    "assaySourceLongName": "CCTE Simmons Lab",
+    "assaySourceDesc": "The Simmons laboratory at the EPA Center for Computational Toxicology and Exposure focuses on developing in vitro methods investigating estrogen bioactivity, mitochondrial toxicity, and thyroid hormone disruption.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "thyroid peroxidase",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 54314,
+        "officialSymbol": "Tpo",
+        "officialFullName": "thyroid peroxidase",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1021/tx400310w",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/24383450",
+        "pmid": 24383450,
+        "title": "Development of a thyroperoxidase inhibition assay for high-throughput screening",
+        "author": "Paul KB, Hedge JM, Rotroff DM, Hornung MW, Crofton KM, Simmons SO",
+        "citation": "Paul KB, Hedge JM, Rotroff DM, Hornung MW, Crofton KM, Simmons SO. Development of a thyroperoxidase inhibition assay for high-throughput screening. Chem Res Toxicol. 2014 Mar 17;27(3):387-99. doi: 10.1021/tx400310w. Epub 2014 Jan 14. PubMed PMID: 24383450.",
+        "otherId": "NA",
+        "citationId": 218,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1093/toxsci/kfw034",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26884060/",
+        "pmid": 26884060,
+        "title": "Tiered High-Throughput Screening Approach to Identify Thyroperoxidase Inhibitors Within the ToxCast Phase I and II Chemical Libraries",
+        "author": "Paul Friedman K, Watt ED, Hornung MW, Hedge JM, Judson RS, Crofton KM, Houck KA, Simmons SO",
+        "citation": "Paul Friedman K, Watt ED, Hornung MW, Hedge JM, Judson RS, Crofton KM, Houck KA, Simmons SO. Tiered High-Throughput Screening Approach to Identify Thyroperoxidase Inhibitors Within the ToxCast Phase I and II Chemical Libraries. Toxicol Sci. 2016 May;151(1):160-80. doi: 10.1093/toxsci/kfw034. Epub 2016 Feb 15. PMID: 26884060; PMCID: PMC4914804.",
+        "otherId": "NA",
+        "citationId": 244,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

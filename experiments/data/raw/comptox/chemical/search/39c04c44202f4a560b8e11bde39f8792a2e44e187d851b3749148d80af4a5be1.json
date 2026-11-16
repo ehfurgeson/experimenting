@@ -1,0 +1,25 @@
+{
+  "search_term": "Syringic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:53.034094+00:00",
+  "url": "/chemical/search/equal/Syringic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Syringic acid",
+        "dtxsid": "DTXSID0060191",
+        "dtxcid": "DTXCID2041337",
+        "casrn": "530-57-4",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(=CC(OC)=C1O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Syringic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

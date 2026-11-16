@@ -1,0 +1,16 @@
+{
+  "query": "Sorbitol",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sorbitol/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:06.946783+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 5780,
+          "SMILES": "C([C@H]([C@H]([C@@H]([C@H](CO)O)O)O)O)O",
+          "InChIKey": "FBPFZTCFMRRESA-JGWLITMVSA-N"
+        }
+      ]
+    }
+  }
+}

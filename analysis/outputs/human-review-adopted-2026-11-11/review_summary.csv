@@ -1,0 +1,10 @@
+metric,value,qualification,_xlsx_row
+Number of reviewed compound-axis rows,32,15 origin + 17 activity,2
+AI evidence-approved origin,15,Natural exact structure; human chemistry signoff pending,3
+AI evidence-approved activity,5,Kobayashi 1998 published reagent-screen category only,4
+Unknown activity rows,12,"Product identity, control, rule, site or dose unresolved",5
+Validated low_response rows,0,No defined equivalence margin or confidence-bound policy,6
+Activity condition records,119,8 K1998; 9 M2020; 100 T2024; 2 D2015,7
+Raw frozen original supplied?,NO,Previous manifest contains original hash; source bytes absent,8
+Human scientific approvals,0,"None performed, AI literature review only",9
+Training-data changes,0,None performed,10

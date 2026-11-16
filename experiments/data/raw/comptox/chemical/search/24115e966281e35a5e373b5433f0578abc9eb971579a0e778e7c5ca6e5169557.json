@@ -1,0 +1,25 @@
+{
+  "search_term": "Syringin",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:34.078107+00:00",
+  "url": "/chemical/search/equal/Syringin",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Syringin",
+        "dtxsid": "DTXSID2042438",
+        "dtxcid": "DTXCID0022438",
+        "casrn": "118-34-3",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(\\C=C\\CO)=CC(OC)=C1O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Syringin",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

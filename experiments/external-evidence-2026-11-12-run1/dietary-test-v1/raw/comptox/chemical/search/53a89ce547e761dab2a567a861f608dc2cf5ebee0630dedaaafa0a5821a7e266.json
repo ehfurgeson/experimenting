@@ -1,0 +1,25 @@
+{
+  "search_term": "QIVBCDIJIAJPQS-VIFPVBQESA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:48.380730+00:00",
+  "url": "/chemical/search/equal/QIVBCDIJIAJPQS-VIFPVBQESA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5021419",
+        "dtxcid": "DTXCID801419",
+        "casrn": "73-22-3",
+        "preferredName": "L-Tryptophan",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC1=CNC2=CC=CC=C12)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "QIVBCDIJIAJPQS-VIFPVBQESA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

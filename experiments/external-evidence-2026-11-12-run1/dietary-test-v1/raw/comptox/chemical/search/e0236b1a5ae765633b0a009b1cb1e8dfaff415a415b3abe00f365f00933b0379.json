@@ -1,0 +1,25 @@
+{
+  "search_term": "FBPFZTCFMRRESA-JGWLITMVSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:09.951472+00:00",
+  "url": "/chemical/search/equal/FBPFZTCFMRRESA-JGWLITMVSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5023588",
+        "dtxcid": "DTXCID903588",
+        "casrn": "50-70-4",
+        "preferredName": "D-Glucitol",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "FBPFZTCFMRRESA-JGWLITMVSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

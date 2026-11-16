@@ -1,0 +1,102 @@
+{
+  "aeid": 3210,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:28:54.451454+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/3210",
+  "status": 200,
+  "response": {
+    "aeid": 3210,
+    "assayList": [
+      {
+        "name": "Cardiotoxicity",
+        "description": "Assays associated with cardiotoxicity"
+      }
+    ],
+    "assayName": "TOX21_hERG_U2OS_Antagonist",
+    "assayComponentName": "TOX21_hERG_U2OS_Antagonist",
+    "assayComponentEndpointName": "TOX21_hERG_U2OS_Antagonist",
+    "assayComponentEndpointDesc": "Data from the assay component TOX21_hERG_U2OS_Antagonist was analyzed into 1 assay endpoint. This assay endpoint, TOX21_hERG_U2OS_Antagonist, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of inducible reporter, loss-of-signal activity can be used to understand changes in binding. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the ion channel intended target family, where the subfamily is potassium channel.",
+    "assayFunctionType": "binding",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "Astemizole",
+    "signalDirection": "loss",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "transporter",
+    "intendedTargetFamily": "ion channel",
+    "intendedTargetFamilySub": "voltage gated (potassium)",
+    "cellViabilityAssay": 0,
+    "acid": 2939,
+    "assayComponentDesc": "TOX21_hERG_U2OS_Antagonist is an assay readout measured from the TOX21_hERG_U2OS_Antagonist assay. It is designed to make measurements of hERG ion channel inhibition, a form of functional reporter, as detected with fluorescence signals.",
+    "assayComponentTargetDesc": "A cell-based hERG channel inhibition assay can be used to screen chemical compounds that inhibit hERG channel. This assay measures hERG channel activity using thallium ions as surrogate ions to measure potassium into the cells.",
+    "parameterReadoutType": "single",
+    "assayDesignType": "functional reporter",
+    "assayDesignTypeSub": "ion channel",
+    "biologicalProcessTarget": "ion channel kinetics",
+    "detectionTechnologyType": "fluorescence",
+    "detectionTechnologyTypeSub": "fluorescence intensity",
+    "detectionTechnology": "FluxOR II Potassium Ion Channel Assay",
+    "keyAssayReagentType": "dye",
+    "keyAssayReagent": "thallium-sensitive fluorogenic indicator dye",
+    "technologicalTargetType": "chemical",
+    "technologicalTargetTypeSub": "intracellular thallium",
+    "aid": 910,
+    "assayDesc": "TOX21_hERG_U2OS_Antagonist is a cell-based, single-readout assay that uses U2OS, a human osteosarcoma cell line, to measure inhibition of hERG channel activity by continuously measuring fluorescence intensity once per second for two minutes, taken 10 minutes after chemical dosing in a 1536-well plate. See tox21-herg-u2os-p1.",
+    "timepointHr": 0.17,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "bone",
+    "cellFormat": "cell line",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "U2OS",
+    "cellGrowthMode": "suspension",
+    "assayFootprint": "microplate: 1536-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "cell-based format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": null,
+    "asid": 7,
+    "assaySourceName": "TOX21",
+    "assaySourceLongName": "Toxicology in the 21st Century federal research collaboration",
+    "assaySourceDesc": "The Toxicology in the 21st Century (Tox21) program aims to develop better toxicity assessment methods to quickly and efficiently test whether certain chemical compounds have the potential to disrupt processes in the human body that may lead to negative health effects. The Tox21 consortium is a federal collaboration between EPA, the National Toxicology Program (NTP) headquartered at the National Institute of Environmental Health Sciences (NIEHS), the National Center for Advancing Translational Sciences (NCATS) and the Food and Drug Administration (FDA). The NIH Chemical Genomics Center (NCGC) is the primary screening facility running ultra high-throughput screening assays across a large interagency-developed chemical library, often referred to as the Tox21 10K Library.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "potassium voltage-gated channel subfamily H member 2",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 3757,
+        "officialSymbol": "KCNH2",
+        "officialFullName": "potassium voltage-gated channel subfamily H member 2",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.3390/biology11020209.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35205076/",
+        "pmid": 35205076,
+        "title": "High-Throughput Chemical Screening and Structure-Based Models to Predict hERG Inhibition.",
+        "author": "Krishna, S., Borrel, A., Huang, R., Zhao, J., Xia, M., & Kleinstreuer, N.",
+        "citation": "Krishna, S., Borrel, A., Huang, R., Zhao, J., Xia, M., & Kleinstreuer, N. (2022). High-Throughput Chemical Screening and Structure-Based Models to Predict hERG Inhibition. Biology, 11(2), 209. https://doi.org/10.3390/biology11020209",
+        "otherId": "NA",
+        "citationId": 298,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1007/978-1-0716-2213-1_3.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35294752/",
+        "pmid": 35294752,
+        "title": "Cell-based hERG Channel Inhibition Assay in High-throughput Format",
+        "author": "Zhao, J., & Xia, M.",
+        "citation": "Zhao, J., & Xia, M. (2022). Cell-Based hERG Channel Inhibition Assay in High-Throughput Format. Methods in molecular biology (Clifton, N.J.), 2474, 21-28. https://doi.org/10.1007/978-1-0716-2213-1_3",
+        "otherId": "NA",
+        "citationId": 299,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

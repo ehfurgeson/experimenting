@@ -1,0 +1,25 @@
+{
+  "search_term": "Dactylorhin A",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:36.643812+00:00",
+  "url": "/chemical/search/equal/Dactylorhin A",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Dactylorhin A",
+        "dtxsid": "DTXSID801346255",
+        "dtxcid": "DTXCID601774921",
+        "casrn": "256459-34-4",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@]1(CO)O[C@@]([H])(OC2=CC=C(COC(=O)CC(CC(C)C)(O[C@]3([H])O[C@]([H])(CO)[C@@H](O)[C@H](O)[C@H]3O)C(=O)OCC3=CC=C(O[C@]4([H])O[C@]([H])(CO)[C@@H](O)[C@H](O)[C@H]4O)C=C3)C=C2)[C@H](O)[C@@H](O)[C@@H]1O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Dactylorhin A",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

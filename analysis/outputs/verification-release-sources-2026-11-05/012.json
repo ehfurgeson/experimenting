@@ -1,0 +1,11 @@
+{
+  "key": "reference:CHEMBL522808",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5281387/property/IsomericSMILES,InChIKey/JSON",
+  "kind": "pubchem_json",
+  "reference_url": "https://pubchem.ncbi.nlm.nih.gov/compound/5281387",
+  "retrieved_at": "2026-11-05T19:14:24.758969+00:00",
+  "status": 200,
+  "body": "{\n  \"PropertyTable\": {\n    \"Properties\": [\n      {\n        \"CID\": 5281387,\n        \"SMILES\": \"C[C@H]1C[C@@H](O[C@@]12CC[C@]3([C@H]2C/C=C(\\\\[C@@H]4[C@H](C3)[C@](CC4=O)(C)O)/C=O)C)C=C(C)C\",\n        \"InChIKey\": \"MWYYLZRWWNBROW-BDZRSQQBSA-N\"\n      }\n    ]\n  }\n}\n",
+  "error": null,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5281387/property/IsomericSMILES,InChIKey/JSON"
+}

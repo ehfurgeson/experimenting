@@ -1,0 +1,25 @@
+{
+  "search_term": "DCXYFEDJOCDNAF-REOHCLBHSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:15.544512+00:00",
+  "url": "/chemical/search/equal/DCXYFEDJOCDNAF-REOHCLBHSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID10883220",
+        "dtxcid": "DTXCID901022769",
+        "casrn": "70-47-3",
+        "preferredName": "L-Asparagine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC(N)=O)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "DCXYFEDJOCDNAF-REOHCLBHSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

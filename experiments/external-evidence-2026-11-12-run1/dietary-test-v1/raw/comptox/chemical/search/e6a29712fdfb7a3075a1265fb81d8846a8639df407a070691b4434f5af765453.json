@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Lysine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:34.240950+00:00",
+  "url": "/chemical/search/equal/L-Lysine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6023232",
+        "dtxcid": "DTXCID403232",
+        "casrn": "56-87-1",
+        "preferredName": "L-​Lysine",
+        "hasStructureImage": 1,
+        "smiles": "NCCCC[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Systematic Name",
+        "searchValue": "L-Lysine",
+        "rank": 12
+      }
+    ],
+    "suggestions": []
+  }
+}

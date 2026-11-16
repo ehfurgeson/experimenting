@@ -1,0 +1,25 @@
+{
+  "search_term": "Tembotrione",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:08.904466+00:00",
+  "url": "/chemical/search/equal/Tembotrione",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5047037",
+        "dtxcid": "DTXCID3027037",
+        "casrn": "335104-84-2",
+        "preferredName": "Tembotrione",
+        "hasStructureImage": 1,
+        "smiles": "CS(=O)(=O)C1=C(COCC(F)(F)F)C(Cl)=C(C=C1)C(=O)C1C(=O)CCCC1=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Tembotrione",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

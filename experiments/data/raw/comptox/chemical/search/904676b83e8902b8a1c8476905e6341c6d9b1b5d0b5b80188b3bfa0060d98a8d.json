@@ -1,0 +1,25 @@
+{
+  "search_term": "YWBVHLJPRPCRSD-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:52.186232+00:00",
+  "url": "/chemical/search/equal/YWBVHLJPRPCRSD-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8024107",
+        "dtxcid": "DTXCID404107",
+        "casrn": "59756-60-4",
+        "preferredName": "1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4-pyridone",
+        "hasStructureImage": 1,
+        "smiles": "CN1C=C(C(=O)C(=C1)C1=CC(=CC=C1)C(F)(F)F)C1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "YWBVHLJPRPCRSD-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

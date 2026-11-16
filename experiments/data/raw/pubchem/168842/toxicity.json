@@ -1,0 +1,3280 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 168842,
+    "RecordTitle": "Endothall",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=155",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Endothall"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Critical Effect Systems",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gastrointestinal"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Reference Dose (RfD), chronic",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2 x 10 ^-2 mg/kg-day"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Gastrointestinal"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Toxicity Link",
+                "Description": "This section provides the link to the aquatic acute toxicity test results, available at the Acute Toxicity Database at the U.S. Geological Survey (USGS) Columbia Environmental Research Center (CERC).",
+                "URL": "https://www.cerc.usgs.gov/data/acute/acute.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 34,
+                    "URL": "https://www.cerc.usgs.gov/data/acute/qryboth.asp?Chemical=ENDOTHALL",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: ENDOTHALL"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 35,
+                    "URL": "https://www.cerc.usgs.gov/data/acute/qryboth.asp?Chemical=ENDOTHALL%20AQUATHOL%20K",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: ENDOTHALL AQUATHOL K",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ENDOTHALL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 20,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/AQUATHOL%20K",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-76963026"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 36,
+                    "URL": "https://www.cerc.usgs.gov/data/acute/qryboth.asp?Chemical=ENDOTHALL%20HYDROTHOL%20191",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: ENDOTHALL HYDROTHOL 191",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ENDOTHALL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 20,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/HYDROTHOL%20191",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-44148186"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        },
+                        {
+                          "String": "Skin Sensitizer - An agent that can induce an allergic reaction in the skin."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134974607"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135124717"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Acceptable Daily Intakes",
+                    "Description": "An estimate of the amount of a chemical in food or drinking water that can be consumed daily over a lifetime without presenting an appreciable risk to health. It is usually expressed as milligrams of the substance per kilogram of body weight per day and applies to chemicals such as food additives, pesticide residues and veterinary drugs.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 24,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "USEPA/OPP; Health Effects Div RfD/ADI Tracking Report p.25 (8/26/91)"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "USEPA/OPP; Health Effects Div RfD/ADI Tracking Report p.25 (8/26/91)",
+                            "Matched": {
+                              "PCLID": 900025771,
+                              "Citation": "USEPA/OPP; Health Effects Div RfD/ADI Tracking Report p.25 (8/26/91)"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP RfD= 0.02 mg/kg; EPA RfD= 0.02 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 33,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 33,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "IRIS Current"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 33,
+                        "Name": "Oral Subchronic Chronic Reference Dose (RfDos) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 33,
+                        "Name": "Oral Subchronic Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "HEAST Current"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Human Toxicity Values",
+                    "Description": "Quantitative human toxicity values (e.g., lethal dose) for this compound.",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 24,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "California Environmental Protection Agency; Public Health Goal for Endotall in Drinking Water, December 1997; Available from, as of March 13, 2014: https://oehha.ca.gov/water/phg/pdf/endo_c.pdf"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "California Environmental Protection Agency; Public Health Goal for Endotall in Drinking Water, December 1997; Available from, as of March 13, 2014: https://oehha.ca.gov/water/phg/pdf/endo_c.pdf",
+                            "Matched": {
+                              "PCLID": 900006272,
+                              "Citation": "California Environmental Protection Agency; Public Health Goal for Endotall in Drinking Water, December 1997; Available from, as of March 13, 2014: https://oehha.ca.gov/water/phg/pdf/endo_c.pdf"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "A male died after swallowing two mouthfuls of 175 g/L disodium endothall. This represents a dose of approximately 100 mg/kg.",
+                              "Markup": [
+                                {
+                                  "Start": 54,
+                                  "Length": 18,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/disodium%20endothall",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-44318676"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 24,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 209"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 209",
+                            "Matched": {
+                              "PCLID": 900120359,
+                              "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 209"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 38-51 mg/kg for acid (technical)"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 24,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 209"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 209",
+                            "Matched": {
+                              "PCLID": 900120359,
+                              "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 209"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 182-197 mg/kg /Sodium salt (19.2% solution)/",
+                              "Markup": [
+                                {
+                                  "Start": 29,
+                                  "Length": 6,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "Element-Sodium"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 24,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 209"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 209",
+                            "Matched": {
+                              "PCLID": 900120359,
+                              "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 209"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 206 mg/kg /Amine salt (66.7% formulation)/"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 24,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Cambridge, UK:  Royal Society of Chemistry, 2013., p. 659"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Cambridge, UK:  Royal Society of Chemistry, 2013., p. 659",
+                            "Matched": {
+                              "PCLID": 900101350,
+                              "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Cambridge, UK:  Royal Society of Chemistry, 2013., p. 659"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat (male) oral 57 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 24,
+                        "Description": "PEER REVIEWED",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "For more Non-Human Toxicity Values (Complete) data for ENDOTHALL (6 total), please visit the HSDB record page.",
+                              "Markup": [
+                                {
+                                  "Start": 93,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/391#section=Non-Human-Toxicity-Values-(Complete)"
+                                },
+                                {
+                                  "Start": 55,
+                                  "Length": 9,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ENDOTHALL",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-168842"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Medium-Specific Concentration",
+                    "Description": "Medium-specific concentration (MSC) is a chemical concentration in a specific medium (e.g., air, water, soil) that is considered to be safe for human health or the environment.  MSCs are used in risk assessments to evaluate potential risks from chemical exposures in different media.  The MSCs for a chemical can be derived from various sources, such as regulatory standards, toxicity data, and risk assessment models.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MSC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Other Toxicity Values",
+                    "Description": "Other toxicity values that are less commonly used in toxicological studies.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^Other$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gzhegotskii MT, Martynyuk VZ; Hyg Sanit (31 & 7-9): 225-9 (1966)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gzhegotskii MT, Martynyuk VZ; Hyg Sanit (31 & 7-9): 225-9 (1966)",
+                        "Matched": {
+                          "PCLID": 900003714,
+                          "Citation": "Gzhegotskii MT, Martynyuk VZ; Hyg Sanit (31 & 7-9): 225-9 (1966)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The combined preparation of endothall and isopropyl phenylcarbamate, Murbetol, is hundreds of times more herbicidal than either of the ingredients alone.",
+                          "Markup": [
+                            {
+                              "Start": 28,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 42,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 69,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Murbetol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24684"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Wilkemeyer MF et al; Alcohol Clin Exp Res 29 (5 Suppl): 89A (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Wilkemeyer MF et al; Alcohol Clin Exp Res 29 (5 Suppl): 89A (2005)",
+                        "Matched": {
+                          "PCLID": 900000876,
+                          "Citation": "Wilkemeyer MF et al; Alcohol Clin Exp Res 29 (5 Suppl): 89A (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cell adhesion and neurite outgrowth, mediated by the neural cell adhesion molecule L1, are inhibited in a dose-dependent manner by ethanol and other small alcohols. Ethanol inhibition of L1-mediated adhesion may contribute to the development of fetal alcohol syndrome. Although the pharmacology of ethanol inhibition of L1 adhesion is well characterized and antagonist molecules have been identified, the cellular mechanism underlying this phenomenon is unclear. The identification of ethanol-sensitive and insensitive cell lines derived from the same stable transfection of L1 suggests that additional cellular factors regulate the ethanol effect. Here we investigate the role of intracellular signaling molecules in ethanol inhibition of L1 adhesion. L1-mediated functions can be controlled by phosphorylation events and several kinases are known to phosphorylate L1, including casein kinase II (CK2), ERK 1/2 and p90rsk. Pharmacological inhibition of CK2 activity blocked ethanol inhibition of L1 adhesion in ethanol-sensitive NIH/3T3 cells stably expressing human L1 (2A2-L1) and in BMP-7 treated NG108 cells. However, ethanol had no direct effect on CK2 activity or subunit localization. We next asked what effect protein phosphatase inhibitors would have on ethanol sensitivity. Pretreating 2A2-L1 cells and BMP-7 treated NG108 cells with okadaic acid significantly reduced ethanol inhibition of L1 adhesion in a dose dependent manner (IC50 = 10 nM). Similar effects were seen with another phosphatase inhibitor, endothall. Neither of these drugs had any effect on L1 adhesion in. the absence of ethanol. The necessity of CK2 and phosphatase activity for ethanol sensitivity may be explained by the fact that phosphatase PP2A is activated by CK2. Thus, inhibiting CK2 could also reduce PP2A activity. The fact that ethanol has no direct effect on CK2 activity supports the idea that another protein (PP2A), besides CK2, may be a more direct regulator of ethanol sensitivity for L1 adhesion. Together, these results show that ethanol' inhibition of L1 adhesion can be controlled by intracellular signaling pathways and suggest new avenues for the development of ethanol antagonists.",
+                          "Markup": [
+                            {
+                              "Start": 131,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 165,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 298,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 485,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 633,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 718,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 975,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 1012,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 1123,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 1264,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 1345,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/okadaic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-446512"
+                            },
+                            {
+                              "Start": 1519,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 1602,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 1661,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 1821,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 1960,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 2031,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 2167,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:20713918",
+                      "Yeves AM et al; Hypertension 56 (4): 690-5 (2010)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:20713918",
+                        "Matched": {
+                          "PCLID": 27555104,
+                          "Citation": "Yeves AM, Garciarena CD, Nolly MB, Chiappe de Cingolani GE, Cingolani HE, Ennis IL. Decreased Activity of the Na <sup>+</sup> /H <sup>+</sup> Exchanger by Phosphodiesterase 5A Inhibition Is Attributed to an Increase in Protein Phosphatase Activity. Hypertension. 2010 Oct;56(4):690–5. doi: 10.1161/hypertensionaha.110.151324.",
+                          "PMID": 20713918,
+                          "DOI": "10.1161/hypertensionaha.110.151324"
+                        }
+                      },
+                      {
+                        "Citation": "Yeves AM et al; Hypertension 56 (4): 690-5 (2010)",
+                        "Matched": {
+                          "PCLID": 900145410,
+                          "Citation": "Yeves AM et al; Hypertension 56 (4): 690-5 (2010)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The beneficial effect of phosphodiesterase 5A inhibition in ischemia/reperfusion injury and cardiac hypertrophy is well established. Inhibition of the cardiac Na(+)/H(+) exchanger (NHE-1) exerts beneficial effects on these same conditions, and a possible link between these therapeutic strategies was suggested. Experiments were performed in isolated cat cardiomyocytes to gain insight into the intracellular pathway involved in the reduction of NHE-1 activity by phosphodiesterase 5A inhibition. NHE-1 activity was assessed by the rate of intracellular pH recovery from a sustained acidic load in the absence of bicarbonate. Phosphodiesterase 5A inhibition with sildenafil (1 umol/L) did not affect basal intracellular pH; yet, it did decrease proton efflux (J(H); in millimoles per liter per minute) after the acidic load (proton efflux: 6.97 +/- 0.43 in control versus 3.31+/- 0.58 with sildenafil; P<0.05). The blockade of both protein phosphatase 1 and 2A with 100 nmol/L of okadaic acid reverted the sildenafil effect (proton efflux: 6.77+/- 0.82). In contrast, selective inhibition of protein phosphatase 2A (1 nmol/L of okadaic acid or 100 umol/L of endothall) did not (3.86 +/- 1.0 and 2.61+/- 1.2), suggesting that only protein phosphatase 1 was involved in sildenafil-induced NHE-1 inhibition. Moreover, sildenafil prevented the acidosis-induced increase in NHE-1 phosphorylation without affecting activation of the extracellular signal-regulated kinase 1/2-p90(RSK) pathway. Our results suggest that phosphodiesterase 5A inhibition decreases NHE-1 activity, during intracellular pH recovery after an acidic load, by a protein phosphatase 1-dependent reduction in NHE-1 phosphorylation.",
+                          "Markup": [
+                            {
+                              "Start": 613,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bicarbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-769"
+                            },
+                            {
+                              "Start": 663,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sildenafil",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398744"
+                            },
+                            {
+                              "Start": 890,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sildenafil",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398744"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 187"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 187",
+                        "Matched": {
+                          "PCLID": 900157717,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 187"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Wash endothall from the skin with soap and water. Flush contamination from the eyes with copious amounts of clean water. Obtain medical attention if irritation of skin or eyes persists.",
+                          "Markup": [
+                            {
+                              "Start": 5,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 43,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 114,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 187"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 187",
+                        "Matched": {
+                          "PCLID": 900157717,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 187"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "If a large quantity has been ingested, the patient is seen within an hour of exposure, and is fully alert and not convulsing, gastrointestinal decontamination should be considered... . Lavage is usually contraindicated due to the corrosive nature of this agent."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 188"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 188",
+                        "Matched": {
+                          "PCLID": 900100744,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 188"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "If there are indications of corrosive effects in the pharynx, gastric intubation should not be attempted because of the risk of esophageal perforation. Treatment procedures appropriate for ingestions of corrosives (strong acids and alkalis) may be necessary. Referral should be made to a surgeon or gastroenterologist for consideration of endoscopy."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 188"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 188",
+                        "Matched": {
+                          "PCLID": 900100744,
+                          "Citation": "U.S. Environmental Protection Agency/Office of Prevention,  Pesticides, and Toxic Substances. Reigart, J.R., Roberts,  J.R. Recognition and Management of Pesticide Poisonings. 5th  ed. 1999. EPA Document No. EPA 735-R-98-003, and available  in electronic format at:  https://www.epa.gov/pesticides/safety/healthcare, p. 188"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Oxygen should be given by mask, if respiratory drive is weak, pulmonary ventilation may have to be supported mechanically.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Antidote and Emergency Treatment (Complete) data for ENDOTHALL (11 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 101,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/391#section=Antidote-and-Emergency-Treatment-(Complete)"
+                            },
+                            {
+                              "Start": 62,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ENDOTHALL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Cambridge, UK:  Royal Society of Chemistry, 2013., p. 659"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Cambridge, UK:  Royal Society of Chemistry, 2013., p. 659",
+                        "Matched": {
+                          "PCLID": 900101350,
+                          "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Cambridge, UK:  Royal Society of Chemistry, 2013., p. 659"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SIGNS AND SYMPTOMS/ Ingestion may cause severe GI inflammation with erosion."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 210"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 210",
+                        "Matched": {
+                          "PCLID": 900089315,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 210"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SIGNS AND SYMPTOMS/ May be absorbed through skin, causing light to moderate irritation. More severe effects at concentrations over 1%, with immediate burning sensation on abraded skin. Also irritating to nose, eye, and throat. Greatest occupational hazard is eye irritation caused by burning of tissues on exposure."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:6855208",
+                      "Allender WJ; J Anal Toxicol 7 (2): 79-82 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:6855208",
+                        "Matched": {
+                          "PCLID": 27962661,
+                          "Citation": "Allender WJ. Suicidal poisoning by endothall. J Anal Toxicol. 1983 Mar;7(2):79–82. doi: 10.1093/jat/7.2.79. PMID: 6855208.",
+                          "PMID": 6855208,
+                          "DOI": "10.1093/jat/7.2.79"
+                        }
+                      },
+                      {
+                        "Citation": "Allender WJ; J Anal Toxicol 7 (2): 79-82 (1983)",
+                        "Matched": {
+                          "PCLID": 27962661,
+                          "Citation": "Allender WJ. Suicidal poisoning by endothall. J Anal Toxicol. 1983 Mar;7(2):79–82. doi: 10.1093/jat/7.2.79. PMID: 6855208.",
+                          "PMID": 6855208,
+                          "DOI": "10.1093/jat/7.2.79"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/CASE REPORTS/ A fatal case of suicidal ingestion of the herbicide endothall is described in a male after apparently ingesting about two mouthfuls ... 175 g/L of disodium endothall. Autopsy revealed widespread focal hemorrhages and edema in lungs, and gastrointestinal tract showed gross hemorrhage. Concn of endothall in stomach contents, liver and blood were 4.0, 1.7, and 1.0 mg%, respectively. /Disodium endothall/",
+                          "Markup": [
+                            {
+                              "Start": 67,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 162,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/disodium%20endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-44318676"
+                            },
+                            {
+                              "Start": 309,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 399,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Disodium%20endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-44318676"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Dart, R.C. (ed). Medical Toxicology. Third Edition, Lippincott Williams & Wilkins. Philadelphia, PA. 2004., p. 1526"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Dart, R.C. (ed). Medical Toxicology. Third Edition, Lippincott Williams & Wilkins. Philadelphia, PA. 2004., p. 1526",
+                        "Matched": {
+                          "PCLID": 900002906,
+                          "Citation": "Dart, R.C. (ed). Medical Toxicology. Third Edition, Lippincott Williams & Wilkins. Philadelphia, PA. 2004., p. 1526"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/CASE REPORTS/ A 23-year-old man ingested 40 mL /endothall/ and developed vomiting with abdominal pain. gastric decontamination with charcoal and chocolate milk was performed. Symptoms stabilized, but 6 hours later, hematemesis occurred and was followed by acidosis, anuria, disseminated intravascular coagulation, and hypotension and cardiovascular collapse. The patient died 12 hours post-ingestion.",
+                          "Markup": [
+                            {
+                              "Start": 49,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 133,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Human Toxicity Excerpts (Complete) data for ENDOTHALL (6 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 91,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/391#section=Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 53,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ENDOTHALL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gzhegotskii MT, Martynyuk VZ; Hyg Sanit (31 & 7-9): 225-9 (1966)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gzhegotskii MT, Martynyuk VZ; Hyg Sanit (31 & 7-9): 225-9 (1966)",
+                        "Matched": {
+                          "PCLID": 900003714,
+                          "Citation": "Gzhegotskii MT, Martynyuk VZ; Hyg Sanit (31 & 7-9): 225-9 (1966)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Acute poisoning with 150-500 mg/kg in mice, rats, guinea pigs, and rabbits is characterized by a transient excitation, followed by general depression, sluggishness, and death within 1.5-3 hours. Symptoms observed are dilated pupils, loss of coordination paresis, increased reflex excitation of the muscles, and spasmodic twitching; dogs and cats developed marked gag reflexes and vomiting. Necropsy revealed congestion of all internal organs, especially the liver, kidneys, spleen, lungs,"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 256"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 256",
+                        "Matched": {
+                          "PCLID": 900126712,
+                          "Citation": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 256"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ ... IV injection at 10 mg/kg /is/ fatal to dogs and rabbits."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:2955551",
+                      "Graziano MJ, Casida JE; Toxicol Lett 37 (2): 143-8 (1987)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:2955551",
+                        "Matched": {
+                          "PCLID": 21125921,
+                          "Citation": "Graziano MJ, Casida JE. Comparison of the acute toxicity of endothal and cantharidic acid on mouse liver in vivo. Toxicol Lett. 1987 Jul;37(2):143–8. doi: 10.1016/0378-4274(87)90150-0. PMID: 2955551.",
+                          "PMID": 2955551,
+                          "DOI": "10.1016/0378-4274(87)90150-0"
+                        }
+                      },
+                      {
+                        "Citation": "Graziano MJ, Casida JE; Toxicol Lett 37 (2): 143-8 (1987)",
+                        "Matched": {
+                          "PCLID": 21125921,
+                          "Citation": "Graziano MJ, Casida JE. Comparison of the acute toxicity of endothal and cantharidic acid on mouse liver in vivo. Toxicol Lett. 1987 Jul;37(2):143–8. doi: 10.1016/0378-4274(87)90150-0. PMID: 2955551.",
+                          "PMID": 2955551,
+                          "DOI": "10.1016/0378-4274(87)90150-0"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ The acute hepatotoxic effects in vivo of endothall, administered ip to adult male Swiss Webster mice at a dose of 75 mg/kg was investigated. This dose was such that it would cause death within 60 to 90 min. Mice were sacrificed by cervical dislocation 45 min after administration of toxicant. Positive controls were administered ip doses of carbon tetrachloride at 1.5 mg/kg for elevated microsomal lipid peroxidation, SGPT activities, and hepatic triglyceride levels; diethyl maleate at 0.3 mg/kg for lowered glutathione levels; and 2,4-dinitrophenol at 40 mg/kg for reductions in hepatic ATP levels and increases in oligomycin sensitive mitochondrial magnesium (Mg2+) dependent adenosine triphosphatase activities. Necropsy revealed enlarged and congested livers. Liver weights increased to 136% and hemoglobin levels to 200% after treatment, although no changes in hepatic glutathione content, microsomal lipid peroxidation, hepatic triglycerides, or serum SGPT levels were noted. Carbon tetrachloride increased serum SGPT levels by 140 fold, hepatic triglycerides more than 10 fold, and microsomal lipid peroxidation by 43%. Diethyl maleate reduced glutathione by 39%. Endothall increased hepatic glycogen metabolism and reduced hepatic ATP levels significantly. Endothall did not affect mitochondrial Mg2+ dependent adenosine triphosphatase activity, although the microsomal enzyme was inhibited. It was concluded that endothall acts directly on the mouse liver.",
+                          "Markup": [
+                            {
+                              "Start": 78,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 378,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20tetrachloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5943"
+                            },
+                            {
+                              "Start": 506,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diethyl%20maleate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5271566"
+                            },
+                            {
+                              "Start": 547,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutathione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            },
+                            {
+                              "Start": 571,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2%2C4-dinitrophenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1493"
+                            },
+                            {
+                              "Start": 627,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5957"
+                            },
+                            {
+                              "Start": 690,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Magnesium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Magnesium"
+                            },
+                            {
+                              "Start": 717,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/adenosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-60961"
+                            },
+                            {
+                              "Start": 913,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutathione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            },
+                            {
+                              "Start": 1021,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Carbon%20tetrachloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5943"
+                            },
+                            {
+                              "Start": 1166,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Diethyl%20maleate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5271566"
+                            },
+                            {
+                              "Start": 1210,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 1238,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glycogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-439177"
+                            },
+                            {
+                              "Start": 1278,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ATP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5957"
+                            },
+                            {
+                              "Start": 1304,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 1358,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/adenosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-60961"
+                            },
+                            {
+                              "Start": 1461,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 256"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 256",
+                        "Matched": {
+                          "PCLID": 900126712,
+                          "Citation": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 256"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ...Rats fed 4 weeks at 1000 ppm gave no indication of intoxication."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for ENDOTHALL (25 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/391#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ENDOTHALL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 37
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36",
+                        "Matched": {
+                          "PCLID": 900026330,
+                          "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: Oncorhunchus kisutch (Coho Salmon) weight 1.4 g; Conditions: static bioassay without aeration, 13 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: >100 mg/L for 96 hours /Aquathol K, 40.3%/",
+                          "Markup": [
+                            {
+                              "Start": 129,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 158,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/calcium%20carbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10112"
+                            },
+                            {
+                              "Start": 245,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Aquathol%20K",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-76963026"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36",
+                        "Matched": {
+                          "PCLID": 900026330,
+                          "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: /Oncorhynchus mykiss/ (Rainbow Trout) weight 1.2 g; Conditions: static bioassay without aeration, 13 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 230 mg/L for 96 hours (95% confidence limit 187-283 mg/L) /Aquathol K, 40.3%/",
+                          "Markup": [
+                            {
+                              "Start": 132,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 161,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/calcium%20carbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10112"
+                            },
+                            {
+                              "Start": 283,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Aquathol%20K",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-76963026"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36",
+                        "Matched": {
+                          "PCLID": 900026330,
+                          "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: /Oncorhynchus mykiss/ (Rainbow Trout) weight 1.2 g; Conditions: static bioassay without aeration, 13 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 0.14 mg/L for 96 hours (95% confidence limit 0.08-0.24 mg/L) /copper endothall, 25%/",
+                          "Markup": [
+                            {
+                              "Start": 132,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 161,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/calcium%20carbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10112"
+                            },
+                            {
+                              "Start": 286,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Copper",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Copper"
+                            },
+                            {
+                              "Start": 293,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36",
+                        "Matched": {
+                          "PCLID": 900026330,
+                          "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 36"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: /Oncorhynchus mykiss/ (Rainbow Trout) weight 2.0 g; Conditions: static bioassay without aeration, 13 °C, pH 7.2-7.5, water hardness 40-50 mg/L as calcium carbonate and alkalinity of 30-35 mg/L; Concentration: 0.31 mg/L for 96 hours /Des-I-cate, 5.5%/",
+                          "Markup": [
+                            {
+                              "Start": 132,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 161,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/calcium%20carbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10112"
+                            },
+                            {
+                              "Start": 248,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Des-I-cate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for ENDOTHALL (75 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 87,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/391#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ENDOTHALL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Berry CR Jr; Environ Pollut Ser A Ecol Biol 34 (3): 251-8 (1984)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Berry CR Jr; Environ Pollut Ser A Ecol Biol 34 (3): 251-8 (1984)",
+                        "Matched": {
+                          "PCLID": 700702793,
+                          "Citation": "Berry CR. Toxicity of the herbicides diquat and endothall to goldfish. Environmental Pollution Series A, Ecological and Biological. 1984 Jan;34(3):251–8. doi: 10.1016/0143-1471(84)90120-x.",
+                          "DOI": "10.1016/0143-1471(84)90120-x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ Acute and behavioral toxicity to goldfish Carassius auratus was determined for the aquatic herbicides diquat and endothall, separately and combined as a 1:1 mixture by volume. Goldfish did not avoid the mixture at 0.11 mg/L diquat: 0.17 mg/L endothall, but did avoid 10 times and 100 times these concn. When exposed to the chemicals individually, goldfish did not avoid endothall at 0.17 or 1.70 mg/L, but avoided it at 17.0 mg/L. The 96 hr median tolerance limit was 372 mg/L for endothall.",
+                          "Markup": [
+                            {
+                              "Start": 120,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diquat",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6795"
+                            },
+                            {
+                              "Start": 131,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 242,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diquat",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6795"
+                            },
+                            {
+                              "Start": 260,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 388,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 499,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Liguori VM et al; ASTM Spec Tech Publ 802 (Aquat Toxicol Hazard Assess): 530-44 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Liguori VM et al; ASTM Spec Tech Publ 802 (Aquat Toxicol Hazard Assess): 530-44 (1983)",
+                        "Matched": {
+                          "PCLID": 900110821,
+                          "Citation": "Liguori VM et al; ASTM Spec Tech Publ 802 (Aquat Toxicol Hazard Assess): 530-44 (1983)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ The 14 day median lethal concentration of endothall to chinook salmon was 62.5 ppm. The seawater entry test was the more sensitive indicator of toxicity, as the fish that had been exposed to levels as low as 3 ppm for 4 days died when placed in seawater. Some behavioral and gross anatomical changes were observed, and histopathological examination revealed hypertrophy of branchial epithelial cells in the fish exposed to greater than 10 ppm endothall.",
+                          "Markup": [
+                            {
+                              "Start": 60,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 461,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Serdar DM, Johnson AF; Progressive Fish-Culturist 58 (2): 131-134 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Serdar DM, Johnson AF; Progressive Fish-Culturist 58 (2): 131-134 (1996)",
+                        "Matched": {
+                          "PCLID": 695303842,
+                          "Citation": "Serdar DM, Johnson AF. Seawater Challenge of Coho Salmon Smolts Following Exposure to the Herbicide Endothall. The Progressive Fish-Culturist. 1996 Apr;58(2):131–4. doi: 10.1577/1548-8640(1996)058<0131:scocss>2.3.co;2.",
+                          "DOI": "10.1577/1548-8640(1996)058<0131:scocss>2.3.co;2"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/Thirty healthy smolts /coho salmon Oncorhynchus kisutch/ were first exposed to 5.0 mg endothall in freshwater for 96 hr, then challenged with seawater for 24 hr. Blood plasma sodium was measured as an indicator of the smolts' ability to osmoregulate. Mean plasma sodium concentrations did not differ substantially between exposed (170.7 meq/L) and control (170.9 meq/L) groups.",
+                          "Markup": [
+                            {
+                              "Start": 103,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 192,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            },
+                            {
+                              "Start": 280,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Berry CR Jr; Diss Abstr Int B 36 (12): 5944-5 (1976)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Berry CR Jr; Diss Abstr Int B 36 (12): 5944-5 (1976)",
+                        "Matched": {
+                          "PCLID": 900022275,
+                          "Citation": "Berry CR Jr; Diss Abstr Int B 36 (12): 5944-5 (1976)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ When potassium endothall was applied to the 1093 acre Chickahominy Reservoir in Virginia to control Egeria densa Planchon, concentrations of 0.17 mg/L endothall did not alter bluegill respiration rate. Concentrations as high as 17.0 mg/L endothall tested over 96 hours in bioassays did not cause histopathological changes in hematocrit, total plasma proteins, plasma protein electropherograms, or white blood cell differentials. Goldfish exposed had no alterations in plasma glucose, glucocorticoids, androgens, estrogens, hematocrit, or white blood cell differential. /Potassium endothall/",
+                          "Markup": [
+                            {
+                              "Start": 23,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Potassium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Potassium"
+                            },
+                            {
+                              "Start": 33,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 169,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 256,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 493,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glucose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5793"
+                            },
+                            {
+                              "Start": 588,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Potassium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Potassium"
+                            },
+                            {
+                              "Start": 598,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Excerpts (Complete) data for ENDOTHALL (11 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 89,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/391#section=Ecotoxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 50,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ENDOTHALL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.30e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.60e+04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.80e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.00e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "9.10e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "MCL-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.40e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.80e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.90e+04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.10e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.00e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Endothall's production may result in its release to the environment through various waste streams; it's use as an herbicide and defoliant will result in its direct release to the environment. If released to air, a vapor pressure of 1.57X10-10 mm Hg at 24 °C indicates endothall will exist solely in the particulate phase in the atmosphere. Particulate-phase endothall will be removed from the atmosphere by wet or dry deposition. Endothall has been reported to be stable in the presence of sunlight. If released to soil, endothall is expected to have very high mobility based upon an estimated Koc of 13. The pKa values for the carboxylic moieties of endothall are 3.4 and 6.7, indicating that this compound will exist almost entirely in the anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts. Volatilization from moist soil is not expected because the compound exists as an anion and anions do not volatilize. Endothall is not expected to volatilize from dry soil surfaces based upon its vapor pressure. The half-life of endothall is reported to be 4 to 5 days in clay soils and 9 days in soils with high organic content indicating that biodegradation is an important fate process. If released into water, endothall is not expected to adsorb to suspended solids and sediment based upon the estimated Koc. If released to water, endothall will rapidly biodegrade under aerobic conditions with a half-life of approximately 1 week or less. The pKa values indicate that endothall will exist almost entirely in the anion form at pH values of 5 to 9 and, therefore, volatilization from water surfaces is not expected to be an important fate process. A BCF of <1 in bluegill sunfish (Lepomis macrochirus) suggests bioconcentration in aquatic organisms is low. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions (pH 5 to 9). Occupational exposure to endothall may occur through dermal contact with this compound at workplaces where endothall is produced or used. Use data indicate that the general population may be exposed to endothall via dermal contact with consumer products containing endothall. Additional exposure may occur through dermal contact or ingestion of contaminated water where this compound was used as an algaecide. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 268,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 358,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 430,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 521,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 651,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 849,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1015,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 1126,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 1304,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1311,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 1425,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1432,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 1570,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 1684,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lewis RJ, Sr; Hawley's Condensed Chemical Dictionary 15th ed. New York, NY: John Wiley & Sons, Inc. p. 50 (2007)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lewis RJ, Sr; Hawley's Condensed Chemical Dictionary 15th ed. New York, NY: John Wiley & Sons, Inc. p. 50 (2007)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Endothall's production may result in its release to the environment through various waste streams; it's use as an herbicide and defoliant(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Feb 24, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(3) Reinert KH, Rodgers JH; Bull Environ Contam Tox 32: 557 (1984)",
+                      "(4) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Endothall (145-73-3) (2008-2010)",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(6) Simsiman GV et al; Res Rev 62: 131 (1976)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Feb 24, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(3) Reinert KH, Rodgers JH; Bull Environ Contam Tox 32: 557 (1984)"
+                      },
+                      {
+                        "Citation": "(4) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Endothall (145-73-3) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(6) Simsiman GV et al; Res Rev 62: 131 (1976)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 13(2), determined from a log Kow of 1.91(3) and a regression-derived equation(2), indicates that endothall is expected to have very high mobility in soil(SRC). The pKa values for the carboxylic acid moieties of endothall are 3.4 and 6.7(4), indicating that this compound will primarily exist in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5) nor do they volatilize from moist soil surfaces. Endothall is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of 1.57X10-10 mm Hg(4). The half-life of endothall is reported to be 4 to 5 days in clay soils and 9 days in soils with high organic content(6), suggesting that biodegradation may be an important environmental fate process in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 178,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 292,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 483,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 583,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 720,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Feb 24, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(3) Reinert KH, Rodgers JH; Bull Environ Contam Tox 32: 557 (1984)",
+                      "(4) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Endothall (145-73-3) (2008-2010)",
+                      "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(6) Sikka HC et al; J Agric Food Chem 23: 849-51 (1975)",
+                      "(7) Sikka HC, Rice CP; Agric Food Chem 21: 842 (1973)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Feb 24, 2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(3) Reinert KH, Rodgers JH; Bull Environ Contam Tox 32: 557 (1984)"
+                      },
+                      {
+                        "Citation": "(4) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Endothall (145-73-3) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(6) Sikka HC et al; J Agric Food Chem 23: 849-51 (1975)"
+                      },
+                      {
+                        "Citation": "(7) Sikka HC, Rice CP; Agric Food Chem 21: 842 (1973)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 13(2), determined from a log Kow of 1.91(3) and a regression-derived equation(2), indicates that endothall is not expected to adsorb to suspended solids and sediment(SRC). The pKa values for the carboxylic acid moieties of endothall are 3.4 and 6.7(4), indicating that endothall will exist almost entirely in the anion form at pH values of 5 to 9 and, therefore, volatilization from water surfaces is not expected to be an important fate process(SRC). According to a classification scheme(5), a BCF of <1 in bluegill sunfish (Lepomis macrochirus)(6) suggests the potential for bioconcentration in aquatic organisms is low(SRC). If released to water, endothall will biodegrade under aerobic conditions with a half-life of approximately 1 week or less(7), suggesting that biodegradation may be an important environmental fate process in water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 174,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 300,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 346,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 460,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Simsiman GV et al; Res Rev 62: 131 (1976)",
+                      "(2) Frank PA; Adv Chem Ser 111: 135 (1972)",
+                      "(3) Reinert KV et al; Ecotox Environ Safety 10: 86-96 (1985)",
+                      "(4) Langeland KA, Warner JP; Aquat Plant Managr 24: 43-6 (1986)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Simsiman GV et al; Res Rev 62: 131 (1976)"
+                      },
+                      {
+                        "Citation": "(2) Frank PA; Adv Chem Ser 111: 135 (1972)"
+                      },
+                      {
+                        "Citation": "(3) Reinert KV et al; Ecotox Environ Safety 10: 86-96 (1985)"
+                      },
+                      {
+                        "Citation": "(4) Langeland KA, Warner JP; Aquat Plant Managr 24: 43-6 (1986)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Endothall applied to a pond at various concentrations ranging from 0.3 to 10 ppm was undetectable after an average of 2.5 days and a maximum of 4 days(1) and in another study, 55% of the 1.2 ppm endothall added to pond water was removed after 12 days(2). In experimental greenhouse pools treated with 0.03, 1.6 or 4.5 ppm endothall, an overall half-life of 4 days was reported(3). In farm reservoirs, approx 71% removal of 0.3 to 1.4 ppm endothall was observed in 12 days(1). Endothall added to the water of irrigation supply ponds at 2 ppm decreased linearly with the predicted concentration of zero at 26 days (half-life 12 days)(4). Only 28% removal of endothall was observed 30 days after addition of endothall to anoxic water(1).",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 209,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 233,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 336,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 452,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 490,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 513,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 670,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 719,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 739,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Berry CR Jr; Diss Abstr Int B 36 (12): 5944-5 (1976)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Berry CR Jr; Diss Abstr Int B 36 (12): 5944-5 (1976)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: A mixture of diquat dibromide and potassium endothall was applied at 2.83 liters of each chemical per 0.4 surface acre to the 1093 acre Chickahominy Reservoir, Virginia because of nuisance populations of Egeria densa Planchon (egeria)(1). Both herbicides declined to very low levels in the water 3 days after treatment and were undetectable within 16 days after treatment(1). No endothall was found in bottom sediments nor in fish muscle tissue(1).",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diquat%20dibromide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6794"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Potassium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Potassium"
+                            },
+                            {
+                              "Start": 58,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 304,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 393,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Environmental Fate (Complete) data for ENDOTHALL (7 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 86,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/391#section=Environmental-Fate-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ENDOTHALL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Reinert KH, Rodgers LH; Bull Env Contam Tox 32: 557 (1984)",
+                      "(2) Weed Sci Soc Amer; The Herbicide Handbook 5th ed Champaign, IL (1983)",
+                      "(3) Ahrens WH; Herbicide Handbook of the Weed Science Society of America. 7th ed. Champaign, IL: Weed Science Society of America (1994)",
+                      "(4) Simsiman GV et al; Res Rev 62: 131 (1976)",
+                      "(5) Sikka HC, Rice CP; Agric Food Chem 21: 842 (1973)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Reinert KH, Rodgers LH; Bull Env Contam Tox 32: 557 (1984)"
+                      },
+                      {
+                        "Citation": "(2) Weed Sci Soc Amer; The Herbicide Handbook 5th ed Champaign, IL (1983)"
+                      },
+                      {
+                        "Citation": "(3) Ahrens WH; Herbicide Handbook of the Weed Science Society of America. 7th ed. Champaign, IL: Weed Science Society of America (1994)"
+                      },
+                      {
+                        "Citation": "(4) Simsiman GV et al; Res Rev 62: 131 (1976)"
+                      },
+                      {
+                        "Citation": "(5) Sikka HC, Rice CP; Agric Food Chem 21: 842 (1973)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Biotransformation is the major process for removal of endothall from water and soil(1,2) at rates dependent upon soil temperature, moisture, type, and microbiological activity(3). 70% of endothall added to an Ontario soil sample was evolved as CO2 in 7 days(4). Application of 2 ppm endothall to pond water resulted in no apparent degradation of endothall in autoclaved water after 9 days and approx 50% degradation of endothall in non-autoclaved water after 4 days(5).",
+                          "Markup": [
+                            {
+                              "Start": 63,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 78,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 196,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 292,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 310,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 355,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 379,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 428,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 456,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Sikka HC, Saxena J; J Agric Food Chem 21: 402 (1973)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Sikka HC, Saxena J; J Agric Food Chem 21: 402 (1973)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "PURE CULTURE: Short term incubation of (14)C-ring-labelled endothall with Arthrobacter sp revealed that(14)C was incorporated into cellular amino acids, proteins, nucleic acids, and lipids and was released as CO2. Endothall was primarily transformed into glutamic acid by the tricarboxylic cycle and an alternate, unknown pathway. Minor metabolites were aspartic and citric acids, alanine, phosphate esters (not positively identified) and an unidentified product(1).",
+                          "Markup": [
+                            {
+                              "Start": 59,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 214,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 255,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutamic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33032"
+                            },
+                            {
+                              "Start": 381,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5950"
+                            },
+                            {
+                              "Start": 390,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phosphate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1061"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)",
+                      "(2) Verschueren K; Handbook of Environmental Data on Organic Chemicals Volumes 1-2. 4th ed. New York, NY: John Wiley & Sons. p. 222 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5 (1990)"
+                      },
+                      {
+                        "Citation": "(2) Verschueren K; Handbook of Environmental Data on Organic Chemicals Volumes 1-2. 4th ed. New York, NY: John Wiley & Sons. p. 222 (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Endothall does not undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(1,2). Endothall has been reported to be stable in the presence of sunlight(2).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 146,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 193"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 193",
+                        "Matched": {
+                          "PCLID": 900122196,
+                          "Citation": "Menzie, C. M. Metabolism of Pesticides, An Update. U.S. Department of the Interior, Fish, Wild-life Service, Special Scientific Report - Wildlife No. 184, Washington, DC: U.S. Government Printing Office, l974., p. 193"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "(14)Carbon endothall, labled at positions 1 and 2 of ring, was added to pond water and to hydrosoil. Within 10 days, 25% of label was evolved as (14)CO2.",
+                          "Markup": [
+                            {
+                              "Start": 4,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 11,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 77,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Sikka HC et al; J Agric Food Chem 23: 849-51 (1975)",
+                      "(2) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Sikka HC et al; J Agric Food Chem 23: 849-51 (1975)"
+                      },
+                      {
+                        "Citation": "(2) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A BCF of <1 of endothall has been measured using bluegill sunfish (Lepomis macrochirus)(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of 2/24/2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(2) Reinert KH, Rodgers JH; Bull Environ Contam Tox 32: 557 (1984)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(4) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Endothall (145-73-3) (2008-2010)",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(6) Weber JB, Properties and Behavior of Pesticides in Soil, Mechanisms of Pesticide Movement into Ground Water, CRC Press pp15-41 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of 2/24/2014: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(2) Reinert KH, Rodgers JH; Bull Environ Contam Tox 32: 557 (1984)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(4) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Endothall (145-73-3) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(6) Weber JB, Properties and Behavior of Pesticides in Soil, Mechanisms of Pesticide Movement into Ground Water, CRC Press pp15-41 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of endothall is estimated as 13(1), using a log Kow of 1.91(2) and a regression-derived equation(1). According to a classification scheme(3), these Koc values suggest that endothall is expected to have very high mobility in soil. The pKa values for the two carboxylic acid moieties of endothall are 3.4 and 6.7(4), indicating that this compound will primarily exist in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5). The Koc of endothall in sediment/water systems has been measured to be < 2(2) and 10(6).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 180,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 293,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 484,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 547,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 569,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Endothall (145-73-3) (2008-2010)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Endothall (145-73-3) (2008-2010)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The pKa values for the carboxylic acid moieties of endothall are 3.4 and 6.7(1), indicating that this compound will primarily exist in anion form in the environment and anions do not volatilize from water or moist soil surfaces. Endothall is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of 1.57X10-10 mm Hg(1).",
+                          "Markup": [
+                            {
+                              "Start": 51,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 199,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 229,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to endothall may occur through dermal contact with this compound at workplaces where endothall is produced or used. Use data indicate that the general population may be exposed to endothall via dermal contact with this compound and other consumer products containing endothall. Additional exposure may occur through dermal contact and ingestion of contaminated water where this compound was used as an algaecide. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 107,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 202,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 289,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothall",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-168842"
+                            },
+                            {
+                              "Start": 383,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134974607",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000145733",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19465898
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135124717",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0028871638",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19512966
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_155",
+        "Name": "Endothall",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=155",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895257
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID168842",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 6877727
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_305",
+        "Name": "Endothall",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2435916
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_305",
+        "Name": "Endothall",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8258709
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID7024081",
+        "Name": "Endothal",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57027270
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz1775",
+        "Name": "Endothall",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17277287
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "391",
+        "Name": "ENDOTHALL",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/391",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 333
+      },
+      {
+        "ReferenceNumber": 33,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Endothall",
+        "Name": "Endothall",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45400920
+      },
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "USGS Columbia Environmental Research Center",
+        "SourceID": "E0030",
+        "Name": "ENDOTHALL",
+        "Description": "The Acute Toxicity Database at the USGS Columbia Environmental Research Center (CERC) provides the results from aquatic acute toxicity tests.",
+        "URL": "https://www.cerc.usgs.gov/data/acute/qrychemdesc.asp?Chemical=E0030",
+        "LicenseURL": "https://www.usgs.gov/foia",
+        "ANID": 2284358
+      },
+      {
+        "ReferenceNumber": 35,
+        "SourceName": "USGS Columbia Environmental Research Center",
+        "SourceID": "E0040",
+        "Name": "ENDOTHALL AQUATHOL K",
+        "Description": "The Acute Toxicity Database at the USGS Columbia Environmental Research Center (CERC) provides the results from aquatic acute toxicity tests.",
+        "URL": "https://www.cerc.usgs.gov/data/acute/qrychemdesc.asp?Chemical=E0040",
+        "LicenseURL": "https://www.usgs.gov/foia",
+        "ANID": 2284359
+      },
+      {
+        "ReferenceNumber": 36,
+        "SourceName": "USGS Columbia Environmental Research Center",
+        "SourceID": "E0090",
+        "Name": "ENDOTHALL HYDROTHOL 191",
+        "Description": "The Acute Toxicity Database at the USGS Columbia Environmental Research Center (CERC) provides the results from aquatic acute toxicity tests.",
+        "URL": "https://www.cerc.usgs.gov/data/acute/qrychemdesc.asp?Chemical=E0090",
+        "LicenseURL": "https://www.usgs.gov/foia",
+        "ANID": 2284364
+      }
+    ]
+  }
+}

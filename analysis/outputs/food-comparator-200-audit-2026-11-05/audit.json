@@ -1,0 +1,29 @@
+{
+  "n": 200,
+  "unique_names_cids_and_keys": 200,
+  "parseable_structures": 200,
+  "matching_computed_keys": 200,
+  "fingerprints": 200,
+  "formula_eligible": 192,
+  "scaffold_groups": 43,
+  "acyclic": 98,
+  "overlaps": {
+    "original_selection": {
+      "full_key_candidates": 16,
+      "connectivity_candidates_including_full": 17
+    },
+    "dietary40": {
+      "full_key_candidates": 40,
+      "connectivity_candidates_including_full": 45
+    },
+    "assay154": {
+      "full_key_candidates": 0,
+      "connectivity_candidates_including_full": 0
+    }
+  },
+  "benignity_status": "user_reports_verified; scope and supporting evidence not in four-column TSV",
+  "plant_inactivity_established_by_this_audit": false,
+  "independent_cid_validation": false,
+  "models_fitted": 0,
+  "biological_targets_assigned": 0
+}

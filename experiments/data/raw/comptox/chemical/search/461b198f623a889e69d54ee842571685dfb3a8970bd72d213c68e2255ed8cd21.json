@@ -1,0 +1,25 @@
+{
+  "search_term": "Chlortoluron",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:19.237763+00:00",
+  "url": "/chemical/search/equal/Chlortoluron",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8052853",
+        "dtxcid": "DTXCID5031264",
+        "casrn": "15545-48-9",
+        "preferredName": "Chlorotoluron",
+        "hasStructureImage": 1,
+        "smiles": "CN(C)C(=O)NC1=CC(Cl)=C(C)C=C1",
+        "isMarkush": false,
+        "searchName": "Synonym from Valid Source",
+        "searchValue": "Chlortoluron",
+        "rank": 11
+      }
+    ],
+    "suggestions": []
+  }
+}

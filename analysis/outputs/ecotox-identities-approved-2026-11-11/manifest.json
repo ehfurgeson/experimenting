@@ -1,0 +1,36 @@
+{
+  "approved_source_identities": 104,
+  "snapshot_id": "6aba4def7d6e405e8f9f44173e4fe132013f3657bb4b5491f1fcc660fd1454b1",
+  "approval": {
+    "approval_id": "USER-ECOTOX-IDENTITY-APPROVAL-2026-11-11",
+    "reviewer": "Research lead (user session assertion)",
+    "review_date": "2026-11-11",
+    "statement": "I have reviewed and approved all of the ECOTOX identity mappings, go ahead and continue",
+    "scope": "all_selected_ecotox_identity_mappings",
+    "snapshot_sha256": "6aba4def7d6e405e8f9f44173e4fe132013f3657bb4b5491f1fcc660fd1454b1",
+    "limits": "Approval applies to the frozen 104 source-to-canonical mapping pairs. It does not assign biological activity, establish equivalent studies, or relax endpoint/context/unit policies."
+  },
+  "scope": "Human-reviewed identity mappings only; endpoint eligibility, biological labels and study-duplicate decisions remain independent.",
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-identity-approval-inputs-2026-11-11/approval.json": "096352f54a6cce8deb291606e307393c37793e32eea4c5f0ec7fbe237025fa23",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-cohort-2026-11-11/chemical_ids.csv": "3f2b9d9df675fea3a9985d0d2d8da769fd85f3ddc6eb428746b7ead16108498c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-cohort-2026-11-11/manifest.json": "6f817413c1cda3c9d09795de04e17ed08fcfbf8233fc6fde14713c8d01d0337e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-cohort-2026-11-11/source_identity_decisions.csv": "6c2cb483d7f96b59e74b4dd5da7f202dc9d747bcead7c82b385d157f104c40b0",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json": "d099ce66c0689297f689de59f6b5877162572e296905bfafc5a84f0b4366cded",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11-verified/manifest.json": "9e7a886b10afa8e02e41523fdb8a436d45dada09295f17c85b18eda7fb967ca0",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/structure-2026-10-28-stress-baseline/structural_features.parquet": "42d932ee2896382c3cbb5c5eceaf0a2948111c848be6670a502ede4864dd5a06"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-identities-approved-2026-11-11/approval_statement.json": "096352f54a6cce8deb291606e307393c37793e32eea4c5f0ec7fbe237025fa23",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-identities-approved-2026-11-11/approved_crosswalk.csv": "e943006a6fa86fec06d586fa13b7ccdcba746e137c7716ecf30f61b929327ca9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-identities-approved-2026-11-11/chemical_ids.csv": "3f2b9d9df675fea3a9985d0d2d8da769fd85f3ddc6eb428746b7ead16108498c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-identities-approved-2026-11-11/identity_approval_ledger.csv": "b4a6ed89c81e526fca37bf1f026f536e6f773a657304fe47a37a3c2b28c302ea"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_approved.py": "ee74b50dedf6ebdcca1595a56ae72f035e3dd5c26d5b97d4c2d5a034e744fe36"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/pyproject.toml": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  }
+}

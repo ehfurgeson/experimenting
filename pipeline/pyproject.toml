@@ -1,0 +1,38 @@
+[build-system]
+requires = ["hatchling>=1.27,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "agrotox"
+version = "0.1.0"
+description = "Auditable agrochemical toxicity data pipeline"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.32,<3",
+    "polars>=1.30,<3",
+    "pyyaml>=6,<7",
+    "marimo>=0.25.2",
+    "altair>=6.3.0",
+    "numpy>=2.5.4",
+    "scikit-learn>=1.9.1",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "ruff>=0.8,<1"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/agrotox"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.format]
+# Preserve spaces around = in keyword arguments and parameter defaults.
+# Ruff's formatter cannot configure this spacing; linting remains enabled.
+exclude = ["*.py", "*.pyi"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--import-mode=importlib"

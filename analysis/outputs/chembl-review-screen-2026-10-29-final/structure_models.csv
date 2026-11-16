@@ -1,0 +1,13 @@
+target,representation,n,positives,negatives,excluded,duplicates,scaffolds,folds,status,accuracy,balanced_accuracy,roc_auc,average_precision,precision,recall,baseline_accuracy,baseline_balanced_accuracy,tn,fp,fn,tp,max_components
+selection_target,formula,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+selection_target,descriptors,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+selection_target,morgan,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+selection_target,combined,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+activity_target,formula,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+activity_target,descriptors,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+activity_target,morgan,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+activity_target,combined,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+origin_target,formula,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+origin_target,descriptors,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+origin_target,morgan,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,
+origin_target,combined,0,0,0,154,0,0,5,insufficient_class_support,,,,,,,,,,,,,

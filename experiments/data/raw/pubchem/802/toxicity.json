@@ -1,0 +1,318 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 802,
+    "RecordTitle": "Indole-3-Acetic Acid",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 171,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A7868: Schulz AM, Terne C, Jankowski V, Cohen G, Schaefer M, Boehringer F, Tepel M, Kunkel D, Zidek W, Jankowski J: Modulation of NADPH oxidase activity by known uraemic retention solutes. Eur J Clin Invest. 2014 Aug;44(8):802-11. doi: 10.1111/eci.12297. PMID:25041433",
+                        "Matched": {
+                          "PCLID": 10054779,
+                          "Citation": "Schulz AM, Terne C, Jankowski V, Cohen G, Schaefer M, Boehringer F, Tepel M, Kunkel D, Zidek W, Jankowski J; European Uremic Toxin Work Group (EUTox). Modulation of NADPH oxidase activity by known uraemic retention solutes. Eur J Clin Invest. 2014 Aug;44(8):802–11. doi: 10.1111/eci.12297. PMID: 25041433.",
+                          "PMID": 25041433,
+                          "DOI": "10.1111/eci.12297"
+                        }
+                      },
+                      {
+                        "Citation": "A7869: Young GH, Wu VC: KLOTHO methylation is linked to uremic toxins and chronic kidney disease. Kidney Int. 2012 Apr;81(7):611-2. doi: 10.1038/ki.2011.461. PMID:22419041",
+                        "Matched": {
+                          "PCLID": 16091523,
+                          "Citation": "A7869: Young GH, Wu VC: KLOTHO methylation is linked to uremic toxins and chronic kidney disease. Kidney Int. 2012 Apr;81(7):611-2. doi: 10.1038/ki.2011.461. PMID:22419041",
+                          "PMID": 22419041,
+                          "DOI": "10.1038/ki.2011.461"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Uremic toxins such as indole-3-acetic acid are actively transported into the kidneys via organic ion transporters (especially OAT3). Increased levels of uremic toxins can stimulate the production of reactive oxygen species. This seems to be mediated by the direct binding or inhibition by uremic toxins of the enzyme NADPH oxidase (especially NOX4 which is abundant in the kidneys and heart) (A7868). Reactive oxygen species can induce several different DNA methyltransferases (DNMTs) which are involved in the silencing of a protein known as KLOTHO.  KLOTHO has been identified as having important roles in anti-aging, mineral metabolism, and vitamin D metabolism. A number of studies have indicated that KLOTHO mRNA and protein levels are reduced during acute or chronic kidney diseases in response to high local levels of reactive oxygen species (A7869)",
+                          "Markup": [
+                            {
+                              "Start": 22,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/indole-3-acetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-802"
+                            },
+                            {
+                              "Start": 317,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NADPH",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5884"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 171,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Health Effects",
+                "Description": "Principal effect(s) of exposure to each substance, listed by OSHA Health Code, Health Effects from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 171,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Indoleacetic acid is listed in its MSDS as potentially mutagenic to mammalian somatic cells. It is also identified as a potential skin, eye, and respiratory irritant, and users are warned not to ingest it. Acute exposure to Indoleacetic acid can lead to some mild skin and eye irritation.  Chronic exposure to uremic toxins can lead to a number of conditions including renal damage, chronic kidney disease and cardiovascular disease. Chronically high levels of Indoleacetic acid are associated with the inborn error of metabolism known as Hartnup disease.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indoleacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-802"
+                            },
+                            {
+                              "Start": 224,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indoleacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-802"
+                            },
+                            {
+                              "Start": 461,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Indoleacetic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-802"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exposure Routes",
+                "Description": "The way people or other living organisms may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 171,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Endogenous, Ingestion, Dermal (contact)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 171,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "As a uremic toxin, this compound can cause uremic syndrome.  Uremic syndrome may affect any part of the body and can cause nausea, vomiting, loss of appetite, and weight loss. It can also cause changes in mental status, such as confusion, reduced awareness, agitation, psychosis, seizures, and coma. Abnormal bleeding, such as bleeding spontaneously or profusely from a very minor injury can also occur. Heart problems, such as an irregular heartbeat, inflammation in the sac that surrounds the heart (pericarditis), and increased pressure on the heart can be seen in patients with uremic syndrome. Shortness of breath from fluid buildup in the space between the lungs and the chest wall (pleural effusion) can also be present."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134971702"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 26,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Treatment",
+                "Description": "Treatment when exposed to toxin",
+                "Information": [
+                  {
+                    "ReferenceNumber": 171,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chronic Exposure: Kidney dialysis is usually needed to relieve the symptoms of uremic syndrome until normal kidney function can be restored.\nAcute Exposure: EYES: irrigate opened eyes for several minutes under running water. INGESTION: do not induce vomiting. Rinse mouth with water (never give anything by mouth to an unconscious person). Seek immediate medical advice.",
+                          "Markup": [
+                            {
+                              "Start": 218,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 277,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 172,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf",
+                      "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf",
+                        "Matched": {
+                          "PCLID": 906318732,
+                          "Citation": "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf"
+                        }
+                      },
+                      {
+                        "Citation": "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf",
+                        "Matched": {
+                          "PCLID": 906318726,
+                          "Citation": "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^87-51-4$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134971702",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000087514",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19463675
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID5020738",
+        "Name": "Indole-3-acetic acid",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57018294
+      },
+      {
+        "ReferenceNumber": 171,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4152",
+        "Name": "Indoleacetic acid",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4152",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443480
+      },
+      {
+        "ReferenceNumber": 172,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "756042409",
+        "Name": "IAA,Rhizopin",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49292185
+      }
+    ]
+  }
+}

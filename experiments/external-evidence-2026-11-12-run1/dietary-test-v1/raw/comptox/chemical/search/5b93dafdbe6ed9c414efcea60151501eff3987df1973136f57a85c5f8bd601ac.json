@@ -1,0 +1,25 @@
+{
+  "search_term": "Trehalose",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:08.394479+00:00",
+  "url": "/chemical/search/equal/Trehalose",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3048102",
+        "dtxcid": "DTXCID1028073",
+        "casrn": "99-20-7",
+        "preferredName": "D-Trehalose",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@H]1O[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "Trehalose",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

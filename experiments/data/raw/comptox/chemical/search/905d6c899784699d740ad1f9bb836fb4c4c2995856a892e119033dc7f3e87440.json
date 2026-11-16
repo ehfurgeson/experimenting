@@ -1,0 +1,25 @@
+{
+  "search_term": "Vanillic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:36.623328+00:00",
+  "url": "/chemical/search/equal/Vanillic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6059522",
+        "dtxcid": "DTXCID1033668",
+        "casrn": "121-34-6",
+        "preferredName": "Vanillic acid",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(=CC=C1O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Vanillic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

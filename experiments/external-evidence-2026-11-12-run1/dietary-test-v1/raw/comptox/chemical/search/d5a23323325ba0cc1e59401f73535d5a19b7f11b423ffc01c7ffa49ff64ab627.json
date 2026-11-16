@@ -1,0 +1,25 @@
+{
+  "search_term": "CKLJMWTZIZZHCS-REOHCLBHSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:17.950117+00:00",
+  "url": "/chemical/search/equal/CKLJMWTZIZZHCS-REOHCLBHSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7022621",
+        "dtxcid": "DTXCID402621",
+        "casrn": "56-84-8",
+        "preferredName": "L-Aspartic acid",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC(O)=O)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "CKLJMWTZIZZHCS-REOHCLBHSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

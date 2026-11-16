@@ -1,0 +1,31 @@
+{
+  "original_TEST_compounds": 136,
+  "dietary_TEST_compounds": 38,
+  "additional_TEST_compounds": 37,
+  "union_TEST_compounds": 173,
+  "unique_TEST_full_structures": 173,
+  "TEST_records_without_structure_membership": 0,
+  "raw_TEST_batch_rows": 2784,
+  "deduplicated_TEST_endpoint_rows": 2768,
+  "dietary_acquisition_states": {
+    "stored_output": 38,
+    "identity_needs_review": 2
+  },
+  "paired_compounds": 3361,
+  "paired_known_teacher_training_compounds": 3359,
+  "C": "defer",
+  "TEST_numeric_model_status": "not_fitted_pending_API_scale_and_form_audit",
+  "plant_activity_external_model": "no_fit_for_purpose_model_qualified",
+  "source_backlog": [
+    "Resolve remaining 160 dietary names with primary identity/occurrence review",
+    "Review two dietary EPA identity ambiguities; preserve Li identity holds",
+    "Qualify local TEST installation and CTX unit scale; do not infer transforms from range",
+    "Qualify VEGA endpoint/version/AD batch execution",
+    "Qualify GenRA analogues and OECD Toolbox workflow; no predictions yet acquired",
+    "Original-study/tested-form review for ICE and shared teacher sources",
+    "Zenodo pLD50 scale/source reconciliation before normalization",
+    "Kuehn Daphnia transcription and benzoic-acid fulltext access gap",
+    "Further documented natural-product inventories with exact forms and source cohorts"
+  ],
+  "limits": "Source membership is not natural origin, inactivity or safety. No count of independent measured studies is established. Source tags and similarity are not proof of exact-study independence."
+}

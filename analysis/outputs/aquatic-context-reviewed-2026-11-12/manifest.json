@@ -1,0 +1,79 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/aquatic_observations.csv": "024d93f2ba6cf4d9fd4dbd9182bc6d54f89d79d1207c7c62f63c3efb93f1ba5d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/manifest.json": "6ce3ced9cf6f94dc70bda5bcac83f7f140b29a585bb741f487aaf3e0ba4a669f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/aquatic-context-2026-11-12/provisional_ph_decisions.json": "a9f9bfdfc99d4bda9f8682cf59669081b9bbe74738ed294c690d1f3edd5fd9ad",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/aquatic-context-2026-11-12/sources/kamaya2005_pubmed.xml": "53583004797b2daf0ae5ac8baee666efac29efdff0461658bb997db93ad591b2",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/aquatic-context-2026-11-12/sources/sources.json": "4b9729e31a6e23d6fb2922c37a1e340dbebea91a6a7805f4f7a9a52913a590d1"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/aquatic-context-reviewed-2026-11-12/compound_context_summaries.csv": "bc1f82275c7dc0a5455ac5d9a39b2ca22c7a1f66fdd238d493324399c344c832",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/aquatic-context-reviewed-2026-11-12/context_decisions.csv": "e9a217fbcc05b7219fa17ef1e855b279047b5490e9d5cf7baf07c0f379a42a3d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/aquatic-context-reviewed-2026-11-12/coverage.csv": "5a863d33e9e9338b38610cf3e67a88581b9db9f149879c4c55d271b6bb7249c1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/aquatic-context-reviewed-2026-11-12/original_aquatic_observations.csv": "024d93f2ba6cf4d9fd4dbd9182bc6d54f89d79d1207c7c62f63c3efb93f1ba5d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/aquatic-context-reviewed-2026-11-12/source_adjudicated_observations.csv": "344ddd6c7877a48b829f8f9c0fad72f559bec4a513232176d066488ec98331a9"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/context_overlay.py": "c9d5b08f64866916c67468efebfede9e79dd1cb1d93423e439135676c7899e41",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/pyproject.toml": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "mode": "reviewed",
+  "decisions": 8,
+  "applied_field_decisions": 0,
+  "coverage": [
+    {
+      "scenario": "original_all_core",
+      "policy": "daphnia_immobilization_ec50_48h",
+      "slots": 13,
+      "compounds": 11
+    },
+    {
+      "scenario": "original_all_core",
+      "policy": "trout_lc50_96h",
+      "slots": 28,
+      "compounds": 7
+    },
+    {
+      "scenario": "original_reported_context_only",
+      "policy": "daphnia_immobilization_ec50_48h",
+      "slots": 1,
+      "compounds": 1
+    },
+    {
+      "scenario": "original_reported_context_only",
+      "policy": "trout_lc50_96h",
+      "slots": 0,
+      "compounds": 0
+    },
+    {
+      "scenario": "source_adjudicated_all_core",
+      "policy": "daphnia_immobilization_ec50_48h",
+      "slots": 13,
+      "compounds": 11
+    },
+    {
+      "scenario": "source_adjudicated_all_core",
+      "policy": "trout_lc50_96h",
+      "slots": 28,
+      "compounds": 7
+    },
+    {
+      "scenario": "source_adjudicated_reported_context_only",
+      "policy": "daphnia_immobilization_ec50_48h",
+      "slots": 1,
+      "compounds": 1
+    },
+    {
+      "scenario": "source_adjudicated_reported_context_only",
+      "policy": "trout_lc50_96h",
+      "slots": 0,
+      "compounds": 0
+    }
+  ],
+  "new_rat_admissions": 0,
+  "scope": "Separate context sensitivity; source kinds/reviewer identities are caller assertions. Experimental mode can apply provisional primary abstracts and AI reviews. Reported context does not establish study quality or exposure equivalence. No native values, identities, core admissions or rat baseline changed. Duplicate decisions are not applied by this standalone context comparison."
+}

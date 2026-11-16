@@ -1,0 +1,211 @@
+{
+  "date": "2026-11-12",
+  "git_commit": "e94b9b6d6abe2bcc4bbc8e26e7b9a8c8d3a66306",
+  "records": 2176,
+  "unique_compounds": 136,
+  "retrieval_first": "2026-10-21T13:30:43.144421+00:00",
+  "retrieval_last": "2026-10-21T13:55:18.781079+00:00",
+  "endpoints": [
+    {
+      "endpoint": "48 Hour Daphnia Magna LC50",
+      "records": 136,
+      "finite_values": 125,
+      "units": [
+        "mol/L"
+      ],
+      "domain_counts": {
+        "Inside": 125,
+        "Outside": 11
+      }
+    },
+    {
+      "endpoint": "48 Hour Tetrahymena Pyriformis IGC50",
+      "records": 136,
+      "finite_values": 90,
+      "units": [
+        "mol/L"
+      ],
+      "domain_counts": {
+        "Outside": 46,
+        "Inside": 90
+      }
+    },
+    {
+      "endpoint": "96 Hour Fathead Minnow LC50",
+      "records": 136,
+      "finite_values": 122,
+      "units": [
+        "mol/L"
+      ],
+      "domain_counts": {
+        "Inside": 122,
+        "Outside": 14
+      }
+    },
+    {
+      "endpoint": "Ames Mutagenicity",
+      "records": 136,
+      "finite_values": 128,
+      "units": [
+        "Binary 0/1"
+      ],
+      "domain_counts": {
+        "Inside": 128,
+        "Outside": 8
+      }
+    },
+    {
+      "endpoint": "Bioconcentration Factor",
+      "records": 136,
+      "finite_values": 104,
+      "units": [
+        "L/kg"
+      ],
+      "domain_counts": {
+        "Outside": 32,
+        "Inside": 104
+      }
+    },
+    {
+      "endpoint": "Boiling Point",
+      "records": 136,
+      "finite_values": 123,
+      "units": [
+        "\u00b0C"
+      ],
+      "domain_counts": {
+        "Outside": 13,
+        "Inside": 123
+      }
+    },
+    {
+      "endpoint": "Density",
+      "records": 136,
+      "finite_values": 129,
+      "units": [
+        "g/cm^3"
+      ],
+      "domain_counts": {
+        "Inside": 129,
+        "Outside": 7
+      }
+    },
+    {
+      "endpoint": "Developmental Toxicity",
+      "records": 136,
+      "finite_values": 130,
+      "units": [
+        "Binary 0/1"
+      ],
+      "domain_counts": {
+        "Inside": 130,
+        "Outside": 6
+      }
+    },
+    {
+      "endpoint": "Flash Point",
+      "records": 136,
+      "finite_values": 127,
+      "units": [
+        "\u00b0C"
+      ],
+      "domain_counts": {
+        "Inside": 127,
+        "Outside": 9
+      }
+    },
+    {
+      "endpoint": "Melting Point",
+      "records": 136,
+      "finite_values": 132,
+      "units": [
+        "\u00b0C"
+      ],
+      "domain_counts": {
+        "Inside": 132,
+        "Outside": 4
+      }
+    },
+    {
+      "endpoint": "Oral Rat LD50",
+      "records": 136,
+      "finite_values": 120,
+      "units": [
+        "mol/kg"
+      ],
+      "domain_counts": {
+        "Inside": 120,
+        "Outside": 16
+      }
+    },
+    {
+      "endpoint": "Surface Tension",
+      "records": 136,
+      "finite_values": 51,
+      "units": [
+        "dyn/cm"
+      ],
+      "domain_counts": {
+        "Outside": 85,
+        "Inside": 51
+      }
+    },
+    {
+      "endpoint": "Thermal Conductivity",
+      "records": 136,
+      "finite_values": 50,
+      "units": [
+        "mW/(m*K)"
+      ],
+      "domain_counts": {
+        "Outside": 86,
+        "Inside": 50
+      }
+    },
+    {
+      "endpoint": "Vapor Pressure",
+      "records": 136,
+      "finite_values": 125,
+      "units": [
+        "mmHg"
+      ],
+      "domain_counts": {
+        "Inside": 125,
+        "Outside": 11
+      }
+    },
+    {
+      "endpoint": "Viscosity",
+      "records": 136,
+      "finite_values": 71,
+      "units": [
+        "cP"
+      ],
+      "domain_counts": {
+        "Outside": 65,
+        "Inside": 71
+      }
+    },
+    {
+      "endpoint": "Water Solubility",
+      "records": 136,
+      "finite_values": 132,
+      "units": [
+        "mol/L"
+      ],
+      "domain_counts": {
+        "Inside": 132,
+        "Outside": 4
+      }
+    }
+  ],
+  "input_hashes": {
+    "experiments/data/epa_test_predictions.csv": "0d80c57da3965bdaff476cb4107a42b267ada611407e09ec1423bc1fc8767dd0",
+    "experiments/data/epa_test_predictions.parquet": "d8b072b755aad37cb8776630f5f2cb3666d688008d0ff79b5a129d59f7634cbe",
+    "experiments/data/epa_test_coverage.csv": "d3542cdc3415447c3b64e37fe75470bdad50c4d55745bcf12f7a44af11a6f561",
+    "pipeline/src/agrotox/epa_test.py": "a583cf21744b46ba0b9b0a8c3f3c8033d13e509c1535079304c8df92713ccd01",
+    "pipeline/src/agrotox/epa_properties.py": "9f61afeb283802613ffeeaff86b30e307e1124e1a6dfd94295c1f9df94417ca0",
+    "analysis/FINDINGS.md": "e29f3ff0c362494f75a7ea44c5e0bfa2d4439a9a05ebeb4fbf397b1740e17830"
+  },
+  "scope": "Read-only inventory for planning; no new acquisition, scientific approval, model fit or combined pathway"
+}

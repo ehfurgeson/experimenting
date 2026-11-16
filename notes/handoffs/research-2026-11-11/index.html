@@ -1,0 +1,58 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Research handoff: start here</title><style>body{font:17px/1.6 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#17212b;background:#fff;max-width:1120px;margin:32px auto;padding:0 24px}h1,h2,h3{line-height:1.25;color:#163d52;scroll-margin-top:20px}h1{font-size:2rem}h2{margin-top:2rem;border-top:1px solid #dbe3e8;padding-top:1rem}h3{margin-top:1.6rem}a{color:#075c8d}nav{padding:12px 0 20px;border-bottom:2px solid #163d52;display:flex;flex-wrap:wrap;gap:10px 20px}table{border-collapse:collapse;width:100%;table-layout:auto;margin:20px 0;font-size:.91rem}th,td{border:1px solid #cbd5dd;padding:9px 11px;text-align:left;vertical-align:top;overflow-wrap:anywhere}th{background:#edf3f6}tr:nth-child(even){background:#fafcfd}code{font-size:.87em;overflow-wrap:anywhere;background:#f1f4f6;padding:1px 3px}pre{padding:14px;background:#f1f4f6;overflow:auto;line-height:1.4}pre code{padding:0;white-space:pre;overflow-wrap:normal}li{margin:6px 0}.toc{background:#f5f8fa;padding:12px 20px;border:1px solid #dbe3e8}.toc ul{margin:5px 0}.checkpoint{color:#546675;font-size:.9rem}footer{margin-top:40px;border-top:1px solid #dbe3e8;padding-top:16px;color:#546675}@media(max-width:650px){body{padding:0 12px;font-size:16px}table{font-size:.8rem}th,td{padding:6px}}@media print{body{max-width:none;margin:0;font-size:10pt}nav,.toc{display:none}h2,h3{break-after:avoid}tr{break-inside:avoid}pre,pre code{white-space:pre-wrap;overflow-wrap:anywhere}a{color:inherit;text-decoration:underline}@page{margin:14mm}}</style></head><body><nav aria-label="Handoff documents"><a href="./index.html">Start</a><a href="./01_PROJECT_HANDOFF.html">Project handoff</a><a href="./02_TOXICITY_RESEARCH_GUIDE.html">Toxicity guide</a><a href="./03_BIOLOGICAL_EVIDENCE_GUIDE.html">Biological guide</a></nav><main><div class="toc">
+<ul>
+<li><a href="#research-handoff-start-here">Research handoff: start here</a><ul>
+<li><a href="#what-to-send-colleagues">What to send colleagues</a></li>
+<li><a href="#work-without-waiting-for-the-project-owner">Work without waiting for the project owner</a></li>
+<li><a href="#suggested-first-working-week">Suggested first working week</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h1 id="research-handoff-start-here">Research handoff: start here</h1>
+<p><strong>Checkpoint: 11 November 2026.</strong> This folder is a portable research handoff for the agrochemical-toxicity project. Start with the handoff, then assign one guide to each research lead. The two workstreams can proceed independently and exchange evidence records using stable compound/result IDs.</p>
+<ol>
+<li><a href="01_PROJECT_HANDOFF.html">Project handoff</a>: research questions, completed work, accepted decisions, results, limitations, files and operating rules.</li>
+<li><a href="02_TOXICITY_RESEARCH_GUIDE.html">Toxicity research guide</a>: recover aquatic study context, evaluate 16 rat LD50 records and adjudicate the 26 priority overlap pairs.</li>
+<li><a href="03_BIOLOGICAL_EVIDENCE_GUIDE.html">Biological evidence research guide</a>: find defensible low-response evidence, expand scaffold diversity and prepare separately reviewed activity datasets.</li>
+</ol>
+<p>Each document also has a same-name <code>.html</code> reading copy. Open <strong><code>index.html</code></strong> in a browser for an offline landing page. No server or Python installation is needed to read the HTML.</p>
+<h2 id="what-to-send-colleagues">What to send colleagues</h2>
+<p>Send this entire folder, or the sibling <code>research-handoff-2026-11-11.zip</code>. It contains the three guides, compact read-only evidence inputs and a hash inventory. Keep the directory structure intact. Sending only an individual document omits its linked evidence.</p>
+<p>The compact inputs let a literature researcher begin without the full repository. They include the 41 aquatic records, 16 rat cases, relevant native metadata, publication leads, 26 priority overlap pairs, biological review decisions, structures and policy-specific labels. They do <strong>not</strong> include full-text papers, the full ECOTOX archive, all research caches, credentials or the code checkout. Use library/publisher access to retrieve original papers.</p>
+<h2 id="work-without-waiting-for-the-project-owner">Work without waiting for the project owner</h2>
+<p>Create <code>work/&lt;your-initials&gt;-&lt;date&gt;-&lt;run&gt;/</code>. Leave <code>reference_inputs/</code> and original project bundles unchanged. Each guide specifies a first assignment, fields to return, decision rules, stop conditions and a completion checklist. A documented unresolved result is a valid deliverable; do not force a positive decision to finish a task.</p>
+<p>Research findings may be collected and peer-checked under the existing policies. A new policy, changed identity, conflicting source interpretation or proposed software integration needs a written, qualified scientific/technical review; it need not wait for the project owner if an appropriate team reviewer can handle it. Do not silently change the project's scientific definitions.</p>
+<p>The latest code lives on the <strong>local-only</strong> branch <code>feat/weekly-research-pilots</code>, at <code>b771c87</code> when this package was prepared. A GitHub clone alone may not contain that branch or any ignored research assets. Code execution instructions are optional for literature researchers and require the authorized checkout and listed caches. No push or publication is authorized by this handoff.</p>
+<p>See <a href="reference_inputs/README.html">reference-input notes</a> and <code>PACKAGE_INVENTORY.json</code> for contents and provenance. Verify a transferred package with the commands in the project handoff.</p>
+<h2 id="suggested-first-working-week">Suggested first working week</h2>
+<table>
+<thead>
+<tr>
+<th>Period</th>
+<th>Toxicity lead</th>
+<th>Biological lead</th>
+<th>Integrating analyst</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Day 1</td>
+<td>Check inputs; assign the three natural-overlap aquatic references and seven rat references</td>
+<td>Choose the assay question and policy scope; screen for full series with negative results and new scaffolds</td>
+<td>Confirm checkout/access; note overlay and duplicate-decision integration gaps</td>
+</tr>
+<tr>
+<td>Days 2–3</td>
+<td>Extract by publication, peer-check important mappings, review rat pairs while papers are open</td>
+<td>Transcribe prioritized studies, exact structures and origin evidence; retain rejected/unknown leads</td>
+<td>Check stable IDs, structured return fields and source hashes</td>
+</tr>
+<tr>
+<td>Days 4–5</td>
+<td>Return verified or explicitly unresolved dispositions and coverage implications</td>
+<td>Return policy-separated decisions and actual scaffold-support gains</td>
+<td>Review integration/test needs and prepare a new run only where supported</td>
+</tr>
+</tbody>
+</table>
+<p>This is a first-pass schedule, not a promise that inaccessible sources or model support will be resolved in five days. Continue independent tasks when one source or scientific question is blocked. Measure progress by usable evidence and explicit gaps, not papers downloaded or model scores.</p></main><footer>Prepared 11 November 2026. Read-only reference inputs; new research belongs in the work folder. No runtime network dependencies.</footer></body></html>

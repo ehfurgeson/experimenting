@@ -1,0 +1,25 @@
+{
+  "search_term": "RGHHSNMVTDWUBI-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:01.998336+00:00",
+  "url": "/chemical/search/equal/RGHHSNMVTDWUBI-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "p-Hydroxybenzaldehyde",
+        "dtxsid": "DTXSID8059552",
+        "dtxcid": "DTXCID7033787",
+        "casrn": "123-08-0",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC=C(C=O)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "RGHHSNMVTDWUBI-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

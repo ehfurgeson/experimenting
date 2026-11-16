@@ -1,0 +1,25 @@
+{
+  "search_term": "Glycine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:26.454535+00:00",
+  "url": "/chemical/search/equal/Glycine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9020667",
+        "dtxcid": "DTXCID90667",
+        "casrn": "56-40-6",
+        "preferredName": "Glycine",
+        "hasStructureImage": 1,
+        "smiles": "NCC(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Glycine",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

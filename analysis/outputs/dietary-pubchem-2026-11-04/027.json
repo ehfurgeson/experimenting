@@ -1,0 +1,16 @@
+{
+  "query": "Mannitol",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Mannitol/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:07.340002+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6251,
+          "SMILES": "C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O",
+          "InChIKey": "FBPFZTCFMRRESA-KVTDHHQDSA-N"
+        }
+      ]
+    }
+  }
+}

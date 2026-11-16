@@ -1,0 +1,25 @@
+{
+  "search_term": "(2,4-Dichlorophenoxy)Acetic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:41.454544+00:00",
+  "url": "/chemical/search/equal/(2,4-Dichlorophenoxy)Acetic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "2,4-Dichlorophenoxyacetic acid",
+        "dtxsid": "DTXSID0020442",
+        "dtxcid": "DTXCID80442",
+        "casrn": "94-75-7",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)COC1=C(Cl)C=C(Cl)C=C1",
+        "isMarkush": false,
+        "searchName": "Systematic Name",
+        "searchValue": "(2,4-Dichlorophenoxy)acetic acid",
+        "rank": 12
+      }
+    ],
+    "suggestions": []
+  }
+}

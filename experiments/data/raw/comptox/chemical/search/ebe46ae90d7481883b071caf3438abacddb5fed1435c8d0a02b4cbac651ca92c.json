@@ -1,0 +1,25 @@
+{
+  "search_term": "ORHBXUUXSCNDEV-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:46.779775+00:00",
+  "url": "/chemical/search/equal/ORHBXUUXSCNDEV-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Umbelliferone",
+        "dtxsid": "DTXSID5052626",
+        "dtxcid": "DTXCID9031199",
+        "casrn": "93-35-6",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC=C2C=CC(=O)OC2=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "ORHBXUUXSCNDEV-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

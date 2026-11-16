@@ -1,0 +1,47 @@
+policy,compound_id,chemical_analysis,concentration_type,formulation_code,exposure_type,medium,exposure_hours,name,group,slots,distinct_results,distinct_tests,distinct_references,exact_slots,bounded_or_range_slots,exact_record_median_mg_l,exact_record_min_mg_l,exact_record_max_mg_l,scenario
+daphnia_immobilization_ec50_48h,PUBCHEM:10742,U,A,PU,S,FW,,Syringic acid,unreviewed_natural_product_selection,1,1,1,1,1,0,1330.0,1330.0,1330.0,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:126,U,A,PU,S,FW,,p-Hydroxybenzaldehyde,unreviewed_natural_product_selection,1,1,1,1,1,0,49.3,49.3,49.3,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:135,U,A,PU,S,FW,,4-Hydroxybenzoic acid,unreviewed_natural_product_selection,1,1,1,1,1,0,1690.0,1690.0,1690.0,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:2256,U,A,PU,S,FW,,Atrazine,selected_herbicide_comparator,2,2,2,2,1,1,35.5,35.5,35.5,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:243,U,A,PU,S,FW,,Benzoic acid,natural_activity_unknown,1,1,1,1,1,0,860.0,860.0,860.0,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:338,U,A,PU,S,FW,,Salicylic acid,natural_activity_unknown,1,1,1,1,1,0,870.0,870.0,870.0,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:370,U,A,PU,S,FW,,Gallic acid,unreviewed_natural_product_selection,1,1,1,1,1,0,19.1,19.1,19.1,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:4933,M,A,PU,S,FW,,propanil,selected_herbicide_comparator,1,1,1,1,1,0,2.109,2.109,2.109,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:4933,U,A,PU,S,FW,48.0,propanil,selected_herbicide_comparator,1,1,1,1,1,0,2.109,2.109,2.109,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:5216,U,A,PU,S,FW,,simazine,selected_herbicide_comparator,1,1,1,1,0,1,,,,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:72,U,A,PU,S,FW,,Protocatechuic acid,unreviewed_natural_product_selection,1,1,1,1,1,0,370.0,370.0,370.0,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:8468,U,A,PU,S,FW,,Vanillic acid,unreviewed_natural_product_selection,1,1,1,1,1,0,908.0,908.0,908.0,all_core_policy_admitted
+trout_lc50_96h,PUBCHEM:1486,U,A,PU,S,FW,,"2,4-D",selected_herbicide_comparator,1,1,1,1,1,0,358.0,358.0,358.0,all_core_policy_admitted
+trout_lc50_96h,PUBCHEM:2256,U,A,AI,R,FW,,Atrazine,selected_herbicide_comparator,1,1,1,1,1,0,20.5,20.5,20.5,all_core_policy_admitted
+trout_lc50_96h,PUBCHEM:2256,U,A,PU,NR,FW,,Atrazine,selected_herbicide_comparator,1,1,1,1,1,0,13.0,13.0,13.0,all_core_policy_admitted
+trout_lc50_96h,PUBCHEM:3314,U,A,AI,F,FW,,Eugenol,natural_activity_unknown,1,1,1,1,1,0,60.8,60.8,60.8,all_core_policy_admitted
+trout_lc50_96h,PUBCHEM:3496,M,A,PU,S,FW,,Glyphosate,selected_herbicide_comparator,5,5,5,1,5,0,93.0,10.0,197.0,all_core_policy_admitted
+trout_lc50_96h,PUBCHEM:3496,U,A,AI,S,FW,,Glyphosate,selected_herbicide_comparator,1,1,1,1,1,0,4290.8,4290.8,4290.8,all_core_policy_admitted
+trout_lc50_96h,PUBCHEM:3806,U,A,PU,S,FW,,Juglone,natural_active_K1998,6,6,6,1,6,0,0.0376,0.034,0.0432,all_core_policy_admitted
+trout_lc50_96h,PUBCHEM:43079,M,A,AI,S,FW,,fluridone,selected_herbicide_comparator,1,1,1,1,1,0,8.1,8.1,8.1,all_core_policy_admitted
+trout_lc50_96h,PUBCHEM:43079,U,A,AI,S,FW,,fluridone,selected_herbicide_comparator,10,10,10,1,10,0,7.6000000000000005,4.2,11.700000000000001,all_core_policy_admitted
+trout_lc50_96h,PUBCHEM:5216,U,A,PU,NR,FW,,simazine,selected_herbicide_comparator,1,1,1,1,1,0,330.0,330.0,330.0,all_core_policy_admitted
+daphnia_immobilization_ec50_48h,PUBCHEM:10742,U,A,PU,S,FW,,Syringic acid,unreviewed_natural_product_selection,1,1,1,1,1,0,1330.0,1330.0,1330.0,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:126,U,A,PU,S,FW,,p-Hydroxybenzaldehyde,unreviewed_natural_product_selection,1,1,1,1,1,0,49.3,49.3,49.3,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:135,U,A,PU,S,FW,,4-Hydroxybenzoic acid,unreviewed_natural_product_selection,1,1,1,1,1,0,1690.0,1690.0,1690.0,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:2256,U,A,PU,S,FW,,Atrazine,selected_herbicide_comparator,2,2,2,2,1,1,35.5,35.5,35.5,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:243,U,A,PU,S,FW,,Benzoic acid,natural_activity_unknown,1,1,1,1,1,0,860.0,860.0,860.0,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:338,U,A,PU,S,FW,,Salicylic acid,natural_activity_unknown,1,1,1,1,1,0,870.0,870.0,870.0,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:370,U,A,PU,S,FW,,Gallic acid,unreviewed_natural_product_selection,1,1,1,1,1,0,19.1,19.1,19.1,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:4933,M,A,PU,S,FW,,propanil,selected_herbicide_comparator,1,1,1,1,1,0,2.109,2.109,2.109,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:4933,U,A,PU,S,FW,48.0,propanil,selected_herbicide_comparator,1,1,1,1,1,0,2.109,2.109,2.109,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:5216,U,A,PU,S,FW,,simazine,selected_herbicide_comparator,1,1,1,1,0,1,,,,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:72,U,A,PU,S,FW,,Protocatechuic acid,unreviewed_natural_product_selection,1,1,1,1,1,0,370.0,370.0,370.0,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:8468,U,A,PU,S,FW,,Vanillic acid,unreviewed_natural_product_selection,1,1,1,1,1,0,908.0,908.0,908.0,exclude_unresolved_overlap_candidates
+trout_lc50_96h,PUBCHEM:1486,U,A,PU,S,FW,,"2,4-D",selected_herbicide_comparator,1,1,1,1,1,0,358.0,358.0,358.0,exclude_unresolved_overlap_candidates
+trout_lc50_96h,PUBCHEM:2256,U,A,AI,R,FW,,Atrazine,selected_herbicide_comparator,1,1,1,1,1,0,20.5,20.5,20.5,exclude_unresolved_overlap_candidates
+trout_lc50_96h,PUBCHEM:2256,U,A,PU,NR,FW,,Atrazine,selected_herbicide_comparator,1,1,1,1,1,0,13.0,13.0,13.0,exclude_unresolved_overlap_candidates
+trout_lc50_96h,PUBCHEM:3314,U,A,AI,F,FW,,Eugenol,natural_activity_unknown,1,1,1,1,1,0,60.8,60.8,60.8,exclude_unresolved_overlap_candidates
+trout_lc50_96h,PUBCHEM:3496,M,A,PU,S,FW,,Glyphosate,selected_herbicide_comparator,5,5,5,1,5,0,93.0,10.0,197.0,exclude_unresolved_overlap_candidates
+trout_lc50_96h,PUBCHEM:3496,U,A,AI,S,FW,,Glyphosate,selected_herbicide_comparator,1,1,1,1,1,0,4290.8,4290.8,4290.8,exclude_unresolved_overlap_candidates
+trout_lc50_96h,PUBCHEM:3806,U,A,PU,S,FW,,Juglone,natural_active_K1998,6,6,6,1,6,0,0.0376,0.034,0.0432,exclude_unresolved_overlap_candidates
+trout_lc50_96h,PUBCHEM:43079,M,A,AI,S,FW,,fluridone,selected_herbicide_comparator,1,1,1,1,1,0,8.1,8.1,8.1,exclude_unresolved_overlap_candidates
+trout_lc50_96h,PUBCHEM:43079,U,A,AI,S,FW,,fluridone,selected_herbicide_comparator,10,10,10,1,10,0,7.6000000000000005,4.2,11.700000000000001,exclude_unresolved_overlap_candidates
+trout_lc50_96h,PUBCHEM:5216,U,A,PU,NR,FW,,simazine,selected_herbicide_comparator,1,1,1,1,1,0,330.0,330.0,330.0,exclude_unresolved_overlap_candidates
+daphnia_immobilization_ec50_48h,PUBCHEM:4933,U,A,PU,S,FW,48.0,propanil,selected_herbicide_comparator,1,1,1,1,1,0,2.109,2.109,2.109,reported_context_only
+daphnia_immobilization_ec50_48h,PUBCHEM:4933,U,A,PU,S,FW,48.0,propanil,selected_herbicide_comparator,1,1,1,1,1,0,2.109,2.109,2.109,reported_context_exclude_overlap

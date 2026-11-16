@@ -1,0 +1,25 @@
+{
+  "search_term": "4-Phenylbutyric Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:00.167964+00:00",
+  "url": "/chemical/search/equal/4-Phenylbutyric Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "4-Phenylbutyric acid",
+        "dtxsid": "DTXSID2037631",
+        "dtxcid": "DTXCID0017631",
+        "casrn": "1821-12-1",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)CCCC1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "4-Phenylbutyric acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

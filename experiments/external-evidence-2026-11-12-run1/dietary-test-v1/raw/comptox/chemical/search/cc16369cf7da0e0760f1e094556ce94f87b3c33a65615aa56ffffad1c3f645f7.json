@@ -1,0 +1,25 @@
+{
+  "search_term": "MTCFGRXMJLQNBG-REOHCLBHSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:42.593944+00:00",
+  "url": "/chemical/search/equal/MTCFGRXMJLQNBG-REOHCLBHSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID60883230",
+        "dtxcid": "DTXCID501022779",
+        "casrn": "56-45-1",
+        "preferredName": "L-Serine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CO)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "MTCFGRXMJLQNBG-REOHCLBHSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

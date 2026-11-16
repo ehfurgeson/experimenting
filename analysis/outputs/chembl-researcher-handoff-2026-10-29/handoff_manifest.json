@@ -1,0 +1,38 @@
+{
+  "prepared_date": "2026-10-29",
+  "source": "Frozen ChEMBL_37 review export",
+  "compound_count": 154,
+  "activity_count": 157,
+  "assay_count": 14,
+  "source_hashes": {
+    "analysis/outputs/chembl-review-2026-10-29-final/label_review_template.csv": "45a90a5240f4d9f0330bca0483fa9c98961c0d8907d8af5751dde89609752960",
+    "analysis/outputs/chembl-review-2026-10-29-final/candidates.csv": "ed81ddd18792a41e49385e62af951021518a06ab51b5b2ec55a6e00abbd328e6",
+    "analysis/outputs/chembl-review-2026-10-29-final/activity_review.csv": "904e14ceae96f8f73a69edb79bde80b691ef1efc37c31f25c7c896f9e8485017",
+    "analysis/outputs/chembl-review-2026-10-29-final/manifest.json": "b87eb4c5e56cc99a4d27a553a3dc3c65c59c4efa899581cf5f0f8ea4c4c54645",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3047330.json": "1254e69c8c714cfbc345805feb250b493386006591fc7202126f355be7cc8fa6",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3047983.json": "4f872c764810bd97e8ef4430fbd0f5ddf6162f5d006088c33039200dfe6fb898",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3048455.json": "d9f2d5244c1ff938eaf2947135a0a8b60b5a8264ee5da00864bdb3aad9c71ebe",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3049732.json": "349a45dee134f7a867661d36ebd0dfc2968a788f974ce1574c5e717f26af55e6",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3050086.json": "17d7f449709a96d3cf4abbc44abfe23aed4198a69a63949aa3c98de8744eb12b",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3050227.json": "34d83321e466bc2e84f27ec85ca94cf5363550bba22efaf934e3ab958b34b611",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3050362.json": "499b0bb2472440cd7ff260fa3b5d3a0fc0377075762c1509d7cbfee35820c306",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3050580.json": "90fabc53184ee38fa87c0f8e8afe042dcf07ce93ede97621275a10e42c284de1",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3051568.json": "cf8fcbebb3bcc9e400736388dca4f270ce9e4f507709e65e8b1f907812600fff",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3053086.json": "801bc47d9e542e1f966795bbcab5acb30b626b61f206c3a8faa642d4151dc5c0",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3066645.json": "7cf65ca59aba80013d6a3afde42c71fd18d9689901205cfb93102f2170e9b9ee",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3066743.json": "07f75786b551fe7872c8aa37f3776b7179cfb937daeb1bb07d71e5d63a0aec6a",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL3079324.json": "3791bc73be0df91bbdc9be972ef4a58a643d72e29020b234a7e2ff41749e73c1",
+    "analysis/outputs/chembl-2026-10-28/raw/chembl/CHEMBL970505.json": "117b0c1bed8844dcbca2d7f90bffc1b4ea381d1167ba1e39c416abe412226c45"
+  },
+  "guide_sha256": "cc46a619fde62af7ec55b25bf67ba02978c26b76f45d4f6e571997a167372910",
+  "generator_sha256": "68edf8718f23a815047a0c8055a7c3d085b552d93afa4dee13c88f96f431a8de",
+  "output_hashes": {
+    "README.md": "6c31dc10b9e69b1ef14a54705ba1efbbedfae252951e7b8a2f00ea0b31e48744",
+    "compound_evidence_packets.md": "b0de7613f95fd6396caeb6ad1e7073c089d7579c44a518ae7231cd9676dd8f55",
+    "compound_index.csv": "a0bedefd398ee5739d9ae8ed3a91f82b80af483a5ec1735cde431af705a4a3aa",
+    "evidence_log.csv": "a12585cb5bfd3911fe2f27b6f6bb66146aee321c721a51702e9308b625cab62b",
+    "policy_draft.md": "46ba2cee52f8365927dd60543e706207f649265cbcb3f04ea7c89d2267a9347a",
+    "reviewed_labels.csv": "45a90a5240f4d9f0330bca0483fa9c98961c0d8907d8af5751dde89609752960"
+  },
+  "scope": "Researcher context only; all labels unknown; all decisions unreviewed. No source worksheet or source evidence modified."
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Capric acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:20.080154+00:00",
+  "url": "/chemical/search/equal/Capric acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9021554",
+        "dtxcid": "DTXCID201554",
+        "casrn": "334-48-5",
+        "preferredName": "Decanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchValue": "Capric acid",
+        "rank": 10,
+        "searchName": "Expert Validated Synonym"
+      }
+    ],
+    "suggestions": []
+  }
+}

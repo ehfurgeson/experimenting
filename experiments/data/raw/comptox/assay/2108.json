@@ -1,0 +1,91 @@
+{
+  "aeid": 2108,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:28:40.232551+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/2108",
+  "status": 200,
+  "response": {
+    "aeid": 2108,
+    "assayList": [
+      {
+        "name": "Developmental Toxicity",
+        "description": "Assays associated with developmental toxicity"
+      }
+    ],
+    "assayName": "TOX21_SHH_3T3_GLI3_LUC_Antagonist",
+    "assayComponentName": "TOX21_SHH_3T3_GLI3_LUC_Antagonist",
+    "assayComponentEndpointName": "TOX21_SHH_3T3_GLI3_LUC_Antagonist",
+    "assayComponentEndpointDesc": "Data from the assay component TOX21_SHH_3T3_GLI3_LUC_Antagonist was analyzed into 1 assay endpoint. This assay endpoint, TOX21_SHH_3T3_GLI3_LUC_Antagonist, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of inducible reporter, loss-of-signal activity can be used to understand changes in the reporter gene as they relate to the gene GLI3. Furthermore, this assay endpoint can be referred to as a primary readout, because this assay has produced multiple assay endpoints where this one serves a reporter gene function.",
+    "assayFunctionType": "antagonist",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "Cyclopamine",
+    "signalDirection": "loss",
+    "intendedTargetType": "pathway",
+    "intendedTargetTypeSub": "pathway-specified",
+    "intendedTargetFamily": "dna binding",
+    "intendedTargetFamilySub": "zinc finger",
+    "cellViabilityAssay": 0,
+    "acid": 1990,
+    "assayComponentDesc": "TOX21_SHH_3T3_GLI3_LUC_Antagonist is one of one assay component(s) measured or calculated from the TOX21_SHH_3T3_GLI3_LUC_Antagonist assay. It is designed to make measurements of luciferase induction, a form of inducible reporter, as detected with bioluminescence signals by CellTiter-Glo Luciferase-coupled ATP quantitation technology.",
+    "assayComponentTargetDesc": "TOX21_SHH_3T3_GLI3_LUC_Antagonist was designed to measure changes to bioluminescence signals produced from an enzymatic reaction involving the key substrate [One-Glo]. Changes are indicative of changes in transcriptional gene expression due to antagonism of Gli3 activation using conditioned medium, part of the sonic hedgehog (Shh) pathway",
+    "parameterReadoutType": "single",
+    "assayDesignType": "inducible reporter",
+    "assayDesignTypeSub": "luciferase induction",
+    "biologicalProcessTarget": "regulation of transcription factor activity",
+    "detectionTechnologyType": "luminescence",
+    "detectionTechnologyTypeSub": "bioluminescence",
+    "detectionTechnology": "CellTiter-Glo Luciferase-coupled ATP quantitation",
+    "keyAssayReagentType": "substrate",
+    "keyAssayReagent": "One-Glo",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "receptor",
+    "aid": 589,
+    "assayDesc": "TOX21_SHH_3T3_GLI3_LUC_Antagonist is a cell-based, single-readout assay that uses NIH/3T3, a mouse embryo cell line, with measurements taken at 24 hours after chemical dosing in a 1536 well. See tox21-shh-3t3-gli3-antagonist-p1.",
+    "timepointHr": 24.0,
+    "organismId": 10090,
+    "organism": "mouse",
+    "tissue": "embryo",
+    "cellFormat": "cell line",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "NIH/3T3",
+    "cellGrowthMode": "adherent",
+    "assayFootprint": "microplate: 1536-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "cell-based format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": null,
+    "asid": 7,
+    "assaySourceName": "TOX21",
+    "assaySourceLongName": "Toxicology in the 21st Century federal research collaboration",
+    "assaySourceDesc": "The Toxicology in the 21st Century (Tox21) program aims to develop better toxicity assessment methods to quickly and efficiently test whether certain chemical compounds have the potential to disrupt processes in the human body that may lead to negative health effects. The Tox21 consortium is a federal collaboration between EPA, the National Toxicology Program (NTP) headquartered at the National Institute of Environmental Health Sciences (NIEHS), the National Center for Advancing Translational Sciences (NCATS) and the Food and Drug Administration (FDA). The NIH Chemical Genomics Center (NCGC) is the primary screening facility running ultra high-throughput screening assays across a large interagency-developed chemical library, often referred to as the Tox21 10K Library.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "sonic hedgehog signaling molecule",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 6469,
+        "officialSymbol": "SHH",
+        "officialFullName": "sonic hedgehog signaling molecule",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.1021/acs.chemrestox.9b00228",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31652400/",
+        "pmid": 31652400,
+        "title": "Identification and Profiling of Environmental Chemicals That Inhibit the TGF-beta/SMAD Signaling Pathway",
+        "author": "Wei Z, Sakamuru S, Zhang L, Zhao J, Huang R, Kleinstreuer NC, Chen Y, Shu Y, Knudsen TB, Xia M",
+        "citation": "Wei Z, Sakamuru S, Zhang L, Zhao J, Huang R, Kleinstreuer NC, Chen Y, Shu Y, Knudsen TB, Xia M. Identification and Profiling of Environmental Chemicals That Inhibit the TGF-beta/SMAD Signaling Pathway. Chem Res Toxicol. 2019 Dec 16;32(12):2433-2444. doi: 10.1021/acs.chemrestox.9b00228. Epub 2019 Nov 11. PMID: 31652400; PMCID: PMC7341485.",
+        "otherId": "NA",
+        "citationId": 282,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

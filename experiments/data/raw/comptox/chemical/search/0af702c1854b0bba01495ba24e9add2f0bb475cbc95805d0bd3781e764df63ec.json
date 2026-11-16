@@ -1,0 +1,25 @@
+{
+  "search_term": "YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:01.206226+00:00",
+  "url": "/chemical/search/equal/YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Salicylic acid",
+        "dtxsid": "DTXSID7026368",
+        "dtxcid": "DTXCID206368",
+        "casrn": "69-72-7",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=C(O)C=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "YGSDEFSMJLZEOE-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

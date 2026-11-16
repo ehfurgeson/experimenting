@@ -1,0 +1,25 @@
+{
+  "search_term": "Davanone",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:26.059846+00:00",
+  "url": "/chemical/search/equal/Davanone",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID70174449",
+        "dtxcid": "DTXCID4096940",
+        "casrn": "20482-11-5",
+        "preferredName": "5-Hepten-3-one, 2-[(2S,5R)-5-ethenyltetrahydro-5-methyl-2-furanyl]-6-methyl-, (2S)-",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@]1(CC[C@@](C)(O1)C=C)[C@H](C)C(=O)CC=C(C)C",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Davanone",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

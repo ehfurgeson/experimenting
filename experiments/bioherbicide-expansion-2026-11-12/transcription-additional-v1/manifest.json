@@ -1,0 +1,16 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/extract_additional_series.py": "d6b0a463dc5541f6c4d0230b5502d2123786a430a30eaae25764120afc3ebaf1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/ophiobolins2021.html": "e7f648679a8121cb8e61907e660eee2e1740ddbe37ad97c755f26a2bca2dd2c8",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/ophiobolins2021.tables.json": "e3bb05b177cd02b0594ccceb2ae6c42d26e1d2c8e6db0ace6dce9af66f83a615",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/marinefungi2018.html": "a7b733c9e657222dada892206eda736e2e844f4af3c6d460f9641eda34e8555b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/sources/marinefungi2018.tables.json": "1f86331cca4114fdd98ef642610be9549cd799ff0516ebbfedae73f57764b525"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/bioherbicide-expansion-2026-11-12/transcription-additional-v1/observations.csv": "9a966d512377fa30ec7efd3fe86a12c3709c1ea5a395528db8242ac8e61a9310"
+  },
+  "plant_observations": 91,
+  "cancer_cell_observations": 20,
+  "new_human_approved_labels": 0,
+  "scope": "Provisional AI transcription; all source compounds/conditions in the selected tables. Raw intervals retained without midpoints; qualitative negatives remain qualitative; no model fitting."
+}

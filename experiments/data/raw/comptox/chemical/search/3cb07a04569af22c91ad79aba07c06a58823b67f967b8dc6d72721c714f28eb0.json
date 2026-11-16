@@ -1,0 +1,25 @@
+{
+  "search_term": "ZSDSQXJSNMTJDA-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:39.309166+00:00",
+  "url": "/chemical/search/equal/ZSDSQXJSNMTJDA-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Trifluralin",
+        "dtxsid": "DTXSID4021395",
+        "dtxcid": "DTXCID401395",
+        "casrn": "1582-09-8",
+        "hasStructureImage": 1,
+        "smiles": "CCCN(CCC)C1=C(C=C(C=C1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "ZSDSQXJSNMTJDA-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

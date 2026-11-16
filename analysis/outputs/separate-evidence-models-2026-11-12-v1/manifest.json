@@ -1,0 +1,36 @@
+{
+  "release_manifest_sha256": "4414111cee796418a727a3f850d13c5f85b89778eb9283b9ad3dc3cf677f8336",
+  "protocol_sha256": "e01be805dfe61b5f7c75db39fd20e5dd4c44e8bcfb62bce29cf3e3441cf5c8db",
+  "runtime": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "scikit-learn": "1.9.1",
+    "polars": "2.0.0",
+    "rdkit": "2026.9.1",
+    "altair": "6.3.0",
+    "vl-convert-python": "1.9.0.post1"
+  },
+  "code": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_models.py": "8d1d75c07a8412dcbb40f0f9d999cde6ef2e2a67e778a56f0ae7375ed080290a",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/oob.py": "da7a436a6df7c42456ac80c1362831634826502750d7136d47e95757ad2b9eda",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_release.py": "325a19bb182bcc829bf2950dfe2eaf08e732a3454c935f836d1d0d6b1273a94e"
+  },
+  "outputs": {
+    "agreement_summary.csv": "94ce294a324f0603aae078216858e1bb46039147bae0d4a72258ad958bb9cdcf",
+    "decision_C.json": "517ba9def0f8d5269951b284a49c0c583363d74288c68e37568bfd571669f35a",
+    "metrics.csv": "dbfa57435a970c725c1e15da34dac3a27d88b21a5eb7f3a546a5ad388620c1d1",
+    "oob.csv": "e81d7d209b14a1c193dc6f72808919296bf3a31ca94ca83db1f4f5619e01ea39",
+    "paired_agreement.csv": "aa0d44251f7b7286e8a6b1f897d9f108befc047235f5d1c5a7d47312a876455d",
+    "paired_agreement.svg": "6629901dd0a2a0f1b4664c1bb2a38288c89afc05f7b0b015f8a9d8138d1729e2",
+    "pooled_metrics.csv": "b7dc3632eae56d309704dcab3fe243250c59a32063652f0e3c1c022351450133",
+    "predictions.csv": "a53bd8299342a60f173008f0b212f79a76d04ac740bf7ad55a22c6035dc13748",
+    "residual_histogram.csv": "ac545ef6ed52f7016c2fabf25ee6ad5398804fc6baa119136c21226dc3808e33",
+    "residuals.svg": "e9384925efa8f5f3120b21bc9e5b0178e5a052b8a73a5fe3b8cb44fbb6d40f97",
+    "runtime.json": "b51e685035523b2b7a11d60edc4b2ca35c8b97ce5d1fcd860e5f60db7eb89002",
+    "splits.csv": "d8cfa644067227e76fda140cdf6ddaff5f546a44101265bab5674f0034be669b",
+    "status.csv": "55f3878c52d4721c621eeb4b16fa446c85721d33f88c39e4a60f8431a585ec03",
+    "walkthrough.html": "4c24141a1f51a86016d821fb53fbafcfdc88c60bde011d3012fd38e3b5eb2f75",
+    "weights.csv": "5c173bbe3d1ed31bb6bf0420c4768a2a3f480f7c6e9ea24cdb58e7652339c58c"
+  },
+  "decision_C": "defer"
+}

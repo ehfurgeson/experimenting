@@ -1,0 +1,31 @@
+{
+  "Record": {
+    "RecordTitle": "Synthetic Beta",
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "Synthetic source",
+        "URL": "https://example.org/c"
+      }
+    ],
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Information": [
+          {
+            "Name": "LD50",
+            "Description": "rat oral",
+            "ReferenceNumber": 1,
+            "Value": {
+              "StringWithMarkup": [
+                {
+                  "String": "10 g/kg"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

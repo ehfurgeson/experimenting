@@ -1,0 +1,25 @@
+{
+  "search_term": "Caprylic acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:18.297224+00:00",
+  "url": "/chemical/search/equal/Caprylic acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3021645",
+        "dtxcid": "DTXCID501645",
+        "casrn": "124-07-2",
+        "preferredName": "Octanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchValue": "Caprylic acid",
+        "rank": 10,
+        "searchName": "Expert Validated Synonym"
+      }
+    ],
+    "suggestions": []
+  }
+}

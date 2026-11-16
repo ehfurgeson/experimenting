@@ -1,0 +1,13 @@
+target,representation,n,positives,negatives,excluded,duplicates,scaffolds,folds,status,accuracy,balanced_accuracy,roc_auc,average_precision,precision,recall,f1,baseline_accuracy,baseline_balanced_accuracy,tn,fp,fn,tp,max_components
+selection_target,formula,0,0,0,73,0,0,5,insufficient_class_support,,,,,,,,,,,,,,
+selection_target,descriptors,0,0,0,73,0,0,5,insufficient_class_support,,,,,,,,,,,,,,
+selection_target,morgan,0,0,0,73,0,0,5,insufficient_class_support,,,,,,,,,,,,,,
+selection_target,combined,0,0,0,73,0,0,5,insufficient_class_support,,,,,,,,,,,,,,
+activity_target,formula,73,41,32,0,0,7,5,evaluated,0.5068493150684932,0.4958079268292683,0.48971036585365857,0.5775861078277077,0.5581395348837209,0.5853658536585366,0.5714285714285714,0.5616438356164384,0.5,13,19,17,24,7
+activity_target,descriptors,73,41,32,0,0,7,5,evaluated,0.4794520547945205,0.4302591463414634,0.3940548780487805,0.5476181814639642,0.5230769230769231,0.8292682926829268,0.6415094339622641,0.5616438356164384,0.5,1,31,7,34,6
+activity_target,morgan,73,41,32,0,0,7,5,evaluated,0.6301369863013698,0.6158536585365854,0.6638719512195121,0.7104692010901051,0.6521739130434783,0.7317073170731707,0.6896551724137931,0.5616438356164384,0.5,16,16,11,30,39
+activity_target,combined,73,41,32,0,0,7,5,evaluated,0.6164383561643836,0.6002286585365854,0.6471036585365854,0.7226449493310171,0.6382978723404256,0.7317073170731707,0.6818181818181818,0.5616438356164384,0.5,15,17,11,30,39
+origin_target,formula,2,2,0,71,0,2,5,insufficient_class_support,,,,,,,,,,,,,,
+origin_target,descriptors,2,2,0,71,0,2,5,insufficient_class_support,,,,,,,,,,,,,,
+origin_target,morgan,2,2,0,71,0,2,5,insufficient_class_support,,,,,,,,,,,,,,
+origin_target,combined,2,2,0,71,0,2,5,insufficient_class_support,,,,,,,,,,,,,,

@@ -1,0 +1,25 @@
+{
+  "search_term": "FFEARJCKVFRZRR-BYPYZUCNSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:35.407245+00:00",
+  "url": "/chemical/search/equal/FFEARJCKVFRZRR-BYPYZUCNSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5040548",
+        "dtxcid": "DTXCID3020548",
+        "casrn": "63-68-3",
+        "preferredName": "L-Methionine",
+        "hasStructureImage": 1,
+        "smiles": "CSCC[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "FFEARJCKVFRZRR-BYPYZUCNSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

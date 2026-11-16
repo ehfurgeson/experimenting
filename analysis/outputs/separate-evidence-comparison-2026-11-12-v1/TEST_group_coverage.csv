@@ -1,0 +1,84 @@
+endpoint,version,unit,group,domain,compounds,finite,median_original_scale,normalization
+48 Hour Daphnia Magna LC50,TEST5.1.3,mol/L,dietary_inventory_only,Inside,37,37,0.000622507797818672,raw_provider_scale_retained_no_molar_conversion
+48 Hour Daphnia Magna LC50,TEST5.1.3,mol/L,selected_herbicide,Inside,38,38,1.4369409429621741e-05,raw_provider_scale_retained_no_molar_conversion
+48 Hour Daphnia Magna LC50,TEST5.1.3,mol/L,selected_herbicide,Outside,11,0,,raw_provider_scale_retained_no_molar_conversion
+48 Hour Daphnia Magna LC50,TEST5.1.3,mol/L,selected_natural_product,Inside,87,87,0.00010472639987760407,raw_provider_scale_retained_no_molar_conversion
+48 Hour Tetrahymena Pyriformis IGC50,TEST5.1.3,mol/L,dietary_inventory_only,Inside,26,26,0.006945535930061231,raw_provider_scale_retained_no_molar_conversion
+48 Hour Tetrahymena Pyriformis IGC50,TEST5.1.3,mol/L,dietary_inventory_only,Outside,11,0,,raw_provider_scale_retained_no_molar_conversion
+48 Hour Tetrahymena Pyriformis IGC50,TEST5.1.3,mol/L,selected_herbicide,Inside,16,16,6.422452902338907e-05,raw_provider_scale_retained_no_molar_conversion
+48 Hour Tetrahymena Pyriformis IGC50,TEST5.1.3,mol/L,selected_herbicide,Outside,33,0,,raw_provider_scale_retained_no_molar_conversion
+48 Hour Tetrahymena Pyriformis IGC50,TEST5.1.3,mol/L,selected_natural_product,Inside,74,74,0.00048479260719462314,raw_provider_scale_retained_no_molar_conversion
+48 Hour Tetrahymena Pyriformis IGC50,TEST5.1.3,mol/L,selected_natural_product,Outside,13,0,,raw_provider_scale_retained_no_molar_conversion
+96 Hour Fathead Minnow LC50,TEST5.1.3,mol/L,dietary_inventory_only,Inside,36,36,0.0022058797192856796,raw_provider_scale_retained_no_molar_conversion
+96 Hour Fathead Minnow LC50,TEST5.1.3,mol/L,dietary_inventory_only,Outside,1,0,,raw_provider_scale_retained_no_molar_conversion
+96 Hour Fathead Minnow LC50,TEST5.1.3,mol/L,selected_herbicide,Inside,38,38,1.2226104430409898e-05,raw_provider_scale_retained_no_molar_conversion
+96 Hour Fathead Minnow LC50,TEST5.1.3,mol/L,selected_herbicide,Outside,11,0,,raw_provider_scale_retained_no_molar_conversion
+96 Hour Fathead Minnow LC50,TEST5.1.3,mol/L,selected_natural_product,Inside,84,84,7.297599369222045e-05,raw_provider_scale_retained_no_molar_conversion
+96 Hour Fathead Minnow LC50,TEST5.1.3,mol/L,selected_natural_product,Outside,3,0,,raw_provider_scale_retained_no_molar_conversion
+Ames Mutagenicity,TEST5.1.3,Binary 0/1,dietary_inventory_only,Inside,37,37,0.07803715747318364,raw_provider_scale_retained_no_molar_conversion
+Ames Mutagenicity,TEST5.1.3,Binary 0/1,selected_herbicide,Inside,44,44,0.3030612465310967,raw_provider_scale_retained_no_molar_conversion
+Ames Mutagenicity,TEST5.1.3,Binary 0/1,selected_herbicide,Outside,5,0,,raw_provider_scale_retained_no_molar_conversion
+Ames Mutagenicity,TEST5.1.3,Binary 0/1,selected_natural_product,Inside,84,84,0.1513792334572608,raw_provider_scale_retained_no_molar_conversion
+Ames Mutagenicity,TEST5.1.3,Binary 0/1,selected_natural_product,Outside,3,0,,raw_provider_scale_retained_no_molar_conversion
+Bioconcentration Factor,TEST5.1.3,L/kg,dietary_inventory_only,Inside,32,32,0.3387535596701038,raw_provider_scale_retained_no_molar_conversion
+Bioconcentration Factor,TEST5.1.3,L/kg,dietary_inventory_only,Outside,5,0,,raw_provider_scale_retained_no_molar_conversion
+Bioconcentration Factor,TEST5.1.3,L/kg,selected_herbicide,Inside,36,36,11.643166485534714,raw_provider_scale_retained_no_molar_conversion
+Bioconcentration Factor,TEST5.1.3,L/kg,selected_herbicide,Outside,13,0,,raw_provider_scale_retained_no_molar_conversion
+Bioconcentration Factor,TEST5.1.3,L/kg,selected_natural_product,Inside,68,68,3.988179638009889,raw_provider_scale_retained_no_molar_conversion
+Bioconcentration Factor,TEST5.1.3,L/kg,selected_natural_product,Outside,19,0,,raw_provider_scale_retained_no_molar_conversion
+Boiling Point,TEST5.1.3,°C,dietary_inventory_only,Inside,36,36,310.0751902541682,raw_provider_scale_retained_no_molar_conversion
+Boiling Point,TEST5.1.3,°C,dietary_inventory_only,Outside,1,0,,raw_provider_scale_retained_no_molar_conversion
+Boiling Point,TEST5.1.3,°C,selected_herbicide,Inside,36,36,343.43240853309874,raw_provider_scale_retained_no_molar_conversion
+Boiling Point,TEST5.1.3,°C,selected_herbicide,Outside,13,0,,raw_provider_scale_retained_no_molar_conversion
+Boiling Point,TEST5.1.3,°C,selected_natural_product,Inside,87,87,299.311070337643,raw_provider_scale_retained_no_molar_conversion
+Density,TEST5.1.3,g/cm^3,dietary_inventory_only,Inside,37,37,1.2380945223086741,raw_provider_scale_retained_no_molar_conversion
+Density,TEST5.1.3,g/cm^3,selected_herbicide,Inside,42,42,1.4107867754908763,raw_provider_scale_retained_no_molar_conversion
+Density,TEST5.1.3,g/cm^3,selected_herbicide,Outside,7,0,,raw_provider_scale_retained_no_molar_conversion
+Density,TEST5.1.3,g/cm^3,selected_natural_product,Inside,87,87,1.254511606751249,raw_provider_scale_retained_no_molar_conversion
+Developmental Toxicity,TEST5.1.3,Binary 0/1,dietary_inventory_only,Inside,37,37,0.5611441135563927,raw_provider_scale_retained_no_molar_conversion
+Developmental Toxicity,TEST5.1.3,Binary 0/1,selected_herbicide,Inside,46,46,0.7572050851159575,raw_provider_scale_retained_no_molar_conversion
+Developmental Toxicity,TEST5.1.3,Binary 0/1,selected_herbicide,Outside,3,0,,raw_provider_scale_retained_no_molar_conversion
+Developmental Toxicity,TEST5.1.3,Binary 0/1,selected_natural_product,Inside,84,84,0.6448236323100296,raw_provider_scale_retained_no_molar_conversion
+Developmental Toxicity,TEST5.1.3,Binary 0/1,selected_natural_product,Outside,3,0,,raw_provider_scale_retained_no_molar_conversion
+Flash Point,TEST5.1.3,°C,dietary_inventory_only,Inside,37,37,166.84572356456883,raw_provider_scale_retained_no_molar_conversion
+Flash Point,TEST5.1.3,°C,selected_herbicide,Inside,40,40,201.49327156225192,raw_provider_scale_retained_no_molar_conversion
+Flash Point,TEST5.1.3,°C,selected_herbicide,Outside,9,0,,raw_provider_scale_retained_no_molar_conversion
+Flash Point,TEST5.1.3,°C,selected_natural_product,Inside,87,87,163.5320922313031,raw_provider_scale_retained_no_molar_conversion
+Melting Point,TEST5.1.3,°C,dietary_inventory_only,Inside,37,37,144.45991523368082,raw_provider_scale_retained_no_molar_conversion
+Melting Point,TEST5.1.3,°C,selected_herbicide,Inside,45,45,126.78222291014019,raw_provider_scale_retained_no_molar_conversion
+Melting Point,TEST5.1.3,°C,selected_herbicide,Outside,4,0,,raw_provider_scale_retained_no_molar_conversion
+Melting Point,TEST5.1.3,°C,selected_natural_product,Inside,87,87,130.12223406116559,raw_provider_scale_retained_no_molar_conversion
+Oral Rat LD50,TEST5.1.3,mol/kg,dietary_inventory_only,Inside,35,35,0.03917141884977962,raw_provider_scale_retained_no_molar_conversion
+Oral Rat LD50,TEST5.1.3,mol/kg,dietary_inventory_only,Outside,2,0,,raw_provider_scale_retained_no_molar_conversion
+Oral Rat LD50,TEST5.1.3,mol/kg,selected_herbicide,Inside,39,39,0.004714266430881411,raw_provider_scale_retained_no_molar_conversion
+Oral Rat LD50,TEST5.1.3,mol/kg,selected_herbicide,Outside,10,0,,raw_provider_scale_retained_no_molar_conversion
+Oral Rat LD50,TEST5.1.3,mol/kg,selected_natural_product,Inside,81,81,0.0094486959673803,raw_provider_scale_retained_no_molar_conversion
+Oral Rat LD50,TEST5.1.3,mol/kg,selected_natural_product,Outside,6,0,,raw_provider_scale_retained_no_molar_conversion
+Surface Tension,TEST5.1.3,dyn/cm,dietary_inventory_only,Inside,28,28,32.438250982832066,raw_provider_scale_retained_no_molar_conversion
+Surface Tension,TEST5.1.3,dyn/cm,dietary_inventory_only,Outside,9,0,,raw_provider_scale_retained_no_molar_conversion
+Surface Tension,TEST5.1.3,dyn/cm,selected_herbicide,Inside,4,4,40.302301820812374,raw_provider_scale_retained_no_molar_conversion
+Surface Tension,TEST5.1.3,dyn/cm,selected_herbicide,Outside,45,0,,raw_provider_scale_retained_no_molar_conversion
+Surface Tension,TEST5.1.3,dyn/cm,selected_natural_product,Inside,47,47,37.47336714661901,raw_provider_scale_retained_no_molar_conversion
+Surface Tension,TEST5.1.3,dyn/cm,selected_natural_product,Outside,40,0,,raw_provider_scale_retained_no_molar_conversion
+Thermal Conductivity,TEST5.1.3,mW/(m*K),dietary_inventory_only,Inside,21,21,192.70517249857687,raw_provider_scale_retained_no_molar_conversion
+Thermal Conductivity,TEST5.1.3,mW/(m*K),dietary_inventory_only,Outside,16,0,,raw_provider_scale_retained_no_molar_conversion
+Thermal Conductivity,TEST5.1.3,mW/(m*K),selected_herbicide,Inside,15,15,143.24637899479956,raw_provider_scale_retained_no_molar_conversion
+Thermal Conductivity,TEST5.1.3,mW/(m*K),selected_herbicide,Outside,34,0,,raw_provider_scale_retained_no_molar_conversion
+Thermal Conductivity,TEST5.1.3,mW/(m*K),selected_natural_product,Inside,35,35,148.27411529555025,raw_provider_scale_retained_no_molar_conversion
+Thermal Conductivity,TEST5.1.3,mW/(m*K),selected_natural_product,Outside,52,0,,raw_provider_scale_retained_no_molar_conversion
+Vapor Pressure,TEST5.1.3,mmHg,dietary_inventory_only,Inside,36,36,7.311018040215177e-07,raw_provider_scale_retained_no_molar_conversion
+Vapor Pressure,TEST5.1.3,mmHg,dietary_inventory_only,Outside,1,0,,raw_provider_scale_retained_no_molar_conversion
+Vapor Pressure,TEST5.1.3,mmHg,selected_herbicide,Inside,40,40,4.398933742694191e-07,raw_provider_scale_retained_no_molar_conversion
+Vapor Pressure,TEST5.1.3,mmHg,selected_herbicide,Outside,9,0,,raw_provider_scale_retained_no_molar_conversion
+Vapor Pressure,TEST5.1.3,mmHg,selected_natural_product,Inside,85,85,7.562123885025317e-05,raw_provider_scale_retained_no_molar_conversion
+Vapor Pressure,TEST5.1.3,mmHg,selected_natural_product,Outside,2,0,,raw_provider_scale_retained_no_molar_conversion
+Viscosity,TEST5.1.3,cP,dietary_inventory_only,Inside,35,35,12.921598633427182,raw_provider_scale_retained_no_molar_conversion
+Viscosity,TEST5.1.3,cP,dietary_inventory_only,Outside,2,0,,raw_provider_scale_retained_no_molar_conversion
+Viscosity,TEST5.1.3,cP,selected_herbicide,Inside,14,14,17.04041858236077,raw_provider_scale_retained_no_molar_conversion
+Viscosity,TEST5.1.3,cP,selected_herbicide,Outside,35,0,,raw_provider_scale_retained_no_molar_conversion
+Viscosity,TEST5.1.3,cP,selected_natural_product,Inside,57,57,9.901166580145802,raw_provider_scale_retained_no_molar_conversion
+Viscosity,TEST5.1.3,cP,selected_natural_product,Outside,30,0,,raw_provider_scale_retained_no_molar_conversion
+Water Solubility,TEST5.1.3,mol/L,dietary_inventory_only,Inside,37,37,0.440573070801949,raw_provider_scale_retained_no_molar_conversion
+Water Solubility,TEST5.1.3,mol/L,selected_herbicide,Inside,45,45,0.00023742334932654873,raw_provider_scale_retained_no_molar_conversion
+Water Solubility,TEST5.1.3,mol/L,selected_herbicide,Outside,4,0,,raw_provider_scale_retained_no_molar_conversion
+Water Solubility,TEST5.1.3,mol/L,selected_natural_product,Inside,87,87,0.008154929122731023,raw_provider_scale_retained_no_molar_conversion

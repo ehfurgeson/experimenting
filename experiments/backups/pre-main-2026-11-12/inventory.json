@@ -1,0 +1,3736 @@
+{
+  "format_version": 1,
+  "source_repository_root": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity",
+  "source_git_commit": "f597eed0cb60b705f77d8fb807a0386da3649363",
+  "roots": [
+    "analysis/outputs/aquatic-context-experimental-2026-11-12",
+    "analysis/outputs/aquatic-context-reviewed-2026-11-12",
+    "analysis/outputs/binding-structural-pilot-2026-11-12",
+    "analysis/outputs/binding-structural-pilot-2026-11-12-final",
+    "analysis/outputs/experimental-ecotox-decisions-2026-11-12",
+    "analysis/outputs/experimental-flavonoid-transfer-2026-11-12",
+    "analysis/outputs/experimental-heterogeneous-activity-2026-11-12",
+    "analysis/outputs/experimental-heterogeneous-controls-2026-11-12",
+    "analysis/outputs/experimental-heterogeneous-diagnostics-2026-11-12",
+    "analysis/outputs/experimental-publication-transfer-2026-11-12",
+    "analysis/outputs/experimental-publication-transfer-2026-11-12-final",
+    "analysis/outputs/experimental-research-checkpoint-2026-11-12",
+    "analysis/outputs/rat-source-reconciliation-2026-11-12",
+    "experiments/aquatic-context-2026-11-12",
+    "experiments/aquatic-series-2026-11-12",
+    "experiments/binding-pilot-2026-11-12",
+    "experiments/bioherbicide-expansion-2026-11-12",
+    "experiments/compatible-assays-2026-11-12",
+    "experiments/daphnia-source-review-2026-11-12",
+    "experiments/rat-source-review-2026-11-12"
+  ],
+  "files": [
+    {
+      "path": "analysis/ablations.py",
+      "bytes": 13419,
+      "sha256": "69c9ab5ecbbeb7d4e8f990818df1e58876211387e239d88fba4905c82cdb4f25"
+    },
+    {
+      "path": "analysis/activity_preflight.py",
+      "bytes": 7877,
+      "sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "path": "analysis/binding_catalog.py",
+      "bytes": 13596,
+      "sha256": "8ae097a14cfb8eb1d884a081ad35db20e2e99ec4a753413bc46745c05a4a7656"
+    },
+    {
+      "path": "analysis/build_traits.py",
+      "bytes": 9561,
+      "sha256": "fcc3416a925b3a7f5ee174b1c9e1922418061f83ffa5c088ddf15c9ec7d55c55"
+    },
+    {
+      "path": "analysis/classifiers.py",
+      "bytes": 4103,
+      "sha256": "17623c3f885c58f9b4279d71e935085c8e1b5696eded6215b44a93a736f10e7b"
+    },
+    {
+      "path": "analysis/compare.py",
+      "bytes": 2880,
+      "sha256": "91fe1dee8d8ee2f09fee4ffb57e06af0d1427d3a430d19e85b8ed21ad6048004"
+    },
+    {
+      "path": "analysis/context_overlay.py",
+      "bytes": 12342,
+      "sha256": "5cf38ce4d204bfac09586aa9bcc5ca7212d263e98a0a4f46f40e1ab54d00a282"
+    },
+    {
+      "path": "analysis/data/compound_traits.parquet",
+      "bytes": 66602,
+      "sha256": "b7603ce28182ca93650074e40bf6c573af971a06daa7e67c7d9a87e9bda1c90e"
+    },
+    {
+      "path": "analysis/dietary_candidates.py",
+      "bytes": 8322,
+      "sha256": "7f1b6b33b90c39ebd50d817e37c9d60fb0220bf40710fb2498b5da421c7f56e4"
+    },
+    {
+      "path": "analysis/distributions.py",
+      "bytes": 2111,
+      "sha256": "705855cdb194d2cbe5c65873b464f03e5fab6dcdbc5d271a5125579e7bbe3d65"
+    },
+    {
+      "path": "analysis/ecotox_approved.py",
+      "bytes": 8317,
+      "sha256": "ee74b50dedf6ebdcca1595a56ae72f035e3dd5c26d5b97d4c2d5a034e744fe36"
+    },
+    {
+      "path": "analysis/ecotox_comparison.py",
+      "bytes": 20538,
+      "sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137"
+    },
+    {
+      "path": "analysis/endpoint_analysis.py",
+      "bytes": 3765,
+      "sha256": "83f4380a4bda00563dbb9f7b61e3a777a082e12b8d93ba84ed31f487421debab"
+    },
+    {
+      "path": "analysis/endpoint_coverage.py",
+      "bytes": 1693,
+      "sha256": "531c143d7b492cd2c358c157cb1153b5e3217c72a2db7293feb5d7ca5a6fe85a"
+    },
+    {
+      "path": "analysis/evidence_review.py",
+      "bytes": 14659,
+      "sha256": "03264770c627332281ce655ffacaa951baba9d6a23ae03d4fef8ef8b16c2501a"
+    },
+    {
+      "path": "analysis/expansion_report.py",
+      "bytes": 12815,
+      "sha256": "726098e09e23ac3c5409b87c20408a0e2812f5794cea02931ba36f6deb846f64"
+    },
+    {
+      "path": "analysis/expansion_toxicity.py",
+      "bytes": 16151,
+      "sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca"
+    },
+    {
+      "path": "analysis/formula.py",
+      "bytes": 1700,
+      "sha256": "d326c65e8740a46232c8c2ae15a5211e03c97d356a48f74e12dc6eea8a661bad"
+    },
+    {
+      "path": "analysis/labels.py",
+      "bytes": 3408,
+      "sha256": "de58a73de3beac73a2a3eb81f2f636706814fc63d4acd470e4e9d88acbc0e6c1"
+    },
+    {
+      "path": "analysis/oob.py",
+      "bytes": 3166,
+      "sha256": "da7a436a6df7c42456ac80c1362831634826502750d7136d47e95757ad2b9eda"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-experimental-2026-11-12/compound_context_summaries.csv",
+      "bytes": 7094,
+      "sha256": "bc1f82275c7dc0a5455ac5d9a39b2ca22c7a1f66fdd238d493324399c344c832"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-experimental-2026-11-12/context_decisions.csv",
+      "bytes": 5828,
+      "sha256": "21ef9420f92a6be4eb98f94ac07032df4ec6badad90e2562f1517c31b160ee3b"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-experimental-2026-11-12/coverage.csv",
+      "bytes": 503,
+      "sha256": "5a863d33e9e9338b38610cf3e67a88581b9db9f149879c4c55d271b6bb7249c1"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-experimental-2026-11-12/manifest.json",
+      "bytes": 4459,
+      "sha256": "ffaed1cd38ae8a6045b44974d8768ef230d95b556ab0352a5b06f8a5a7443a82"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-experimental-2026-11-12/original_aquatic_observations.csv",
+      "bytes": 30016,
+      "sha256": "024d93f2ba6cf4d9fd4dbd9182bc6d54f89d79d1207c7c62f63c3efb93f1ba5d"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-experimental-2026-11-12/source_adjudicated_observations.csv",
+      "bytes": 37019,
+      "sha256": "01a82c3932d5978cfdc922a2617bd55889ef2feac851c7196d9cdf333ee7d37a"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-reviewed-2026-11-12/compound_context_summaries.csv",
+      "bytes": 7094,
+      "sha256": "bc1f82275c7dc0a5455ac5d9a39b2ca22c7a1f66fdd238d493324399c344c832"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-reviewed-2026-11-12/context_decisions.csv",
+      "bytes": 5836,
+      "sha256": "e9a217fbcc05b7219fa17ef1e855b279047b5490e9d5cf7baf07c0f379a42a3d"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-reviewed-2026-11-12/coverage.csv",
+      "bytes": 503,
+      "sha256": "5a863d33e9e9338b38610cf3e67a88581b9db9f149879c4c55d271b6bb7249c1"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-reviewed-2026-11-12/manifest.json",
+      "bytes": 4435,
+      "sha256": "b1e0945ccf125594f87080b004c3a3c0680d631bfe2d839ae0e76fbc3af06ab6"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-reviewed-2026-11-12/original_aquatic_observations.csv",
+      "bytes": 30016,
+      "sha256": "024d93f2ba6cf4d9fd4dbd9182bc6d54f89d79d1207c7c62f63c3efb93f1ba5d"
+    },
+    {
+      "path": "analysis/outputs/aquatic-context-reviewed-2026-11-12/source_adjudicated_observations.csv",
+      "bytes": 36691,
+      "sha256": "344ddd6c7877a48b829f8f9c0fad72f559bec4a513232176d066488ec98331a9"
+    },
+    {
+      "path": "analysis/outputs/binding-structural-pilot-2026-11-12/interactions.csv",
+      "bytes": 3075,
+      "sha256": "d3d811513bf48019608796e6586557bbb1dfb1b356812c950d756f798b279ebf"
+    },
+    {
+      "path": "analysis/outputs/binding-structural-pilot-2026-11-12/manifest.json",
+      "bytes": 5294,
+      "sha256": "ffcc772cad3826e5c5f90e208839ef1d90460bdc5fbb7ca8b517a1bebb6ebfb7"
+    },
+    {
+      "path": "analysis/outputs/binding-structural-pilot-2026-11-12/protein_entities.csv",
+      "bytes": 856,
+      "sha256": "ce207b5997328e4df52f35e0505de7162f3b4352f212f1406f8a428318ff3e60"
+    },
+    {
+      "path": "analysis/outputs/binding-structural-pilot-2026-11-12/protein_sequences.fasta",
+      "bytes": 1741,
+      "sha256": "8d33199dd862b5e6b66f5be851391763a7d999665bbc7bef80d2c477abcca3e2"
+    },
+    {
+      "path": "analysis/outputs/binding-structural-pilot-2026-11-12-final/interactions.csv",
+      "bytes": 3075,
+      "sha256": "d3d811513bf48019608796e6586557bbb1dfb1b356812c950d756f798b279ebf"
+    },
+    {
+      "path": "analysis/outputs/binding-structural-pilot-2026-11-12-final/manifest.json",
+      "bytes": 5312,
+      "sha256": "dfe48b4daca80f9832545e0f3a75be2feade3b7f1dbf320be867a90bfd4b845e"
+    },
+    {
+      "path": "analysis/outputs/binding-structural-pilot-2026-11-12-final/protein_entities.csv",
+      "bytes": 856,
+      "sha256": "ce207b5997328e4df52f35e0505de7162f3b4352f212f1406f8a428318ff3e60"
+    },
+    {
+      "path": "analysis/outputs/binding-structural-pilot-2026-11-12-final/protein_sequences.fasta",
+      "bytes": 1741,
+      "sha256": "8d33199dd862b5e6b66f5be851391763a7d999665bbc7bef80d2c477abcca3e2"
+    },
+    {
+      "path": "analysis/outputs/chembl-review-screen-2026-10-29-final/structural_features.parquet",
+      "bytes": 53896,
+      "sha256": "b6fdbd0f45c47e0a84ad17c9b2b1f42427cd2d5e12af2f0d050109ac496c73d8"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/aquatic_observations.csv",
+      "bytes": 30016,
+      "sha256": "024d93f2ba6cf4d9fd4dbd9182bc6d54f89d79d1207c7c62f63c3efb93f1ba5d"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/aquatic_observations.svg",
+      "bytes": 72880,
+      "sha256": "153f855ccf16778e92efacdb65f2cbde33ecd2372acbde3375ca511cb82b4c20"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/compound_context_summaries.csv",
+      "bytes": 7451,
+      "sha256": "ca175b9f9320b6ff198b8561ac6129e564e179f7c303b66293ef29ddc2eab363"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/exposure_contexts.csv",
+      "bytes": 335,
+      "sha256": "44f2c55f33cf10333dba10b7096e714a00c734358b6fad69238b9c38343d7bcd"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/exposure_coverage.svg",
+      "bytes": 11289,
+      "sha256": "99c1e68671cc81eb8cc080b78facdba6a49380ad73218ee339ffdb569af5a65e"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/manifest.json",
+      "bytes": 5134,
+      "sha256": "6ce3ced9cf6f94dc70bda5bcac83f7f140b29a585bb741f487aaf3e0ba4a669f"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/policy_coverage.csv",
+      "bytes": 321,
+      "sha256": "f14b7f4a65ce2a8a10ccb17010b29fa517b50ed098e021b6d414d1b97f42048a"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/rat_ld50_review.csv",
+      "bytes": 7980,
+      "sha256": "fb5b3c53f780971d8bce47a28fedce7bed6f35dee6aad065014c1b5c0978a81e"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/row_accounting.csv",
+      "bytes": 134,
+      "sha256": "9b3979c44e6952f60c03c7904f689663ba55c31a03456885e30de333b052f60c"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/sensitivity.csv",
+      "bytes": 620,
+      "sha256": "a23185414cffd22c4d5bc69e8884e4d39ae445ff03b0b4c7eec6d08c1c42eece"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/walkthrough.html",
+      "bytes": 2911,
+      "sha256": "6d72c44ac43a002a624b627c2b04acf88c242c1f5a8305b50dcb1460bfcf6ec4"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/aquatic_exposure_strata.csv",
+      "bytes": 197,
+      "sha256": "4d9ca2d0d2c2704be33aa7b3a78832299ba2041444e7f0144afe39914b4aa1c9"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/aquatic_policy_summary.csv",
+      "bytes": 144,
+      "sha256": "c368b31eee07276120c0aa2a579eadab86067bd85a4d4a479ec7171a7a11f6b1"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/censored_bins.csv",
+      "bytes": 4117,
+      "sha256": "3f919c6b8f8eda69a361185bc527b5966a4f32f13ac7ec616d952736ea754a01"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/context_missingness.csv",
+      "bytes": 110,
+      "sha256": "6d9fa8a0b8b06866f3ec788b74c2d806e35a751399f383857067b5ff2cb7d193"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/manifest.json",
+      "bytes": 4434,
+      "sha256": "bb434524b66148da9d2141ad8b460bcedb25aff3d185782685c85a3bcab2dee9"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/missingness.svg",
+      "bytes": 10067,
+      "sha256": "407da521600054aa56c65ee14f7b391f8ccf87c2f6f7dd98192f8d0b8d8b0f20"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/sensitivity_compounds.csv",
+      "bytes": 7092,
+      "sha256": "8b0d0b2e2fe3fc0930a73620f71afc444ae6045a64abee6e98c31d4ed249497a"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/study_overlap_review.csv",
+      "bytes": 8422216,
+      "sha256": "fa2545a3b3c8fdb29933b92ef80addd561b90c57cb43e3182a967d443bc9ccc2"
+    },
+    {
+      "path": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/study_values.svg",
+      "bytes": 58380,
+      "sha256": "4c43ad7fc4e2fe782a7ea8f6af09ad017b1dda0bde9d0f5791274afb05917ae7"
+    },
+    {
+      "path": "analysis/outputs/ecotox-identities-approved-2026-11-11/approval_statement.json",
+      "bytes": 594,
+      "sha256": "096352f54a6cce8deb291606e307393c37793e32eea4c5f0ec7fbe237025fa23"
+    },
+    {
+      "path": "analysis/outputs/ecotox-identities-approved-2026-11-11/approved_crosswalk.csv",
+      "bytes": 37521,
+      "sha256": "e943006a6fa86fec06d586fa13b7ccdcba746e137c7716ecf30f61b929327ca9"
+    },
+    {
+      "path": "analysis/outputs/ecotox-identities-approved-2026-11-11/chemical_ids.csv",
+      "bytes": 9832,
+      "sha256": "3f2b9d9df675fea3a9985d0d2d8da769fd85f3ddc6eb428746b7ead16108498c"
+    },
+    {
+      "path": "analysis/outputs/ecotox-identities-approved-2026-11-11/identity_approval_ledger.csv",
+      "bytes": 37493,
+      "sha256": "b4a6ed89c81e526fca37bf1f026f536e6f773a657304fe47a37a3c2b28c302ea"
+    },
+    {
+      "path": "analysis/outputs/ecotox-identities-approved-2026-11-11/manifest.json",
+      "bytes": 3658,
+      "sha256": "fe9aa300121441f9073537ff084601396eefb0323b6dca2d2b4e388e6ebe3245"
+    },
+    {
+      "path": "analysis/outputs/ecotox-identity-approval-inputs-2026-11-11/approval.json",
+      "bytes": 594,
+      "sha256": "096352f54a6cce8deb291606e307393c37793e32eea4c5f0ec7fbe237025fa23"
+    },
+    {
+      "path": "analysis/outputs/ecotox-selected-approved-2026-11-11/admission.csv",
+      "bytes": 110117,
+      "sha256": "69e6b0b2f3a7470cff95b2ff9350ef046d0b432335f1134b78a7452b8f13e892"
+    },
+    {
+      "path": "analysis/outputs/ecotox-selected-approved-2026-11-11/admission.parquet",
+      "bytes": 8113,
+      "sha256": "7c841ab0cdadaafd94db6c0d7138a15d553ca8ccc47dce94bc07a46289f7cf0f"
+    },
+    {
+      "path": "analysis/outputs/ecotox-selected-approved-2026-11-11/coverage.csv",
+      "bytes": 16646,
+      "sha256": "246b3013de28945c2ae364b6618c62a86f0565e2d026b93eb5f0188bffd16b1b"
+    },
+    {
+      "path": "analysis/outputs/ecotox-selected-approved-2026-11-11/coverage.parquet",
+      "bytes": 5451,
+      "sha256": "1d366edf7de1e9f05bb104c9ed3838ef5d80a539ccf71baa79ba9aa7256f62d1"
+    },
+    {
+      "path": "analysis/outputs/ecotox-selected-approved-2026-11-11/dictionaries.json",
+      "bytes": 540312,
+      "sha256": "648f449cdc65ae0398c82147ab0734d073b7c068bb89589b844ef84330c0c5c7"
+    },
+    {
+      "path": "analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json",
+      "bytes": 6982,
+      "sha256": "ce55d0efcfe8b3893025d6156313d0dc000be6f995e625e841fea82bb869fb39"
+    },
+    {
+      "path": "analysis/outputs/ecotox-selected-approved-2026-11-11/measurements.csv",
+      "bytes": 38464026,
+      "sha256": "7a490af003dbda07eaadb403f7fec5f26874b3d8cd517b363ebcf3191ca20127"
+    },
+    {
+      "path": "analysis/outputs/ecotox-selected-approved-2026-11-11/measurements.parquet",
+      "bytes": 2084535,
+      "sha256": "b9206b6847e96700e819b085e2b5dc550ab97a2275fdea6789def667cc69a1d0"
+    },
+    {
+      "path": "analysis/outputs/ecotox-selected-approved-2026-11-11/native_observations.csv",
+      "bytes": 747873010,
+      "sha256": "7bc7b6fe50f2b6a3c732e304566b995833ac4883692b2c8368c16cc5a17e26d3"
+    },
+    {
+      "path": "analysis/outputs/ecotox-selected-approved-2026-11-11/native_observations.parquet",
+      "bytes": 21634114,
+      "sha256": "3df7c5f48c82835250a0d82640374b99ce10ae85723d11aeb74c672fc1355f24"
+    },
+    {
+      "path": "analysis/outputs/expansion-cohort-2026-11-11/chemical_ids.csv",
+      "bytes": 9832,
+      "sha256": "3f2b9d9df675fea3a9985d0d2d8da769fd85f3ddc6eb428746b7ead16108498c"
+    },
+    {
+      "path": "analysis/outputs/expansion-cohort-2026-11-11/manifest.json",
+      "bytes": 962,
+      "sha256": "6f817413c1cda3c9d09795de04e17ed08fcfbf8233fc6fde14713c8d01d0337e"
+    },
+    {
+      "path": "analysis/outputs/expansion-cohort-2026-11-11/source_identity_decisions.csv",
+      "bytes": 7544,
+      "sha256": "6c2cb483d7f96b59e74b4dd5da7f202dc9d747bcead7c82b385d157f104c40b0"
+    },
+    {
+      "path": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/admission.csv",
+      "bytes": 115366,
+      "sha256": "5babb4b59cd5d85ad7e3fa4812bfaa219be5368c0c3ac44eba558b70536e47f9"
+    },
+    {
+      "path": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/admission.parquet",
+      "bytes": 7871,
+      "sha256": "2f090add0a06f54258f7afa0cc5955787efce8d805391c3c5d347824f90751c8"
+    },
+    {
+      "path": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/coverage.csv",
+      "bytes": 13976,
+      "sha256": "4fee1c01e85f8bbeb03ea238ee04a8201c28fc324cc767ffa5e5b0cdb8ee8c5c"
+    },
+    {
+      "path": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/coverage.parquet",
+      "bytes": 4612,
+      "sha256": "a85e1cadcb6481eaadf37b23775e7c2e5dcf6cbb69de05d0c2e9a28b8c376385"
+    },
+    {
+      "path": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/dictionaries.json",
+      "bytes": 540312,
+      "sha256": "648f449cdc65ae0398c82147ab0734d073b7c068bb89589b844ef84330c0c5c7"
+    },
+    {
+      "path": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json",
+      "bytes": 7048,
+      "sha256": "d099ce66c0689297f689de59f6b5877162572e296905bfafc5a84f0b4366cded"
+    },
+    {
+      "path": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/measurements.csv",
+      "bytes": 37557951,
+      "sha256": "e10ede75f6395022fcfc674b24bfd5a12b0aeb284ee859e96d29811bef32ea9d"
+    },
+    {
+      "path": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/measurements.parquet",
+      "bytes": 2023955,
+      "sha256": "2b87d215d91c2cdb1b4e70dfba357be95a906bd8153eab61ab70f4f2d9274938"
+    },
+    {
+      "path": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/native_observations.csv",
+      "bytes": 747873010,
+      "sha256": "7bc7b6fe50f2b6a3c732e304566b995833ac4883692b2c8368c16cc5a17e26d3"
+    },
+    {
+      "path": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/native_observations.parquet",
+      "bytes": 21634114,
+      "sha256": "3df7c5f48c82835250a0d82640374b99ce10ae85723d11aeb74c672fc1355f24"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/acquisition_resource.json",
+      "bytes": 73850,
+      "sha256": "c7592575929fbcf8178b68e7cabaff767ad7cf37f43fd536ad361f3336713627"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/cinnamon2005.html",
+      "bytes": 5590,
+      "sha256": "24515cc7bf230b58cd99f65d814803efc27defb2500b321070bb2b85f15e24e8"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/dayan2015.html",
+      "bytes": 1078409,
+      "sha256": "91cfa309cbe48010d3997279bc46be68b0c9391441116902ba60b5304537960f"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/hydroxyphenylacetic2025.html",
+      "bytes": 395,
+      "sha256": "fd2b81a6298732914eb65cbba8a73a03e67b948d02da3886af52aff96606badd"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/juglans2024.html",
+      "bytes": 534015,
+      "sha256": "89150918ab612904e2564f6c0a11034b6473f66e9315f1d2253b5e56424f995d"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/kobayashi1998.pdf",
+      "bytes": 874234,
+      "sha256": "43dd19d3989858daca1524db4da74a6c2a07fec44ce80edb786d287c3364c8e7"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/manifest.json",
+      "bytes": 7886,
+      "sha256": "0aa095967efaebfd59b1e0a0076ff9ca6dc46112c43cb9d5663965898710c5b7"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/melilotus2018.html",
+      "bytes": 400,
+      "sha256": "33b0e442aa59305a5db6a5404b9ec47f6244ce2677b77546da8926bcc1d058cb"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/munoz2020.pdf",
+      "bytes": 8989565,
+      "sha256": "c4fe026ca5dda17e53c75e6ac2558fb6b45a61e9679c7180724f217a8a426e54"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/oregano2018.html",
+      "bytes": 1037105,
+      "sha256": "ceef7a9df37988ec7d226c4c830d2a6b9f35407e549b72a60402898d649faa04"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/phenylpropionic2007.html",
+      "bytes": 5590,
+      "sha256": "7ee3e2a42bd7cc2f147fea4ba22cd02020cee26ec42228df030503cc2c2655ae"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/resorcylic_primary.pdf",
+      "bytes": 259,
+      "sha256": "f5c1838e9f5ba3d7af2b51120c70857b04b991887e59224dd9f58f700fa14f08"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/rumen1964.pdf",
+      "bytes": 5608,
+      "sha256": "9350203c50bb2c9683fa980f0627987660a4a9ec6742d2d4e96408dc3b5b8a36"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/sarmentine2010.html",
+      "bytes": 5590,
+      "sha256": "c93bb7b9d0ab707554fa60e08ca924cf26389ff438c36d85a9bff632f0f56edb"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/spices2007.html",
+      "bytes": 2237,
+      "sha256": "094615c1e44f73c6cfa31867db9fb96790393045fd32807b1d38962b70821b16"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/torres2024.pdf",
+      "bytes": 1265934,
+      "sha256": "405afc4e0d781d9efcc331deff29523a0f7bdd343fda6512b3100cba69518f26"
+    },
+    {
+      "path": "analysis/outputs/expansion-primary-2026-11-11-final/walker2003.html",
+      "bytes": 5590,
+      "sha256": "5f7ebaf1d4a730ae2de7d19c998889dbb118bd0638b4ca570d29bc1e77663f32"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/README.md",
+      "bytes": 707,
+      "sha256": "e218f708a934a8381e5b21784ffbd4644834540e99c5ce207342ceeed99dbf6f"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/approval_worksheet.csv",
+      "bytes": 10694,
+      "sha256": "18d0db9af3030f1b1b616b12aaa9ae1f4ed1867ddcf4ba8baec8ba1216f0657b"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/compound_evidence_second_pass_2026-11-11.xlsx",
+      "bytes": 233341,
+      "sha256": "e82da716e91be895ea767ae3adda4d34e5a7c8d3b179e8eca33076c41129836c"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/compound_packets.csv",
+      "bytes": 9553,
+      "sha256": "ee38368ae8cfa42166ecda0387a1d3aa52e7a42ec71f95b69825e1bf27801579"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/database_structure_reference.svg",
+      "bytes": 172013,
+      "sha256": "fd0f8296a0bd968008dbf9d3304eb0db1439fa4e57bfa80a2a03eebec8cccb97"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/manifest.json",
+      "bytes": 5250,
+      "sha256": "9e7a886b10afa8e02e41523fdb8a436d45dada09295f17c85b18eda7fb967ca0"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/policy_proposals.json",
+      "bytes": 1107,
+      "sha256": "3d41941bd116114bd4a5d9c9389b1b07bb0a69d8d1676f7e7356d628fb44bc2e"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/policy_readiness.csv",
+      "bytes": 524,
+      "sha256": "bf05b6e28d1ccac71246b66f289ce84bdc7c0b56968c268adb9797e3ed2571c9"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/preserved_identity_holds.csv",
+      "bytes": 115,
+      "sha256": "59af347c76d5db3f130f5f79a4764cc27cf8d02c93b9ee2015ef14d86c6328f1"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/reviewed_labels.csv",
+      "bytes": 632,
+      "sha256": "8e07204d3dc419bbcc09da8c695c7b0f4939f48f557b278715f1d9728e0bb9c5"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/source_index.json",
+      "bytes": 5461,
+      "sha256": "6bbaf74b2e9a0940303c7d6a49faefdc3d00bff08184f26cbc242bec84c50289"
+    },
+    {
+      "path": "analysis/outputs/expansion-review-2026-11-11-verified/study_observations.csv",
+      "bytes": 32568,
+      "sha256": "9828743e925dcaed3848f08ce84bba71012b864bdb7160aa7f5eaf0c6a2bcb18"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/aquatic_observations.csv",
+      "bytes": 30016,
+      "sha256": "024d93f2ba6cf4d9fd4dbd9182bc6d54f89d79d1207c7c62f63c3efb93f1ba5d"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/aquatic_observations.svg",
+      "bytes": 72880,
+      "sha256": "153f855ccf16778e92efacdb65f2cbde33ecd2372acbde3375ca511cb82b4c20"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/compound_context_summaries.csv",
+      "bytes": 10816,
+      "sha256": "f86338b76c9ca072391bf7e98a6554b7d81d58b9bae79dd2bfab8dc1187db9a3"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/exposure_contexts.csv",
+      "bytes": 335,
+      "sha256": "44f2c55f33cf10333dba10b7096e714a00c734358b6fad69238b9c38343d7bcd"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/exposure_coverage.svg",
+      "bytes": 11289,
+      "sha256": "99c1e68671cc81eb8cc080b78facdba6a49380ad73218ee339ffdb569af5a65e"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/manifest.json",
+      "bytes": 5271,
+      "sha256": "d584cb4b78f8d63fa2df20f10454177a388a4928ad31dca5e5f2eeef738fb057"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/policy_coverage.csv",
+      "bytes": 321,
+      "sha256": "f14b7f4a65ce2a8a10ccb17010b29fa517b50ed098e021b6d414d1b97f42048a"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/rat_ld50_review.csv",
+      "bytes": 7980,
+      "sha256": "fb5b3c53f780971d8bce47a28fedce7bed6f35dee6aad065014c1b5c0978a81e"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/row_accounting.csv",
+      "bytes": 134,
+      "sha256": "9b3979c44e6952f60c03c7904f689663ba55c31a03456885e30de333b052f60c"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/sensitivity.csv",
+      "bytes": 754,
+      "sha256": "b90607aaae5372ac264f99155bda4fe2bb8b74864049c5da3e11a5a4ca92d21f"
+    },
+    {
+      "path": "analysis/outputs/experimental-ecotox-decisions-2026-11-12/walkthrough.html",
+      "bytes": 3096,
+      "sha256": "637968071370c15fe28b641e2e8ca8ab1cd61957db4715caef3daa6afa627526"
+    },
+    {
+      "path": "analysis/outputs/experimental-flavonoid-transfer-2026-11-12/manifest.json",
+      "bytes": 21862,
+      "sha256": "b66c34a2718cc6a9e628f51807f944da40061fe041426748d292da06bea52d7c"
+    },
+    {
+      "path": "analysis/outputs/experimental-flavonoid-transfer-2026-11-12/membership.csv",
+      "bytes": 57376,
+      "sha256": "8d66ed9b152e0d7ad88a596f11372e5c8f87c2252636ca463106b0b99b5670b8"
+    },
+    {
+      "path": "analysis/outputs/experimental-flavonoid-transfer-2026-11-12/predictions.csv",
+      "bytes": 45969,
+      "sha256": "0cce00540c8342fc6b91987aff3fb5c461e0e80e7697ad17f4ec6d371888f4b8"
+    },
+    {
+      "path": "analysis/outputs/experimental-flavonoid-transfer-2026-11-12/reports.csv",
+      "bytes": 3576,
+      "sha256": "b698827451e7c0c8a6caa2546eb86ca8aa701d945fe7602e91c1f70d95e1ba68"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-activity-2026-11-12/candidate_scores.csv",
+      "bytes": 87,
+      "sha256": "81a677061f5f9b79d208b61f2d6a5eb60ccf71d4b2daf355f7b3b9cc70d3fd82"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-activity-2026-11-12/label_review_template.csv",
+      "bytes": 2691,
+      "sha256": "a2d3d7efbf39fe3d935c905e60814b00c045e9754a9f31d145a54665fd9b8703"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-activity-2026-11-12/manifest.json",
+      "bytes": 15660,
+      "sha256": "7d3327a7e6e04a8c5207def643b472427588b1ed90c7bd22c3450b29191f47c1"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-activity-2026-11-12/out_of_fold.csv",
+      "bytes": 26176,
+      "sha256": "146360308c5bdffcb633b3e1ad502240ce2127de1703670b38ac499271a42a92"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-activity-2026-11-12/structural_features.csv",
+      "bytes": 80287,
+      "sha256": "98dbb5dbf6a5564e924d48eb5ed4683a16f5c9c0243b5faf80fbe40675b0cf74"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-activity-2026-11-12/structural_features.parquet",
+      "bytes": 41349,
+      "sha256": "b287fb6b82d9ae880aaf62ed185b47c2b792cb9a37d0bbcc2f57d94f30057852"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-activity-2026-11-12/structure_models.csv",
+      "bytes": 1778,
+      "sha256": "07917b3d48e4d2a847e206d0591fa3816b91e1d90e14342896167fcd3aef01c3"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-controls-2026-11-12/manifest.json",
+      "bytes": 83193,
+      "sha256": "2e2a7fc64116c4744ae2212fc9d23003810b13a0bb6055cfb18c4f36b3b7b63f"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-controls-2026-11-12/stress_models.csv",
+      "bytes": 17699,
+      "sha256": "a2a57af2585942f21e6c42d06c702f1e538695b2669448417ec4a05454fc3728"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-diagnostics-2026-11-12/coefficients.csv",
+      "bytes": 10457,
+      "sha256": "c6d7dba7b01e30ba9ac54a2275e9acc1d316e5c1b5f734b10ac39ddf5265c6bf"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-diagnostics-2026-11-12/cohort.csv",
+      "bytes": 6858,
+      "sha256": "1e6ec1f9653b0d951c5671c440a465a4714e595c757c600e06ea5b9a7e172e00"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-diagnostics-2026-11-12/manifest.json",
+      "bytes": 11561,
+      "sha256": "c83335b5a3f1498d3d9cda3cb5fb479534ea04b1dd13a893dd65dfdd0ef8c118"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-diagnostics-2026-11-12/oob_importance.csv",
+      "bytes": 113351,
+      "sha256": "3a154d1a2d07e7252404d1060a7bb6a4037afa4cee5530cad11117edc27d8043"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-diagnostics-2026-11-12/oof.csv",
+      "bytes": 46960,
+      "sha256": "4170702b6f8c48e90bb7385002c52ee613885498f3f33e8c0d5313f97520a147"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-diagnostics-2026-11-12/permutations.csv",
+      "bytes": 45328,
+      "sha256": "0f5fc46a94d80a5b2f418ba7f1f20ead1a56ef734d20e1fa830367ec6c24e1ae"
+    },
+    {
+      "path": "analysis/outputs/experimental-heterogeneous-diagnostics-2026-11-12/reports.csv",
+      "bytes": 1363,
+      "sha256": "e85f026f7f42d0998b7a36f3c9b45a76e1bbefedce58452d58135ef2e45812d3"
+    },
+    {
+      "path": "analysis/outputs/experimental-publication-transfer-2026-11-12/manifest.json",
+      "bytes": 18339,
+      "sha256": "0c5dfe3a3226c8563064dd3f68beab6c2973013039a7b491fe0d09e4ab24b024"
+    },
+    {
+      "path": "analysis/outputs/experimental-publication-transfer-2026-11-12/membership.csv",
+      "bytes": 33735,
+      "sha256": "6309fed201bd20fc49aea373d230ed342bb210d4de999d1088103d228418b11a"
+    },
+    {
+      "path": "analysis/outputs/experimental-publication-transfer-2026-11-12/predictions.csv",
+      "bytes": 35470,
+      "sha256": "3187fe4e9d2b8ee97da99a1e63c035437fba93a0ffd70abcf1ed06e544455aca"
+    },
+    {
+      "path": "analysis/outputs/experimental-publication-transfer-2026-11-12/reports.csv",
+      "bytes": 2997,
+      "sha256": "9f3921c8b9b61869de9841db9a1b4b0beb4ebcaa334a5bedff0977d8f54c1bab"
+    },
+    {
+      "path": "analysis/outputs/experimental-publication-transfer-2026-11-12-final/manifest.json",
+      "bytes": 18357,
+      "sha256": "d2ee138bd124b6751387e89fc202a306fdb358a38c58c822efd77913bbf1911f"
+    },
+    {
+      "path": "analysis/outputs/experimental-publication-transfer-2026-11-12-final/membership.csv",
+      "bytes": 33735,
+      "sha256": "6309fed201bd20fc49aea373d230ed342bb210d4de999d1088103d228418b11a"
+    },
+    {
+      "path": "analysis/outputs/experimental-publication-transfer-2026-11-12-final/predictions.csv",
+      "bytes": 35470,
+      "sha256": "3187fe4e9d2b8ee97da99a1e63c035437fba93a0ffd70abcf1ed06e544455aca"
+    },
+    {
+      "path": "analysis/outputs/experimental-publication-transfer-2026-11-12-final/reports.csv",
+      "bytes": 2997,
+      "sha256": "9f3921c8b9b61869de9841db9a1b4b0beb4ebcaa334a5bedff0977d8f54c1bab"
+    },
+    {
+      "path": "analysis/outputs/experimental-research-checkpoint-2026-11-12/formula_weights.csv",
+      "bytes": 3579,
+      "sha256": "84e6d41e151a8e76a376d4fc5d97d15f089db5c8abfe448e7fedbaadfd12b945"
+    },
+    {
+      "path": "analysis/outputs/experimental-research-checkpoint-2026-11-12/manifest.json",
+      "bytes": 6594,
+      "sha256": "b8273465f6fc4623e870b7824d89e4d6811327fd411d711bee27ac4c8d347f3a"
+    },
+    {
+      "path": "analysis/outputs/experimental-research-checkpoint-2026-11-12/null_controls.csv",
+      "bytes": 882,
+      "sha256": "4b946737a2bcf795e140f4c82e4136af6fad44193163385c2bac07f0002c311d"
+    },
+    {
+      "path": "analysis/outputs/experimental-research-checkpoint-2026-11-12/publication_transfer.csv",
+      "bytes": 2997,
+      "sha256": "9f3921c8b9b61869de9841db9a1b4b0beb4ebcaa334a5bedff0977d8f54c1bab"
+    },
+    {
+      "path": "analysis/outputs/experimental-research-checkpoint-2026-11-12/publication_transfer.svg",
+      "bytes": 19378,
+      "sha256": "109366bdff8bca191e8d9f30bcef497a11c516d176d2fc212b22bcfbaec38676"
+    },
+    {
+      "path": "analysis/outputs/experimental-research-checkpoint-2026-11-12/scaffold_models.csv",
+      "bytes": 1363,
+      "sha256": "e85f026f7f42d0998b7a36f3c9b45a76e1bbefedce58452d58135ef2e45812d3"
+    },
+    {
+      "path": "analysis/outputs/experimental-research-checkpoint-2026-11-12/scaffold_models.svg",
+      "bytes": 10635,
+      "sha256": "854598b6decfb1279b0c776e02dcc0ec7c1cd204e1fc01f5a7da9c22a06c7743"
+    },
+    {
+      "path": "analysis/outputs/experimental-research-checkpoint-2026-11-12/summary.json",
+      "bytes": 622,
+      "sha256": "a542ee25170ffdd2e9685e71a3725083cde1c82c9625d2030433005bb5209332"
+    },
+    {
+      "path": "analysis/outputs/experimental-research-checkpoint-2026-11-12/walkthrough.html",
+      "bytes": 1868,
+      "sha256": "43549cab694892e31aea2a8cee963c72385ecc11c811a111f64029e0f25ba2e8"
+    },
+    {
+      "path": "analysis/outputs/human-review-2026-11-11-inputs/approval.json",
+      "bytes": 810,
+      "sha256": "c67ae7cff6829692ab19b08eedf5a440a3987688366eb7725da6b058cf93749a"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-D2015-PIGWEED-7DAY-v1.csv",
+      "bytes": 4305,
+      "sha256": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-HE2011-AR-1500G-POST-BANDS-v0.1.csv",
+      "bytes": 36216,
+      "sha256": "9445909961edd69f33f0ba684cf3d346a81171ae84b2d122f7ac57b2a529f07a"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1.csv",
+      "bytes": 8279,
+      "sha256": "a51dcda7b6c160ff299116d91c17149b3b7099e498c1ff258a150a9d0479e010"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-LI2006-AR-150G-POST-BOUNDS-v0.1.csv",
+      "bytes": 16925,
+      "sha256": "54291843ce8c1bfc8cee508ca52c2e2bf6e54f2832de132bf090b2df2cb4f056"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-M2020-AMARANTHUS-1DAY-v1.csv",
+      "bytes": 4305,
+      "sha256": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1.csv",
+      "bytes": 8296,
+      "sha256": "a30667c7bb6f020cb58ad99bc2123fa7ce21bd05435e83f51233bf3f89f201c4"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/HUMAN-T2024-UPV-4WAT-BASE-v1.csv",
+      "bytes": 4305,
+      "sha256": "8d706595e03a4e19da1bcf45710c37503a3fc2e7e6d2ba9df2466100d6b76a07"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/accepted_activity_features.csv",
+      "bytes": 92142,
+      "sha256": "02f2b960ab05fdb274a9ef851a11d8cadcc4d9f1e319f432bb68237d710414df"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/activity_models.csv",
+      "bytes": 3791,
+      "sha256": "d41d2dd41aeaace9627010818964215383b782b8372c954157a7ed1f9f37effc"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/activity_observations.csv",
+      "bytes": 196436,
+      "sha256": "e1a55f2f71f9a438abbdb835029b14376a68220b48ce2d0c03e366619941c7da"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/activity_out_of_fold.csv",
+      "bytes": 94,
+      "sha256": "9ceac380804646582b9f97c68bda0c6c67d99d05f4cf075922d45d97b1336ae4"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/adoption_ledger.csv",
+      "bytes": 42906,
+      "sha256": "98357c0555e2ca3074ded93127c61293f4ab64ae4acafb8069b407dba3ce46eb"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/approval_statement.json",
+      "bytes": 810,
+      "sha256": "c67ae7cff6829692ab19b08eedf5a440a3987688366eb7725da6b058cf93749a"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/contrast_features.parquet",
+      "bytes": 31773,
+      "sha256": "279d9a30cfc06add106254114648916194f196cacef9159ab4530764c2df5299"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/identity_holds.csv",
+      "bytes": 115,
+      "sha256": "59af347c76d5db3f130f5f79a4764cc27cf8d02c93b9ee2015ef14d86c6328f1"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/legacy_adoption_ledger.csv",
+      "bytes": 27152,
+      "sha256": "ff95c65f0d4395eddf6764bebb61cef348ca6068b393fa0b848342777c9390a9"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/manifest.json",
+      "bytes": 9354,
+      "sha256": "57f48bd8a586b5496af7e8f8d1145936815f2817c84d6c09f4e3c5b51ccb5434"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/origin_evidence.csv",
+      "bytes": 7833,
+      "sha256": "befff853b1ab5217ba4ff99c8c6d0a6bc73e5cbabfc5d42007b1c3f6babb371c"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/origin_labels.csv",
+      "bytes": 10341,
+      "sha256": "be17e7a41b36e2457636d752e7790b726e4466f6f846a55de2f9b228e71dec62"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/policies.json",
+      "bytes": 2600,
+      "sha256": "5569973c41b828c52f972a40fb0fb78cdc2beea471cbccfe1a9375a0d9659eed"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/priority_actions.csv",
+      "bytes": 3906,
+      "sha256": "cbb8289138bc64f992da49f585036cdb41ff31fabce160f4e827db2fe0f80af3"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/review_summary.csv",
+      "bytes": 751,
+      "sha256": "6e88b02623e1bf41160a60c302158dce6f72b94b78d5087c72bd31cb5b99dacd"
+    },
+    {
+      "path": "analysis/outputs/human-review-adopted-2026-11-11-final/reviewed_worksheet.csv",
+      "bytes": 36582,
+      "sha256": "1130e1b642c0f0f9f68f77485ff06e996f4800f1980197e971fd898f96cb1cd7"
+    },
+    {
+      "path": "analysis/outputs/rat-source-reconciliation-2026-11-12/aquatic_exposure_strata.csv",
+      "bytes": 197,
+      "sha256": "01a960af1335235b58e5449baf5b4c9776dcd7ebc949ec59d6ed4ec9cec8915d"
+    },
+    {
+      "path": "analysis/outputs/rat-source-reconciliation-2026-11-12/aquatic_policy_summary.csv",
+      "bytes": 144,
+      "sha256": "0aac35b5b54ede314b1bf52943446627379e68ea06ac4ddee9dacd109eb4b326"
+    },
+    {
+      "path": "analysis/outputs/rat-source-reconciliation-2026-11-12/censored_bins.csv",
+      "bytes": 4117,
+      "sha256": "3f919c6b8f8eda69a361185bc527b5966a4f32f13ac7ec616d952736ea754a01"
+    },
+    {
+      "path": "analysis/outputs/rat-source-reconciliation-2026-11-12/context_missingness.csv",
+      "bytes": 110,
+      "sha256": "6d9fa8a0b8b06866f3ec788b74c2d806e35a751399f383857067b5ff2cb7d193"
+    },
+    {
+      "path": "analysis/outputs/rat-source-reconciliation-2026-11-12/manifest.json",
+      "bytes": 4599,
+      "sha256": "19b7d9e9bcedbcf4dd856ce35250503bf56a0323cd4a48266ff65c8c9d959682"
+    },
+    {
+      "path": "analysis/outputs/rat-source-reconciliation-2026-11-12/missingness.svg",
+      "bytes": 10067,
+      "sha256": "407da521600054aa56c65ee14f7b391f8ccf87c2f6f7dd98192f8d0b8d8b0f20"
+    },
+    {
+      "path": "analysis/outputs/rat-source-reconciliation-2026-11-12/sensitivity_compounds.csv",
+      "bytes": 7092,
+      "sha256": "8b0d0b2e2fe3fc0930a73620f71afc444ae6045a64abee6e98c31d4ed249497a"
+    },
+    {
+      "path": "analysis/outputs/rat-source-reconciliation-2026-11-12/study_overlap_review.csv",
+      "bytes": 8423504,
+      "sha256": "0c0d60f8e6aa8a2ee9beaf67f4e55e8c3f4c1167e950a8f166d305d8daa9cd0d"
+    },
+    {
+      "path": "analysis/outputs/rat-source-reconciliation-2026-11-12/study_values.svg",
+      "bytes": 58380,
+      "sha256": "4c43ad7fc4e2fe782a7ea8f6af09ad017b1dda0bde9d0f5791274afb05917ae7"
+    },
+    {
+      "path": "analysis/outputs/structure-2026-10-28-stress-baseline/structural_features.parquet",
+      "bytes": 61125,
+      "sha256": "42d932ee2896382c3cbb5c5eceaf0a2948111c848be6670a502ede4864dd5a06"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/audit.json",
+      "bytes": 808,
+      "sha256": "79cfa7109e3f2307c0656dfb9896c73d252656a743355c75331a4caa2847cd13"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/effective_conditional_screen.csv",
+      "bytes": 7661,
+      "sha256": "8f5e857c889ff210605a4205fcd66e40fdd1885fb4ad74d7d05fcc24932d295e"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/identity_case.json",
+      "bytes": 536,
+      "sha256": "ee9c1e87c02d7dcda0c1284367b4385e259ee4b69439d59e21dc47a448a8cf8b"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/identity_case.svg",
+      "bytes": 58708,
+      "sha256": "7bfb8cbda0a6f9f901e2293c69684aba1ae107ad1ae35c411cc7ee9d074142f4"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/identity_holds.csv",
+      "bytes": 115,
+      "sha256": "59af347c76d5db3f130f5f79a4764cc27cf8d02c93b9ee2015ef14d86c6328f1"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/manifest.json",
+      "bytes": 13537,
+      "sha256": "aa84064998b57e85c85996e57469883f69f22c69f9663e2d5b1ce15c1c8bc886"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/model_readiness.csv",
+      "bytes": 668,
+      "sha256": "070724e048efd3c21671e32d3c29d0d30bd85f426bec62cc4cf381dd450c1a1a"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/new_lead_features.parquet",
+      "bytes": 21464,
+      "sha256": "dc4fb1bed006f2a2037a28a072734af01da8d50143daf03f693d1dcf9d7d0b95"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/new_lead_identities.csv",
+      "bytes": 3838,
+      "sha256": "f47624a62ff0665c07eda1160fbbdc08188e1edeef0b6dfce0f0e3aa89da2269"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/reference_checks.csv",
+      "bytes": 5257,
+      "sha256": "188d88020319262786adcfe41a54216e2ec538e7af449580b1e07562542c72a0"
+    },
+    {
+      "path": "analysis/outputs/verification-release-audit-2026-11-05-final/review_priority.csv",
+      "bytes": 49366,
+      "sha256": "5af363d51e6ec4c2f26ddfb026b09f2da673b10ad8c61579855206c02ba3925d"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/000.json",
+      "bytes": 127156,
+      "sha256": "c7fe81b2af7d3f1dab1376eee544f90ddbf142b6b4a87c02078e0cbe82d4231d"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/001.json",
+      "bytes": 131362,
+      "sha256": "58d8ed5490817e1c2446fa2fbe300894f44650ba0c8993b8b576aae2140a4c28"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/002.json",
+      "bytes": 146847,
+      "sha256": "860916df70c5accde8b5db8016ce8bd82a0e2bcc6033d351de7e64048a6e4fa0"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/003.json",
+      "bytes": 121954,
+      "sha256": "c7e9f047e55e8da4a70f4f21e66bc754c143d12fbcdb57e97df3e359f2c8bdff"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/004.json",
+      "bytes": 129434,
+      "sha256": "59a98dc9c108842f69380675fc9bd9a71d55fff8a9bb6d93317fa475bee1c2e8"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/005.json",
+      "bytes": 130134,
+      "sha256": "e611a27dd2e39e3ff5392fef418d44251cd123d7b30633c245b6ef839cb88736"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/006.json",
+      "bytes": 123409,
+      "sha256": "386fc74db68f58e22e08a9db307e0a68e577560f332a701dccfd55b3822af207"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/007.json",
+      "bytes": 113824,
+      "sha256": "6f6c28091473f84206145bfd3daa52f447988135d422cb87d1a6e24761fbe08e"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/008.json",
+      "bytes": 115551,
+      "sha256": "ed7bac0875cf5c2d07754eb67c5d71d4088dd47668a06db4b7529216f5e32904"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/009.json",
+      "bytes": 161235,
+      "sha256": "57bb4d86fb704a57731ac5a53c5374919f248c5ac8efde7224b619fcfa114680"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/010.json",
+      "bytes": 168477,
+      "sha256": "286ae3389016b7683e0d98efd529066d6defb9511a339b3df64e596569a2514e"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/011.json",
+      "bytes": 164012,
+      "sha256": "ca30e363fd24c4c0c5ab54bde8240baf714bdb3c1ffbbea20806cb3edebddcaa"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/012.json",
+      "bytes": 755,
+      "sha256": "3a1b4de4245bad18306ef41e491c0d4ca70ed3b14c3910a5a95a20df8044840d"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/013.json",
+      "bytes": 759,
+      "sha256": "c8214996ff13e53f766443cd27477c1eb9bf31e3dd5b3631707653875c2e97b7"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/014.json",
+      "bytes": 754,
+      "sha256": "7da9c78a15e94f0dd4d0c38a58b331a137aa34da6792ad7570bdc3151ef17d4c"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/015.json",
+      "bytes": 752,
+      "sha256": "8157c3fc64c7f1a8ee1784b39b8a7c85e731b4ed5c60aea27a01f7189d851ec2"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/016.json",
+      "bytes": 690,
+      "sha256": "e8719fcce5b7bf65f312a5cf4e2e1440cb436c91ebb49c76f6865aa3386c42fd"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/017.json",
+      "bytes": 678,
+      "sha256": "6eaf7277603ab946f71d96803799cec671a7862493a8dda284ec3dbd05f4fc47"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/018.json",
+      "bytes": 708,
+      "sha256": "5cc7ec451085e6514f2e77df3953f78958bd051bfc898dc016eceac95c2745ae"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/019.json",
+      "bytes": 784,
+      "sha256": "9f023c608ca34ebb9115319cd3bdd2a89df6fcb812c756d94c2949ef892936da"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/020.json",
+      "bytes": 787,
+      "sha256": "bd5daf93c878fcc1439492235bd0633bc2753e5a56296d1409f2a95cf46945aa"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/021.json",
+      "bytes": 776,
+      "sha256": "2661a1d0e481fcb4d0ddd506505520969d0244b439aabff71296813cb4a510c8"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/022.json",
+      "bytes": 805,
+      "sha256": "78367c3b2be13f6b0a9ef49bc63d926ce42aacd8fb469fbb753e92f32993a964"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/023.json",
+      "bytes": 779,
+      "sha256": "cccfae74558a8f1f329a744bf3c03b3402396cd6807c7ad73bc27f0a41fa440f"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/024.json",
+      "bytes": 658,
+      "sha256": "16e30dea4dfa1b67de84ffb7d691799b7666bf5b32d31d623cf1428f43fba3b2"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/025.json",
+      "bytes": 658,
+      "sha256": "845aaf66cb83e39afe3ecf9dec459176a8f081e1a829cfe62157be424a9c7c57"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/026.json",
+      "bytes": 658,
+      "sha256": "d2036621c426876e64fe35904d8265bc1a71f31750ead7f33763879126074130"
+    },
+    {
+      "path": "analysis/outputs/verification-release-sources-2026-11-05/027.json",
+      "bytes": 205268,
+      "sha256": "8516c91126246c941cb53ce98cf9ac1cb610808a6c4f6ffbb12691bbb748a03c"
+    },
+    {
+      "path": "analysis/outputs/weekly-ecotox-2026-11-10/chemicals.parquet",
+      "bytes": 566115,
+      "sha256": "83a68317d587cdabab77fef2cac8c6aa8fa48e25ebb20d1319066cd0f62bd12d"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-2026-11-10-reviewed/descriptor_points.csv",
+      "bytes": 26993,
+      "sha256": "ba20678a35e889abbd2235febf8de216b2c2277de72297737309a98c87570604"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-2026-11-10-reviewed/descriptor_summary.csv",
+      "bytes": 789,
+      "sha256": "93962c3bd7863c1441b7fa36e1728a0e2cb83a6246d0a380d2f83e318a3311a5"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-2026-11-10-reviewed/descriptors.html",
+      "bytes": 57830,
+      "sha256": "002784836b254481bab46c1248c55b8b8e14f30c6c57073994bf75b0cfef39dd"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-2026-11-10-reviewed/descriptors.svg",
+      "bytes": 199389,
+      "sha256": "d3fbda92befec245e05d772f457ef376a86ea198770503b90d2b93b34e4ff122"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-2026-11-10-reviewed/literature_evidence.csv",
+      "bytes": 6606,
+      "sha256": "4de8a700ff646b267493dd018c97f69782656d971e2ef45e7469dbcc0bc9d361"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-2026-11-10-reviewed/manifest.json",
+      "bytes": 6116,
+      "sha256": "ad63c34e7c7355a65ab21c53becb0fab0b0db8d49d195a1ebda62447007f7a06"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-2026-11-10-reviewed/source_packets.json",
+      "bytes": 3799,
+      "sha256": "c5108a906d4bd93580c60621b0280d1f1dc58977ce3f173a74fa9736bd228cb9"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/dayan2015.html",
+      "bytes": 1078409,
+      "sha256": "91cfa309cbe48010d3997279bc46be68b0c9391441116902ba60b5304537960f"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_00.json",
+      "bytes": 613,
+      "sha256": "eb003223e94447e999909c454ccd98a5018d5600540226bad0d240b7ee6f429d"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_01.json",
+      "bytes": 631,
+      "sha256": "5fc69a82c64772c38f41056fc1bcde930a10e4ed0dcc5477243628d3f4c7ca46"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_02.json",
+      "bytes": 629,
+      "sha256": "619bc41a23ff387e5904387ddae63948f4adbbdbd2e76fd2f69d62881e146304"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_03.json",
+      "bytes": 645,
+      "sha256": "a13130f3b7b482394e0b753f34c1265cf960c1e4c3da2f55f61bc43ec815b1c4"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_04.json",
+      "bytes": 607,
+      "sha256": "276ce1a67b3eda17ad05ce8e2b3391b30ff15ff0b60167794f2abf83819bbfda"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_05.json",
+      "bytes": 654,
+      "sha256": "76592201e1779604076a87bceb9b22ae709b749c66c11aaa6b299e00254f7d1a"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_06.json",
+      "bytes": 676,
+      "sha256": "9c1afdb7d48775db518515c286e68efafc7b70c81ed564dde38d385fbd511cae"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_07.json",
+      "bytes": 653,
+      "sha256": "4972aa3d2ac333af10d809c602513f85b3e3e5f1cc098b27589602546d5605e3"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_08.json",
+      "bytes": 629,
+      "sha256": "1dce96a51ab6a0b4d7b6e4a19cf47179d36414caf2f0cad180905020d568517d"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_09.json",
+      "bytes": 664,
+      "sha256": "cf1ca128b473c0f9d06c9e0ef5cc49d9c1292b273648f71664c9b160b49d8828"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_10.json",
+      "bytes": 604,
+      "sha256": "29b604b669f968f10ddd71f5d322e7354dbbfd0ee893bccaa3f422470801c71e"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_11.json",
+      "bytes": 701,
+      "sha256": "27d9ea2ba582505cdb0d828cbeeabb92e430ed7d264417704380d080549e0619"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_12.json",
+      "bytes": 624,
+      "sha256": "c3fc0d73d248ee11a15566367535e08215f23c4c622a7e9c1617e645c792fe9f"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_13.json",
+      "bytes": 638,
+      "sha256": "6cf4897c43557bffd7f308ed2531d6890465eeecfac0d561edfbcf82cca51546"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/identity_14.json",
+      "bytes": 616,
+      "sha256": "3bb930f34a26e778abb0c7dcd70f4886592319c9fbddf191bf0c9ea144265137"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/kobayashi1998.html",
+      "bytes": 76033,
+      "sha256": "3d4d6fb2dfafb75ef847bdde812a917723e4d843eafd3f29827aaeb2c863b858"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/manifest.json",
+      "bytes": 6416,
+      "sha256": "4b402a25249fc661c9f921b3101f954f0a83dd9c8e0496bfaaf1ce6a76a798ea"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/munoz2020.html",
+      "bytes": 400,
+      "sha256": "8a297bcf4203891cb7d5ae88e836145e520990b4d58a256407b6264c65912aca"
+    },
+    {
+      "path": "analysis/outputs/weekly-literature-sources-2026-11-10/torres2024.html",
+      "bytes": 400,
+      "sha256": "16cea89dacd906ad46a730a5c4f93f4d583585c61c298c74b77e4ebb19f2a51b"
+    },
+    {
+      "path": "analysis/outputs/weekly-research-2026-11-10-final/ecotox_literature_candidates.csv",
+      "bytes": 1302,
+      "sha256": "bb67d752b55514d175625ac234497edd1be26a0e6591aff9c636704d37dcf77f"
+    },
+    {
+      "path": "analysis/outputs/weekly-toxicity-2026-11-10/compounds.csv",
+      "bytes": 3950,
+      "sha256": "ab49bc5b1278893f088037cfcf4b82173a8b10afcf5534a091a6586e17f416e8"
+    },
+    {
+      "path": "analysis/outputs/weekly-toxicity-2026-11-10/evidence.csv",
+      "bytes": 13916417,
+      "sha256": "bfb78da0e17e039ea7044a5ad1ba19cd4d43a6cfc54145d8fa7ba52d99a6a553"
+    },
+    {
+      "path": "analysis/outputs/weekly-toxicity-2026-11-10/groups.csv",
+      "bytes": 373,
+      "sha256": "3a06e8c598facb84f47e16f29626f9a236d8ca0c2ba4f6cd162867c2fca63620"
+    },
+    {
+      "path": "analysis/outputs/weekly-toxicity-2026-11-10/inventory.csv",
+      "bytes": 7412,
+      "sha256": "90f520770b23293fc0a9d937a62ccb0c5960bed9589cfcb36911d1903b477606"
+    },
+    {
+      "path": "analysis/outputs/weekly-toxicity-2026-11-10/ld50_bins.svg",
+      "bytes": 15285,
+      "sha256": "cdb38d1b7be11253c60d32d75c5c2f1714394d7e1913c73e1b2d73723467bde9"
+    },
+    {
+      "path": "analysis/outputs/weekly-toxicity-2026-11-10/ld50_distribution.html",
+      "bytes": 10650,
+      "sha256": "76b94300b7a006c29cf37057d4ad9df404cc3e936296a4c606b14ba4a46451dc"
+    },
+    {
+      "path": "analysis/outputs/weekly-toxicity-2026-11-10/ld50_distribution.svg",
+      "bytes": 30992,
+      "sha256": "59df1a4e0b2fe9b4f68d74d38932242637ff58ea9b88197183db08ce8de5b45a"
+    },
+    {
+      "path": "analysis/outputs/weekly-toxicity-2026-11-10/manifest.json",
+      "bytes": 3344,
+      "sha256": "fd2248e11af947fd90ed0f39bf8b459d4b75bb10afc0938f3066fd23189cb2ac"
+    },
+    {
+      "path": "analysis/presentation.py",
+      "bytes": 8926,
+      "sha256": "6c9492eb16a69f10be3f11d5c70b1857daf6f67344a65f70d400e683d5d68f2e"
+    },
+    {
+      "path": "analysis/professor_followup.py",
+      "bytes": 11901,
+      "sha256": "4b5949867531ffc4b63ccd5b6632224f3ca4b556179bad03571f3b3263d3386c"
+    },
+    {
+      "path": "analysis/professor_notebook.py",
+      "bytes": 13244,
+      "sha256": "3e52ce405616283f8266989c421281aa1f4be50b6436cc24aebb42271f048aec"
+    },
+    {
+      "path": "analysis/publication_transfer.py",
+      "bytes": 8725,
+      "sha256": "62e09a5cca46c9dbc52968ce44bb0cc1a3bd738b4402befe24eb0302b7355ae6"
+    },
+    {
+      "path": "analysis/pyproject.toml",
+      "bytes": 737,
+      "sha256": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725"
+    },
+    {
+      "path": "analysis/rebuild.py",
+      "bytes": 4284,
+      "sha256": "4447dff742870d99edb5b619d4163445443783d5c080dae848b28f23fb5aaece"
+    },
+    {
+      "path": "analysis/resources/expansion_review.json",
+      "bytes": 73850,
+      "sha256": "c7592575929fbcf8178b68e7cabaff767ad7cf37f43fd536ad361f3336713627"
+    },
+    {
+      "path": "analysis/resources/weekly_literature.json",
+      "bytes": 10559,
+      "sha256": "f931210ebc555ef2b52704fc6172564cc15856fca74611f335e790308c884f80"
+    },
+    {
+      "path": "analysis/review_adoption.py",
+      "bytes": 19971,
+      "sha256": "62267159a3f98cbee920c28b498700b72878ad2988b86e41f4b9abd09c6afd9c"
+    },
+    {
+      "path": "analysis/review_assays.py",
+      "bytes": 9363,
+      "sha256": "52857ae99430a7ce8184da5d027b74c2d5ee3041140c931ac83ed2ac788f8208"
+    },
+    {
+      "path": "analysis/reviewed_progress.py",
+      "bytes": 16076,
+      "sha256": "f23deef38d891d069a2eb8180d92b18fdae81bfb46f42c78b96726f5996f415f"
+    },
+    {
+      "path": "analysis/screen.py",
+      "bytes": 8634,
+      "sha256": "5db7a6d1c7cf992b858211284c576c91eabc68ba47adce3234dafa52847efa74"
+    },
+    {
+      "path": "analysis/stats.py",
+      "bytes": 8016,
+      "sha256": "f6b63e5c5817dd5f9d37a6e7a3355170c06c6718e28daa193b30c122267e57d3"
+    },
+    {
+      "path": "analysis/stress.py",
+      "bytes": 4292,
+      "sha256": "bf62a7c047f1b80ef864e9ab78d2d30cd754035d56d5ea66d53bba8bd99e838c"
+    },
+    {
+      "path": "analysis/structure.py",
+      "bytes": 3473,
+      "sha256": "763fd952f2c4c57ed16136cf6efb58d7454daf8106cc9075a8064114578dae4c"
+    },
+    {
+      "path": "analysis/structure_models.py",
+      "bytes": 7330,
+      "sha256": "e9608fd81fb0c318ec5357a103992bb0c010a005068420a059dfa714a915a219"
+    },
+    {
+      "path": "analysis/triage_dietary.py",
+      "bytes": 19098,
+      "sha256": "bfab17b3d5b4bfc35a448fe38ee8bc11a1c383bd8a69071fa1724430540ca726"
+    },
+    {
+      "path": "analysis/uv.lock",
+      "bytes": 361558,
+      "sha256": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+    },
+    {
+      "path": "analysis/validate_activity_proposal.py",
+      "bytes": 2307,
+      "sha256": "47e2ad3d86829b4d5946326351d2ea2cf0d80a53bffada892c98fe4755c4bb6f"
+    },
+    {
+      "path": "analysis/verification_release.py",
+      "bytes": 21933,
+      "sha256": "29fe59c6a7e7dec871e78bc5aa8f3fe83c6f805be9bcf23db8e799587b4bfebb"
+    },
+    {
+      "path": "analysis/weekly_literature.py",
+      "bytes": 10384,
+      "sha256": "c63940bbb76fef11d7005fb11b0bb9be1624212ed2908110f5533591738d62c4"
+    },
+    {
+      "path": "analysis/weekly_report.py",
+      "bytes": 14529,
+      "sha256": "da72ca26118ded379cc2b4b7737ca33fa8efe3d0afd97481415276afc0514a0b"
+    },
+    {
+      "path": "analysis/weekly_toxicity.py",
+      "bytes": 11445,
+      "sha256": "e5a305e86dba1d5b73aa0595f46fdd58c8625af495cda3a0f1444ab278898ca4"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/SUMMARY.md",
+      "bytes": 3655,
+      "sha256": "e5af94e18d544351ad3509a0f1258da5d69b8b653439b2ec9b74800360b153a7"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/build.py",
+      "bytes": 1761,
+      "sha256": "d775b3ad98c842d8674814cd0222f746adaf9510a0bc62fa445340dfa1d8711b"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/context_overlay_run_source.py",
+      "bytes": 12296,
+      "sha256": "c9d5b08f64866916c67468efebfede9e79dd1cb1d93423e439135676c7899e41"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/fetch_abstract.py",
+      "bytes": 1117,
+      "sha256": "0e9ea3cbe8374d6fd33d111db6d7fb8d0284156f4ce819d8c92ed57b7b58f882"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/fetch_abstract_xml.py",
+      "bytes": 1295,
+      "sha256": "c12f87e5c953a33d2bb03ab46df8874ca2897fafbde7cf86496fe76314550893"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/provisional_ph_decisions.json",
+      "bytes": 6659,
+      "sha256": "a9f9bfdfc99d4bda9f8682cf59669081b9bbe74738ed294c690d1f3edd5fd9ad"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/sources/kamaya2005_pubmed.xml",
+      "bytes": 6544,
+      "sha256": "53583004797b2daf0ae5ac8baee666efac29efdff0461658bb997db93ad591b2"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/sources/retrieval_log.json",
+      "bytes": 115,
+      "sha256": "127b9624bd19bbe905c6ad4f091b1298ab79306182a9f7c001f80cf0fcb8251a"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/sources/sources.json",
+      "bytes": 509,
+      "sha256": "4b9729e31a6e23d6fb2922c37a1e340dbebea91a6a7805f4f7a9a52913a590d1"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/sources/xml_retrieval_log.json",
+      "bytes": 245,
+      "sha256": "51034635c4ea7741e7dbc904126a77e578cbde8fb574117e4b635c07bca3d40c"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/verification.json",
+      "bytes": 204,
+      "sha256": "2768637fd17baba631ff64a3eddf93876a572271e1a25917f824067d9b56690a"
+    },
+    {
+      "path": "experiments/aquatic-context-2026-11-12/verify_run.py",
+      "bytes": 1703,
+      "sha256": "ede25b65ae313b164eea2b5dbf67215a285d36c544785ff6d7a89a71505a38b1"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/fetch.py",
+      "bytes": 564,
+      "sha256": "01d5542c53b2a8ae95da6bf01cd3956fb6c63c1c27bf70d185f29438693f22b9"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/rendered/page-01.png",
+      "bytes": 1010824,
+      "sha256": "d6e982a86f136cd16912e76c65e5f9202939aedd10360d24877354d2a79bf665"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/rendered/page-02.png",
+      "bytes": 439990,
+      "sha256": "5cd96b8781d6c44e1d9c085d01436fb4c95b05da2d1b38a7d98b471bb0ad0d5f"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/rendered/page-03.png",
+      "bytes": 549303,
+      "sha256": "cc086c3980cca861f9e70f389072e9084f1834850dd5a87660bcca063cb3dbe7"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/rendered/page-04.png",
+      "bytes": 427741,
+      "sha256": "2006be2387ed8ee383bc48a35abd64bfc4c43646fae46f7ad19ff0452aa94a62"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/rendered/page-05.png",
+      "bytes": 396376,
+      "sha256": "a274fdc71e877019513dff3ab4235a1b2afab14298cc9db0a93630830cc0a9c9"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/sources/kuhn1989-page-01.txt",
+      "bytes": 4928,
+      "sha256": "9dc2df8453ced883cdd0b7c3ace5311bd13a81d4c6812298c95f48532e3d9d8b"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/sources/kuhn1989-page-02.txt",
+      "bytes": 3047,
+      "sha256": "0a17e5a46e12c05921ef707e4faf46126eb6ee0da442402cdfdf3e60555a4111"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/sources/kuhn1989-page-03.txt",
+      "bytes": 3989,
+      "sha256": "7755ab99f5393ad845222c30acc94447a478e19162da11bd55fad2907c263c0f"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/sources/kuhn1989-page-04.txt",
+      "bytes": 2201,
+      "sha256": "d617e4b7c9dc915fcea39f431d6485edf2e93e981f75485f27c742ce871488cf"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/sources/kuhn1989-page-05.txt",
+      "bytes": 2632,
+      "sha256": "88ef56f2cb7b206530cdb3d6b9b884bc12d8088d7acfdc423a132cdf22296046"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/sources/kuhn1989.pdf",
+      "bytes": 581495,
+      "sha256": "42af195a47cfe8f8b850b561d5b7e6b920151913bc3700c84e2984be47b769e5"
+    },
+    {
+      "path": "experiments/aquatic-series-2026-11-12/sources/retrieval.json",
+      "bytes": 256,
+      "sha256": "4c71b3e643487d3571e6c0d1713cf0fa03f68768c06e1ad5ff956c0bd50cf330"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/SUMMARY.md",
+      "bytes": 3859,
+      "sha256": "4a2cfbb69b9975b265c0002952dd6d52e6b3c042b4660373f6b9a84ca71ae038"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/binding_catalog_initial_run_source.py",
+      "bytes": 13200,
+      "sha256": "93924444a72bf5e19366a8e6c5b8cc46b4fe4976aa1ba72d02f09939189b1f13"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/build_stdout.json",
+      "bytes": 5294,
+      "sha256": "ffcc772cad3826e5c5f90e208839ef1d90460bdc5fbb7ca8b517a1bebb6ebfb7"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/curate_contacts.py",
+      "bytes": 4902,
+      "sha256": "80ea112d61db4f0d34d286306d5944bda2977564383403366f13c34c6085b274"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/curation-v1/author_reported_contacts.csv",
+      "bytes": 4941,
+      "sha256": "81d1a687c852d9eff466ab08ed4299911778c7d0f6b7f634a446c6225a5214bb"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/curation-v1/manifest.json",
+      "bytes": 1691,
+      "sha256": "c33540b0a3bc5ad46b8cfbb1cc10f81b59ade396b6b9499c3ef7dd85c76fc0d0"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/curation-v1/reported_quantities.csv",
+      "bytes": 719,
+      "sha256": "fa3faef9bcf43fddfb73702fac39de019ce42b39dfc1a03d9281738ad414fc0d"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/curation-v1/wrong_cofactor_rejection.json",
+      "bytes": 150,
+      "sha256": "29f0c46f4c8ef1c2e19c75cbac01a64fe0b7bf8fdc3633633e86da4c09a1a26b"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/curation-v1/wrong_cofactor_resource.json",
+      "bytes": 1495,
+      "sha256": "d2fca28a1448824f802c863e8c775708415fb9c7982c6ceb88d3e61e302b132f"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/draw_forms.py",
+      "bytes": 1431,
+      "sha256": "0ab970f2a0bdb8947472e000a35da515f7b58c2b496aa2901a44cfea2b0a0da8"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/fetch.py",
+      "bytes": 2104,
+      "sha256": "b6a16de78a4c282a82fda328d7e0ba906fd04b47c2418126d1e5a0025427859e"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/fetch_bound_form.py",
+      "bytes": 991,
+      "sha256": "42b5db566e801ca09d8070f6680b817f0dd4eadc2a0168baa56967f210ce6967"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/figures-v1/bound_forms.svg",
+      "bytes": 83323,
+      "sha256": "534a1d14f88ec097a14f1e9fe059735b7b1166c0664c9d1de7bc00f1098f55d5"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/figures-v1/manifest.json",
+      "bytes": 1115,
+      "sha256": "9c507b4074e01b96a6efe71a2aa7aac0426a88504f549ac02e2a42e158d5c0fd"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/final_build_stdout.json",
+      "bytes": 5312,
+      "sha256": "dfe48b4daca80f9832545e0f3a75be2feade3b7f1dbf320be867a90bfd4b845e"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/records.json",
+      "bytes": 2740,
+      "sha256": "e6672ed83ddae73f32d0f46d96cced5c8c17bf534920805bdab8dd2ec047e1d0"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/1KMH_entry.json",
+      "bytes": 15980,
+      "sha256": "3437008c65c9522490b50aa367eff272fb6ebf58684bdb3330cd42c2cfc063a9"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/1KMH_nonpolymer_3.json",
+      "bytes": 395,
+      "sha256": "928796b17258eed3107d726e1bab4063dd86ac9e5d6ac3c1f68864fb13fb2ea3"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/1KMH_polymer_1.json",
+      "bytes": 29513,
+      "sha256": "23835e1fbca03bcc36ac4584475dbf3da39bd468820e667f73e31f1b0d8bacb4"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/1KMH_polymer_2.json",
+      "bytes": 29322,
+      "sha256": "b2b2dc63650271e4c80d6a6257cda0d6ce7b3deb4fa4fc045ac0a02b8a0a237f"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/8CI0_entry.json",
+      "bytes": 15953,
+      "sha256": "852c068ac5f1f4eb04b0898feb7298acd8d2745bea9064ea0c82d650f72fb880"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/8CI0_nonpolymer_2.json",
+      "bytes": 424,
+      "sha256": "35492d26dd354ea72d264c41e2e5f866e5807f36d9b03cafbf10151b616c9435"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/8CI0_nonpolymer_3.json",
+      "bytes": 1009,
+      "sha256": "a6924abafbe15ebcc781fa8e6154940a494daeb044ab13850acc994f8c6aa8ef"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/8CI0_nonpolymer_4.json",
+      "bytes": 1201,
+      "sha256": "7dbcf8f1a5da0bf802dd6c9d82765eaf7dbe5f9aa18db013786c571d6b6141d5"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/8CI0_nonpolymer_5.json",
+      "bytes": 603,
+      "sha256": "0015f7e3642ee595e371bc333a676a50eee8377bc2019cd83708130b7d34dc3e"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/8CI0_polymer_1.json",
+      "bytes": 33099,
+      "sha256": "73a71ef1784e85812ab9cd1d45e8f080adaaaae1782e15aa1722b6dbc32e7ad7"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/8EL_chemcomp.json",
+      "bytes": 3394,
+      "sha256": "888d82616e82c3399eb961727976cb8e42a09efa6218bb55b6af7575529489ff"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/TTX_chemcomp.json",
+      "bytes": 4399,
+      "sha256": "97f04f0e10d865a3bafd70c1d089b7c6b42910f9727575ff22c78b9fcf4959bd"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/UP0_chemcomp.json",
+      "bytes": 3486,
+      "sha256": "d7a5c059ba9ffbf73cb991334e4ee3f52e1510140029485ca45dbb23d9ca7bc1"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/bound_form_retrieval_log.json",
+      "bytes": 522,
+      "sha256": "8ae3fcfb746c93a08ed5070baeacbc5071bde051aadf114b2d34a86312e3e7cf"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/cornexistin_primary.html",
+      "bytes": 206178,
+      "sha256": "c4ae8a716a2a53a4d36806dfacf224f1b94e741fecc740a31b2c312c3fc74bc7"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/cornexistin_primary.txt",
+      "bytes": 44936,
+      "sha256": "ab616c1fd3fa39cad26dd4039c769a9bb6fe029d1b418379a289a28292c6b64a"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/cornexistin_pubchem.json",
+      "bytes": 266,
+      "sha256": "cb4e150b5199b37b9b7b27b58ddc18d3ee5e55b0b4867eb6838bfd8385a97455"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/retrieval_log.json",
+      "bytes": 4463,
+      "sha256": "33ce35f8c70b09d935d559b0a6247709879f3c79c976c092609f53a52e4ac639"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/tentoxin_primary.html",
+      "bytes": 147800,
+      "sha256": "d94320ddff1913c59054225476118a36c74744e8dc2c743db1b7b5c0387fe75b"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/tentoxin_primary.txt",
+      "bytes": 29678,
+      "sha256": "ce7cc60cb768382dc33ccd73cf9a48d518c435cfd91b35dcb35a96041394c845"
+    },
+    {
+      "path": "experiments/binding-pilot-2026-11-12/sources/tentoxin_pubchem.json",
+      "bytes": 279,
+      "sha256": "6d01c20c0003be25a23fafbce5fb19a9d8cabc44f9e74b52ddfb9835d63d6290"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/EXPERIMENT_PROTOCOL.json",
+      "bytes": 3026,
+      "sha256": "0d75e692d292ff416b9c4806622ab0f865989a65b0f895f69d8fdeca251d7882"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/SUMMARY.md",
+      "bytes": 5248,
+      "sha256": "8e8803303eb471c75cc0bd2339c316c99dee923bd235ba3ff68d6b67f7360315"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/SUPERSEDED_RUNS.md",
+      "bytes": 318,
+      "sha256": "af0d24fcaeab560e83d4b2cfecbc86c55b5dded0593249cb03812ee94665e6e2"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_compounds.csv",
+      "bytes": 9486,
+      "sha256": "932efb842fffc99cab2c4900072b4885a070aaacf6795b56414b6a3f6c64cde6"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/HE2011-AR-1500G-POST-BANDS-v0.1/folds.csv",
+      "bytes": 58,
+      "sha256": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/HE2011-AR-1500G-POST-BANDS-v0.1/manifest.json",
+      "bytes": 9330,
+      "sha256": "7df6d1659b96665c0602e251c8828596f26b1c8ddf6baf1a2a4e2be484f6a50c"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/HE2011-AR-1500G-POST-BANDS-v0.1/members.csv",
+      "bytes": 69034,
+      "sha256": "4d354ba68232a9f4e6060d05635536fb3557a2a83215ac268dcb8db8ab7ec47c"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/HE2011-AR-1500G-POST-BANDS-v0.1/support.csv",
+      "bytes": 435,
+      "sha256": "600fd3eaf0870b384cffde958e577dd55014a4ef134e485a0f1ef256c159c702"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1/folds.csv",
+      "bytes": 58,
+      "sha256": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1/manifest.json",
+      "bytes": 9400,
+      "sha256": "50278a14ba31fc4c2db5d2dc06b1fa983af893077d5911236b28d6f310f03b22"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1/members.csv",
+      "bytes": 4478,
+      "sha256": "53a0db0fb03fe73af6fdfa8ef32bf4a2f816b6e028d2da5223c559286f66f106"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1/support.csv",
+      "bytes": 411,
+      "sha256": "f05236651639e1909b3da3d7c791563e24c3ab5225dc6d31b9d4dda28bb432e8"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/LI2006-AR-150G-POST-BOUNDS-v0.1/folds.csv",
+      "bytes": 58,
+      "sha256": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/LI2006-AR-150G-POST-BOUNDS-v0.1/manifest.json",
+      "bytes": 9330,
+      "sha256": "b12ac04d3220535665868dad384678c698f872b466c826dc918b4c37f6d4ffa3"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/LI2006-AR-150G-POST-BOUNDS-v0.1/members.csv",
+      "bytes": 68342,
+      "sha256": "7b244c5682d70ef1a45adc2bb85ab8baa336fe802b7d22b0dd718890db57dd4f"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/LI2006-AR-150G-POST-BOUNDS-v0.1/support.csv",
+      "bytes": 435,
+      "sha256": "498ef9b3410d3da7c6290c8ca08a9a0788a239930b3ce7030ed97263e3c6529b"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1/folds.csv",
+      "bytes": 58,
+      "sha256": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1/manifest.json",
+      "bytes": 9342,
+      "sha256": "356b7b6027db985279eb46e3bd0e8e2024cf24c087cc8ed1bce671742009678e"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1/members.csv",
+      "bytes": 67934,
+      "sha256": "7e9db6be2375a56b37446d21afd1e727dac9d6e53cee54f67e6ff96979445bf6"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1/support.csv",
+      "bytes": 411,
+      "sha256": "8257ffdcc304b1325822f214cf4d0e10a1fa7dd02bc1910dc91014e3e0bf66e8"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight.py",
+      "bytes": 2001,
+      "sha256": "a3e7b53f05793c82c49cbb7a15eb9c47520375243152b10ee020374e090cf0d9"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/baseline_support.json",
+      "bytes": 1602,
+      "sha256": "6f61c21c475aa881f70fbca3366dba9f04038b02eb6b5ddf21ce6b9df4c4d883"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/build_source_policies.py",
+      "bytes": 5183,
+      "sha256": "85fd482eef933f481d0c03b2c2878c6630f10db107526fc2da6caa2f70499903"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/compounds_HE2011-AR-1500G-POST-BANDS-v0.1.csv",
+      "bytes": 9486,
+      "sha256": "932efb842fffc99cab2c4900072b4885a070aaacf6795b56414b6a3f6c64cde6"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/compounds_K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1.csv",
+      "bytes": 515,
+      "sha256": "24e903764591f3a26739f97629cb9090cf8889005c636727e6306a712f80676c"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/compounds_LI2006-AR-150G-POST-BOUNDS-v0.1.csv",
+      "bytes": 9486,
+      "sha256": "932efb842fffc99cab2c4900072b4885a070aaacf6795b56414b6a3f6c64cde6"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/compounds_OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1.csv",
+      "bytes": 9486,
+      "sha256": "932efb842fffc99cab2c4900072b4885a070aaacf6795b56414b6a3f6c64cde6"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/extract_additional_series.py",
+      "bytes": 6025,
+      "sha256": "d6b0a463dc5541f6c4d0230b5502d2123786a430a30eaae25764120afc3ebaf1"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/extract_series.py",
+      "bytes": 11057,
+      "sha256": "d0cb9ee6f9d2c73480f917982d2862a38ae59f236c2296f75d94826275a6f3ca"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/fetch_additional.py",
+      "bytes": 1186,
+      "sha256": "b6da54ca432484114d2d302617ed60ad6119f76d2a444975646d6437d4dc6e00"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/fetch_identities.py",
+      "bytes": 1026,
+      "sha256": "fcb3ce091b039456794d491f607dcbe34e6b0e8821ba0871016aa10fd31b5c77"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/fetch_more_pmc.py",
+      "bytes": 876,
+      "sha256": "6f550909860dfa43cddd2761eb77a8ba920d44e73c8f1694381155574489515c"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/fetch_ophiobolin_aliases.py",
+      "bytes": 955,
+      "sha256": "6e8155ef3857d0c9405a857fe49d77aa7678461f801afb0fef2044cbcca05182"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/fetch_ophiobolins.py",
+      "bytes": 1218,
+      "sha256": "1ea236319dfb4cb76868dddbe4f8858555cb651233182c1cffec80a876600b86"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/fetch_sources.py",
+      "bytes": 1217,
+      "sha256": "8b1784e5f5dba5e1d6e2c7a6026fbe6ea46e2edc94d1d3b329ef61dd57081f32"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/identity_holds.csv",
+      "bytes": 133,
+      "sha256": "5c6bdeb3e2d84d492e13fe039123601c14a70e062c92024d22d8c425d75764f1"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/inspect_html.py",
+      "bytes": 1446,
+      "sha256": "644248c30caabfc77ace6ec79c96f1a57393b506f8fd4e43a633ba87af33b310"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/literature_screen.csv",
+      "bytes": 4817,
+      "sha256": "e720fa85554e292423308c046ff825311ae175f1340458c0e62a50027e24be41"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pool.py",
+      "bytes": 2381,
+      "sha256": "49fb21e9a4a497b162e98d3cb0b1c3fa7720e383a6e54500b688e2e9cccd0186"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled-v2-corrected-doi/pooled_compounds.csv",
+      "bytes": 4692,
+      "sha256": "981e02fffa1d3b53c63b96418fd0c758b62e183e7dd7644471a2ec2c46549bfc"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled-v2-corrected-doi/pooled_labels.csv",
+      "bytes": 44738,
+      "sha256": "91e30b2b25687cb8785887b0812b5a2b2169b87ee54bb616a969ebf7534db81b"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled-v2-corrected-doi/pooled_lineage.csv",
+      "bytes": 6075,
+      "sha256": "58e226dd165b3f28c746f7cb468f947cf3f61b03da13591104c3c1ff86d48a31"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled-v2-corrected-doi/pooled_preflight/folds.csv",
+      "bytes": 84766,
+      "sha256": "2b9fa8737f4eb25f63ee4ad3ed789a1873e3ec60e92dbf0490f95c8d7877a5ce"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled-v2-corrected-doi/pooled_preflight/manifest.json",
+      "bytes": 9282,
+      "sha256": "adf17191ab4fd1c3cbd3cfc77d3ef3256bc0c60e07c7fae0b9c83f7a8e364492"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled-v2-corrected-doi/pooled_preflight/members.csv",
+      "bytes": 35794,
+      "sha256": "0ac158f6e2cdc7068819417f1dc3ffbf047a7cba501825639c4fea1d25413c61"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled-v2-corrected-doi/pooled_preflight/support.csv",
+      "bytes": 355,
+      "sha256": "2517214fcb14355a70abdd17919a7733dc16a8fa048765a284d770cf3242c1fe"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled_compounds.csv",
+      "bytes": 4692,
+      "sha256": "981e02fffa1d3b53c63b96418fd0c758b62e183e7dd7644471a2ec2c46549bfc"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled_labels.csv",
+      "bytes": 44738,
+      "sha256": "a2dc721f7bb918d360318edcc632a8cabca1bc5ac751ea0395f0b1539001cdc0"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled_lineage.csv",
+      "bytes": 6075,
+      "sha256": "58e226dd165b3f28c746f7cb468f947cf3f61b03da13591104c3c1ff86d48a31"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled_preflight/folds.csv",
+      "bytes": 84766,
+      "sha256": "2b9fa8737f4eb25f63ee4ad3ed789a1873e3ec60e92dbf0490f95c8d7877a5ce"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled_preflight/manifest.json",
+      "bytes": 9162,
+      "sha256": "b1891addf8bc5ea978350613e957d92fcc78a6a749d9dcca29f0a810ed7fb77e"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled_preflight/members.csv",
+      "bytes": 35794,
+      "sha256": "0ac158f6e2cdc7068819417f1dc3ffbf047a7cba501825639c4fea1d25413c61"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/pooled_preflight/support.csv",
+      "bytes": 355,
+      "sha256": "2517214fcb14355a70abdd17919a7733dc16a8fa048765a284d770cf3242c1fe"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/publication_transfer_stdout.json",
+      "bytes": 9965,
+      "sha256": "ed122f34562773677bb5d08b9a06177bf13112c4ba23c4d55c5e08548c5692c3"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ambrosia_compounds.csv",
+      "bytes": 177,
+      "sha256": "ddee99ec6ca882a00ec5a3752eeae507a3817110c9944d868662e295135ba6ff"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ambrosia_labels.csv",
+      "bytes": 859,
+      "sha256": "1a736642bb7faee6290a2249affe176fcde4fe5565bc55a8bc102bde075ffc8e"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ambrosia_preflight/folds.csv",
+      "bytes": 58,
+      "sha256": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ambrosia_preflight/manifest.json",
+      "bytes": 9487,
+      "sha256": "06f00c1d4f958e1a82438c8d05ac26f5aa0942e003b5ac79ba3f02985de1bdcb"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ambrosia_preflight/members.csv",
+      "bytes": 1330,
+      "sha256": "2a7322b0cffa8714b99bc7afb894873c1a8a9904ac1d35ad16bd1a6965f55aad"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ambrosia_preflight/support.csv",
+      "bytes": 411,
+      "sha256": "515ce11e39ae650b497dd11e2a52bde8f163f6baf87e6cbd980766348433dcc8"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/manifest.json",
+      "bytes": 1912,
+      "sha256": "60ee0e38d8c7c3cdd4005e4a37663615059b75aa1c6c2583ea3226f11ff798b2"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ophiobolin_compounds.csv",
+      "bytes": 385,
+      "sha256": "cee3dfc7f98cbc9b18b436344f9cac849dd61e7c7ccc27d9fa5d70ba84d73678"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ophiobolin_identity.csv",
+      "bytes": 1327,
+      "sha256": "463a41a98d7741fd22d50d6e9a46bc424e21dd7fb59411cc4967d846abbb3f9a"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ophiobolin_labels.csv",
+      "bytes": 2358,
+      "sha256": "14ac104aaab692a90093b504001114cb6b3209b79f2b6fc7277c67ab7ea0fe75"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ophiobolin_preflight/folds.csv",
+      "bytes": 58,
+      "sha256": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ophiobolin_preflight/manifest.json",
+      "bytes": 9512,
+      "sha256": "d7d2abc648e72c960ffcd76600729066bafab0a11f610af8d3ab6a5fb501e853"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ophiobolin_preflight/members.csv",
+      "bytes": 2382,
+      "sha256": "c457a78a80cd62973003375f4a0674b7b7cf092e9dd05bb821061982364e6559"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ophiobolin_preflight/support.csv",
+      "bytes": 411,
+      "sha256": "ef5706bad41f14f44c9eb8692eff6bbd6391738bad00a281034ee623cab30caf"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/policies.json",
+      "bytes": 1106,
+      "sha256": "bf1ff39fb101e7f049b3710413bae6e1aa21f08f46059067895a0f49c0556727"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/supplement_validation.json",
+      "bytes": 210,
+      "sha256": "4049d9abdde00412e6e6baba549aa1b3a17cf85588795a42297d5e5170d896c7"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/6-epi-ophiobolin_A.pubchem.json",
+      "bytes": 298,
+      "sha256": "03e446bae219afa10bf42c59ee50371276194f33b1a9e069745d7ce0f0ca9e38"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/additional_retrieval_log.json",
+      "bytes": 1040,
+      "sha256": "dac7efe5bc62b4ad0d44c13a9d1dfc9b69d94551aa5d52a12b7f1716d0734bcc"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/ambrosia2019.html",
+      "bytes": 190600,
+      "sha256": "617926f6d633ee29fe3272cab1c9d128d04d49b810cb8400d6dcc9672baefbdf"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/ambrosia2019.tables.json",
+      "bytes": 3034,
+      "sha256": "8a2bc298a314d57c0111fe18ce7cf9451aaac7262f482119b132396d55b070db"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/ambrosia2019.txt",
+      "bytes": 47016,
+      "sha256": "b89f2e953c44f7ed3098f7b171760486a06003cf3e224d0a146c40dafa8e51f0"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/bislongiquinolide.pubchem.json",
+      "bytes": 320,
+      "sha256": "89f6430fac126515492eb0e62092348c4d93e5f9cd27f1a22286a703e2ca4f52"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/bisvertinolone.pubchem.json",
+      "bytes": 817,
+      "sha256": "794f82498055ad476aca04ebd0c5ad73c76e0cee5793088dabfc02689d91e4f9"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/cleomside2020.html",
+      "bytes": 244672,
+      "sha256": "b32a6cbb4b90e42b3e87c9914fab8d3ecafb58c890155f6d1ef5ed6ca64d2936"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/cleomside2020.tables.json",
+      "bytes": 6035,
+      "sha256": "ba58265741658f8ae5f577a432daba76711ecc920a92f7f0ffb76f84cf896005"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/cleomside2020.txt",
+      "bytes": 65168,
+      "sha256": "7e273889da6b1015a888003e4f3508d04b20994d73118d8b4b60e4b2df27b1fa"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/confertin.pubchem.json",
+      "bytes": 261,
+      "sha256": "5b5482ba9b387984cfac444ff33c316c296fbd5fef6ef16ba5d757488cb6b911"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/demethyltrichodimerol.pubchem.json",
+      "bytes": 317,
+      "sha256": "ddadfe3c286bdcf7cd5ff25047b3a08372d37308dbd6e07472cdce58704006f9"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/dittrichia2025.html",
+      "bytes": 310058,
+      "sha256": "f3e796293fc77a7b9a54596029d96e74d6a682ec98f11525bf0b43bf8b13c5b9"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/dittrichia2025.tables.json",
+      "bytes": 7530,
+      "sha256": "0ff3219951b9196c2d1993e1ebe565b10d0ac5fffa3bc6c4487d0d0f345872b0"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/dittrichia2025.txt",
+      "bytes": 97964,
+      "sha256": "e7baaa7e9a9382899c3e298a2328d974787959e0dc4835f991a22487540dbff9"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/dittrichia2025_supplement.zip",
+      "bytes": 1817,
+      "sha256": "d7c65cb41de4376e912ecfc2fdb880222a85fc689aa759cd83eb695ae2eae029"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/herbarumin_I.pubchem.json",
+      "bytes": 251,
+      "sha256": "e33296a7f3ceef5a5ec86b0bc1a42b4f151acee97d18b79ff9c72cb2a011265c"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/identity_retrieval_log.json",
+      "bytes": 3095,
+      "sha256": "2b778c0d4a4296ba2818d201d6991a5b991499e64a2643b407017aaa0f4adb35"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/marinefungi2018.html",
+      "bytes": 175654,
+      "sha256": "a7b733c9e657222dada892206eda736e2e844f4af3c6d460f9641eda34e8555b"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/marinefungi2018.tables.json",
+      "bytes": 4591,
+      "sha256": "1f86331cca4114fdd98ef642610be9549cd799ff0516ebbfedae73f57764b525"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/marinefungi2018.txt",
+      "bytes": 46089,
+      "sha256": "176b3a8275c8a19b9ba34345dd439516ed49753edcb2550eb3443a1595475948"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/more_pmc_retrieval_log.json",
+      "bytes": 693,
+      "sha256": "b1c0f004f9a34e3718a1f8169d2e89ff148fa212185496321a779ea10a6b1e81"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/neoambrosin.pubchem.json",
+      "bytes": 258,
+      "sha256": "3b13d7a64542f1ff0b408a46d00a18172d9c43b05c67930f314ae85022fa47dc"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/nonenolides2021.html",
+      "bytes": 236988,
+      "sha256": "e4cd3a706cd800e10d065685c7b52cbd8a6a5bd8eabfeaf34c03d675ddab9e4b"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/nonenolides2021.tables.json",
+      "bytes": 2937,
+      "sha256": "4d1c11b77264e8f49fd127c1dd082716550547a980604257257b64f19faf6af1"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/nonenolides2021.txt",
+      "bytes": 70433,
+      "sha256": "fd8652dc9f51d460cd7641ca13a5ad099ff9274e6a7b83b258a8af102ced9895"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/ophiobolin_I.pubchem.json",
+      "bytes": 292,
+      "sha256": "ceefcafdd2b7f504c3d24baeb1527c0f18ca1207d31a51e87fced4c604198567"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/ophiobolin_alias_log.json",
+      "bytes": 700,
+      "sha256": "720e5d00ecf75c387495873fdc2e070ce95bac6cb4bf62fe98abaa530b6e28b9"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/ophiobolins2021.html",
+      "bytes": 181775,
+      "sha256": "e7f648679a8121cb8e61907e660eee2e1740ddbe37ad97c755f26a2bca2dd2c8"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/ophiobolins2021.tables.json",
+      "bytes": 1830,
+      "sha256": "e3bb05b177cd02b0594ccceb2ae6c42d26e1d2c8e6db0ace6dce9af66f83a615"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/ophiobolins2021.txt",
+      "bytes": 45429,
+      "sha256": "c8d63f0fea21003894cf023c5554ccfb7b2cb321aa2bd9a299e2d3875dc37407"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/ophiobolins_retrieval_log.json",
+      "bytes": 1805,
+      "sha256": "036531883c8176ae71293cff685af69de9a0b08f59c6ab5b831f8625918f89a0"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/pileostegia2016_usda.html",
+      "bytes": 32878,
+      "sha256": "b168813e7b0d0b5b076175394cac612df26abced0bec1e4646fccf6331ae4494"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/pileostegia2016_usda.tables.json",
+      "bytes": 3085,
+      "sha256": "f0a64baee6e43211349175dce55fa763b6d9eb2b5073970d5760d857be58b1b9"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/pileostegia2016_usda.txt",
+      "bytes": 4645,
+      "sha256": "c2cd2ada27282de5374170060055aca432366086cedb12996ce35cfa6e62125f"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/retrieval_log.json",
+      "bytes": 1345,
+      "sha256": "07492ad0c57ede28a52068191e02014914d14fa0423f5c97e9cdcc32d7cddc5d"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/rosemary2018.html",
+      "bytes": 239293,
+      "sha256": "a0b5d280434e370fd458f0651c0ebc70a36a709027728c688433e6569bbefd99"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/rosemary2018.tables.json",
+      "bytes": 4621,
+      "sha256": "71fa9a12b3f1244c4bbbddcb177c2cf6146b739f9048ae39ea2d41f180ffebb4"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/rosemary2018.txt",
+      "bytes": 61885,
+      "sha256": "8fcd4d2c3fb0c60588e914c122095ca58de9329abc5aa22ec7887fa2bcb7e6d1"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/sorbicillinoids2019.html",
+      "bytes": 1155511,
+      "sha256": "8b6ea1df84d766aa5815e634e8c8e1b77a27f471e6cf17fad3b9a0e090f2bfde"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/sorbicillinoids2019.tables.json",
+      "bytes": 15547,
+      "sha256": "b53146e7a7496a973f03effa08fe78a4d827a0f6b99f75f1500d8a66d11c98fc"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/sorbicillinoids2019.txt",
+      "bytes": 73461,
+      "sha256": "d1d000ccd8d0357b54b15b8a5f306fada9a47342db85b5d58477a43cb62b71f3"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/stagonolide_J.pubchem.json",
+      "bytes": 250,
+      "sha256": "d09702978f38c4d62d437218d63eedd5f7814372e5ff039fdc443c3e532dcb4c"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/stagonolide_K.pubchem.json",
+      "bytes": 242,
+      "sha256": "aa540a4eb439d3aca8a26db877d95d334cb87094214df0f8294ed58e2368d60d"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/sources/trichodimerol.pubchem.json",
+      "bytes": 2467,
+      "sha256": "9366ed29ce52508584f62aab33114275fd5129584bc2f316409c9fd64ecdb033"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/summarize.py",
+      "bytes": 7133,
+      "sha256": "22d9f8e12fa2f4385971229fb751af8926fc846f3fcb67ba95f25b6075f2abe9"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/toxicity_source_screen.csv",
+      "bytes": 1255,
+      "sha256": "475e1a4e5da695dbc5636edfedf7da7300ed6ab9580ec7a544a0ea08e653cfcc"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/transcription-additional-v1/manifest.json",
+      "bytes": 1598,
+      "sha256": "d76589e05948344ef07622e56a1df7a7eecd380f590b31696be8fa8e67b20aff"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/transcription-additional-v1/observations.csv",
+      "bytes": 83060,
+      "sha256": "9a966d512377fa30ec7efd3fe86a12c3709c1ea5a395528db8242ac8e61a9310"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/transcription-v1/manifest.json",
+      "bytes": 4063,
+      "sha256": "faa8c2c663eed54e9777aaf54f969be909685453e310dfe71683b8eadf5e6433"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/transcription-v1/nontarget_observations.csv",
+      "bytes": 35391,
+      "sha256": "38b0cb05110aec5eaf6a340298024d419173901865013e9a99bfa65e37a403e1"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/transcription-v1/plant_observations.csv",
+      "bytes": 176930,
+      "sha256": "d563eeecfb74e3e4d67676a7acda08c1411389dd336feb2f7bb1f3c82325fc3c"
+    },
+    {
+      "path": "experiments/bioherbicide-expansion-2026-11-12/transcription-v1/summary.json",
+      "bytes": 722,
+      "sha256": "72b956606bd4e6af976b3cf19ed7f7cc0eef73c37038732c78aee20af4686442"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/SUMMARY.md",
+      "bytes": 7900,
+      "sha256": "2b6969a6a6b8be125b1927652bea246ff2c54518f84d09d96391c9a3dca0fb40"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/compounds.csv",
+      "bytes": 1811,
+      "sha256": "a9e366252c5fb891ef123171bb52e0efb630d92a25ecc204ed086ba4bcdfbbf9"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/descriptors.csv",
+      "bytes": 2451,
+      "sha256": "bdf100f1b03bdbab0ed59bd98fed05d302fc0c71c9268e421bcddf4d0a279dc4"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/identities.csv",
+      "bytes": 5434,
+      "sha256": "1e7822760ae71131925e72b8aceaa33741143484a6ffbc144955730753637046"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_labels.csv",
+      "bytes": 9398,
+      "sha256": "738f5b60c49b26b6dece3c280531efc6e00be0cde75c7816ef6f0f1d711cb9b5"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_preflight/folds.csv",
+      "bytes": 58,
+      "sha256": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_preflight/manifest.json",
+      "bytes": 9747,
+      "sha256": "6a2eaade9ced90154d08ff184346b6dd5d00ace942f1c76915a94de874379917"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_preflight/members.csv",
+      "bytes": 13002,
+      "sha256": "4efc05a96a67a86e0de896ceb31692be78c8106aa73945c9866909bea27af3f9"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_preflight/support.csv",
+      "bytes": 419,
+      "sha256": "1b0991803a876865cfd099d92d6666490d7e37bcbd6a1088eb0ae06849328e1a"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/methylation_pairs.csv",
+      "bytes": 7425,
+      "sha256": "65933af17ecd7b715f708ee320649ce706547677839ebd5522b1815df8521f20"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/raphanus_labels.csv",
+      "bytes": 9385,
+      "sha256": "85ac162c08de1e5a6b2dac0dc9d413c872bc02b537c1e9e50f4a72b72b231ab8"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/raphanus_preflight/folds.csv",
+      "bytes": 58,
+      "sha256": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/raphanus_preflight/manifest.json",
+      "bytes": 9747,
+      "sha256": "1445a8832bc4ec22a2c2421c37daaaf206fcf46d9a93e15b3ba6558c62b98eb8"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/raphanus_preflight/members.csv",
+      "bytes": 13002,
+      "sha256": "9ba3e67debeeca178819730bdca77957903d66f2f055520c33e1dee55ca8c43b"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/raphanus_preflight/support.csv",
+      "bytes": 419,
+      "sha256": "1b0991803a876865cfd099d92d6666490d7e37bcbd6a1088eb0ae06849328e1a"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v1/support.json",
+      "bytes": 847,
+      "sha256": "ea4951c1bf76bf98e0ac25ce5931a9239d764b8e162a8a42b0eb312a793ba42f"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/compounds.csv",
+      "bytes": 1811,
+      "sha256": "a9e366252c5fb891ef123171bb52e0efb630d92a25ecc204ed086ba4bcdfbbf9"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/descriptors.csv",
+      "bytes": 2451,
+      "sha256": "bdf100f1b03bdbab0ed59bd98fed05d302fc0c71c9268e421bcddf4d0a279dc4"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/identities.csv",
+      "bytes": 5434,
+      "sha256": "1e7822760ae71131925e72b8aceaa33741143484a6ffbc144955730753637046"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/lepidium_labels.csv",
+      "bytes": 9398,
+      "sha256": "738f5b60c49b26b6dece3c280531efc6e00be0cde75c7816ef6f0f1d711cb9b5"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/lepidium_preflight/folds.csv",
+      "bytes": 58,
+      "sha256": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/lepidium_preflight/manifest.json",
+      "bytes": 9747,
+      "sha256": "b2d8412542048b4d0f7cf2f09db435f4e332cb0c5c8d22729d44b53127fc76e9"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/lepidium_preflight/members.csv",
+      "bytes": 13002,
+      "sha256": "4efc05a96a67a86e0de896ceb31692be78c8106aa73945c9866909bea27af3f9"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/lepidium_preflight/support.csv",
+      "bytes": 419,
+      "sha256": "1b0991803a876865cfd099d92d6666490d7e37bcbd6a1088eb0ae06849328e1a"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/manifest.json",
+      "bytes": 8718,
+      "sha256": "78f03238a8f66acedbc0286f44b02f819f60e649beacf1d675fa471a15ebf646"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/methylation_pairs.csv",
+      "bytes": 8933,
+      "sha256": "74e1037e97fafb4cc5b08a0757f5aa6ff3a9bb78178e4be408dca8048554b28b"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/methylation_pairs.png",
+      "bytes": 211730,
+      "sha256": "cd0cb42e8d12183320328ce6e28db5f84d5d14fcfe345ad8f3a1d47380d3dfa1"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/methylation_pairs.svg",
+      "bytes": 26829,
+      "sha256": "f288fb20238090b50aef13c3d4a0e7a5fdd3a25cc2b77691dcd44717c5addbc1"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/methylation_pairs.vl.json",
+      "bytes": 5623,
+      "sha256": "22dc40211162c3a31d1e8018119ab91834fffcd131998d5616dbd3a130b1ee6b"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/raphanus_labels.csv",
+      "bytes": 9385,
+      "sha256": "85ac162c08de1e5a6b2dac0dc9d413c872bc02b537c1e9e50f4a72b72b231ab8"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/raphanus_preflight/folds.csv",
+      "bytes": 58,
+      "sha256": "60194ba014652a187dafef3365df1c3d04c2e4ef870378164bb247719ae092ad"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/raphanus_preflight/manifest.json",
+      "bytes": 9747,
+      "sha256": "f3d9539c243d00319f43b822c45afa180c7e9aaf87f79d90909ab055e2c4d2f4"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/raphanus_preflight/members.csv",
+      "bytes": 13002,
+      "sha256": "9ba3e67debeeca178819730bdca77957903d66f2f055520c33e1dee55ca8c43b"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/raphanus_preflight/support.csv",
+      "bytes": 419,
+      "sha256": "1b0991803a876865cfd099d92d6666490d7e37bcbd6a1088eb0ae06849328e1a"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis-v2/support.json",
+      "bytes": 847,
+      "sha256": "ea4951c1bf76bf98e0ac25ce5931a9239d764b8e162a8a42b0eb312a793ba42f"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analysis_v1_failed_source.py",
+      "bytes": 6318,
+      "sha256": "55ed9f56f8a90e24e32e61905a2d8852e56a39f49458ec2fc6e3596b79c22502"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/analyze.py",
+      "bytes": 6357,
+      "sha256": "05a57ef34823219c9309af783e2a4174eaf537a91b1f3ad471c20dcacecd99e3"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/external-inputs-v1/features.parquet",
+      "bytes": 47160,
+      "sha256": "21c4b398ef961d67c3596f1af6f3e86d0fd1ff9f87114d55273f6aa32bb575b0"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/external-inputs-v1/lineage.csv",
+      "bytes": 10638,
+      "sha256": "39d0fdca4afaeb7064b675f9d8971fe1c8236ac58f05b2fe27ba7e12f20fe549"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/external-inputs-v1/manifest.json",
+      "bytes": 8481,
+      "sha256": "276f75821f1e08bb95179fa9279c9f257f40abe18795cb6e7f193a31c950bfc8"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/external-inputs-v1/nearest_training.csv",
+      "bytes": 1564,
+      "sha256": "171704523de2a904bd47a4fa2eb793c0c2b8e37ea4aba54f36545e274a271120"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/external_protocol.json",
+      "bytes": 1134,
+      "sha256": "2ca804991ed952f6b5a08954c1c731f3d73182f03ebda4d85a73c7acc044c97b"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/external_transfer.py",
+      "bytes": 3584,
+      "sha256": "40b57fef84c5664c5d55c92f1ff742b5265ae561176abb1bb95cb04c62934a46"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/external_verification.json",
+      "bytes": 322,
+      "sha256": "3bd49feac3ebe0481d2a496ec6ffcd643527708f3d749813b154d2cf59df079e"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/fetch.py",
+      "bytes": 1097,
+      "sha256": "5125a39451b77f1f93b47e7ee18691ac6a4f58283a249c5d8b24c1a038723ccb"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/fetch_identities.py",
+      "bytes": 1574,
+      "sha256": "9990dac08d71c2342fecb8edbbe8b8f500275e2860ed5a44121c5fd8ba62ca9c"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/inspect_tables.py",
+      "bytes": 801,
+      "sha256": "5327051f231c9dd53e4e4577dce8e8df6ce540067a84d571a58176ff6af7dcef"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-01.pubchem.json",
+      "bytes": 240,
+      "sha256": "849423ac0c1236cb09a921d30a75bdccb6410e3972f180c045c6278e7dd966cf"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-02.pubchem.json",
+      "bytes": 247,
+      "sha256": "062c3077e336b61147fcfd05020a705faf030f6daee85cdea19929ef6213f787"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-03.pubchem.json",
+      "bytes": 245,
+      "sha256": "39fb70e82daa81c9598cbbd57dbc79b6b828e94b694e2237a9299eae4e16f595"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-04.pubchem.json",
+      "bytes": 248,
+      "sha256": "13fa59c56e29bbf57b380682e3b9969ff8712407c096bae8b3a9a89aaabac0b1"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-05.pubchem.json",
+      "bytes": 248,
+      "sha256": "301fa5f2b5f927f05b174f69810673005005264d9bdcd1213572bc1561cd654b"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-06.pubchem.json",
+      "bytes": 247,
+      "sha256": "27f8c9f6192414e5ce26e98715e37496196f81ebc03ff13729be2d823568be2d"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-07.pubchem.json",
+      "bytes": 252,
+      "sha256": "7c4f6068554a414b492ab067f3105bb47091c55c32fd7c50920ea6b42bf75105"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-08.pubchem.json",
+      "bytes": 255,
+      "sha256": "a4dd0862bf32960159875b17b92b0c7b41c03ac4f5d6f8d4c20592ba8b18facb"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-09.pubchem.json",
+      "bytes": 243,
+      "sha256": "19b3ede8152334ce5738024d46d5ac8e3cd311b7a9a34b686b3ac99434315eef"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-10.pubchem.json",
+      "bytes": 241,
+      "sha256": "1943cb193900c0b0ed04e3659557d1f157fed315d9010c08fbb10a821b8aa138"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-11.pubchem.json",
+      "bytes": 255,
+      "sha256": "b5e6962f725ee3c6c33b10cb1b7a0e134b0685606d3539debc19df42accb445f"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-12.pubchem.json",
+      "bytes": 255,
+      "sha256": "223913b938bd71c841182b96d4cd90ee4486403221b0efa6b428bed0a66e4c94"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-13.pubchem.json",
+      "bytes": 340,
+      "sha256": "ccb1d6421aa5b3ecfa65a2dceeeec8882a1ebe491e3728b6999b954cd8703fc4"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-14.pubchem.json",
+      "bytes": 249,
+      "sha256": "c706d8537cbffb710edfd20c57a92705b37bb1c4f423f6943f39130a60f80f4b"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-15.pubchem.json",
+      "bytes": 247,
+      "sha256": "082012681802a1d86abc97d6734f433b0ce13d4ffd0092b9b81b08572afe0eb9"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-16.pubchem.json",
+      "bytes": 237,
+      "sha256": "6b4b6405cf98d1e8dc3fa8eb978b497b5aca4da08654bf85e92a0436431e05c8"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-17.pubchem.json",
+      "bytes": 241,
+      "sha256": "3c8dd7f9b84075c84ea5d6f65d3aa47053f42d60bf658a6a5c7d18ab54aaeab4"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-18.pubchem.json",
+      "bytes": 245,
+      "sha256": "c394081ef99c08ff1292d88f71a67d1d34a31f6fdb0f3e39ae54858ba3164f96"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-19.pubchem.json",
+      "bytes": 247,
+      "sha256": "aa95899593ffd493d429aff6d6fdbb0397aeb7c87373af4aaa802d6c6a912cb0"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-20.pubchem.json",
+      "bytes": 248,
+      "sha256": "79825cc07f05d587d5df0e715cd255849f12078ca7796d34a6ef11cbba4cb31a"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-21.pubchem.json",
+      "bytes": 251,
+      "sha256": "9565ffc907f857006809f7342eac5285405e068ff864e2859c771f580195b7c6"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-22.pubchem.json",
+      "bytes": 335,
+      "sha256": "32499c4333257ec73f5b41353045da67f3654ba1d80bfec42c0c15eac57aef69"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-23.pubchem.json",
+      "bytes": 255,
+      "sha256": "7f5b259c42fbf0973138f569cc50d777d271abb009f8433a4246f60155b2689e"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-24.pubchem.json",
+      "bytes": 341,
+      "sha256": "1064416e5ede0fa65e3ee31a6d0c8371de970aece00bf3c182b8cdf9f096352c"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-25.pubchem.json",
+      "bytes": 258,
+      "sha256": "4ddb35b4f2cbfd8da862b8fc5126aa026f6f8ba14b0cbf0f68e4309e77c3bb4d"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-26.pubchem.json",
+      "bytes": 218,
+      "sha256": "c1bed07059d1c39ed6d778bd842d8e1ff8b64fcc8a30dae9f18fb8e15f5a4378"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoid-27.pubchem.json",
+      "bytes": 283,
+      "sha256": "f454da2d1197c4c874817b4ef348126fad3378f09feac6693dab55c10af97176"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoids2012.html",
+      "bytes": 213243,
+      "sha256": "eb31963eb12c1ddde73d76798c06ba4d4ed4fcdc798c4d058993e45c6851c78c"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoids2012.tables.json",
+      "bytes": 13991,
+      "sha256": "f75a293b1607fceef3791070cc966f0bf35feca34adc90570ff54aaec1e163de"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/flavonoids2012.txt",
+      "bytes": 44530,
+      "sha256": "11bbc7e40b297c4463c57271f51a4296842be2ab0fda6e753d6c088292a8e668"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/identity_retrieval.json",
+      "bytes": 9910,
+      "sha256": "c343350d07a5b3f9d8f290bd9b6165bb0a0b83aad1850314dd42504d9d732534"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/pollen2016.html",
+      "bytes": 164579,
+      "sha256": "fb2aad044d7dded81572c8d5d764694da3be2b5413fd15eb1bd7e73910467604"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/pollen2016.tables.json",
+      "bytes": 4220,
+      "sha256": "4b13b844cfe688752d4a871c0f0274b94927b050db4d5f7b851b5bd7cdd0b32c"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/pollen2016.txt",
+      "bytes": 39260,
+      "sha256": "b9e1c2e753c409ca8f2623f9dc2f6c9d6bb0ac2aff2a80189da05972f772e07d"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/prestwick2025.html",
+      "bytes": 227424,
+      "sha256": "9925487e350532901a927f1675930125a38225c4771de34de634a3228e96b7a4"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/prestwick2025.tables.json",
+      "bytes": 2356,
+      "sha256": "24cab4a16cc35cad86e4133fa27c7459683896445e7a37e514312c0081f7d569"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/prestwick2025.txt",
+      "bytes": 72589,
+      "sha256": "79b9e7d6bff0ae254c05502c65e6f970c85ef8f8c99e54fc525baea0c724ba5d"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/sources/retrieval.json",
+      "bytes": 928,
+      "sha256": "641557969b55abea5014d8897c1adc8a4c5f5dccd130bc61e8e51a591cd9a3fa"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/transcribe.py",
+      "bytes": 3847,
+      "sha256": "baee8fc401c5529c7571be04280205e52d8f8d7dd14f152002182419711ebd40"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/transcription-v1/labels_by_assay.csv",
+      "bytes": 38438,
+      "sha256": "b96e89767c85753de2502c7f7e74f45e4235593015b5960691e5e84858c9e7f6"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/transcription-v1/manifest.json",
+      "bytes": 1347,
+      "sha256": "478d0b9bd0801a9721a2d37e51b957e5ce98c4aa86318efb23d7c7c45e935030"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/transcription-v1/observations.csv",
+      "bytes": 163582,
+      "sha256": "8437f745406c3f5fb737d693d08379643cd8b1095b89acb73d50b8982a1969fd"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/transcription-v1/policies.json",
+      "bytes": 6999,
+      "sha256": "0772143d95ec54c1f7a07e3cd7b2db753ace899ba82a6d30e6f9b45447419359"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/verification.json",
+      "bytes": 384,
+      "sha256": "fe7036979864fec10e40d6300c617a5c2a841a1b6e078ad214ac96534666af82"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/verify.py",
+      "bytes": 3567,
+      "sha256": "850e6d81d02b945ecaff75f11a098c970c968d0b7a6a4d40505d69926abc0a3f"
+    },
+    {
+      "path": "experiments/compatible-assays-2026-11-12/verify_external.py",
+      "bytes": 3278,
+      "sha256": "edc5bcdf41107c656d10f4e7332934b4cd0eff2c8785e1812219a8f5d63ae0fd"
+    },
+    {
+      "path": "experiments/daphnia-source-review-2026-11-12/fetch.py",
+      "bytes": 573,
+      "sha256": "314aca382c3030274ed6c1040220ba74b59e58a9767f793a6f7ba52134640d05"
+    },
+    {
+      "path": "experiments/daphnia-source-review-2026-11-12/sources/retrieval.json",
+      "bytes": 110,
+      "sha256": "2d21e5e097dba96038943146bbcc2ce6f2c74790afd6c2610d660a6f29df585f"
+    },
+    {
+      "path": "experiments/data/epa_hazard.parquet",
+      "bytes": 399122,
+      "sha256": "564ddbf15b7067c07f36f57574142982b1cc4569d17f02bc9704e132a3ac5971"
+    },
+    {
+      "path": "experiments/data/epa_identity_crosswalk.parquet",
+      "bytes": 10010,
+      "sha256": "15c8d82d9665b9909407248a8ac188b23c251d32443a5d27b1148236142c8333"
+    },
+    {
+      "path": "experiments/data/raw/ecotox/2026-09-15/source.zip",
+      "bytes": 143255418,
+      "sha256": "6aba4def7d6e405e8f9f44173e4fe132013f3657bb4b5491f1fcc660fd1454b1"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/SUMMARY.md",
+      "bytes": 5519,
+      "sha256": "d426a74460aaa3538ccfa7693ac8c1dd97452cce492c835a440b87f3499a3749"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/conversion-audit-v1/conversion_audit.csv",
+      "bytes": 3705,
+      "sha256": "2a277e8eef09c2811fc1cf10ef005491a45212bccb9de1ed105707bde5834f68"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/conversion-audit-v1/manifest.json",
+      "bytes": 1018,
+      "sha256": "9efc37c9935dd187aba1cef2499a57a6fce9ad07017cee3d973de5fcc33a8b43"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/conversion_audit.py",
+      "bytes": 2101,
+      "sha256": "9121a7e7c9b5497445d7208a6445f80ab2f0d8759160778e8a623867b3280dc5"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/curate.py",
+      "bytes": 8410,
+      "sha256": "ad01fd6b3a30168bb297ef5544011f68b4181355eb4e5fecdd580f7bbac8fed6"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/curation-v1/duplicate_decisions.csv",
+      "bytes": 2068,
+      "sha256": "1c6c3157e36f643b12c46985e1331d82f71aac198204ab9deda9987ba8311b25"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/curation-v1/duplicate_evidence.csv",
+      "bytes": 2628,
+      "sha256": "61397f57d2897781bcf364a097ba28f1dce7fdc903415cbd7e6341a005254a2a"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/curation-v1/manifest.json",
+      "bytes": 3251,
+      "sha256": "33471f60a1ff1fc7d2f0aa2e3fa8c80ab32415918bf30540badf1edf306d00ad"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/curation-v1/native_duration_projection.csv",
+      "bytes": 818,
+      "sha256": "c7c8242b4dc5717694334dd119a42e50d7efb1379399e1b2513a709d6449c39b"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/curation-v1/priority_queue_adopted.csv",
+      "bytes": 13005,
+      "sha256": "68b36e6264366e0d9d10a41d2a86051867d0c089044a3591212a3efe325664c0"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/curation-v1/rat_eligibility.csv",
+      "bytes": 2707,
+      "sha256": "69fe053807cd41ad68bb80c404ba3e00c32602c360f85a093b87a975581ab217"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/curation-v1/table1.csv",
+      "bytes": 5885,
+      "sha256": "43abb08c0e1e98d46ce79641b849f4fbe71514b9d1fa76f768261b2aceec0146"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/fetch.py",
+      "bytes": 587,
+      "sha256": "4d0d117a8d0b880adbfe305111caa1f1c0b89b2bbd15f2caa947cc191d0ff0e8"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-01.png",
+      "bytes": 592844,
+      "sha256": "a486769adc228fda964e94530fa07eb3c62db92cfd8c87ad4130100fbe8af124"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-02.png",
+      "bytes": 734724,
+      "sha256": "77b3de2616980e61a7629fa417bb484bf9fb3ac79dd1156eec08481d11ca091a"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-03.png",
+      "bytes": 779609,
+      "sha256": "6665cececfee33467a51ac548bfebba911483507a5baf94bdd8f259bc27d5938"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-04.png",
+      "bytes": 482883,
+      "sha256": "46e4da86c2a9753eb443dd8f955b3be28c825ff6b8807cb838300b97350c24cc"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-05.png",
+      "bytes": 516927,
+      "sha256": "e2c3c3476b666c0b752fba394ce6e3c7a0f22c58a4cd0639a72017796963d27f"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-06.png",
+      "bytes": 484961,
+      "sha256": "e6a24f059a4fed8d6a9830d07996bc05c46c7b2d95672586951736656f4d72f4"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-07.png",
+      "bytes": 710611,
+      "sha256": "a790f859d24383a8d5e5afe426c4ae12b65141fd39b38477685830df0b380f60"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-08.png",
+      "bytes": 335330,
+      "sha256": "76194d8a9d49ae08715ac248ddc5826534a218d9c934ad30d1dc900fdcf53065"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-09.png",
+      "bytes": 426775,
+      "sha256": "2f7dbd66a0d7b647ed776d86782f3286801023bfd0661dc6a4a460ed10e6b329"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-10.png",
+      "bytes": 936552,
+      "sha256": "179299af7789918e80b5420f7f50a8b7b03d07bd4bf762087455668eaf58cca1"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-11.png",
+      "bytes": 996929,
+      "sha256": "d8b845727185a341fef65fdd59a1bbd0e3b0eee2f13dc45c17f41a179628635c"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-12.png",
+      "bytes": 659842,
+      "sha256": "4ad1531d6175450103ae2d9d1cb8ee3adbfef9a079923ee091ceb60dcebd5709"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/rendered/page-13.png",
+      "bytes": 500488,
+      "sha256": "96ca211b930f241fb5906fd03572b5ee4ff7d7162b84f62e263c23e08d3dd23f"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sensitivity-v1/compound_sensitivities.csv",
+      "bytes": 24553,
+      "sha256": "93ae1045e2b3607eea5abf92049d391392d1782c0ef155de35937ad66ae5a48b"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sensitivity-v1/manifest.json",
+      "bytes": 3745,
+      "sha256": "3e1c6d28e45d76c9a84dbcf868e68e2bd4d0d16d32856e00cf2a52f55df45519"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sensitivity-v1/primary_basis_strata.csv",
+      "bytes": 1775,
+      "sha256": "78d5a637fdb3c2407064d478f62578e659d50995ed4743bf5ac0aa3dfe29098b"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sensitivity-v1/retained_censored_observations.csv",
+      "bytes": 45366,
+      "sha256": "7aa816aed0a8d9756502d5d784fc7315f331f020033519e13e502c1cb6f3d7b9"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sensitivity-v1/scenario_summary.csv",
+      "bytes": 751,
+      "sha256": "ffc6c63c6b78e919907bcad1ea96c9e3aa764d6ccf87b4d11a00acd21b586482"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sensitivity.py",
+      "bytes": 5089,
+      "sha256": "95671cddf80578f0c0b326ec2ef2b927527a11a9db2121d272a52200f6daca22"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-01.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-02.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-03.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-04.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-05.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-06.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-07.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-08.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-09.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-10.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-11.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-12.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987-page-13.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/gorzinski1987.pdf",
+      "bytes": 402891,
+      "sha256": "8c9ca688757250abc954294545473c77e75044ba167e00f8e0cb263c384306c5"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/sources/retrieval.json",
+      "bytes": 279,
+      "sha256": "5c9062e94922b3d4384e0ac95da0e9a072a8d09c8cd5bfbb263b98bc1a6cabb8"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/verification.json",
+      "bytes": 392,
+      "sha256": "9de73e81f67a2533658feb6d1b18fb3ab4966dd92d47642b8565cf938fe764e0"
+    },
+    {
+      "path": "experiments/rat-source-review-2026-11-12/verify.py",
+      "bytes": 4231,
+      "sha256": "99b00ea6739a414e71b6f04733e2ca5029268ac7023bbd0eff524a1d2f3b18db"
+    },
+    {
+      "path": "notes/compound_review_deeper_2026-10-29/evidence_log.csv",
+      "bytes": 340194,
+      "sha256": "c8f173b6fd8e043f1afd31742d3afbee3468df83e2c2e3edf4d8527034765d22"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/PROPOSED_ORIGIN_FULL_STRUCTURE_MATCHES_NOT_FOR_TRAINING.csv",
+      "bytes": 4735,
+      "sha256": "9f7674dd70fca087bddeedc43598b269882d2404b1a69d1b6714f72641474e87"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/PROVISIONAL_labels_NOT_FOR_TRAINING.csv",
+      "bytes": 11893,
+      "sha256": "e8ad1269a70a7b05661c68948ab7dfba6fced31443b5a87d67cc253fcf6f4b67"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/README.md",
+      "bytes": 1066,
+      "sha256": "bf730d4c288defcda18a74d254076f865da6fb606f278b0ddaa8690ae4dce615"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/all_154_compound_verification_matrix.csv",
+      "bytes": 79427,
+      "sha256": "2ced9993acd5e609a1f69f11507920f2e67c192a0d96309cd2c9e379febffe43"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/compound_index.csv",
+      "bytes": 41671,
+      "sha256": "a0bedefd398ee5739d9ae8ed3a91f82b80af483a5ec1735cde431af705a4a3aa"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/conditional_assay_screen_NOT_FOR_TRAINING.csv",
+      "bytes": 55776,
+      "sha256": "1623756bb64fbaf1d4391d1494df217d9e50608568f65c3d2a3f800bde713057"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/evidence_log_with_verification.csv",
+      "bytes": 359381,
+      "sha256": "31fae454625ba532a098a45d3a0223b8a19a188d5308496b05d423980e7e678e"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/independent_structure_origin_crosschecks.csv",
+      "bytes": 9108,
+      "sha256": "79cf0fc06f609a498f2bccccd5d9031dc96a3bed9b31ab41a3219265c90952ae"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/li_2006_24_compound_source_crosswalk.csv",
+      "bytes": 13265,
+      "sha256": "859e82c7434ef30815a2273b0c6907541a321d0e1e432dd68b1970b32c2b8a48"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/metrics.json",
+      "bytes": 394,
+      "sha256": "9371d1cb58a05ffa208ca1009eb6b4566e32be5b083e1442011a8f3de603a25c"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/new_out_of_worksheet_compound_leads.csv",
+      "bytes": 2514,
+      "sha256": "c02040a1adb10edf253d60046aedaa1b68aa019e7cac6dbf1ca9ba98eec490d4"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/new_primary_study_provenance.csv",
+      "bytes": 2879,
+      "sha256": "e0cf4a2bb92979de9cda00bb43ce07e98696ffbbd19693e6c18521797f1da7fa"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/release_manifest.json",
+      "bytes": 2269,
+      "sha256": "afa6b8b81eacbd2db1e35a712b4fa51147b5dc9e9696b994c5d6efd87c97ddc9"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/reviewed_labels.csv",
+      "bytes": 11713,
+      "sha256": "1f799db7ba5f9e6ef1b2b8bc061850e6e8f2ebc26facf7132130933d45faca12"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/study_source_index.csv",
+      "bytes": 7324,
+      "sha256": "d41b99291f356273557071268bd9eaa09b1276a0e3d4cbe5f9aa1218b4d2712a"
+    },
+    {
+      "path": "notes/compound_verification_release_2026-11-05/verification_report.md",
+      "bytes": 9983,
+      "sha256": "a8f16bba47db65de32d7f306658b90bbaef2de123ba9ac2f5a78e5b5185cbf2b"
+    },
+    {
+      "path": "notes/handoffs/research-2026-11-11/reference_inputs/toxicity/ecotox_native_context_excerpt.json",
+      "bytes": 556355,
+      "sha256": "c4ff6fd16b9c2b70d4f05604e59389847345a2d0c5b25c64cafc468bf8f337c3"
+    },
+    {
+      "path": "notes/handoffs/research-2026-11-11/reference_inputs/toxicity/epa_rat_overlap_counterparts.json",
+      "bytes": 41459,
+      "sha256": "d566f5489bdf7cce385095f9991240fe08e0fc90a5f1f0f51cb829294663fd03"
+    },
+    {
+      "path": "notes/handoffs/research-2026-11-11/reference_inputs/toxicity/rat_priority_overlap_pairs.json",
+      "bytes": 23004,
+      "sha256": "4f0f1effb6c56acdc455435ab069aa4bc9f0b1ff8375dee66436714b2c87c631"
+    },
+    {
+      "path": "pipeline/examples/ecotox_policies.yaml",
+      "bytes": 579,
+      "sha256": "2a0d2a2d679fbce6508a5958929954a20360791555ae9deae6add52e1204d33a"
+    },
+    {
+      "path": "pipeline/src/agrotox/__init__.py",
+      "bytes": 71,
+      "sha256": "4b87f64aca8c338ceb32c436b6415c0affb7106cb4eda63639378042426b6884"
+    },
+    {
+      "path": "pipeline/src/agrotox/_context.py",
+      "bytes": 5512,
+      "sha256": "095e5bd3c1a915bf5c07c82524c0ffd94c39944880e19c0cd1603d16e4897568"
+    },
+    {
+      "path": "pipeline/src/agrotox/analysis.py",
+      "bytes": 12815,
+      "sha256": "c5e7dbecd030a3e4cc39849b691eff72754d077bc6e94390e101dc694ef20d61"
+    },
+    {
+      "path": "pipeline/src/agrotox/chembl.py",
+      "bytes": 5090,
+      "sha256": "4241163a20c0bab0552dbbf85cfea3fd4ca8920722c924e0276dc65aadd2c69b"
+    },
+    {
+      "path": "pipeline/src/agrotox/contracts.py",
+      "bytes": 4225,
+      "sha256": "857fe91bb070439c7249cd3a2fe53a3d14be73fba96d270f897b33e19204669b"
+    },
+    {
+      "path": "pipeline/src/agrotox/coverage.py",
+      "bytes": 11398,
+      "sha256": "198039b358375709d3025d092e6470b77d88c97c5f5dd2780bb19248d4612c29"
+    },
+    {
+      "path": "pipeline/src/agrotox/ecotox_inventory.py",
+      "bytes": 10757,
+      "sha256": "8c0e3584c9e4dad02e844d5b10bcaf9cefcc1fabed7d4edaabe83bdf19ec9691"
+    },
+    {
+      "path": "pipeline/src/agrotox/ecotox_selected.py",
+      "bytes": 20491,
+      "sha256": "ddc0a233555ebdbaa20fe874e73ef429c07d026fe13119fdcdc554a89ca6562c"
+    },
+    {
+      "path": "pipeline/src/agrotox/endpoints.py",
+      "bytes": 417,
+      "sha256": "73e5bdc21397dffa070218a4a25f53174e3274dfee452ebea0555f2df1559454"
+    },
+    {
+      "path": "pipeline/src/agrotox/epa_hazard.py",
+      "bytes": 13877,
+      "sha256": "af482cde73ddd7e433e6793913059e09880e67754f609125701221da1b46909c"
+    },
+    {
+      "path": "pipeline/src/agrotox/epa_identity.py",
+      "bytes": 14090,
+      "sha256": "68a3af657f2a2b6a0af649fe791baacc5fe9b54cf7da01ecd498d96e7447a156"
+    },
+    {
+      "path": "pipeline/src/agrotox/epa_properties.py",
+      "bytes": 5788,
+      "sha256": "9f61afeb283802613ffeeaff86b30e307e1124e1a6dfd94295c1f9df94417ca0"
+    },
+    {
+      "path": "pipeline/src/agrotox/epa_test.py",
+      "bytes": 5217,
+      "sha256": "a583cf21744b46ba0b9b0a8c3f3c8033d13e509c1535079304c8df92713ccd01"
+    },
+    {
+      "path": "pipeline/src/agrotox/epa_workflow.py",
+      "bytes": 5309,
+      "sha256": "d42b070a4342b72fa70572fc06856057ba90fdff1966bef1fa87948dbc045c27"
+    },
+    {
+      "path": "pipeline/src/agrotox/identity.py",
+      "bytes": 5050,
+      "sha256": "5a1eaefe816531a049eff8c03b91da8784507b16e870241df6c1901f90d9800a"
+    },
+    {
+      "path": "pipeline/src/agrotox/inputs.py",
+      "bytes": 5184,
+      "sha256": "e79b49babe7580bf85b05006a6e1936fb52073246a1a4a4948227f767ffd7a15"
+    },
+    {
+      "path": "pipeline/src/agrotox/normalize.py",
+      "bytes": 9236,
+      "sha256": "5042a463088bc4cdc58ba6b36bc518c8baee84e380327f3f22f3be5ffdfb75d4"
+    },
+    {
+      "path": "pipeline/src/agrotox/retrieval.py",
+      "bytes": 4696,
+      "sha256": "1aa30fba2a39b243f8d1ad09415883c95665a49fb03db44db13f7154a53405a4"
+    },
+    {
+      "path": "pipeline/src/agrotox/storage.py",
+      "bytes": 10171,
+      "sha256": "29ccefa685750de884af31db35e8ea487a8a1a640f935abe8ef1f0d1f910045e"
+    },
+    {
+      "path": "pipeline/src/agrotox/tables.py",
+      "bytes": 12283,
+      "sha256": "1a5c238d8e3e50346b9cd1626281c4cd95041987ea151ab9e9cb04a6fffd1985"
+    },
+    {
+      "path": "pipeline/src/agrotox/toxcast.py",
+      "bytes": 8482,
+      "sha256": "20879154862be511482adda82fd6f26d5e7ef2ae86f1234aeb6f72a8695a52de"
+    },
+    {
+      "path": "pipeline/src/agrotox/units.py",
+      "bytes": 3306,
+      "sha256": "5e35c8160780daa7037b0258759466e5f156e54179c6f4091b4707e3367d1f5f"
+    },
+    {
+      "path": "pipeline/src/agrotox/workflow.py",
+      "bytes": 5715,
+      "sha256": "b43c6269ca057ba214a934d1f1f689b1cd7704e07fe67dc26c98f7b8777744fe"
+    },
+    {
+      "path": "pipeline/uv.lock",
+      "bytes": 72031,
+      "sha256": "e991f172f05b53b0ff2e1faa542638494728c3258728b9b595500818ae52a16c"
+    }
+  ],
+  "files_count": 677,
+  "total_file_bytes": 1837228834,
+  "outside_repository_dependencies": [],
+  "missing_referenced_paths": [],
+  "historical_hash_differences": [
+    {
+      "manifest": "experiments/compatible-assays-2026-11-12/analysis-v2/lepidium_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/compatible-assays-2026-11-12/analysis-v2/raphanus_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/compatible-assays-2026-11-12/analysis-v1/lepidium_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/compatible-assays-2026-11-12/analysis-v1/raphanus_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/compatible-assays-2026-11-12/external-inputs-v1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ambrosia_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/source-policies-v1/ophiobolin_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py",
+      "recorded_sha256": "2af0f2c7b3533919ce59bf328d415edb912cb5b48f373847ced9cf5b76b802e0",
+      "current_sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py",
+      "recorded_sha256": "5164c170d2f5becdbe8bddbf992dda67e9493abd98669500eaad4a4e74a28faa",
+      "current_sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/LI2006-AR-150G-POST-BOUNDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/LI2006-AR-150G-POST-BOUNDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py",
+      "recorded_sha256": "2af0f2c7b3533919ce59bf328d415edb912cb5b48f373847ced9cf5b76b802e0",
+      "current_sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/LI2006-AR-150G-POST-BOUNDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py",
+      "recorded_sha256": "5164c170d2f5becdbe8bddbf992dda67e9493abd98669500eaad4a4e74a28faa",
+      "current_sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py",
+      "recorded_sha256": "2af0f2c7b3533919ce59bf328d415edb912cb5b48f373847ced9cf5b76b802e0",
+      "current_sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py",
+      "recorded_sha256": "5164c170d2f5becdbe8bddbf992dda67e9493abd98669500eaad4a4e74a28faa",
+      "current_sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/HE2011-AR-1500G-POST-BANDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/HE2011-AR-1500G-POST-BANDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py",
+      "recorded_sha256": "2af0f2c7b3533919ce59bf328d415edb912cb5b48f373847ced9cf5b76b802e0",
+      "current_sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/baseline_preflight/HE2011-AR-1500G-POST-BANDS-v0.1/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py",
+      "recorded_sha256": "5164c170d2f5becdbe8bddbf992dda67e9493abd98669500eaad4a4e74a28faa",
+      "current_sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/pooled-v2-corrected-doi/pooled_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "experiments/bioherbicide-expansion-2026-11-12/pooled_preflight/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/units.py",
+      "recorded_sha256": "e42a4c07d40713b8ff50ad2a9f890b0bc05cf0f6a6acc56270eb2c20ae68b29a",
+      "current_sha256": "5e35c8160780daa7037b0258759466e5f156e54179c6f4091b4707e3367d1f5f"
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/normalize.py",
+      "recorded_sha256": "46e6ef98395259ce317e487c3cbf11cf0c8f37987d857fac11e3fd22a549b4cc",
+      "current_sha256": "5042a463088bc4cdc58ba6b36bc518c8baee84e380327f3f22f3be5ffdfb75d4"
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/_context.py",
+      "recorded_sha256": "d2117520e5ce275c6387dc3bcbbb80a2f3866fabb9705a914f8f4656392317a7",
+      "current_sha256": "095e5bd3c1a915bf5c07c82524c0ffd94c39944880e19c0cd1603d16e4897568"
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-selected-approved-2026-11-11/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/ecotox_selected.py",
+      "recorded_sha256": "fb2046b537a0253b775d217d1bf9b250685b3f21fbcddd8d54b9fd21cbfde20f",
+      "current_sha256": "ddc0a233555ebdbaa20fe874e73ef429c07d026fe13119fdcdc554a89ca6562c"
+    },
+    {
+      "manifest": "analysis/outputs/experimental-publication-transfer-2026-11-12-final/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "analysis/outputs/experimental-publication-transfer-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "analysis/outputs/experimental-publication-transfer-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/publication_transfer.py",
+      "recorded_sha256": "31522b7c2dc1cddeb40bf33d5ac0f52f4bead0fb1b921110923c3663fb4c75ae",
+      "current_sha256": "62e09a5cca46c9dbc52968ce44bb0cc1a3bd738b4402befe24eb0302b7355ae6"
+    },
+    {
+      "manifest": "analysis/outputs/experimental-heterogeneous-diagnostics-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "analysis/outputs/experimental-heterogeneous-controls-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "analysis/outputs/experimental-heterogeneous-activity-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "analysis/outputs/experimental-flavonoid-transfer-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/activity_preflight.py",
+      "recorded_sha256": "943bf347c92323ca7cc4c7fd2696afdda6654e549bb1e2d82a2c59668d18895d",
+      "current_sha256": "90b94cb40acbac8da7cdab610d4c980b9b6aa3a9ca7c891a268f295d6984e1a8"
+    },
+    {
+      "manifest": "analysis/outputs/verification-release-audit-2026-11-05-final/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ablations.py",
+      "recorded_sha256": "22b04b48ca43a5fe991586221da78495620e4ba402c86ec784c0b5c6feaa5776",
+      "current_sha256": "69c9ab5ecbbeb7d4e8f990818df1e58876211387e239d88fba4905c82cdb4f25"
+    },
+    {
+      "manifest": "analysis/outputs/verification-release-audit-2026-11-05-final/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure_models.py",
+      "recorded_sha256": "35c230d96fce4c378addf13c14d9a72fc548d3d523945807c6067afb272b224b",
+      "current_sha256": "e9608fd81fb0c318ec5357a103992bb0c010a005068420a059dfa714a915a219"
+    },
+    {
+      "manifest": "analysis/outputs/weekly-literature-2026-11-10-reviewed/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_literature.py",
+      "recorded_sha256": "63414e074a302e0e00d8e3a6f58393cd28c0b0c9429d444e024ff53bd365a0eb",
+      "current_sha256": "c63940bbb76fef11d7005fb11b0bb9be1624212ed2908110f5533591738d62c4"
+    },
+    {
+      "manifest": "analysis/outputs/weekly-literature-sources-2026-11-10/manifest.json",
+      "section": "input_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/resources/weekly_literature.json",
+      "recorded_sha256": "3a99ae9420ae72aa371c6f71ba664a26b645953ca2f42008813d4968e8d362af",
+      "current_sha256": "f931210ebc555ef2b52704fc6172564cc15856fca74611f335e790308c884f80"
+    },
+    {
+      "manifest": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/units.py",
+      "recorded_sha256": "e42a4c07d40713b8ff50ad2a9f890b0bc05cf0f6a6acc56270eb2c20ae68b29a",
+      "current_sha256": "5e35c8160780daa7037b0258759466e5f156e54179c6f4091b4707e3367d1f5f"
+    },
+    {
+      "manifest": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/normalize.py",
+      "recorded_sha256": "46e6ef98395259ce317e487c3cbf11cf0c8f37987d857fac11e3fd22a549b4cc",
+      "current_sha256": "5042a463088bc4cdc58ba6b36bc518c8baee84e380327f3f22f3be5ffdfb75d4"
+    },
+    {
+      "manifest": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/_context.py",
+      "recorded_sha256": "d2117520e5ce275c6387dc3bcbbb80a2f3866fabb9705a914f8f4656392317a7",
+      "current_sha256": "095e5bd3c1a915bf5c07c82524c0ffd94c39944880e19c0cd1603d16e4897568"
+    },
+    {
+      "manifest": "analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/ecotox_selected.py",
+      "recorded_sha256": "fb2046b537a0253b775d217d1bf9b250685b3f21fbcddd8d54b9fd21cbfde20f",
+      "current_sha256": "ddc0a233555ebdbaa20fe874e73ef429c07d026fe13119fdcdc554a89ca6562c"
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-approved-reconciliation-2026-11-11/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py",
+      "recorded_sha256": "5164c170d2f5becdbe8bddbf992dda67e9493abd98669500eaad4a4e74a28faa",
+      "current_sha256": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca"
+    },
+    {
+      "manifest": "analysis/outputs/binding-structural-pilot-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/binding_catalog.py",
+      "recorded_sha256": "93924444a72bf5e19366a8e6c5b8cc46b4fe4976aa1ba72d02f09939189b1f13",
+      "current_sha256": "8ae097a14cfb8eb1d884a081ad35db20e2e99ec4a753413bc46745c05a4a7656"
+    },
+    {
+      "manifest": "analysis/outputs/aquatic-context-reviewed-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/context_overlay.py",
+      "recorded_sha256": "c9d5b08f64866916c67468efebfede9e79dd1cb1d93423e439135676c7899e41",
+      "current_sha256": "5cf38ce4d204bfac09586aa9bcc5ca7212d263e98a0a4f46f40e1ab54d00a282"
+    },
+    {
+      "manifest": "analysis/outputs/ecotox-approved-comparison-2026-11-11-verified/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/ecotox_comparison.py",
+      "recorded_sha256": "2af0f2c7b3533919ce59bf328d415edb912cb5b48f373847ced9cf5b76b802e0",
+      "current_sha256": "d3e6f179329ad7c843de4eacc73859d675195426987eaad3cf1db813dc86d137"
+    },
+    {
+      "manifest": "analysis/outputs/aquatic-context-experimental-2026-11-12/manifest.json",
+      "section": "code_hashes",
+      "path": "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/context_overlay.py",
+      "recorded_sha256": "c9d5b08f64866916c67468efebfede9e79dd1cb1d93423e439135676c7899e41",
+      "current_sha256": "5cf38ce4d204bfac09586aa9bcc5ca7212d263e98a0a4f46f40e1ab54d00a282"
+    }
+  ],
+  "scope": "Local research preservation; includes unfinished/failed runs without approving them. Existing absolute manifest paths retained. Git bundle preserves historical code; current code hashes can differ from historical manifests. Not a credential backup or a clean-clone bootstrap."
+}

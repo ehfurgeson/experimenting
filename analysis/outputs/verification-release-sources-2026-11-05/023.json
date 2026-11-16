@@ -1,0 +1,11 @@
+{
+  "key": "lead:maydispenoid A",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/maydispenoid%20A/property/IsomericSMILES,InChIKey/JSON",
+  "kind": "pubchem_json",
+  "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13036769/",
+  "retrieved_at": "2026-11-05T19:14:30.001619+00:00",
+  "status": 200,
+  "body": "{\n  \"PropertyTable\": {\n    \"Properties\": [\n      {\n        \"CID\": 164517291,\n        \"SMILES\": \"C[C@H]1C[C@@H](O[C@@]12CC[C@]3([C@H]2C[C@@H](C4=CO[C@@H]5[C@H]4[C@H](C3)[C@](C5)(C)O)OC)C)C=C(C)C\",\n        \"InChIKey\": \"IAAYYANSAWLVMX-YEYCDRDXSA-N\"\n      }\n    ]\n  }\n}\n",
+  "error": null,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/maydispenoid%20A/property/IsomericSMILES,InChIKey/JSON"
+}

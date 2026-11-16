@@ -1,0 +1,25 @@
+{
+  "search_term": "JITOKQVGRJSHHA-UHFFFAOYSA-M",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:25.629177+00:00",
+  "url": "/chemical/search/equal/JITOKQVGRJSHHA-UHFFFAOYSA-M",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Monosodium methanearsonate",
+        "dtxsid": "DTXSID2025686",
+        "dtxcid": "DTXCID505686",
+        "casrn": "2163-80-6",
+        "hasStructureImage": 1,
+        "smiles": "[Na+].C[As](O)([O-])=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "JITOKQVGRJSHHA-UHFFFAOYSA-M",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

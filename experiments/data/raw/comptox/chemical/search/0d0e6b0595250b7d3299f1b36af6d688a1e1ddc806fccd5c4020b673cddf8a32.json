@@ -1,0 +1,25 @@
+{
+  "search_term": "OBKXEAXTFZPCHS-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:59.627574+00:00",
+  "url": "/chemical/search/equal/OBKXEAXTFZPCHS-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "4-Phenylbutyric acid",
+        "dtxsid": "DTXSID2037631",
+        "dtxcid": "DTXCID0017631",
+        "casrn": "1821-12-1",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)CCCC1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "OBKXEAXTFZPCHS-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

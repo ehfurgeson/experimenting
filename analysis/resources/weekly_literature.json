@@ -1,0 +1,165 @@
+{
+  "status": "AI-assisted primary-source screen; unapproved; not training labels",
+  "sources": [
+    {
+      "source_id": "munoz2020",
+      "doi": "10.3390/agronomy10060791",
+      "url": "https://www.mdpi.com/2073-4395/10/6/791",
+      "locator": "PDF pp.4\u20136, Table 2 p.5, Section 3.1.1 p.12",
+      "context": "Greenhouse post-emergence tests of four weeds; ten pots/treatment. Water control and pelargonic-acid/glyphosate references. Table 2 lists formulation percentages; percentage basis is not converted to active mass. Assessments: 24 h, 3, 7, 15, 30 days. Plant death/injury reported, with control mortality in Amaranthus at later times. Formulation effects and natural-occurrence references require review.",
+      "natural_occurrence_status": "reported_in_introduction_secondary_references",
+      "use_evidence": "Pelargonic-acid herbicide products discussed; no current registration determination.",
+      "pdf_url": "https://mdpi-res.com/d_attachment/agronomy/agronomy-10-00791/article_deploy/agronomy-10-00791-v2.pdf"
+    },
+    {
+      "source_id": "kobayashi1998",
+      "doi": "10.3719/weed.43.341",
+      "url": "https://www.jstage.jst.go.jp/article/weed1962/43/4/43_4_341/_article/-char/en",
+      "locator": "Abstract; Figures 1\u20134 cited, not quantitatively digitized",
+      "context": "Solution and soil assays of lettuce and Echinochloa utilis radicle elongation. Abstract reports strongest inhibition at 1.0 mM for five compounds, followed by three others. Responses generally decreased at 0.1 mM, except juglone. Juglone/coumarin also tested in soil at 0.2, 0.4, 2.0 micromol/g with species-dependent responses. Assay duration, replication and controls require full methods review. Low-dose response is not a universal negative. Natural-occurrence claim requires primary isolation confirmation.",
+      "natural_occurrence_status": "authors_describe_naturally_occurring_allelochemicals",
+      "use_evidence": "Experimental phytotoxicity; no commercial-use evidence extracted."
+    },
+    {
+      "source_id": "dayan2015",
+      "doi": "10.3389/fpls.2015.00222",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2015.00222/full",
+      "locator": "Isolation and weed spectrum methods; Tables 1\u20132; membrane integrity Table 3",
+      "context": "Sarmentine purified from long pepper fruit. Formulated product (50% sarmentine) sprayed at 10 mg/mL, 374 L/ha, 2\u20133-leaf weeds. Injury rated at seven days in ordinal percentage bands across broadleaf and grass species. Separate membrane-leakage assays use solvent controls and three replicates; do not transfer that replication to weed-spectrum tests. Source compound is the (2E,4E) pyrrolidine amide. Primary structure-to-database matching remains provisional.",
+      "natural_occurrence_status": "primary_isolation_reported_in_methods",
+      "use_evidence": "Experimental contact-herbicide activity; no current product registration determination."
+    },
+    {
+      "source_id": "torres2024",
+      "doi": "10.3390/agronomy14030537",
+      "url": "https://www.mdpi.com/2073-4395/14/3/537",
+      "locator": "PDF pp.4\u20135, Table 2 p.5; Section 3.1 and Table 3",
+      "context": "Two Valencia field trials; four randomized blocks, untreated controls, glyphosate/oxyfluorfen references; 500 L/ha spray. Assessments at 0, 1, 2, 4 weeks. Eugenol/thymol at 12 kg a.i./ha (36 at UPV triple dose); p-cymene at 7.7 kg a.i./ha. These treatments had limited GUA coverage benefit; site, dose and formulation matter. Citral mixture excluded. Earlier natural-occurrence references need independent review.",
+      "natural_occurrence_status": "reported_in_introduction_secondary_references",
+      "use_evidence": "Commercial reference products in trial; no current registration determination.",
+      "pdf_url": "https://iris.unipa.it/retrieve/b7b743af-47e3-4e36-b2b2-692447d58da2/Torres-pagan-2024-Herbicidal-potential-of-the-natural.pdf"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Pelargonic acid",
+      "source_id": "munoz2020",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "5%, 8%, 10% formulation (reported table units)",
+      "source_verification": "PDF Table 2 visually checked; exact response/source structure not adjudicated"
+    },
+    {
+      "name": "Carvacrol",
+      "source_id": "munoz2020",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "8%, 16%, 32% formulation (reported table units)",
+      "source_verification": "PDF Table 2 visually checked; exact response/source structure not adjudicated"
+    },
+    {
+      "name": "trans-Cinnamaldehyde",
+      "source_id": "munoz2020",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "6%, 12%, 24% formulation (reported table units)",
+      "source_verification": "PDF Table 2 visually checked; exact response/source structure not adjudicated"
+    },
+    {
+      "name": "Juglone",
+      "source_id": "kobayashi1998",
+      "response_lead": "qualitative radicle-inhibition lead; not numeric activity label",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "1.0 mM solution; lower-dose/soil comparisons remain separate",
+      "source_verification": "Publisher abstract screened; full methods/figures pending"
+    },
+    {
+      "name": "Coumarin",
+      "source_id": "kobayashi1998",
+      "response_lead": "qualitative radicle-inhibition lead; not numeric activity label",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "1.0 mM solution; lower-dose/soil comparisons remain separate",
+      "source_verification": "Publisher abstract screened; full methods/figures pending"
+    },
+    {
+      "name": "trans-Cinnamic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "qualitative radicle-inhibition lead; not numeric activity label",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "1.0 mM solution; lower-dose/soil comparisons remain separate",
+      "source_verification": "Publisher abstract screened; full methods/figures pending"
+    },
+    {
+      "name": "2-Hydroxyphenylacetic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "qualitative radicle-inhibition lead; not numeric activity label",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "1.0 mM solution; lower-dose/soil comparisons remain separate",
+      "source_verification": "Publisher abstract screened; full methods/figures pending"
+    },
+    {
+      "name": "3-Phenylpropionic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "qualitative radicle-inhibition lead; not numeric activity label",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "1.0 mM solution; lower-dose/soil comparisons remain separate",
+      "source_verification": "Publisher abstract screened; full methods/figures pending"
+    },
+    {
+      "name": "Salicylic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "qualitative radicle-inhibition lead; not numeric activity label",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "1.0 mM solution; lower-dose/soil comparisons remain separate",
+      "source_verification": "Publisher abstract screened; full methods/figures pending"
+    },
+    {
+      "name": "2,4-Dihydroxybenzoic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "qualitative radicle-inhibition lead; not numeric activity label",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "1.0 mM solution; lower-dose/soil comparisons remain separate",
+      "source_verification": "Publisher abstract screened; full methods/figures pending"
+    },
+    {
+      "name": "Benzoic acid",
+      "source_id": "kobayashi1998",
+      "response_lead": "qualitative radicle-inhibition lead; not numeric activity label",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "1.0 mM solution; lower-dose/soil comparisons remain separate",
+      "source_verification": "Publisher abstract screened; full methods/figures pending"
+    },
+    {
+      "name": "Sarmentine",
+      "source_id": "dayan2015",
+      "response_lead": "tested phytotoxicity",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "10 mg/mL sarmentine; 374 L/ha",
+      "source_verification": "Primary full-text methods screened; source structure unverified"
+    },
+    {
+      "name": "Thymol",
+      "source_id": "torres2024",
+      "response_lead": "context-dependent field response; low-response lead",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "12 kg a.i./ha; 36 kg a.i./ha UPV triple treatment",
+      "source_verification": "PDF Table 2 visually checked; exact response/source structure not adjudicated"
+    },
+    {
+      "name": "Eugenol",
+      "source_id": "torres2024",
+      "response_lead": "context-dependent field response; low-response lead",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "12 kg a.i./ha; 36 kg a.i./ha UPV triple treatment",
+      "source_verification": "PDF Table 2 visually checked; exact response/source structure not adjudicated"
+    },
+    {
+      "name": "p-Cymene",
+      "source_id": "torres2024",
+      "response_lead": "context-dependent field response; low-response lead",
+      "identity_caveat": "Name-resolved database identity; source drawing/stereo/form not yet adjudicated",
+      "dose_context": "7.7 kg a.i./ha",
+      "source_verification": "PDF Table 2 visually checked; exact response/source structure not adjudicated"
+    }
+  ]
+}

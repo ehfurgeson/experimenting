@@ -1,0 +1,28 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/curate.py": "ad01fd6b3a30168bb297ef5544011f68b4181355eb4e5fecdd580f7bbac8fed6",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/sources/gorzinski1987.pdf": "8c9ca688757250abc954294545473c77e75044ba167e00f8e0cb263c384306c5",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/ecotox-selected-approved-2026-11-11/dictionaries.json": "648f449cdc65ae0398c82147ab0734d073b7c068bb89589b844ef84330c0c5c7",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/notes/handoffs/research-2026-11-11/reference_inputs/toxicity/ecotox_native_context_excerpt.json": "c4ff6fd16b9c2b70d4f05604e59389847345a2d0c5b25c64cafc468bf8f337c3",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/notes/handoffs/research-2026-11-11/reference_inputs/toxicity/epa_rat_overlap_counterparts.json": "d566f5489bdf7cce385095f9991240fe08e0fc90a5f1f0f51cb829294663fd03",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/notes/handoffs/research-2026-11-11/reference_inputs/toxicity/rat_priority_overlap_pairs.json": "4f0f1effb6c56acdc455435ab069aa4bc9f0b1ff8375dee66436714b2c87c631"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/curation-v1/duplicate_decisions.csv": "1c6c3157e36f643b12c46985e1331d82f71aac198204ab9deda9987ba8311b25",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/curation-v1/duplicate_evidence.csv": "61397f57d2897781bcf364a097ba28f1dce7fdc903415cbd7e6341a005254a2a",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/curation-v1/native_duration_projection.csv": "c7c8242b4dc5717694334dd119a42e50d7efb1379399e1b2513a709d6449c39b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/curation-v1/priority_queue_adopted.csv": "68b36e6264366e0d9d10a41d2a86051867d0c089044a3591212a3efe325664c0",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/curation-v1/rat_eligibility.csv": "69fe053807cd41ad68bb80c404ba3e00c32602c360f85a093b87a975581ab217",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/rat-source-review-2026-11-12/curation-v1/table1.csv": "43abb08c0e1e98d46ce79641b849f4fbe71514b9d1fa76f768261b2aceec0146"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_toxicity.py": "355f10f56cfa74ed3eb53849b56d8a62bca7db9b91c00bb2404de8e6af6cbfca",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/ecotox_selected.py": "ddc0a233555ebdbaa20fe874e73ef429c07d026fe13119fdcdc554a89ca6562c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/pipeline/src/agrotox/units.py": "5e35c8160780daa7037b0258759466e5f156e54179c6f4091b4707e3367d1f5f"
+  },
+  "source_review": "AI_experimental; visually inspected PDF pp423-427; no independent reviewer",
+  "pending_rat_cases_reviewed": 2,
+  "priority_pair_decisions": 4,
+  "new_historical_admissions": 0,
+  "native_fields_changed": 0
+}

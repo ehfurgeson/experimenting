@@ -1,0 +1,26 @@
+{
+  "retrieval_date_local": "2026-11-10",
+  "method": "curl HTTPS; table pages rendered with isolated PyMuPDF and visually inspected",
+  "sources": [
+    {
+      "source_id": "munoz2020",
+      "doi": "10.3390/agronomy10060791",
+      "pdf_url": "https://mdpi-res.com/d_attachment/agronomy/agronomy-10-00791/article_deploy/agronomy-10-00791-v2.pdf",
+      "locator": "PDF pp.4\u20136, Table 2 p.5, Section 3.1.1 p.12"
+    },
+    {
+      "source_id": "torres2024",
+      "doi": "10.3390/agronomy14030537",
+      "pdf_url": "https://iris.unipa.it/retrieve/b7b743af-47e3-4e36-b2b2-692447d58da2/Torres-pagan-2024-Herbicidal-potential-of-the-natural.pdf",
+      "locator": "PDF pp.4\u20135, Table 2 p.5; Section 3.1 and Table 3"
+    }
+  ],
+  "hashes": {
+    "analysis/outputs/weekly-literature-pdfs-2026-11-10/torres2024.pdf": "405afc4e0d781d9efcc331deff29523a0f7bdd343fda6512b3100cba69518f26",
+    "analysis/outputs/weekly-literature-pdfs-2026-11-10/torres2024.txt": "ad486785f452a84896eb76367614c9296f836f0268d993efb43d375ce50c192b",
+    "analysis/outputs/weekly-literature-pdfs-2026-11-10/munoz2020-page5.png": "9c01ae733ed12f2fef0a674e2a5bce39e40dba248fe98e2d71c293bb4cf1dd28",
+    "analysis/outputs/weekly-literature-pdfs-2026-11-10/munoz2020.pdf": "c4fe026ca5dda17e53c75e6ac2558fb6b45a61e9679c7180724f217a8a426e54",
+    "analysis/outputs/weekly-literature-pdfs-2026-11-10/torres2024-page5.png": "25f757769a16add64f023f491ccd5732869e4bdc132b700d0fb8f61c2a2436bd",
+    "analysis/outputs/weekly-literature-pdfs-2026-11-10/munoz2020.txt": "c7b12f7e2740c52eff53df5276769dce1c87b1edd1690a8490233f05ae08888c"
+  }
+}

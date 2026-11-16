@@ -1,0 +1,25 @@
+{
+  "search_term": "Sethoxydim",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:28:08.977007+00:00",
+  "url": "/chemical/search/equal/Sethoxydim",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Sethoxydim",
+        "dtxsid": "DTXSID9024304",
+        "dtxcid": "DTXCID604304",
+        "casrn": "74051-80-2",
+        "hasStructureImage": 1,
+        "smiles": "CCCC(=NOCC)C1=C(O)CC(CC(C)SCC)CC1=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Sethoxydim",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

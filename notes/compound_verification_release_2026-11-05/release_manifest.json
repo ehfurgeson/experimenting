@@ -1,0 +1,37 @@
+{
+  "release_date": "2026-11-05",
+  "prior_release": "compound_review_deeper_2026-10-29",
+  "counts": {
+    "total_compounds": 154,
+    "total_assay_observations": 157,
+    "valid_rdkit_smiles": 154,
+    "stereo_exact_natural": 4,
+    "stereo_exact_named_synthetic": 11,
+    "stereo_unresolved_herbicide": 1,
+    "li_compounds_total": 24,
+    "li_paper_band_agreement": 24,
+    "li_critical_structure_conflicts": 1,
+    "outside_worksheet_natural_leads": 11,
+    "origin_candidates_total": 15,
+    "approved_labels": 0
+  },
+  "file_sha256": {
+    "PROPOSED_ORIGIN_FULL_STRUCTURE_MATCHES_NOT_FOR_TRAINING.csv": "9f7674dd70fca087bddeedc43598b269882d2404b1a69d1b6714f72641474e87",
+    "PROVISIONAL_labels_NOT_FOR_TRAINING.csv": "e8ad1269a70a7b05661c68948ab7dfba6fced31443b5a87d67cc253fcf6f4b67",
+    "README.md": "bf730d4c288defcda18a74d254076f865da6fb606f278b0ddaa8690ae4dce615",
+    "all_154_compound_verification_matrix.csv": "2ced9993acd5e609a1f69f11507920f2e67c192a0d96309cd2c9e379febffe43",
+    "compound_index.csv": "a0bedefd398ee5739d9ae8ed3a91f82b80af483a5ec1735cde431af705a4a3aa",
+    "conditional_assay_screen_NOT_FOR_TRAINING.csv": "1623756bb64fbaf1d4391d1494df217d9e50608568f65c3d2a3f800bde713057",
+    "evidence_log_with_verification.csv": "31fae454625ba532a098a45d3a0223b8a19a188d5308496b05d423980e7e678e",
+    "independent_structure_origin_crosschecks.csv": "79cf0fc06f609a498f2bccccd5d9031dc96a3bed9b31ab41a3219265c90952ae",
+    "li_2006_24_compound_source_crosswalk.csv": "859e82c7434ef30815a2273b0c6907541a321d0e1e432dd68b1970b32c2b8a48",
+    "metrics.json": "9371d1cb58a05ffa208ca1009eb6b4566e32be5b083e1442011a8f3de603a25c",
+    "new_out_of_worksheet_compound_leads.csv": "c02040a1adb10edf253d60046aedaa1b68aa019e7cac6dbf1ca9ba98eec490d4",
+    "new_primary_study_provenance.csv": "e0cf4a2bb92979de9cda00bb43ce07e98696ffbbd19693e6c18521797f1da7fa",
+    "reviewed_labels.csv": "1f799db7ba5f9e6ef1b2b8bc061850e6e8f2ebc26facf7132130933d45faca12",
+    "study_source_index.csv": "d41b99291f356273557071268bd9eaa09b1276a0e3d4cbe5f9aa1218b4d2712a",
+    "verification_report.md": "a8f16bba47db65de32d7f306658b90bbaef2de123ba9ac2f5a78e5b5185cbf2b"
+  },
+  "training_use_approved": false,
+  "author": "AI-assisted researcher verification, NOT scientist signoff"
+}

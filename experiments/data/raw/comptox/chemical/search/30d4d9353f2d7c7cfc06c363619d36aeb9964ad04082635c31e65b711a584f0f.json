@@ -1,0 +1,25 @@
+{
+  "search_term": "LLQCRTZROWMVOL-JISBIHODSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:07.610938+00:00",
+  "url": "/chemical/search/equal/LLQCRTZROWMVOL-JISBIHODSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "PARTHENIN",
+        "dtxsid": "DTXSID40877834",
+        "dtxcid": "DTXCID601015901",
+        "casrn": "508-59-8",
+        "hasStructureImage": 1,
+        "smiles": "C[C@H]1CC[C@@H]2[C@@H](OC(=O)C2=C)[C@]2(C)C(=O)C=C[C@@]12O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "LLQCRTZROWMVOL-JISBIHODSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

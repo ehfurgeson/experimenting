@@ -1,0 +1,130 @@
+[
+  [
+    "ICE version:",
+    "4.1"
+  ],
+  [
+    "File created:",
+    "2024-07-29"
+  ],
+  [
+    null,
+    null
+  ],
+  [
+    "Column",
+    "Description"
+  ],
+  [
+    "Record_ID",
+    "Unique number identifying the record"
+  ],
+  [
+    "Data_Type",
+    "Data type identifier (e.g., in vivo, in vitro, measured, predicted, ...)"
+  ],
+  [
+    "Formulation_ID",
+    "Unique number identifying a formulation or a mixture"
+  ],
+  [
+    "Formulation_Name",
+    "Name of the formulation/mixture"
+  ],
+  [
+    "Chemical_Name",
+    "Name of tested chemical as reported in the initial dataset"
+  ],
+  [
+    "CASRN",
+    "Chemical Abstract Registry Number"
+  ],
+  [
+    "DTXSID",
+    "DSSTox substance identifier (unique substance identifier)"
+  ],
+  [
+    "Percent_Active_Ingredient",
+    "Percentage of a substance in a formulation or a mixture"
+  ],
+  [
+    "Mixture",
+    "Indicates whether the tested chemical is a formulation/mixture"
+  ],
+  [
+    "Species",
+    "Test species"
+  ],
+  [
+    "Sex",
+    "Gender of animal including male, female, combined (male and female)"
+  ],
+  [
+    "Assay",
+    "Test name"
+  ],
+  [
+    "Endpoint",
+    "Outcome of the assessment"
+  ],
+  [
+    "Response_Modifier",
+    "Modifier associated with a response value"
+  ],
+  [
+    "Response",
+    "Response value associated to an assay and endpoint"
+  ],
+  [
+    "Response_Unit",
+    "Unit associated with the response value"
+  ],
+  [
+    "Reference",
+    "Data reference"
+  ],
+  [
+    "URL",
+    "URL reference"
+  ],
+  [
+    "SMILES",
+    "Chemical SMILES"
+  ],
+  [
+    "Preferred_Name",
+    "Chemical prefered name available in the DSSTox database"
+  ],
+  [
+    "Synonyms",
+    "Chemical synonyms from the DSSTox database"
+  ],
+  [
+    "URL_CompTox",
+    "URL to the EPA CompTox Chemical dashboard"
+  ],
+  [
+    "URL_CEBS",
+    "URL to the Chemical Effects in Biological Systems (CEBS)"
+  ],
+  [
+    null,
+    null
+  ],
+  [
+    "Endpoint",
+    "Description"
+  ],
+  [
+    "LD50",
+    "Amount that is sufficient to cause death in 50% of test population"
+  ],
+  [
+    "EPA classification",
+    "1: LD50 < or = 50 mg/kg\n2: 50 mg/kg < LD50 < or = 500 mg/kg\n3: 500 mg/kg < LD50 < or = 5000 mg/kg\n4: LD50 > 5000 mg/kg"
+  ],
+  [
+    "GHS classification",
+    "1: LD50 < or = 5 mg/kg\n2: 5 mg/kg < LD50 < or = 50 mg/kg\n3: 50 mg/kg < LD50 < or = 300 mg/kg\n4: 300 mg/kg < LD50 < or = 2000 mg/kg\n5: 2000 mg/kg < LD50 < or = 5000 mg/kg"
+  ]
+]

@@ -1,0 +1,25 @@
+{
+  "search_term": "(Z)-Ethyl cinnamate",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:27.914668+00:00",
+  "url": "/chemical/search/equal/(Z)-Ethyl cinnamate",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID701366711",
+        "dtxcid": "DTXCID40911500",
+        "casrn": "4610-69-9",
+        "preferredName": "(Z)-Ethyl cinnamate",
+        "hasStructureImage": 1,
+        "smiles": "CCOC(=O)\\C=C/C1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "(Z)-Ethyl cinnamate",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

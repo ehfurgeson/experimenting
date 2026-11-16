@@ -1,0 +1,89 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 5281426,
+    "RecordTitle": "Umbelliferone",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 16,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134972845"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 150,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf",
+                        "Matched": {
+                          "PCLID": 906318723,
+                          "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^93-35-6$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134972845",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000093356",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19464608
+      },
+      {
+        "ReferenceNumber": 150,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "3082365254",
+        "Name": "Umbelliferon",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49292371
+      }
+    ]
+  }
+}

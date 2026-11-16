@@ -1,0 +1,36 @@
+{
+  "inputs": {
+    "analysis/outputs/separate-evidence-2026-11-12-v2/manifest.json": "4414111cee796418a727a3f850d13c5f85b89778eb9283b9ad3dc3cf677f8336",
+    "analysis/outputs/separate-evidence-models-2026-11-12-v3/manifest.json": "b41ee8d3ef9ad59eaeaaae4ac8a217e4a8efcf72d195bf2473b1a39a33db5ff4"
+  },
+  "profile": {
+    "n_estimators": 200,
+    "min_samples_leaf": 5,
+    "max_features": 1.0,
+    "class_weight": "balanced",
+    "random_state": 20261112,
+    "n_jobs": 2
+  },
+  "repeats": 10,
+  "runtime": {
+    "numpy": "2.5.4",
+    "scikit-learn": "1.9.1",
+    "polars": "2.0.0",
+    "rdkit": "2026.9.1"
+  },
+  "code": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_oob.py": "365e15f4db3ca7d728c609a5ca70a691834b508cf6f9de803acae5cebfb63e2e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_models.py": "b8ee1eebb91a0fdb87c504c3d7663c68184f52fba2cca4db2a353429d2e5e0d0",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/evidence_release.py": "e727eef0dec6e323a2bf979af6e1b80d3148123b9b43d66fcb3f9e91e17886f4"
+  },
+  "outputs": {
+    "importance.csv": "ef526016bd3773593770f5c7a7ddc5109021a66a3c8eee44d25fc95b7f265a82",
+    "oob_predictions.csv": "f5206e190524cec282882667af7461b7edba233213d580afde43c686278ef8f3",
+    "repeats.csv": "e67e06dd24ee2bf9e8a2adf6c93da031b36dab5d8f6ca0169965c2ec83bf6327",
+    "reproduction/evidence_models.py": "b8ee1eebb91a0fdb87c504c3d7663c68184f52fba2cca4db2a353429d2e5e0d0",
+    "reproduction/evidence_oob.py": "365e15f4db3ca7d728c609a5ca70a691834b508cf6f9de803acae5cebfb63e2e",
+    "reproduction/evidence_release.py": "e727eef0dec6e323a2bf979af6e1b80d3148123b9b43d66fcb3f9e91e17886f4",
+    "summary.json": "42f8ae08c0611b2116d737bf0bad688b5d7494cd6a469254b41deff2a6c7779f"
+  },
+  "limits": "No null-hypothesis significance test; repeat SD is stability. OOB is not scaffold validation; B reproduces external estimates."
+}

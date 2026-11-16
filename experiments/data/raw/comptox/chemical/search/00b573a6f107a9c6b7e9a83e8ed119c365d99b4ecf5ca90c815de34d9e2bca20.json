@@ -1,0 +1,25 @@
+{
+  "search_term": "Bromoxynil",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:46.213248+00:00",
+  "url": "/chemical/search/equal/Bromoxynil",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3022162",
+        "dtxcid": "DTXCID002162",
+        "casrn": "1689-84-5",
+        "preferredName": "Bromoxynil",
+        "hasStructureImage": 1,
+        "smiles": "OC1=C(Br)C=C(C=C1Br)C#N",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Bromoxynil",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

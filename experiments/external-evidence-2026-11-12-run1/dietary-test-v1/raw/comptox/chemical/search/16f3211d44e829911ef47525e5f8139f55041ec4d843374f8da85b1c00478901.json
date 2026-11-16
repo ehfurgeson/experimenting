@@ -1,0 +1,49 @@
+{
+  "search_term": "D-Glucose",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:55.272576+00:00",
+  "url": "/chemical/search/equal/D-Glucose",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7022910",
+        "dtxcid": "DTXCID707720",
+        "casrn": "50-99-7",
+        "preferredName": "D-Glucose",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "D-Glucose",
+        "rank": 9
+      },
+      {
+        "dtxsid": "DTXSID4048729",
+        "dtxcid": "DTXCID701436386",
+        "casrn": "58367-01-4",
+        "preferredName": "DL-Glucose",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C=O",
+        "isMarkush": false,
+        "searchName": "Systematic Name",
+        "searchValue": "D-Glucose",
+        "rank": 12
+      },
+      {
+        "dtxsid": "DTXSID501015215",
+        "dtxcid": "DTXCID302910",
+        "casrn": "2280-44-6",
+        "preferredName": "D-​Glucopyranose",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "D-glucose",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

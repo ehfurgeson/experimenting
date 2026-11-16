@@ -1,0 +1,7 @@
+trout_96h:
+  endpoint: LC50
+  species: rainbow_trout
+  preferred_duration_hours: 96
+  standard_unit: mg/L
+  label: Synthetic trout comparison
+  context_note: Synthetic matching policy for tests, not a study recommendation.

@@ -1,0 +1,2797 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 445858,
+    "RecordTitle": "Ferulic Acid",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 46,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Neurotoxin - Other CNS neurotoxin"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134978000"
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134980973"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 34,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Huang MT et al; Cancer-Res 48 (21): 5941-6 (1988):"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Huang MT et al; Cancer-Res 48 (21): 5941-6 (1988):",
+                        "Matched": {
+                          "PCLID": 900007327,
+                          "Citation": "Huang MT et al; Cancer-Res 48 (21): 5941-6 (1988):"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The effects of topically applied curcumin, chlorogenic acid, caffeic acid, and ferulic acid on 12-O-tetradecanoylphorbol-13-acetate (TPA)-induced epidermal ornithine decarboxylase activity, epidermal DNA synthesis, and the promotion of skin tumors were evaluated in female CD-1 mice. Topical application of 0.5, 1, 3, or 10 umol of curcumin inhibited by 31, 46, 84, or 98%, respectively, the induction of epidermal ornithine decarboxylase activity by 5 nmol of TPA. In an additional study, the topical application of 10 umol of curcumin, chlorogenic acid, caffeic acid, or ferulic acid inhibited by 91, 25, 42, or 46%, respectively, the induction of ornithine decarboxylase activity by 5 nmol of TPA. The topical application of 10 umol of curcumin together with 2 or 5 nmol of TPA inhibited the TPA-dependent stimulation of the incorporation of [3H]-thymidine into epidermal DNA by 49 or 29%, respectively, whereas lower doses of curcumin had little or no effect. Chlorogenic acid, caffeic acid, and ferulic acid were less effective than curcumin as inhibitors of the TPA-dependent stimulation of DNA synthesis. Topical application of 1, 3, or 10 mumol of curcumin together with 5 nmol of TPA twice weekly for 20 weeks to mice previously initiated with 7,12-dimethylbenz[a]anthracene inhibited the number of TPA-induced tumors per mouse by 39, 77, or 98%, respectively. Similar treatment of mice with 10 mumol of chlorogenic acid, caffeic acid, or ferulic acid together with 5 nmol of TPA inhibited the number of TPA-induced tumors per mouse by 60, 28, or 35%, respectively, and higher doses of the phenolic acids caused a more pronounced inhibition of tumor promotion. The possibility that curcumin could inhibit the action of arachidonic acid was evaluated by studying the effect of curcumin on arachidonic acid-induced edema of mouse ears. The topical application of 3 or 10 umol of curcumin 30 min before the application of 1 umol of arachidonic acid inhibited arachidonic acid-induced edema by 33 or 80%, respectively.",
+                          "Markup": [
+                            {
+                              "Start": 33,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/curcumin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-969516"
+                            },
+                            {
+                              "Start": 43,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorogenic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1794427"
+                            },
+                            {
+                              "Start": 61,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 79,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 95,
+                              "Length": 36,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/12-O-tetradecanoylphorbol-13-acetate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27924"
+                            },
+                            {
+                              "Start": 156,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ornithine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6262"
+                            },
+                            {
+                              "Start": 332,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/curcumin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-969516"
+                            },
+                            {
+                              "Start": 415,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ornithine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6262"
+                            },
+                            {
+                              "Start": 528,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/curcumin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-969516"
+                            },
+                            {
+                              "Start": 538,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorogenic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1794427"
+                            },
+                            {
+                              "Start": 556,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 573,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 650,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ornithine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6262"
+                            },
+                            {
+                              "Start": 739,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/curcumin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-969516"
+                            },
+                            {
+                              "Start": 845,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/%5B3H%5D-thymidine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5789"
+                            },
+                            {
+                              "Start": 930,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/curcumin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-969516"
+                            },
+                            {
+                              "Start": 964,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Chlorogenic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1794427"
+                            },
+                            {
+                              "Start": 982,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1000,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1038,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/curcumin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-969516"
+                            },
+                            {
+                              "Start": 1156,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/curcumin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-969516"
+                            },
+                            {
+                              "Start": 1253,
+                              "Length": 30,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/7%2C12-dimethylbenz%5Ba%5Danthracene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6001"
+                            },
+                            {
+                              "Start": 1413,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorogenic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1794427"
+                            },
+                            {
+                              "Start": 1431,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 1448,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1691,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/curcumin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-969516"
+                            },
+                            {
+                              "Start": 1728,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/arachidonic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-444899"
+                            },
+                            {
+                              "Start": 1785,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/curcumin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-969516"
+                            },
+                            {
+                              "Start": 1797,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/arachidonic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-444899"
+                            },
+                            {
+                              "Start": 1886,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/curcumin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-969516"
+                            },
+                            {
+                              "Start": 1938,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/arachidonic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-444899"
+                            },
+                            {
+                              "Start": 1965,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/arachidonic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-444899"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:10794925",
+                      "Saija A et al; Int J Pharm 199 (1): 39-47 (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:10794925",
+                        "Matched": {
+                          "PCLID": 23993981,
+                          "Citation": "Saija A, Tomaino A, Trombetta D, De Pasquale A, Uccella N, Barbuzzi T, Paolino D, Bonina F. In vitro and in vivo evaluation of caffeic and ferulic acids as topical photoprotective agents. Int J Pharm. 2000 Apr 10;199(1):39–47. doi: 10.1016/s0378-5173(00)00358-6. PMID: 10794925.",
+                          "PMID": 10794925,
+                          "DOI": "10.1016/s0378-5173(00)00358-6"
+                        }
+                      },
+                      {
+                        "Citation": "Saija A et al; Int J Pharm 199 (1): 39-47 (2000)",
+                        "Matched": {
+                          "PCLID": 23993981,
+                          "Citation": "Saija A, Tomaino A, Trombetta D, De Pasquale A, Uccella N, Barbuzzi T, Paolino D, Bonina F. In vitro and in vivo evaluation of caffeic and ferulic acids as topical photoprotective agents. Int J Pharm. 2000 Apr 10;199(1):39–47. doi: 10.1016/s0378-5173(00)00358-6. PMID: 10794925.",
+                          "PMID": 10794925,
+                          "DOI": "10.1016/s0378-5173(00)00358-6"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... A series of in vivo experiments/were/ carried out to evaluate the ability of caffeic and ferulic acids to reduce, in healthy human volunteers, UVB-induced skin erythema, monitored by means of reflectance spectrophotometry. Caffeic and ferulic acids, dissolved in saturated aqueous solution pH 7.2, proved to afford a significant protection to the skin against UVB-induced erythema..."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:8137326",
+                      "Nakayama T; Cancer Res 54 (7 Suppl):1991s-1993s (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:8137326",
+                        "Matched": {
+                          "PCLID": 2179415,
+                          "Citation": "Nakayama T. Suppression of hydroperoxide-induced cytotoxicity by polyphenols. Cancer Res. 1994 Apr 01;54(7 Suppl):1991s–1993s. PMID: 8137326.",
+                          "PMID": 8137326
+                        }
+                      },
+                      {
+                        "Citation": "Nakayama T; Cancer Res 54 (7 Suppl):1991s-1993s (1994)",
+                        "Matched": {
+                          "PCLID": 900060675,
+                          "Citation": "Nakayama T; Cancer Res 54 (7 Suppl):1991s-1993s (1994)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A variety of synthetic and dietary polyphenols protect mammalian and bacterial cells from cytotoxicity induced by hydroperoxides, especially hydrogen peroxide (H2O2). Cytotoxicity of H2O2 on Chinese hamster V79 cells was assessed with a colony formation assay. Cytotoxicity and mutagenicity of H2O2 on Salmonella TA104 were assessed with the Ames test. SOS response induced by H2O2 was investigated in the SOS chromotest with Escherichia coli PQ37. The polyphenol-bearing o-dihydroxy (catechol) structure, i.e., nordihydroguaiaretic acid, caffeic acid ester, gallic acid ester, quercetin, and catechin, were effective for suppression of H2O2-induced cytotoxicity in these assay systems. In contrast, neither ferulic acid ester-bearing o-methoxyphenol structure nor alpha-tocopherol were effective, indicating that o-dihydroxy or its equivalent structure in flavonoids is essential for the protection. There are many reports describing that polyphenols act as prooxidants in the presence of metal ions. /These/ results suggest, however, that they act as antioxidants in the cells, when no metal ions are added to the medium.",
+                          "Markup": [
+                            {
+                              "Start": 141,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydrogen%20peroxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-784"
+                            },
+                            {
+                              "Start": 512,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nordihydroguaiaretic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4534"
+                            },
+                            {
+                              "Start": 578,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 593,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/catechin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9064"
+                            },
+                            {
+                              "Start": 735,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/o-methoxyphenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-460"
+                            },
+                            {
+                              "Start": 765,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alpha-tocopherol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-14985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:7699579",
+                      "Shinoda M; Yakugaku Zasshi;115 (1): 24-41 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:7699579",
+                        "Matched": {
+                          "PCLID": 5633377,
+                          "Citation": "Shinoda M. [Studies on chemical radioprotectors against X-irradiation used by soft X-ray accelerator]. Yakugaku Zasshi. 1995 Jan;115(1):24–41. doi: 10.1248/yakushi1947.115.1_24. PMID: 7699579.",
+                          "PMID": 7699579,
+                          "DOI": "10.1248/yakushi1947.115.1_24"
+                        }
+                      },
+                      {
+                        "Citation": "Shinoda M; Yakugaku Zasshi;115 (1): 24-41 (1995)",
+                        "Matched": {
+                          "PCLID": 900152815,
+                          "Citation": "Shinoda M; Yakugaku Zasshi;115 (1): 24-41 (1995)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "This review describes the modes of mice radiation injuries induced by soft X-irradiation under various conditions and the protective effects of several kinds of substances on these injuries. The models of radiation injuries in this study were bone marrow death after lethal irradiation, skin damage induced by irradiation with long length soft X-ray and leukocytopenia in the peripheral blood after sublethal irradiation. Two bioassay methods were established for the survival effect on the lethal irradiation and protective potency on the skin damage induced by soft X-irradiation. The protective potencies of various sulfur compounds, related compounds of ferulic acid, nucleic acid constitutional compounds, crude drugs and Chinese traditional medicines were determined and then many effective drugs were recognized. Effective components in the methanol extracts of Cnidii Rhizoma and Aloe arborescens recognized as radioprotectable were fractionated. As a result of these studies, it was observed that the active principles in Cnidii Rhizoma were identified as ferulic acid and adenosine. The scavenger action of active oxygens, a protective effect on the damages of deoxyribonucleic acid and superoxide dismutase by in vitro soft X-irradiation were evaluated as radiation protective mechanisms.",
+                          "Markup": [
+                            {
+                              "Start": 619,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sulfur",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sulfur"
+                            },
+                            {
+                              "Start": 658,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 848,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-887"
+                            },
+                            {
+                              "Start": 1065,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1082,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/adenosine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-60961"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Interactions (Complete) data for FERULIC ACID (8 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 83,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7663#section=Interactions-(Complete)"
+                            },
+                            {
+                              "Start": 42,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FERULIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Immediate first aid: Ensure that adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR if necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on the left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 324,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 mL/kg up to 200 mL of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 216,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 468,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 637,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1",
+                        "Matched": {
+                          "PCLID": 900090294,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in severe respiratory distress. Positive-pressure ventilation techniques with a bag valve mask device may be beneficial. Consider drug therapy for pulmonary edema ... . Consider administering a beta agonist such as albuterol for severe bronchospasm ... . Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start IV administration of D5W /SRP: \"To keep open\", minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's if signs of hypovolemia are present. For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam or lorazepam ... . Use proparacaine hydrochloride to assist eye irrigation ... .  /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 378,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/albuterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2083"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 798,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Zheng R, Zhang H;  Free Radic Biol Med 22 (4):  581-6 (1997):"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Zheng R, Zhang H;  Free Radic Biol Med 22 (4):  581-6 (1997):",
+                        "Matched": {
+                          "PCLID": 9735175,
+                          "Citation": "Zheng RL, Zhang H. Effects of ferulic acid on fertile and asthenozoospermic infertile human sperm motility, viability, lipid peroxidation, and cyclic nucleotides. Free Radic Biol Med. 1997;22(4):581–6. doi: 10.1016/s0891-5849(96)00272-9. PMID: 9013120.",
+                          "PMID": 9013120,
+                          "DOI": "10.1016/s0891-5849(96)00272-9"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/HUMAN EXPOSURE STUDIES/ The aim of this study is to investigate the effects of ferulic acid (FA) on human sperm motility, viability, lipid peroxidation, and cyclic nucleotides in fertile and asthenozoospermic infertile individuals in vitro. The sperm samples were obtained from 10 fertile volunteers and 10 asthenozoospermic infertile patients. Washed spermatozoa were incubated at 37 degrees C in Ham's F-10 medium with 0, 0.1, 0.2, 0.4, 0.8, or 1.6 mM of FA. Samples were analyzed for viability, determined by eosin-Y dye exclusion method at 0, 1, 2, 3, 5, and 6 hr of incubation; motility, determined by the trans-membrane migration method within 2 hr of incubation; LPO, determined by thiobarbituric acid (TBA) method at 3 hr of incubation and the intracellular cAMP and cGMP, determined, respectively, by 3H-cAMP and 125I-cGMP radioimmunoassay at 3 hr of incubation. The results showed: in both fertile and infertile spermatozoa, the viability, trans-membrane migration ratio (TMMR) and the levels of intracellular cAMP and cGMP in FA-treated spermatozoa were significantly higher than those of spermatozoa in control groups, while TBA-reactive substances contents in treated spermatozoa were significantly lower than those in control spermatozoa. The effects of FA on these processes were concentration dependent. These data suggested that FA is beneficial to sperm viability and motility in both fertile and infertile individuals, and that reduction of lipid peroxidative damage to sperm membranes and increase of intracellular cAMP and cGMP may be involved in these benefits.",
+                          "Markup": [
+                            {
+                              "Start": 80,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 690,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/thiobarbituric%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2723628"
+                            },
+                            {
+                              "Start": 767,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cAMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6076"
+                            },
+                            {
+                              "Start": 776,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cGMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398570"
+                            },
+                            {
+                              "Start": 814,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cAMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6076"
+                            },
+                            {
+                              "Start": 828,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cGMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398570"
+                            },
+                            {
+                              "Start": 1021,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cAMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6076"
+                            },
+                            {
+                              "Start": 1030,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cGMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398570"
+                            },
+                            {
+                              "Start": 1536,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cAMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6076"
+                            },
+                            {
+                              "Start": 1545,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cGMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398570"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Stagos-D et al; J Agric Food Chem  55 (13):  5246-52 (2007):"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Stagos-D et al; J Agric Food Chem  55 (13):  5246-52 (2007):",
+                        "Matched": {
+                          "PCLID": 24793752,
+                          "Citation": "Stagos D, Spanou C, Margariti M, Stathopoulos C, Mamuris Z, Kazantzoglou G, Magiatis P, Kouretas D. Cytogenetic effects of grape extracts (Vitis vinifera) and polyphenols on mitomycin C-induced sister chromatid exchanges (SCEs) in human blood lymphocytes. J Agric Food Chem. 2007 Jun 27;55(13):5246–52. doi: 10.1021/jf0635255. PMID: 17536817.",
+                          "PMID": 17536817,
+                          "DOI": "10.1021/jf0635255"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/GENOTOXICITY/ In the present study, the effects of extracts and polyphenol-rich fractions as well as monomer polyphenols identified in them, from both red and white grapes, on mitomycin C (MMC) induced sister chromatid exchanges (SCEs) in human peripheral blood lymphocytes were investigated. The grape extracts and two of the three polyphenol-rich fractions promoted MMC-induced SCEs at concentrations from 75 to 300 ug/mL. However, none of the extracts or fractions alone induced SCEs. Thus, these results suggest caution especially with regard to the use of grape extracts as dietary supplements. On the other hand, the fact that these extracts were not genotoxic alone may indicate a selective activity against genetically damaged cells. This is the first study regarding the clastogenic effects of grape extracts in human cells. Moreover, from the tested polyphenols, caffeic acid, gallic acid, and rutin hydrate enhanced MMC-induced clastogenicity, whereas ferulic acid, protocatechuic acid, (+)-catechin, (-)-epicatechin, and trans-resveratrol had no effect at concentrations between 5 and 100 uM. The differences in the chemical structures of the tested polyphenols may account for their differential effects on MMC clastogenicity.",
+                          "Markup": [
+                            {
+                              "Start": 177,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/mitomycin%20C",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5746"
+                            },
+                            {
+                              "Start": 874,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 888,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gallic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-370"
+                            },
+                            {
+                              "Start": 905,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/rutin%20hydrate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-45479757"
+                            },
+                            {
+                              "Start": 964,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 978,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/protocatechuic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-72"
+                            },
+                            {
+                              "Start": 1003,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/catechin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9064"
+                            },
+                            {
+                              "Start": 1013,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/%28-%29-epicatechin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-72276"
+                            },
+                            {
+                              "Start": 1034,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/trans-resveratrol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445154"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:18234130",
+                      "Nicholson SK et al;: Proc Nutr Soc 67 (1): 42-7 (2008)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:18234130",
+                        "Matched": {
+                          "PCLID": 1698515,
+                          "Citation": "Nicholson SK, Tucker GA, Brameld JM. Effects of dietary polyphenols on gene expression in human vascular endothelial cells. Proc Nutr Soc. 2008 Feb;67(1):42–7. doi: 10.1017/s0029665108006009. PMID: 18234130.",
+                          "PMID": 18234130,
+                          "DOI": "10.1017/s0029665108006009"
+                        }
+                      },
+                      {
+                        "Citation": "Nicholson SK et al;: Proc Nutr Soc 67 (1): 42-7 (2008)",
+                        "Matched": {
+                          "PCLID": 1698515,
+                          "Citation": "Nicholson SK, Tucker GA, Brameld JM. Effects of dietary polyphenols on gene expression in human vascular endothelial cells. Proc Nutr Soc. 2008 Feb;67(1):42–7. doi: 10.1017/s0029665108006009. PMID: 18234130.",
+                          "PMID": 18234130,
+                          "DOI": "10.1017/s0029665108006009"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ ...  The effects of more physiological concentrations (0.1 um) of various individual polyphenols on gene expression were ... investigated in cultured human umbilical vein endothelial cells (HUVEC) using both microarray and quantitative RT-PCR methodologies. Treatment of HUVEC with ferulic acid, quercetin or resveratrol (0.1 um) resulted in changes to gene expression that for the three treatments amounted to significant (>2-fold) down-regulation of the expression of 363 genes and significant (>2-fold) up-regulation of 233 genes of the 10,000 genes present on the microarray. The majority of these genes were affected by resveratrol. Quantitative RT-PCR studies indicated that resveratrol (0.1 um) significantly increased the expression of the gene encoding endothelial NO synthase (eNOS), which synthesizes the vasodilator molecule NO, and both resveratrol and quercetin decreased expression of the potent vasoconstrictor, endothelin-1 (ET-1), while ferulic acid had no effect...",
+                          "Markup": [
+                            {
+                              "Start": 315,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 329,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 342,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/resveratrol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445154"
+                            },
+                            {
+                              "Start": 658,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/resveratrol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445154"
+                            },
+                            {
+                              "Start": 714,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/resveratrol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445154"
+                            },
+                            {
+                              "Start": 883,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/resveratrol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445154"
+                            },
+                            {
+                              "Start": 899,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 961,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/endothelin-1",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16168476"
+                            },
+                            {
+                              "Start": 975,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ET-1",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16212950"
+                            },
+                            {
+                              "Start": 988,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:10226534",
+                      "Lo HH,: Chung JG; Anticancer-Res 19 (1A): 133-9 (1999)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:10226534",
+                        "Matched": {
+                          "PCLID": 28695864,
+                          "Citation": "Lo HH, Chung JG. The effects of plant phenolics, caffeic acid, chlorogenic acid and ferulic acid on arylamine N-acetyltransferase activities in human gastrointestinal microflora. Anticancer Res. 1999 Jan;19(1A):133–9. PMID: 10226534.",
+                          "PMID": 10226534
+                        }
+                      },
+                      {
+                        "Citation": "Lo HH,: Chung JG; Anticancer-Res 19 (1A): 133-9 (1999)",
+                        "Matched": {
+                          "PCLID": 906295878,
+                          "Citation": "Lo HH,: Chung JG; Anticancer-Res 19 (1A): 133-9 (1999)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ The possible effects of naturally occurring plant phenolics, caffeic acid (CA), chlorogenic acid (CGA) and ferulic acid (FA) on arylamine N-acetyltransferase (NAT) activities on human gastrointestinal microflora, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes, Citrobacter koseri and Pseudomonas aeruginosa, were examined. The bacterial NAT activities were determined by HPLC measuring the acetylation of 2-aminofluorene (2-AF). Among all examined bacteria, P. aeruginosa exerted the highest NAT activity while C. koseri possessed the lowest NAT activity. CA, CGA and FA could suppress the bacterial NAT activities dose-dependently both in the intact cell and cytosolic fraction analysis. According to the analysis of kinetic parameters in E. coli and P. aeruginosa, CA, CGA and FA were shown to be potent noncompetitive inhibitors of bacterial NAT activities. For the time course experiment, 4 mM of CA and FA could inhibit bacterial NAT activities for at least 4 hour but 4 mM of CGA could only significantly suppress NAT activity in E. coli for the same reaction time. These results strongly demonstrated that CA, CGA and FA inhibited NAT activities in human gastrointestinal bacteria.",
+                          "Markup": [
+                            {
+                              "Start": 94,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 113,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorogenic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1794427"
+                            },
+                            {
+                              "Start": 140,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 455,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-aminofluorene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1539"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tanaka T et al; Carcinogenesis 14 (7): 1321-5 (1993):"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tanaka T et al; Carcinogenesis 14 (7): 1321-5 (1993):",
+                        "Matched": {
+                          "PCLID": 900125354,
+                          "Citation": "Tanaka T et al; Carcinogenesis 14 (7): 1321-5 (1993):"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ The modifying effects of dietary administration of the plant phenolic antioxidants caffeic acid (CA), ellagic acid (EA), chlorogenic acid (CGA) and ferulic acid (FA) during the initiation phase on 4-nitroquinoline-1-oxide (4-NQO)-induced tongue carcinogenesis and on the number and area of silver-stained nucleolar organizer region proteins (AgNORs), a new cell proliferation marker, of the tongue squamous epithelium were investigated in male F344 rats. Rats were fed the diet containing 500 ppm CA, 400 ppm EA, 250 ppm CGA or 500 ppm FA for 7 weeks. One week after the commencement of the diets, 4-NQO (20 p.p.m.) was administered in the drinking water for 5 weeks. Feeding of four phenolic compounds significantly reduced the incidences of tongue neoplasms (squamous cell papilloma and carcinoma) and preneoplastic lesions (hyperplasia and dysplasia) by 32 weeks, and rats fed CA or EA had no tongue neoplasms. The number and area of AgNORs per nucleus were decreased significantly by dietary treatment with these four phenolics. Thus, CA, EA, CGA and FA inhibited the tongue carcinogenesis induced by 4-NQO when they were administered concurrently with the carcinogen. These results might suggest possible application of these natural substances for cancer chemoprevention in tongue in addition to other tissues (skin, lung, liver and esophagus).",
+                          "Markup": [
+                            {
+                              "Start": 141,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 160,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ellagic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281855"
+                            },
+                            {
+                              "Start": 179,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorogenic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1794427"
+                            },
+                            {
+                              "Start": 206,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 255,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-nitroquinoline-1-oxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5955"
+                            },
+                            {
+                              "Start": 281,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-NQO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5955"
+                            },
+                            {
+                              "Start": 348,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Silver",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Silver"
+                            },
+                            {
+                              "Start": 656,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-NQO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5955"
+                            },
+                            {
+                              "Start": 707,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1163,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-NQO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5955"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Mori H et al; Anticancer Res 19 (5A): 3775-8 (1999):"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Mori H et al; Anticancer Res 19 (5A): 3775-8 (1999):",
+                        "Matched": {
+                          "PCLID": 900095773,
+                          "Citation": "Mori H et al; Anticancer Res 19 (5A): 3775-8 (1999):"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/  Effects of ... on -induced oral carcinogenesis were examined in 4 groups of male rats. The incidences of tongue carcinomas and preneoplastic lesions (severe dysplasia) in rats of the group given ferulic acid (FA) in the diet at a dose of 500 ppm after exposure to 4-nitroquinoline-1-oxide (4NQO)  for 5 weeks in drinking water at a dose of 20 ppm, was significantly lower on termination of the experiment (32 weeks) in the group with the carcinogen alone (P less than 0.005 and P less than 0.001 respectively). The results suggest chemopreventive activity for this phenolic compound on oral cancer.",
+                          "Markup": [
+                            {
+                              "Start": 254,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 323,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-nitroquinoline-1-oxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5955"
+                            },
+                            {
+                              "Start": 380,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tanaka T et al; Carcinogenesis 14 (7): 1321-5 (1993):"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tanaka T et al; Carcinogenesis 14 (7): 1321-5 (1993):",
+                        "Matched": {
+                          "PCLID": 900125354,
+                          "Citation": "Tanaka T et al; Carcinogenesis 14 (7): 1321-5 (1993):"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ The modifying effects of dietary administration of the plant phenolic antioxidants caffeic acid (CA), ellagic acid (EA), chlorogenic acid (CGA) and ferulic acid (FA) during the initiation phase on 4-nitroquinoline-1-oxide (4-NQO)-induced tongue carcinogenesis and on the number and area of silver-stained nucleolar organizer region proteins (AgNORs), a new cell proliferation marker, of the tongue squamous epithelium were investigated in male F344 rats. Rats were fed the diet containing 500 ppm CA, 400 ppm EA, 250 ppm CGA or 500 ppm FA for 7 weeks. One week after the commencement of the diets, 4-NQO (20 p.p.m.) was administered in the drinking water for 5 weeks. Feeding of four phenolic compounds significantly reduced the incidences of tongue neoplasms (squamous cell papilloma and carcinoma) and preneoplastic lesions (hyperplasia and dysplasia) by 32 weeks, and rats fed CA or EA had no tongue neoplasms. The number and area of AgNORs per nucleus were decreased significantly by dietary treatment with these four phenolics. Thus, CA, EA, CGA and FA inhibited the tongue carcinogenesis induced by 4-NQO when they were administered concurrently with the carcinogen. These results might suggest possible application of these natural substances for cancer chemoprevention in tongue in addition to other tissues (skin, lung, liver and esophagus).",
+                          "Markup": [
+                            {
+                              "Start": 116,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caffeic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-689043"
+                            },
+                            {
+                              "Start": 135,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ellagic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281855"
+                            },
+                            {
+                              "Start": 154,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorogenic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1794427"
+                            },
+                            {
+                              "Start": 181,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 230,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-nitroquinoline-1-oxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5955"
+                            },
+                            {
+                              "Start": 256,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-NQO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5955"
+                            },
+                            {
+                              "Start": 323,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Silver",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Silver"
+                            },
+                            {
+                              "Start": 631,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-NQO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5955"
+                            },
+                            {
+                              "Start": 682,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1138,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-NQO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5955"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Sudheer -AR et al; Toxicol In Vitro 21 (4):  576-85 (2007):"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Sudheer -AR et al; Toxicol In Vitro 21 (4):  576-85 (2007):",
+                        "Matched": {
+                          "PCLID": 900111090,
+                          "Citation": "Sudheer -AR et al; Toxicol In Vitro 21 (4):  576-85 (2007):"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ The ...  study describes the protective effect of ferulic acid (FA), a naturally occurring nutritional compound on nicotine-induced DNA damage and cellular changes in cultured rat peripheral blood lymphocytes in comparison with N-acetylcysteine (NAC), a well-known antioxidant. One-hour exposure of lymphocytes to nicotine at the doses of 0.125, 0.25, 0.5, 1, 2, 3 and 4 mM induced a statistically significant dose-dependent increase in the levels of thiobarbituric acid reactive substances (TBARS), a lipid peroxidative marker and decrease in the levels of reduced glutathione (GSH), an important endogenous antioxidant. The lowest concentration eliciting significant damage was 1 mM nicotine and maximum damage was observed with 3 mM concentration. Hence, the test concentration was fixed at 3 mM nicotine. ...  5 different doses of FA (10, 50, 100, 150 and 300 uM) and NAC (0.25, 0.5, 1, 2 and 4 mM) /were used/ to test their protective effects. In all the groups, FA and NAC showed a dose-dependent inhibitory effect. Maximum protection was observed at the dose of 150 microM FA and 1mM NAC. So, 150 microM FA and 1mM NAC were used for further studies. There was a significant increase in the levels of lipid peroxidative index (TBARS and hydroperoxides (HP)), severity of DNA damage (evaluated by comet assay) in nicotine-treated group, which were significantly decreased in FA and NAC-treated groups. Nicotine treatment significantly decreased the endogenous antioxidant status viz., superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPx), GSH, vitamin A, E and C. Co-administration of FA and NAC to nicotine-treated lymphocytes showed a significant increase in the antioxidant status. The protective effect of FA was merely equal to that of NAC effect. FA and NAC treatment alone did not produce any toxicity to the normal lymphocytes at their effective doses. On the whole, there is overwhelming evidence that FA has the ability to modulate DNA damage and a variety of cellular changes that occur during nicotine-induced toxicity in rat peripheral blood lymphocytes.",
+                          "Markup": [
+                            {
+                              "Start": 83,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 148,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nicotine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-89594"
+                            },
+                            {
+                              "Start": 261,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/N-acetylcysteine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-12035"
+                            },
+                            {
+                              "Start": 347,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nicotine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-89594"
+                            },
+                            {
+                              "Start": 484,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/thiobarbituric%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2723628"
+                            },
+                            {
+                              "Start": 612,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GSH",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            },
+                            {
+                              "Start": 718,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nicotine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-89594"
+                            },
+                            {
+                              "Start": 832,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nicotine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-89594"
+                            },
+                            {
+                              "Start": 1351,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nicotine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-89594"
+                            },
+                            {
+                              "Start": 1440,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Nicotine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-89594"
+                            },
+                            {
+                              "Start": 1567,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutathione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            },
+                            {
+                              "Start": 1597,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GSH",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            },
+                            {
+                              "Start": 1657,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nicotine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-89594"
+                            },
+                            {
+                              "Start": 2063,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nicotine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-89594"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for FERULIC ACID (7 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 98,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7663#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FERULIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 160,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf",
+                        "Matched": {
+                          "PCLID": 906318723,
+                          "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^1135-24-6$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ferulic acid is widely found in soil humus, as a result of the natural breakdown of lignin from wood/plant materials. Ferulic acid has been found in atmospheric particulate matter, the source of which is wood combustion. If released to air, an estimated vapor pressure of 2.7X10-6 mm Hg at 25 °C indicates ferulic acid will exist in both the vapor and particulate phases in the atmosphere. Vapor-phase ferulic acid will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 8 hours. Particulate-phase ferulic acid will be removed from the atmosphere by wet or dry deposition. Ferulic acid contains a chromophore that absorbs at wavelengths >290 nm and therefore may be susceptible to direct photolysis by sunlight. If released to soil, ferulic acid is expected to have high mobility based upon an estimated Koc of 57. The pKa of ferulic acid is 4.58, indicating that this compound will almost entirely exist in anion form. Anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts. Volatilization from moist soil surfaces is not expected to be an important fate process because ferulic acid exists as an anion and anions do not volatilize. Ferulic acid is not expected to volatize from dry soil surfaces based upon an estimated vapor pressure of 2.7X10-6 mm Hg. Ferulic acid undergoes 60-77% aerobic biodegradation in soil under neutral or acidic conditions over 28 days. Under alkaline conditions, ferulic acid undergoes 13% aerobic biodegradation over 28 days. If released into water, ferulic acid is not expected to adsorb to suspended solids and sediment based upon the estimated Koc of 57. Ferulic acid undergoes 86-98% anaerobic biodegradation in water over 9-24 days. A pKa of 4.58 indicates ferulic acid will exist almost entirely exist in the anion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process. An estimated BCF of 3.2 suggests the potential for bioconcentration in aquatic organisms is low. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions. Occupational exposure to ferulic acid may occur through inhalation and dermal contact with this compound at workplaces where ferulic acid is produced or used. Monitoring data indicate that the general population may have limited exposure to ferulic acid via inhalation of particulates in ambient air, ingestion of surface water, and dermal contact with soil. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 84,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lignin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-175586"
+                            },
+                            {
+                              "Start": 118,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 306,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 402,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 492,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 596,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 671,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 831,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 924,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1091,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1236,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1298,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1420,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1557,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1638,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1645,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1753,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1811,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1857,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1978,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2328,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 2428,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 2544,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 2625,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Martin JP, Haider K; Soil Sci Soc Am J 40: 377-80 (1976)",
+                      "(2) Nolte CG et al; Environ Sci Technol 35: 1912-1919 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Martin JP, Haider K; Soil Sci Soc Am J 40: 377-80 (1976)"
+                      },
+                      {
+                        "Citation": "(2) Nolte CG et al; Environ Sci Technol 35: 1912-1919 (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ferulic acid is found in soil humus, and is derived from the breakdown of lignin from wood/plant materials(1). Ferulic acid has been found in atmospheric particulate matter, the source of which is wood combustion(2).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 74,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lignin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-175586"
+                            },
+                            {
+                              "Start": 111,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. Ed., Washington, DC: Amer Chem Soc p. 99 (1995)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(4) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chem Data Ser No.23. NY,NY: Pergamon p. 989 (1979)",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals.  Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(6) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(7) Martin JP, Haider K; Soil Sci Soc Am J 40: 377-80 (1976)",
+                      "(8) Martin JP, Haider K; Soil Sci Soc Am J 43: 917-20 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. Ed., Washington, DC: Amer Chem Soc p. 99 (1995)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chem Data Ser No.23. NY,NY: Pergamon p. 989 (1979)"
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals.  Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(6) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(7) Martin JP, Haider K; Soil Sci Soc Am J 40: 377-80 (1976)"
+                      },
+                      {
+                        "Citation": "(8) Martin JP, Haider K; Soil Sci Soc Am J 43: 917-20 (1979)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 57(SRC), determined from a log Kow of 1.51(2) and a regression-derived equation(3), indicates that ferulic acid is expected to have high mobility in soil(SRC). The pKa of ferulic acid is 4.58(4), indicating that this compound will almost entirely exist in the anion form. In the environment, anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5). Volatilization of ferulic acid from moist soil surfaces is not expected to be an important fate process(SRC) given the anionic nature of ferulic acid in the environment. Ferulic acid is not expected to volatilize from dry soil surfaces(SRC) based upon an estimated vapor pressure of 2.7X10-6 mm Hg(SRC), determined from a fragment constant method(6). Under neutral and acidic conditions in soil, ferulic acid is expected to undergo rapid aerobic biodegradation(7)(8). Under alkaline conditions in soil, ferulic acid is not expected to undergo rapid aerobic biodegradation(8).",
+                          "Markup": [
+                            {
+                              "Start": 180,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 252,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 446,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 516,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 635,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 668,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 894,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1001,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 99 (1995)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(4) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chem Data Ser No.23. NY,NY: Pergamon p. 989 (1979)",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds, Boca Raton, FL: Lewis Publ (2000)",
+                      "(6) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(7) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(8) Healy JB JR, Young LY; Appl Environ Microbiol 38: 84-9 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 99 (1995)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chem Data Ser No.23. NY,NY: Pergamon p. 989 (1979)"
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds, Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(6) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(7) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(8) Healy JB JR, Young LY; Appl Environ Microbiol 38: 84-9 (1979)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 57(SRC), determined from a log Kow of 1.51(2) and a regression-derived equation(3), indicates that ferulic acid is not expected to adsorb to suspended solids and sediment(SRC). A pKa of 4.58(4) indicates ferulic acid will exist almost entirely in the anion form at pH values of 5 to 9, and therefore volatilization from water surfaces/moist soil is not expected to be an important fate process(5). According to a classification scheme(6), an estimated BCF of 3.2(SRC), from its log Kow of 1.51(2) and a regression-derived equation(7), suggests the potential for bioconcentration in aquatic organisms is low(SRC). Ferulic acid is expected to biodegrade rapidly in water under anaerobic conditions(8).",
+                          "Markup": [
+                            {
+                              "Start": 176,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 281,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 397,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 690,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 740,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), ferulic acid, which has a an estimated vapor pressure of 2.7X10-6 mm Hg at 25 °C(SRC), determined from a fragment constant method(2), will exist in both the vapor and particulate phases. Vapor-phase ferulic acid is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 8 hours(SRC), calculated from its rate constant of 4.8X10-11 cu cm/molecule-sec at 25 °C(SRC), derived using a structure estimation method(3). Particulate-phase ferulic acid may be removed from the air by wet or dry deposition(SRC). Ferulic acid contains a chromophore that absorbs light at wavelengths >290 nm(4) and therefore may be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 323,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 408,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 651,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 723,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Martin JP, Haider K; Soil Sci Soc Am J 40: 377-80 (1976)",
+                      "(2) Martin JP, Haider K; Soil Sci Soc Am J 43: 917-20 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Martin JP, Haider K; Soil Sci Soc Am J 40: 377-80 (1976)"
+                      },
+                      {
+                        "Citation": "(2) Martin JP, Haider K; Soil Sci Soc Am J 43: 917-20 (1979)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Ferulic acid, present at 100 ppm in Greenfield (California) sandy loam with a pH of 7, underwent 60-72% decomposition via 14-CO2 evolution in 28 days(1). In a similar study, ferulic acid, present at 100 ppm in Chino (California) loam with a pH of 5.6, underwent 77% decomposition via 14-CO2 evolution after 28 days(2); in San Jacinto (California) sandy loam with a pH of 8, 100 ppm ferulic acid underwent 13% decomposition by 14-CO2 evolution over 28 days(2). This lower level of decomposition was thought to be due to polymerization of ferulic acid to humic acid type compounds(2). Therefore, under neutral and acidic conditions in soil, ferulic acid is expected to biodegrade rapidly; under alkaline conditions in soil, biodegradation of ferulic acid is not expected to be rapid.",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 183,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 391,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 546,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 648,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 749,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Healy JB JR, Young LY; Appl Environ Microbiol 38: 84-9 (1979)",
+                      "(2) Grbic-Galic D; Appl Environ Microbiol 46: 1442-6 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Healy JB JR, Young LY; Appl Environ Microbiol 38: 84-9 (1979)"
+                      },
+                      {
+                        "Citation": "(2) Grbic-Galic D; Appl Environ Microbiol 46: 1442-6 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: Ferulic acid, present at 300 ppm in water, reached 86% of its theoretical degradation by conversion to CO2 in 24 days, employing a mixed inoculum obtained from sludge(1). Ferulic acid, present at 300 ppm in water, reached 98% of its theoretical degradation by CO2 production in 9 days, employing a mixed inoculum obtained from sludge(2), in which the medium had been acclimated with ferulic acid for 540 days. Degradation products detected were p-hydroxycinnamic acid, cinnamic acid, and phenylpropionic acid(2). Therefore, ferulic acid is expected to biodegrade rapidly in water under anaerobic conditions.",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 47,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 182,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 218,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 394,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 456,
+                              "Length": 22,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/p-hydroxycinnamic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-322"
+                            },
+                            {
+                              "Start": 480,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cinnamic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-444539"
+                            },
+                            {
+                              "Start": 499,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenylpropionic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-107"
+                            },
+                            {
+                              "Start": 535,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 585,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Buxton GV et al; J Phys Chem Ref Data 17: 513-882 (1988)",
+                      "(3) Mill T et al; Science 207: 886-887 (1980)",
+                      "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Buxton GV et al; J Phys Chem Ref Data 17: 513-882 (1988)"
+                      },
+                      {
+                        "Citation": "(3) Mill T et al; Science 207: 886-887 (1980)"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of ferulic acid with photochemically-produced hydroxyl radicals has been estimated as 4.8X10-11 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 8 hours at an atmospheric concentration of 5.0X10+5 hydroxyl radicals per cu cm(1). The rate constant for the vapor-phase reaction of ferulic acid with ozone has been estimated as 1.1X10-17 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(1). This corresponds to an atmospheric half-life of about 1 day at an atmospheric concentration of 7X10+11 ozone molecules per cu cm(1). The measured rate constant for the reaction of hydroxyl radicals in aqueous solutions of ferulic acid at neutral pH is 1.0X10+10 L/mol-sec(2); this corresponds to an aquatic half-life of about 80 days at an aquatic concentration of 1X10-17 moles hydroxyl radicals per liter(3). Ferulic acid is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(4). Ferulic acid contains chromophores that absorb at wavelengths >290 nm(4) and therefore may be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 93,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 322,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 404,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 422,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 653,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 730,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 772,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 929,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 961,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 1118,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch et al; Exploring QSAR: Hydrophobic, Electronic and Steric Constants. Washington, DC: Amer Chem Soc pp.99 (1995)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch et al; Exploring QSAR: Hydrophobic, Electronic and Steric Constants. Washington, DC: Amer Chem Soc pp.99 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 3.2 was calculated in fish for ferulic acid, using a measured log Kow of 1.51 (1) and a regression-derived equation (2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organism is low(SRC), provided the compound is not metabolized by the organism(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 51,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch et al; Exploring QSAR: Hydrophobic, Electronic and Steric Constants. Washington, DC: Amer Chem Soc pp.99 (1995)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(4) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chem Data Ser No.23. NY,NY: Pergamon pp. 989 (1979)",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals.  Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch et al; Exploring QSAR: Hydrophobic, Electronic and Steric Constants. Washington, DC: Amer Chem Soc pp.99 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(4) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chem Data Ser No.23. NY,NY: Pergamon pp. 989 (1979)"
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals.  Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of ferulic acid is estimated as 57(SRC), using a log Kow of 1.51(1)(SRC) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that ferulic acid is expected to have high mobility in soil. The pKa of ferulic acid is 4.58(4), indicating that this compound will almost entirely exist in the anion form in the environment. Anions generally do not adsorb more strongly to soils containing organic carbon and clay, in comparison with their neutral counterparts(5).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 199,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 266,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 459,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chem Data Ser No.23. NY,NY: Pergamon pp. 989 (1979)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)",
+                      "(3) Lyman WJ; p.31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Serjeant EP, Dempsey B; Ionisation Constants of Organic Acids in Aqueous Solution. IUPAC Chem Data Ser No.23. NY,NY: Pergamon pp. 989 (1979)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ; p.31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ferulic acid, with a pKa of 4.58(1), will almost entirely exist in the anion form in the environment at pH values of 5 to 9, and therefore ferulic acid is expected to be essentially nonvolatile from water surfaces and moist soil(2). Ferulic acid is not expected to volatilize from dry soil surfaces(SRC) based upon an estimated vapor pressure of 2.7X10-6 mm Hg(SRC), determined from a fragment constant method(3).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 139,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 199,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 233,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Matsumoto G et al; Water Res 11: 693-698 (1977)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Matsumoto G et al; Water Res 11: 693-698 (1977)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATER: Ferulic acid was detected in two of three surface water samples collected from the Tama River and the Sumida River, Tokyo(Japan) between September 11, 1973 and December 6, 1973 at concentrations ranging from 10-90 ng/L(1). The most likely source of ferulic acid was from the degradation of lignin derived from wood/plant materials.",
+                          "Markup": [
+                            {
+                              "Start": 8,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 15,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 65,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 264,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 305,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lignin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-175586"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Sediment/Soil Concentrations",
+                "Description": "Concentrations of this compound in sediment/soil. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Matsumoto G, Hanya T; J Chromatogr 193: 89-94 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Matsumoto G, Hanya T; J Chromatogr 193: 89-94 (1980)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SEDIMEMT: Ferulic acid was detected in four out of four sediment samples collected from the Tama River (Japan), Yatsuse River (Japan), Lake Haruma (Japan) and Komgari Reservoir (Japan) on unknown dates at concentrations ranging from 6.5-22 ug/g dry sediment, with an average of 13 ug/g dry sediment(1); the source was likely from the detritus of vascular plants(1).",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Matsumoto G, Hanya T; J Chromatogr 193: 89-94 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Matsumoto G, Hanya T; J Chromatogr 193: 89-94 (1980)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SOIL: Ferulic acid was detected in one soil sample collected in Tokyo (Japan) between February 1976 and January 1978 at the concentration of 11 ug/g dry soil(1).",
+                          "Markup": [
+                            {
+                              "Start": 6,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Atmospheric Concentrations",
+                "Description": "Concentrations of this compound in the atmosphere. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Matsumoto G, Hanya T; Atmos Environ 14: 1409-1419 (1980)",
+                      "(2) Nolte CG et al; Environ Sci Technol 35: 1912-1919 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Matsumoto G, Hanya T; Atmos Environ 14: 1409-1419 (1980)"
+                      },
+                      {
+                        "Citation": "(2) Nolte CG et al; Environ Sci Technol 35: 1912-1919 (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "URBAN/SUBURBAN: Ferulic acid was detected in five out of eight atmospheric fallout samples collected in Tokyo (Japan) between February 1976 and January 1978 at concentrations ranging from 0.06 and 0.74 ug/sq m-day, with an average of 0.43 ug/sq m-day(1). Ferulic acid was detected in two out of two atmospheric particulate samples collected in Bakersfield (California) and Fresno (California) between December 5, 1995 and January 6, 1996 and at concentrations ranging from 0.3 ng/cu m, with an average of 0.45 ng/cu m(2).",
+                          "Markup": [
+                            {
+                              "Start": 16,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 255,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:11393968",
+                      "(1) Nolte CG et al; Environ Sci Technol 35: 1912-1919 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:11393968",
+                        "Matched": {
+                          "PCLID": 11140232,
+                          "Citation": "Nolte CG, Schauer JJ, Cass GR, Simoneit BR. Highly polar organic compounds present in wood smoke and in the ambient atmosphere. Environ Sci Technol. 2001 May 15;35(10):1912–9. doi: 10.1021/es001420r. PMID: 11393968.",
+                          "PMID": 11393968,
+                          "DOI": "10.1021/es001420r"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Nolte CG et al; Environ Sci Technol 35: 1912-1919 (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "RURAL/REMOTE: Ferulic acid was not detected in one atmospheric particulate sample collected in the Kern Wildlife Refuge (Delano, California) between December 5, 1995 and January 6, 1996(1).",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 48,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to ferulic acid may occur through inhalation and dermal contact with this compound at workplaces where ferulic acid is produced or used. Monitoring data indicate that the general population may have limited exposure to ferulic acid via inhalation of particulates in ambient air, ingestion of surface water, and dermal contact with soil. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 125,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 241,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferulic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-445858"
+                            },
+                            {
+                              "Start": 322,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^4-Hydroxy-3-methoxycinnamic acid$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^4-Hydroxy-3-methoxycinnamic acid$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^4-Hydroxy-3-methoxycinnamic acid$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134978000",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000537984",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19467989
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134980973",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0001135246",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19469730
+      },
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "f37ffe877f6f76d71dec77f2e7af5a7a",
+        "Name": "4-Hydroxy-3-methoxycinnamic acid",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49737519
+      },
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID5040673",
+        "Name": "Ferulic acid",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57019298
+      },
+      {
+        "ReferenceNumber": 46,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz13865",
+        "Name": "Ferulic acid",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17283612
+      },
+      {
+        "ReferenceNumber": 48,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7663",
+        "Name": "FERULIC ACID",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7663",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 5209
+      },
+      {
+        "ReferenceNumber": 160,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "2562151272",
+        "Name": "Ferulic acid",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49293529
+      }
+    ]
+  }
+}

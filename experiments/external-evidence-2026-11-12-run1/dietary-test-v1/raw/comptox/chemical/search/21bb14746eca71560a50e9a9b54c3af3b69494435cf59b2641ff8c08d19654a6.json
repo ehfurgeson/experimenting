@@ -1,0 +1,37 @@
+{
+  "search_term": "Lactose",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:03.867635+00:00",
+  "url": "/chemical/search/equal/Lactose",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2023193",
+        "dtxcid": "DTXCID403193",
+        "casrn": "63-42-3",
+        "preferredName": "Lactose",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@]1(O[C@@H]2O[C@H](CO)[C@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@H](O)O[C@@H]1CO",
+        "isMarkush": false,
+        "searchValue": "Lactose",
+        "rank": 9,
+        "searchName": "Approved Name"
+      },
+      {
+        "dtxsid": "DTXSID50873004",
+        "dtxcid": "DTXCID30820516",
+        "casrn": "14641-93-1",
+        "preferredName": "alpha-Lactose",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@@]1(O[C@H]2[C@H](O)[C@@H](O)[C@@H](O)O[C@@H]2CO)O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O",
+        "isMarkush": false,
+        "searchValue": "Lactose",
+        "rank": 15,
+        "searchName": "Synonym"
+      }
+    ],
+    "suggestions": []
+  }
+}

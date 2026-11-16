@@ -1,0 +1,25 @@
+{
+  "search_term": "FOUWCSDKDDHKQP-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:55.066084+00:00",
+  "url": "/chemical/search/equal/FOUWCSDKDDHKQP-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Flumioxazin",
+        "dtxsid": "DTXSID7032555",
+        "dtxcid": "DTXCID5012555",
+        "casrn": "103361-09-7",
+        "hasStructureImage": 1,
+        "smiles": "FC1=CC2=C(C=C1N1C(=O)C3=C(CCCC3)C1=O)N(CC#C)C(=O)CO2",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "FOUWCSDKDDHKQP-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

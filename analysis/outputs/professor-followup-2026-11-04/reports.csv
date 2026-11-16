@@ -1,0 +1,9 @@
+profile,target,n,positives,negatives,status,roc_auc,balanced_accuracy,tn,fp,fn,tp
+formula_pca,selection_target,171,55,116,evaluated,0.9515673981191223,0.9191222570532915,112,4,7,48
+formula_raw,selection_target,171,55,116,evaluated,0.9512539184952977,0.9277429467084639,114,2,7,48
+halogens_only,selection_target,171,55,116,evaluated,0.8170062695924766,0.8229623824451411,115,1,19,36
+halogen_presence,selection_target,171,55,116,evaluated,0.816692789968652,0.8320532915360501,115,1,18,37
+formula_drop_halogen_columns,selection_target,171,55,116,evaluated,0.9462382445141065,0.8578369905956112,102,14,9,46
+composition_without_halogens,selection_target,171,55,116,evaluated,0.9130094043887148,0.821473354231975,102,14,13,42
+morgan_logistic,selection_target,171,55,116,evaluated,0.9467084639498433,0.8865987460815048,115,1,12,43
+morgan_forest,selection_target,171,55,116,evaluated,0.9487460815047022,0.8865987460815048,115,1,12,43

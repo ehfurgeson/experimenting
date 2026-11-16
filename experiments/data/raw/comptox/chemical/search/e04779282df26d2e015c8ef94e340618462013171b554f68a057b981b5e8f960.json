@@ -1,0 +1,25 @@
+{
+  "search_term": "YOYAIZYFCNQIRF-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:13.205567+00:00",
+  "url": "/chemical/search/equal/YOYAIZYFCNQIRF-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "2,6-Dichlorobenzonitrile",
+        "dtxsid": "DTXSID5032365",
+        "dtxcid": "DTXCID3012365",
+        "casrn": "1194-65-6",
+        "hasStructureImage": 1,
+        "smiles": "ClC1=CC=CC(Cl)=C1C#N",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "YOYAIZYFCNQIRF-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

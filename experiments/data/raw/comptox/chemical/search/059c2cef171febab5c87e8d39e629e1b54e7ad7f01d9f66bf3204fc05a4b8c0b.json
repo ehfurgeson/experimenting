@@ -1,0 +1,25 @@
+{
+  "search_term": "Diclofop-methyl",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:28:08.164264+00:00",
+  "url": "/chemical/search/equal/Diclofop-methyl",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "(+-)-Diclofop-methyl",
+        "dtxsid": "DTXSID0032605",
+        "dtxcid": "DTXCID8012605",
+        "casrn": "51338-27-3",
+        "hasStructureImage": 1,
+        "smiles": "COC(=O)C(C)OC1=CC=C(OC2=CC=C(Cl)C=C2Cl)C=C1",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Diclofop methyl",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

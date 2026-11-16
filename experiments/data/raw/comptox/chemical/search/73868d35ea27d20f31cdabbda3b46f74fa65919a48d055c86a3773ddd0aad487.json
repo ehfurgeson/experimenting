@@ -1,0 +1,25 @@
+{
+  "search_term": "ZXVONLUNISGICL-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:06.218423+00:00",
+  "url": "/chemical/search/equal/ZXVONLUNISGICL-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1022053",
+        "dtxcid": "DTXCID902053",
+        "casrn": "534-52-1",
+        "preferredName": "4,6-Dinitro-o-cresol",
+        "hasStructureImage": 1,
+        "smiles": "CC1=C(O)C(=CC(=C1)[N+]([O-])=O)[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "ZXVONLUNISGICL-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

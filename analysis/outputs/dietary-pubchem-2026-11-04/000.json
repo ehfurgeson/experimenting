@@ -1,0 +1,16 @@
+{
+  "query": "L-Alanine",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/L-Alanine/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:07:51.510051+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 5950,
+          "SMILES": "C[C@@H](C(=O)O)N",
+          "InChIKey": "QNAYBMKLOCPYGJ-REOHCLBHSA-N"
+        }
+      ]
+    }
+  }
+}

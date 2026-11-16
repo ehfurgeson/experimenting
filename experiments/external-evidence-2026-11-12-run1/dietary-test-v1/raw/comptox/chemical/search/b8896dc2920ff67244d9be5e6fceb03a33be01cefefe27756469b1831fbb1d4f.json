@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Histidine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:28.512936+00:00",
+  "url": "/chemical/search/equal/L-Histidine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9023126",
+        "dtxcid": "DTXCID503126",
+        "casrn": "71-00-1",
+        "preferredName": "L-Histidine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC1=CN=CN1)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Histidine",
+        "rank": 9,
+        "searchName": "Approved Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

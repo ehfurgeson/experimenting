@@ -1,0 +1,25 @@
+{
+  "search_term": "Metribuzin",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:45.402886+00:00",
+  "url": "/chemical/search/equal/Metribuzin",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6024204",
+        "dtxcid": "DTXCID404204",
+        "casrn": "21087-64-9",
+        "preferredName": "Metribuzin",
+        "hasStructureImage": 1,
+        "smiles": "CSC1=NN=C(C(=O)N1N)C(C)(C)C",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Metribuzin",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

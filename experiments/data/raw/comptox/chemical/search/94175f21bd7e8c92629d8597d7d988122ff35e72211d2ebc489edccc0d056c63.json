@@ -1,0 +1,25 @@
+{
+  "search_term": "Carvacrol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:19.546537+00:00",
+  "url": "/chemical/search/equal/Carvacrol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Isopropyl-o-cresol",
+        "dtxsid": "DTXSID6042074",
+        "dtxcid": "DTXCID4022074",
+        "casrn": "499-75-2",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)C1=CC=C(C)C(O)=C1",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "Carvacrol",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

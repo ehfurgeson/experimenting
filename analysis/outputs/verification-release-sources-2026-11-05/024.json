@@ -1,0 +1,11 @@
+{
+  "key": "lead:gigobolin A",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gigobolin%20A/property/IsomericSMILES,InChIKey/JSON",
+  "kind": "pubchem_json",
+  "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13036769/",
+  "retrieved_at": "2026-11-05T19:14:30.425840+00:00",
+  "status": 404,
+  "body": "{\n  \"Fault\": {\n    \"Code\": \"PUGREST.NotFound\",\n    \"Message\": \"No CID found\",\n    \"Details\": [\n      \"No CID found that matches the given name\"\n    ]\n  }\n}\n",
+  "error": null,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/gigobolin%20A/property/IsomericSMILES,InChIKey/JSON"
+}

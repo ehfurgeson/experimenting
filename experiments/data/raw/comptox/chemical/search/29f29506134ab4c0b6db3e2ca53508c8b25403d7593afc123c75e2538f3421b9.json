@@ -1,0 +1,25 @@
+{
+  "search_term": "Scopoletin",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:34.197951+00:00",
+  "url": "/chemical/search/equal/Scopoletin",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Scopoletin",
+        "dtxsid": "DTXSID0075368",
+        "dtxcid": "DTXCID5048766",
+        "casrn": "92-61-5",
+        "hasStructureImage": 1,
+        "smiles": "COC1=C(O)C=C2OC(=O)C=CC2=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Scopoletin",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

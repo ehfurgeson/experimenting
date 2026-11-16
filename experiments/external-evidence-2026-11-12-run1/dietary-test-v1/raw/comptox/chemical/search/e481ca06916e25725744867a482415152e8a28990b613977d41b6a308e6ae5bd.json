@@ -1,0 +1,25 @@
+{
+  "search_term": "Oleic acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:30.497976+00:00",
+  "url": "/chemical/search/equal/Oleic acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1025809",
+        "dtxcid": "DTXCID705809",
+        "casrn": "112-80-1",
+        "preferredName": "Oleic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCC\\C=C/CCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Oleic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

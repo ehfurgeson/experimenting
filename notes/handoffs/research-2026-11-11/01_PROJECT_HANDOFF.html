@@ -1,0 +1,288 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Project handoff</title><style>body{font:17px/1.6 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#17212b;background:#fff;max-width:1120px;margin:32px auto;padding:0 24px}h1,h2,h3{line-height:1.25;color:#163d52;scroll-margin-top:20px}h1{font-size:2rem}h2{margin-top:2rem;border-top:1px solid #dbe3e8;padding-top:1rem}h3{margin-top:1.6rem}a{color:#075c8d}nav{padding:12px 0 20px;border-bottom:2px solid #163d52;display:flex;flex-wrap:wrap;gap:10px 20px}table{border-collapse:collapse;width:100%;table-layout:auto;margin:20px 0;font-size:.91rem}th,td{border:1px solid #cbd5dd;padding:9px 11px;text-align:left;vertical-align:top;overflow-wrap:anywhere}th{background:#edf3f6}tr:nth-child(even){background:#fafcfd}code{font-size:.87em;overflow-wrap:anywhere;background:#f1f4f6;padding:1px 3px}pre{padding:14px;background:#f1f4f6;overflow:auto;line-height:1.4}pre code{padding:0;white-space:pre;overflow-wrap:normal}li{margin:6px 0}.toc{background:#f5f8fa;padding:12px 20px;border:1px solid #dbe3e8}.toc ul{margin:5px 0}.checkpoint{color:#546675;font-size:.9rem}footer{margin-top:40px;border-top:1px solid #dbe3e8;padding-top:16px;color:#546675}@media(max-width:650px){body{padding:0 12px;font-size:16px}table{font-size:.8rem}th,td{padding:6px}}@media print{body{max-width:none;margin:0;font-size:10pt}nav,.toc{display:none}h2,h3{break-after:avoid}tr{break-inside:avoid}pre,pre code{white-space:pre-wrap;overflow-wrap:anywhere}a{color:inherit;text-decoration:underline}@page{margin:14mm}}</style></head><body><nav aria-label="Handoff documents"><a href="./index.html">Start</a><a href="./01_PROJECT_HANDOFF.html">Project handoff</a><a href="./02_TOXICITY_RESEARCH_GUIDE.html">Toxicity guide</a><a href="./03_BIOLOGICAL_EVIDENCE_GUIDE.html">Biological guide</a></nav><main><div class="toc">
+<ul>
+<li><a href="#project-handoff">Project handoff</a><ul>
+<li><a href="#1-the-question-and-the-current-answer">1. The question and the current answer</a></li>
+<li><a href="#2-what-has-been-completed">2. What has been completed</a><ul>
+<li><a href="#data-pipeline-and-descriptive-analysis">Data pipeline and descriptive analysis</a></li>
+<li><a href="#structural-models-and-interpretation">Structural models and interpretation</a></li>
+<li><a href="#human-reviewed-biological-evidence">Human-reviewed biological evidence</a></li>
+<li><a href="#epa-rat-oral-ld50-comparison">EPA rat oral LD50 comparison</a></li>
+<li><a href="#ecotox-expansion-and-explicit-identity-approval">ECOTOX expansion and explicit identity approval</a></li>
+</ul>
+</li>
+<li><a href="#3-what-to-do-next-and-who-owns-it">3. What to do next and who owns it</a></li>
+<li><a href="#4-authoritative-files-and-operating-rules">4. Authoritative files and operating rules</a></li>
+<li><a href="#5-access-verification-and-independent-work">5. Access, verification and independent work</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h1 id="project-handoff">Project handoff</h1>
+<p><strong>As of 11 November 2026.</strong> Audience: research colleagues continuing the evidence review and analysis. Read this once, then use the <a href="02_TOXICITY_RESEARCH_GUIDE.html">toxicity guide</a> or <a href="03_BIOLOGICAL_EVIDENCE_GUIDE.html">biological evidence guide</a>.</p>
+<h2 id="1-the-question-and-the-current-answer">1. The question and the current answer</h2>
+<p>The project seeks natural compounds with herbicidal properties, describes the chemistry that distinguishes them from conventional herbicides, and compares toxicological evidence. A broader objective concerns known natural-product–protein interactions; a validated binding workflow has not been completed and is outside these two assignments.</p>
+<p>The intended biological comparison has three groups: natural active, natural low-response under a defined assay policy, and conventional-herbicide comparators. We can describe reviewed natural active examples now. We cannot yet make a validated three-class activity classifier or a general “natural is safer” conclusion.</p>
+<p>Keep five concepts separate:</p>
+<table>
+<thead>
+<tr>
+<th>Concept</th>
+<th>What supports it</th>
+<th>What it does not establish</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chemical identity</td>
+<td>Exact source-to-structure/form mapping</td>
+<td>Natural occurrence, efficacy or safety</td>
+</tr>
+<tr>
+<td>Natural occurrence</td>
+<td>Primary isolation/characterization evidence for the same structure</td>
+<td>Manufacturing route or safety</td>
+</tr>
+<tr>
+<td>Plant activity</td>
+<td>A response under a stated species/dose/duration/endpoint policy</td>
+<td>Dose-invariant or universal herbicidal activity</td>
+</tr>
+<tr>
+<td>Toxicity evidence</td>
+<td>Comparable organism/exposure/endpoint measurements</td>
+<td>Risk without exposure information</td>
+</tr>
+<tr>
+<td>Cohort classification</td>
+<td>A model distinguishing the selected groups</td>
+<td>Biological activity, protein binding or natural origin as a universal property</td>
+</tr>
+</tbody>
+</table>
+<p>Rough work-completion estimates are <strong>Track 1 75%, Track 2 80%, overall three-group comparison 55%</strong>. These are planning judgments, not confidence levels or formal milestone scores.</p>
+<h2 id="2-what-has-been-completed">2. What has been completed</h2>
+<h3 id="data-pipeline-and-descriptive-analysis">Data pipeline and descriptive analysis</h3>
+<ul>
+<li>Maintained acquisition/processing workflows for cached PubChem, EPA and bounded ChEMBL evidence, with identity decisions, raw snapshots, normalization, qualifiers, eligibility reasons and provenance.</li>
+<li>A prepared purposive selection of <strong>176 compounds: 60 selected herbicides and 116 selected natural products</strong>, derived from 178 original input rows. Selection membership is not independently reviewed origin/activity truth.</li>
+<li>Seven endpoint types and eight comparison policies for evidence availability, including separate broad-fish/trout LC50 policies. Missing assessment, evidence availability, measured doses, BMD/BMDL and stored predictions remain distinct. Earlier random-split/availability classifiers are historical context, not the current structural performance claim.</li>
+<li>Molecular distributions and exploratory comparisons. RDKit computes formula features, 11 descriptors, radius-2 2,048-bit chiral Morgan fingerprints and Murcko scaffolds. Formula representation has 27 features. Mixtures/salts may be model-ineligible without invalidating a separately approved whole-form identity.</li>
+</ul>
+<h3 id="structural-models-and-interpretation">Structural models and interpretation</h3>
+<p>The current historical matched cohort has <strong>171 eligible unique structures: 55 selected herbicides and 116 selected natural products</strong>. Five-fold scaffold grouping prevents a scaffold crossing a training/test boundary. The baseline fits imputation, constant removal, scaling, 95%-variance PCA and L2 logistic regression within training folds. Raw-formula logistic retains standardized original columns; raw Morgan logistic/forest use unscaled bits without PCA.</p>
+<p>Completed diagnostics include fixed and nested regularization experiments, feature-block combinations, halogen removal/recomputed composition, shuffled-label controls, scaffold-fold sensitivity, individual held-out errors, standardized coefficients, held-out permutation and forest tree-specific OOB permutation. Nested C selection uses inner scaffold folds, never outer-test outcomes.</p>
+<table>
+<thead>
+<tr>
+<th>Cohort/target</th>
+<th style="text-align: right;">Formula raw F1</th>
+<th style="text-align: right;">Formula PCA F1</th>
+<th style="text-align: right;">Raw Morgan logistic F1</th>
+<th style="text-align: right;">Raw Morgan forest F1</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Historical 171-compound selection membership</td>
+<td style="text-align: right;">0.9143</td>
+<td style="text-align: right;">0.8972</td>
+<td style="text-align: right;">0.8687</td>
+<td style="text-align: right;">0.8687</td>
+</tr>
+<tr>
+<td>New 30-compound reviewed-cohort membership</td>
+<td style="text-align: right;">0.8421</td>
+<td style="text-align: right;">0.8421</td>
+<td style="text-align: right;">0.6667</td>
+<td style="text-align: right;">0.6000</td>
+</tr>
+</tbody>
+</table>
+<p>The <strong>new</strong> contrast has <strong>19 approved natural-occurrence examples versus 11 documented commercial-herbicide manufacturing comparators</strong>. The latter are target 1. It is still a purposive cohort classifier: natural occurrence and commercial manufacture can coexist. Its scores are not improvements/deteriorations relative to the different 171-compound task. Halogen-only/presence F1 is 0.9000 on the new cohort.</p>
+<p>Separate full-cohort forest OOB F1 values are <strong>0.9038 historically and 0.9000 for the new cohort</strong>. OOB omits a row per tree, not its structural family; it is weaker separation than scaffold holdout. Ten-repeat OOB importance SD is descriptive, not a p-value or formal significance test. Coefficients and importance are model associations, not causal chemical effects.</p>
+<p>Saved reports are included under <a href="reference_inputs/README.html">reference_inputs/models</a>. No fitted estimator objects are included in this compact package.</p>
+<h3 id="human-reviewed-biological-evidence">Human-reviewed biological evidence</h3>
+<p>The second-pass workbook and the owner's explicit human-review declaration were adopted into new versioned datasets. We have <strong>19 approved natural-occurrence labels</strong>: 15 literature compounds and four earlier ophiobolins. The second pass contains <strong>119 study/treatment observations</strong>; original packets had 81. Human approval is recorded separately from preserved historical AI-only/pending wording.</p>
+<p>There are <strong>80 activity decisions across four separate policies</strong>, not 80 interchangeable training examples:</p>
+<table>
+<thead>
+<tr>
+<th>Accepted policy</th>
+<th style="text-align: right;">Active</th>
+<th style="text-align: right;">Bounded low-response (<code>inactive</code> in schema)</th>
+<th style="text-align: right;">Active-bearing scaffolds</th>
+<th style="text-align: right;">Low-response-bearing scaffolds</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>K1998 two-species very-active category, 1 mM</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td>Okamoto 1991 upland ordinal assay</td>
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td>Li 2006 postemergence, 150 g a.i./ha</td>
+<td style="text-align: right;">11</td>
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr>
+<td>He 2011 postemergence, 1,500 g a.i./ha</td>
+<td style="text-align: right;">29</td>
+<td style="text-align: right;">21</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">2</td>
+</tr>
+</tbody>
+</table>
+<p><strong>No activity classifier passes the existing five-fold support requirements.</strong> The problem now is independent chemistry and compatible negative evidence, not an uncompleted blanket approval.</p>
+<p>The five approved K1998 natural active compounds are 3-phenylpropionic acid, 2-hydroxyphenylacetic acid, coumarin, juglone and trans-cinnamic acid. This means the authors' very-active reagent category at 1 mM, with lettuce at day six and millet at day four. It is not an exact quantitative vehicle-controlled efficacy estimate. Their medians are MW 150.177 g/mol, calculated logP 1.7038 and TPSA 37.3 Å², versus 279.1135, 2.90424 and 62.73 for 58 supported selected-herbicide comparators. Fourteen other approved natural compounds remain activity-unknown under K1998; the natural low-response group is empty.</p>
+<p>Important corrections already made:</p>
+<ul>
+<li>Formulated-product outcomes in 2020 are not isolated-ingredient activity labels.</li>
+<li>Nonsignificant 2024 field differences do not establish equivalence/low response. Site, rate and formulation effects remain separate.</li>
+<li>Sarmentine activity remains unknown because methods/table concentrations disagree, 10 versus 20 mg/mL; a product/active-ingredient explanation is plausible but unconfirmed.</li>
+<li>Retracted Walker 2003 evidence is excluded. Independent Farag 2022 evidence supports trans-cinnamic-acid occurrence. Other independent sources replace the anomalous salicylic-acid isolation citation and support free pelargonic acid.</li>
+<li>Three Li source gaps persist: <strong>7b / CHEMBL2253255</strong> constitutional isomer; <strong>7w / CHEMBL2253236</strong> unreadable source substituent; <strong>KIH-6127 / CHEMBL2253237</strong> unresolved geometry. Their affected observations are not rescued by general approval.</li>
+</ul>
+<p>A separate 200-compound dietary-comparator identity audit and earlier 40-candidate triage exist. Dietary use/benignity assertions do not provide tested plant inactivity. These are leads, not a ready negative class.</p>
+<h3 id="epa-rat-oral-ld50-comparison">EPA rat oral LD50 comparison</h3>
+<p>From 5,814 cached hazard rows across 88 source chemicals, the bounded policy retained <strong>43 exact and 25 censored acute rat oral LD50 observations</strong>. There are <strong>34 exact compound medians</strong>, plus <strong>15 censored-only compounds</strong>. Historical pooled tertile cutoffs remain <strong>1,080 and 3,400 mg/kg</strong>, with ties retained. “Low” means low LD50, hence greater acute lethal toxicity; these are descriptive bins, not regulatory risk categories.</p>
+<p>Reviewed natural overlaps are coumarin (K1998 active; exact median 520 mg/kg), salicylic acid (activity unknown; 891), benzoic acid (activity unknown; 2,565), and trans-cinnamic acid (K1998 active; censored-only). One exact active natural example cannot support a safety ranking. Bounds retain compatible observation bins; they are not imputed points or compound-median labels. Sensitivity subsets and documentation gaps are explicit.</p>
+<h3 id="ecotox-expansion-and-explicit-identity-approval">ECOTOX expansion and explicit identity approval</h3>
+<p>The official frozen September 15, 2026 archive contains 18,551 chemicals, 725,635 tests and 1,250,611 results. It was inventoried, dictionary decoded and bounded to <strong>104 source chemicals</strong>, prioritizing nine literature overlaps. All 104 mappings are now explicitly human-approved. <strong>103 compounds have results; Acacetin has zero results</strong>, retained as assessed-zero coverage.</p>
+<p>The complete selected export has <strong>49,760 tests, 79,171 native results and 79,302 concentration slots</strong>. A result can have multiple slots; slots are not independent experiments. Identity-only reimport preserved all scientific fields and source IDs. There are 3,267 complete bounded parses and 76,035 review slots; unsupported information remains visible.</p>
+<p>Canonical core-policy exports now contain:</p>
+<table>
+<thead>
+<tr>
+<th>Policy</th>
+<th style="text-align: right;">Records</th>
+<th style="text-align: right;">Compounds</th>
+<th>Measured/unmeasured</th>
+<th style="text-align: right;">Additional reported-context subset</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Trout mortality LC50, 96 h observation</td>
+<td style="text-align: right;">28</td>
+<td style="text-align: right;">7</td>
+<td>6 / 22</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td>Daphnia immobilization EC50, 48 h observation</td>
+<td style="text-align: right;">13</td>
+<td style="text-align: right;">11</td>
+<td>1 / 12</td>
+<td style="text-align: right;">1</td>
+</tr>
+</tbody>
+</table>
+<p>There are <strong>39 exact values and two lower bounds</strong>. Observation duration is not automatically exposure duration. The additional subset requires reported exposure type/control type and matching exposure/observation duration; it does not itself establish study quality. Nine reviewed-natural records fail this additional check. pH, temperature, age, primary-versus-secondary reporting and other conditions still need investigation.</p>
+<p>There are <strong>16 rat LD50 records in a context-review queue</strong>, none added to the historical baseline. The broader overlap queue has <strong>18,992 candidate pairs</strong>, not established duplicates. No same-observation decisions were adopted. Newly prepared handoff triage finds <strong>26 pairs touching the pending rat records, zero touching the currently retained 68 EPA observations, and zero touching the 41 admitted aquatic records</strong>. That is a queue-intersection result, not proof that missing-reference or within-source duplicates do not exist.</p>
+<h2 id="3-what-to-do-next-and-who-owns-it">3. What to do next and who owns it</h2>
+<table>
+<thead>
+<tr>
+<th>Lead</th>
+<th>Immediate assignment</th>
+<th>First useful return</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Toxicity researcher</td>
+<td>Recover source protocols for the 41 aquatic/16 rat records, prioritize the three natural-overlap aquatic papers and seven rat references</td>
+<td>Source-linked context overlays, rat eligibility proposals, 26-pair adjudication log</td>
+</tr>
+<tr>
+<td>Biological researcher</td>
+<td>Find negative/low-response results across new independent scaffolds under compatible policies; resolve the three specific Li gaps where feasible</td>
+<td>Study-level evidence, exact structures, policy-separated proposed labels and scaffold-support report</td>
+</tr>
+<tr>
+<td>Integrating analyst</td>
+<td>Validate returned overlays/labels, implement any missing ingestion support, rerun only affected analyses in fresh directories</td>
+<td>Versioned results, tests, figures and updated notebook</td>
+</tr>
+</tbody>
+</table>
+<p>Do not spend the next work period changing classifier families, expanding all databases indiscriminately or relabeling every unknown. Source context and independent negative chemistry are the limiting inputs.</p>
+<h2 id="4-authoritative-files-and-operating-rules">4. Authoritative files and operating rules</h2>
+<p>The compact <a href="reference_inputs/README.html">reference inputs</a> are sufficient to start research. Current full-repository bundles, relative to the repository root, are:</p>
+<table>
+<thead>
+<tr>
+<th>Purpose</th>
+<th>Current bundle under <code>analysis/outputs/</code></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Adopted biology and policy labels</td>
+<td><code>human-review-adopted-2026-11-11-final/</code></td>
+</tr>
+<tr>
+<td>Reviewed biological descriptions and LD50 annotations</td>
+<td><code>human-reviewed-progress-2026-11-11-complete/</code></td>
+</tr>
+<tr>
+<td>Historical selection models / new reviewed-cohort models</td>
+<td><code>weekly-models-2026-11-10/</code> / <code>reviewed-cohort-models-2026-11-11-final/</code></td>
+</tr>
+<tr>
+<td>Approved ECOTOX mappings</td>
+<td><code>ecotox-identities-approved-2026-11-11/</code></td>
+</tr>
+<tr>
+<td>Complete canonical ECOTOX results</td>
+<td><code>ecotox-selected-approved-2026-11-11/</code></td>
+</tr>
+<tr>
+<td>Refreshed overlap queue / sensitivity</td>
+<td><code>ecotox-approved-reconciliation-2026-11-11/</code></td>
+</tr>
+<tr>
+<td>Current aquatic comparison and rat queue</td>
+<td><code>ecotox-approved-comparison-2026-11-11-verified/</code></td>
+</tr>
+<tr>
+<td>Frozen rat baseline</td>
+<td><code>weekly-toxicity-2026-11-10/</code></td>
+</tr>
+<tr>
+<td>Historical 154-compound feature cohort / hold audit</td>
+<td><code>chembl-review-screen-2026-10-29-final/</code> / <code>verification-release-audit-2026-11-05-final/</code></td>
+</tr>
+</tbody>
+</table>
+<p>The latest teaching notebook is <code>notes/notebooks/presentation_essentials.py</code>, with a same-name HTML copy. All 74 cells executed successfully at the checkpoint. Software verification was <strong>248 analysis tests and 1,057 pipeline tests passed</strong>; this is historical software verification, not independent biological validation.</p>
+<p>Use adoption ledgers and accepted policy files for current decisions. Historical templates intentionally remain unknown. Files with <code>HUMAN-</code> names for M2020, T2024 and D2015 still have no known activity labels; a filename is not approval. Generic context text in unresolved records of the original <code>policies.json</code> is not an authoritative protocol for those studies.</p>
+<p>Preserve stable compound IDs, source result/measurement IDs, raw values/units/qualifiers, page/table/treatment locators and review history. Never overwrite frozen inputs, labels, manifests or output directories. Some immutable native exports share storage; write separate overlays or real working copies. Keep work and documentation in ignored directories. Do not edit <code>notes/GOALS.md</code>, force-add <code>notes/</code>, push the local branch or publish this package without separate authorization.</p>
+<h2 id="5-access-verification-and-independent-work">5. Access, verification and independent work</h2>
+<p>No Python is needed for literature review. Work under <code>work/&lt;initials&gt;-&lt;date&gt;-&lt;run&gt;/</code> and follow the return schema in your guide. Every unresolved item needs a reason and the next evidence that would resolve it. Routine transcription, retrieval and within-policy proposals can proceed without the owner. A qualified teammate can review consequential decisions; record reviewer/date and the scope of the decision. New policies or resolved identity conflicts require explicit documented scientific review before label/model promotion.</p>
+<p>For code work, use the authorized checkout at local branch <code>feat/weekly-research-pilots</code>, checkpoint <code>b771c87</code>, and keep pipeline/analysis locked environments separate. A clone alone lacks ignored caches and may lack these unpushed commits. Do not put credentials in a collaborator package.</p>
+<p>Verify this portable package from its root using standard Python:</p>
+<pre><code class="language-python">import hashlib, json
+from pathlib import Path
+root = Path.cwd()
+inventory = json.loads((root / &quot;PACKAGE_INVENTORY.json&quot;).read_text())
+for item in inventory[&quot;files&quot;]:
+    actual = hashlib.sha256((root / item[&quot;path&quot;]).read_bytes()).hexdigest()
+    assert actual == item[&quot;sha256&quot;], item[&quot;path&quot;]
+print(&quot;Package hashes match&quot;)
+</code></pre>
+<p>This checks transferred bytes, not scientific correctness. Original manifests use absolute paths; retain them unchanged and map locations during verification rather than rewriting their provenance. The compact excerpts do not replace full caches for a complete rebuild.</p>
+<p>Read the applicable research guide next. It specifies what can be completed directly and where a tested integration change is still needed.</p></main><footer>Prepared 11 November 2026. Read-only reference inputs; new research belongs in the work folder. No runtime network dependencies.</footer></body></html>

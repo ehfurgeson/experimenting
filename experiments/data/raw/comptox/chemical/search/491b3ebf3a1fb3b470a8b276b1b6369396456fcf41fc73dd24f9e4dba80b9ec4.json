@@ -1,0 +1,25 @@
+{
+  "search_term": "Monosodium methanearsonate",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:26.217058+00:00",
+  "url": "/chemical/search/equal/Monosodium methanearsonate",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2025686",
+        "dtxcid": "DTXCID505686",
+        "casrn": "2163-80-6",
+        "preferredName": "Monosodium methanearsonate",
+        "hasStructureImage": 1,
+        "smiles": "[Na+].C[As](O)([O-])=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Monosodium methanearsonate",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

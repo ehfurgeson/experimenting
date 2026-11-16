@@ -1,0 +1,25 @@
+{
+  "search_term": "FJKROLUGYXJWQN-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:34.444371+00:00",
+  "url": "/chemical/search/equal/FJKROLUGYXJWQN-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "4-Hydroxybenzoic acid",
+        "dtxsid": "DTXSID3026647",
+        "dtxcid": "DTXCID806647",
+        "casrn": "99-96-7",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CC=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "FJKROLUGYXJWQN-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

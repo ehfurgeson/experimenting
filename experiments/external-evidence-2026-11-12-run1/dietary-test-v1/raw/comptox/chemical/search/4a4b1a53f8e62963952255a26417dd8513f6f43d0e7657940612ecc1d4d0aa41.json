@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Tyrosine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:51.092289+00:00",
+  "url": "/chemical/search/equal/L-Tyrosine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1023730",
+        "dtxcid": "DTXCID603730",
+        "casrn": "60-18-4",
+        "preferredName": "L-Tyrosine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC1=CC=C(O)C=C1)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Tyrosine",
+        "rank": 9,
+        "searchName": "Approved Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "WTEVQBCEXWBHNA-JXMROGBWSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:21.245020+00:00",
+  "url": "/chemical/search/equal/WTEVQBCEXWBHNA-JXMROGBWSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID20881217",
+        "dtxcid": "DTXCID40209373",
+        "casrn": "141-27-5",
+        "preferredName": "(2E)-3,7-dimethylocta-2,6-dienal",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)=CCC\\C(C)=C\\C=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "WTEVQBCEXWBHNA-JXMROGBWSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

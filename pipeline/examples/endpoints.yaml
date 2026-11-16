@@ -1,0 +1,59 @@
+mammal_oral_ld50:
+  endpoint: LD50
+  organism_group: mammal
+  preferred_route: oral
+  standard_unit: mg/kg
+  label: Mammalian oral LD50 availability
+  context_note: Broad availability across mammalian species; not a potency comparison.
+fish_lc50:
+  endpoint: LC50
+  organism_group: fish
+  standard_unit: mg/L
+  label: Fish LC50 availability
+  context_note: Broad availability across fish species and durations.
+trout_lc50_96h:
+  endpoint: LC50
+  species: rainbow_trout
+  preferred_duration_hours: 96
+  standard_unit: mg/L
+  label: Rainbow-trout 96-hour LC50 availability
+  context_note: Requires explicit matching species and duration.
+daphnia_ec50_48h:
+  endpoint: EC50
+  species: daphnia_magna
+  preferred_duration_hours: 48
+  standard_unit: mg/L
+  label: Daphnia magna 48-hour EC50 availability
+  context_note: Requires explicit matching species and duration.
+mammal_oral_noael_daily:
+  endpoint: NOAEL
+  organism_group: mammal
+  preferred_route: oral
+  standard_unit: mg/kg-day
+  summary_mode: availability
+  label: Mammalian oral daily-dose NOAEL availability
+  context_note: Availability across effects and study durations; no potency median.
+mammal_oral_loael_daily:
+  endpoint: LOAEL
+  organism_group: mammal
+  preferred_route: oral
+  standard_unit: mg/kg-day
+  summary_mode: availability
+  label: Mammalian oral daily-dose LOAEL availability
+  context_note: Availability across effects and study durations; no potency median.
+mammal_oral_bmd_daily:
+  endpoint: BMD
+  organism_group: mammal
+  preferred_route: oral
+  standard_unit: mg/kg-day
+  summary_mode: availability
+  label: Mammalian oral daily-dose BMD availability
+  context_note: Model-derived results; response and model context may be incomplete.
+mammal_oral_bmdl_daily:
+  endpoint: BMDL
+  organism_group: mammal
+  preferred_route: oral
+  standard_unit: mg/kg-day
+  summary_mode: availability
+  label: Mammalian oral daily-dose BMDL availability
+  context_note: Standalone lower bounds are retained without inventing a paired BMD.

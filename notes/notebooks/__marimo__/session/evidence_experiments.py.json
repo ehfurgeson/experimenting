@@ -1,0 +1,339 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.2",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "c79a887c634c83726a624f4ebf60b221",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "31b155f8b2e3372f804d3e1334f77546",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"working-through-toxicity-and-plant-response-models\">Working through toxicity and plant-response models</h1>\n<span class=\"paragraph\"><strong>12 November 2026 \u00b7 experimental notes</strong></span>\n<span class=\"paragraph\">I am asking two different questions: <strong>Track 1</strong>, which compounds have lower\nor higher non-target toxicity? <strong>Track 2</strong>, what chemistry accompanies a\nmeasured plant response? I keep experiments (A) separate from outside-model\nestimates (B). The B models learn a teacher's estimates.</span>\n<span class=\"paragraph\">I use <strong>F1 first</strong>. For three LD50 bins I use macro-F1, the unweighted mean\nof the three class F1 scores. For plant activity, positive means high response.\nF1 = 2TP/(2TP + FP + FN); it does not reward true negatives, so I keep the\nmajority baseline and balanced accuracy nearby.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "223783ae-b7c7-4546-9e41-07c43e93357a",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "2a7c2df1ce7e560d747c2e134feb16bd",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "d6ce4536728aaae933d242f8e8bbffe3",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"1-what-compounds-do-i-actually-have\">1. What compounds do I actually have?</h2>\n<span class=\"paragraph\"><strong>Where B comes from:</strong> stored CATMoS predictions in the model authors'\n<a href=\"https://github.com/kmansouri/OPERA/blob/01b07c769dd86eadb71843e057783a64a364c885/OPERA_Data.zip\" rel=\"noopener noreferrer\" target=\"_blank\">OPERA data archive</a>,\nspecifically <code>CATMoS_QR50k.sdf</code>, field <code>CATMoS_LD50_pred</code>. The archive is pinned\nto commit <code>01b07c7</code>; structures, domain flags and training tags remain in the\nlocal B release. I did not generate these estimates by running OPERA locally.\nThe <strong>173-structure EPA TEST collection is separate</strong> and is not the target\nbehind the B classifier. A below uses measured experimental outcomes.</span>\n<span class=\"paragraph\">Stored TEST coverage is now <strong>173 full structures</strong>; those stored estimates\nremain separate from experiments. My original prepared selection contains <strong>60 selected herbicides and 116\nselected natural products</strong>. Those are selection labels. For a stricter\nbiological comparison, the reviewed set contains <strong>19 natural-occurrence\ncompounds: 5 active under K1998 and 14 activity-unknown</strong>, with <strong>0 reviewed\nnatural low-response examples under that policy</strong> and 58 distinct herbicide\ncomparators. I cannot call unknown compounds non-herbicidal.</span>\n<span class=\"paragraph\">Below I join that reviewed grouping to each new toxicity cohort by the full\nstructure key. Counts are unique compounds, not dose rows or studies. A\ncommercial comparator label does not automatically establish synthetic origin.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "da23dae470aa9692d64bf8d57bd33162",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='lEQa-0' random-id='97d592d9-9b7a-a5d8-558e-998c568e8137'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Track 1 cohort&#92;&quot;:&#92;&quot;A: measured rat LD50&#92;&quot;,&#92;&quot;Natural active (K1998)&#92;&quot;:1,&#92;&quot;Natural low-response (K1998)&#92;&quot;:0,&#92;&quot;Natural activity unknown&#92;&quot;:5,&#92;&quot;Herbicide comparators&#92;&quot;:28,&#92;&quot;Other/unclassified&#92;&quot;:4200,&#92;&quot;Total&#92;&quot;:4234},{&#92;&quot;Track 1 cohort&#92;&quot;:&#92;&quot;B: CATMoS estimates&#92;&quot;,&#92;&quot;Natural active (K1998)&#92;&quot;:3,&#92;&quot;Natural low-response (K1998)&#92;&quot;:0,&#92;&quot;Natural activity unknown&#92;&quot;:4,&#92;&quot;Herbicide comparators&#92;&quot;:29,&#92;&quot;Other/unclassified&#92;&quot;:43092,&#92;&quot;Total&#92;&quot;:43128}]&quot;' data-total-rows='2' data-total-columns='7' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='2' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "2416530c86900f00a5217cfd0c1a5f74",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='PKri-0' random-id='52a3b7c1-85a6-cc4c-e85f-fbf17b7e2073'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Track 2 assay policy&#92;&quot;:&#92;&quot;K1998&#92;&quot;,&#92;&quot;High response&#92;&quot;:5,&#92;&quot;Low response&#92;&quot;:0,&#92;&quot;Reviewed natural among high&#92;&quot;:5,&#92;&quot;Reviewed natural among low&#92;&quot;:0,&#92;&quot;Five-fold activity model&#92;&quot;:&#92;&quot;insufficient_class_support&#92;&quot;},{&#92;&quot;Track 2 assay policy&#92;&quot;:&#92;&quot;Okamoto1991&#92;&quot;,&#92;&quot;High response&#92;&quot;:4,&#92;&quot;Low response&#92;&quot;:0,&#92;&quot;Reviewed natural among high&#92;&quot;:0,&#92;&quot;Reviewed natural among low&#92;&quot;:0,&#92;&quot;Five-fold activity model&#92;&quot;:&#92;&quot;insufficient_class_support&#92;&quot;},{&#92;&quot;Track 2 assay policy&#92;&quot;:&#92;&quot;Li2006&#92;&quot;,&#92;&quot;High response&#92;&quot;:11,&#92;&quot;Low response&#92;&quot;:10,&#92;&quot;Reviewed natural among high&#92;&quot;:0,&#92;&quot;Reviewed natural among low&#92;&quot;:0,&#92;&quot;Five-fold activity model&#92;&quot;:&#92;&quot;insufficient_scaffold_support&#92;&quot;},{&#92;&quot;Track 2 assay policy&#92;&quot;:&#92;&quot;He2011&#92;&quot;,&#92;&quot;High response&#92;&quot;:29,&#92;&quot;Low response&#92;&quot;:21,&#92;&quot;Reviewed natural among high&#92;&quot;:0,&#92;&quot;Reviewed natural among low&#92;&quot;:0,&#92;&quot;Five-fold activity model&#92;&quot;:&#92;&quot;insufficient_scaffold_support&#92;&quot;}]&quot;' data-total-rows='4' data-total-columns='6' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='4' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "ffc032774e868cd4390cfed0007be862",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">The activity policies above use different species, doses and response rules;\nI do not add their counts together. Li/He/Okamoto activity does not supply\nreviewed natural occurrence. The <strong>73-compound pooled sensitivity</strong> has 41\nhigh and 32 low responses, including provisional identities. It is a separate\nexploratory experiment, not 73 reviewed natural products.</span>\n<span class=\"paragraph\">In the compatible 27-compound radish series at 100 \u00b5M, there are <strong>2 high,\n18 low and 7 intermediate</strong> root-growth responses. Intermediates stay unknown.\nIts class/scaffold support is insufficient for five-fold fitting.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "b007bb69c9d97f242c42533c7ccca629",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='SFPL-0' random-id='c7e801e9-8e70-fa6a-fa59-4632d3715bce'><marimo-table data-initial-value='[]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eTrack 1: selection groups and LD50 bins&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-data='&quot;[{&#92;&quot;Cohort&#92;&quot;:&#92;&quot;A&#92;&quot;,&#92;&quot;Selection group&#92;&quot;:&#92;&quot;dietary_inventory_only&#92;&quot;,&#92;&quot;Low LD50&#92;&quot;:0,&#92;&quot;Medium LD50&#92;&quot;:1,&#92;&quot;High LD50&#92;&quot;:10,&#92;&quot;Total&#92;&quot;:11},{&#92;&quot;Cohort&#92;&quot;:&#92;&quot;A&#92;&quot;,&#92;&quot;Selection group&#92;&quot;:&#92;&quot;selected_herbicide&#92;&quot;,&#92;&quot;Low LD50&#92;&quot;:9,&#92;&quot;Medium LD50&#92;&quot;:12,&#92;&quot;High LD50&#92;&quot;:7,&#92;&quot;Total&#92;&quot;:28},{&#92;&quot;Cohort&#92;&quot;:&#92;&quot;A&#92;&quot;,&#92;&quot;Selection group&#92;&quot;:&#92;&quot;selected_natural_product&#92;&quot;,&#92;&quot;Low LD50&#92;&quot;:6,&#92;&quot;Medium LD50&#92;&quot;:6,&#92;&quot;High LD50&#92;&quot;:6,&#92;&quot;Total&#92;&quot;:18},{&#92;&quot;Cohort&#92;&quot;:&#92;&quot;A&#92;&quot;,&#92;&quot;Selection group&#92;&quot;:&#92;&quot;source_inventory_unknown_group&#92;&quot;,&#92;&quot;Low LD50&#92;&quot;:2152,&#92;&quot;Medium LD50&#92;&quot;:1174,&#92;&quot;High LD50&#92;&quot;:851,&#92;&quot;Total&#92;&quot;:4177},{&#92;&quot;Cohort&#92;&quot;:&#92;&quot;B&#92;&quot;,&#92;&quot;Selection group&#92;&quot;:&#92;&quot;selected_herbicide&#92;&quot;,&#92;&quot;Low LD50&#92;&quot;:13,&#92;&quot;Medium LD50&#92;&quot;:16,&#92;&quot;High LD50&#92;&quot;:0,&#92;&quot;Total&#92;&quot;:29},{&#92;&quot;Cohort&#92;&quot;:&#92;&quot;B&#92;&quot;,&#92;&quot;Selection group&#92;&quot;:&#92;&quot;selected_natural_product&#92;&quot;,&#92;&quot;Low LD50&#92;&quot;:9,&#92;&quot;Medium LD50&#92;&quot;:24,&#92;&quot;High LD50&#92;&quot;:2,&#92;&quot;Total&#92;&quot;:35},{&#92;&quot;Cohort&#92;&quot;:&#92;&quot;B&#92;&quot;,&#92;&quot;Selection group&#92;&quot;:&#92;&quot;source_inventory_unknown_group&#92;&quot;,&#92;&quot;Low LD50&#92;&quot;:17176,&#92;&quot;Medium LD50&#92;&quot;:18456,&#92;&quot;High LD50&#92;&quot;:7432,&#92;&quot;Total&#92;&quot;:43064}]&quot;' data-total-rows='7' data-total-columns='6' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='7' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element><marimo-ui-element object-id='SFPL-1' random-id='6dca8b59-c2ca-05d8-0b09-e04e5d48d7c0'><marimo-table data-initial-value='[]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eSeparate measured aquatic coverage&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-data='&quot;[{&#92;&quot;Aquatic policy&#92;&quot;:&#92;&quot;daphnia_immobilization_ec50_48h&#92;&quot;,&#92;&quot;Compounds&#92;&quot;:11,&#92;&quot;Observations&#92;&quot;:13},{&#92;&quot;Aquatic policy&#92;&quot;:&#92;&quot;trout_lc50_96h&#92;&quot;,&#92;&quot;Compounds&#92;&quot;:7,&#92;&quot;Observations&#92;&quot;:28}]&quot;' data-total-rows='2' data-total-columns='3' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='2' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "6407493b228430bd9ac7d4eff08298dd",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"2-exploring-the-toxicity-classifiers\">2. Exploring the toxicity classifiers</h2>\n<span class=\"paragraph\">I predict <strong>LD50 bin</strong>, not natural origin or herbicidal activity. Low LD50\nmeans greater acute hazard. The fixed 1,080/3,400 mg/kg cutoffs are historical\ncohort bins, not regulatory categories. Aquatic concentrations stay separate.</span>\n<span class=\"paragraph\">I used five scaffold/connectivity-held-out folds. Scaling is fitted on each\ntraining fold. Logistic uses C=1 and balanced class weights; the forest uses\n200 trees, minimum leaf size 5 and balanced class weights. Seven predictors\ncome from structures. I have not tuned these models against the test scores.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "RGSE",
+      "code_hash": "03b8f97848d7d9faed83980b2b4fe69c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='RGSE-0' random-id='4a6ea665-de9b-0a92-a809-e2b6663337f9'><marimo-dropdown data-initial-value='[&quot;A \u00b7 experimental LD50 outcomes&quot;]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eToxicity experiment&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-options='[&quot;A \u00b7 experimental LD50 outcomes&quot;,&quot;B \u00b7 CATMoS estimates&quot;]' data-allow-select-none='false' data-searchable='false' data-full-width='false' data-disabled='false'></marimo-dropdown></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Kclp",
+      "code_hash": "c9354cece5c6ff9079cad8b4fe0b73c7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Kclp-0' random-id='80b5a162-a260-f070-5868-36b4ad26c577'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Model&#92;&quot;:&#92;&quot;majority&#92;&quot;,&#92;&quot;Macro-F1 (held out)&#92;&quot;:0.226,&#92;&quot;Low-bin F1&#92;&quot;:0.677,&#92;&quot;Medium-bin F1&#92;&quot;:0.0,&#92;&quot;High-bin F1&#92;&quot;:0.0,&#92;&quot;Balanced accuracy&#92;&quot;:0.333,&#92;&quot;Compounds&#92;&quot;:4234},{&#92;&quot;Model&#92;&quot;:&#92;&quot;logistic&#92;&quot;,&#92;&quot;Macro-F1 (held out)&#92;&quot;:0.382,&#92;&quot;Low-bin F1&#92;&quot;:0.486,&#92;&quot;Medium-bin F1&#92;&quot;:0.325,&#92;&quot;High-bin F1&#92;&quot;:0.335,&#92;&quot;Balanced accuracy&#92;&quot;:0.39,&#92;&quot;Compounds&#92;&quot;:4234},{&#92;&quot;Model&#92;&quot;:&#92;&quot;forest&#92;&quot;,&#92;&quot;Macro-F1 (held out)&#92;&quot;:0.43,&#92;&quot;Low-bin F1&#92;&quot;:0.565,&#92;&quot;Medium-bin F1&#92;&quot;:0.345,&#92;&quot;High-bin F1&#92;&quot;:0.38,&#92;&quot;Balanced accuracy&#92;&quot;:0.437,&#92;&quot;Compounds&#92;&quot;:4234}]&quot;' data-total-rows='3' data-total-columns='7' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='3' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "emfo",
+      "code_hash": "a145cb33c607afd8683db86a0520c51c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">My A forest reaches <strong>macro-F1 0.430</strong>, compared with majority <strong>0.226</strong>;\nlogistic is <strong>0.382</strong>. B reaches <strong>0.616</strong>, compared with majority <strong>0.200</strong>;\nlogistic is <strong>0.465</strong>. B's higher F1 describes teacher reproduction and does\nnot make it a better experimental predictor.</span>\n<span class=\"paragraph\">I also checked continuous dose error: A forest MAE is 0.636 log10 units\nversus baseline 0.650, a small improvement. The bin result is not a reliable\ngeneral dose predictor. Nearly all paired A/B compounds overlap teacher\ntraining (3,359/3,361), so I leave combined modeling deferred.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Hstk",
+      "code_hash": "9be47360983fe206475687ccc5262f6a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"3-what-did-logistic-learn\">3. What did logistic learn?</h2>\n<span class=\"paragraph\">Each coefficient multiplies a <strong>one-training-fold-SD</strong> feature change in a\nclass's linear score. Positive raises that class's score; negative lowers it.\nFor multiclass relative log-odds I need the <strong>difference between two classes'\ncoefficients</strong>. These are associations among correlated features, not causes.</span>\n<span class=\"paragraph\">I show fold means and sample SDs across five folds, not a newly fitted averaged model. Changing the\nclass below changes which score I inspect. Fold SD is variability, not a p-value.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "nWHF",
+      "code_hash": "f7d6d1a7e30ef865171871406ecd265c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='nWHF-0' random-id='02dfc2b9-7ff4-5bed-97b3-21b83b1b6431'><marimo-dropdown data-initial-value='[&quot;Low LD50 \u00b7 greater acute hazard&quot;]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eLogistic class score&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-options='[&quot;Low LD50 \u00b7 greater acute hazard&quot;,&quot;Medium LD50&quot;,&quot;High LD50&quot;]' data-allow-select-none='false' data-searchable='false' data-full-width='false' data-disabled='false'></marimo-dropdown></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "iLit",
+      "code_hash": "b76ef46d60001849bee79ad00a25d0ac",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='iLit-0' random-id='9bf2e32f-34e1-e723-b8ca-593f283e63a1'><marimo-vega data-initial-value='{}' data-label='null' data-spec='{&quot;config&quot;:{&quot;view&quot;:{&quot;continuousWidth&quot;:300,&quot;continuousHeight&quot;:300}},&quot;data&quot;:{&quot;values&quot;:[{&quot;Feature&quot;:&quot;molecular_weight&quot;,&quot;Mean coefficient&quot;:0.2589622500537571,&quot;Fold SD&quot;:0.04367946976115391,&quot;Folds&quot;:5},{&quot;Feature&quot;:&quot;tpsa&quot;,&quot;Mean coefficient&quot;:-0.3880349794885712,&quot;Fold SD&quot;:0.034539210557608946,&quot;Folds&quot;:5},{&quot;Feature&quot;:&quot;hbd&quot;,&quot;Mean coefficient&quot;:-0.006453592004656794,&quot;Fold SD&quot;:0.030508786968253897,&quot;Folds&quot;:5},{&quot;Feature&quot;:&quot;hba&quot;,&quot;Mean coefficient&quot;:0.39049086766009944,&quot;Fold SD&quot;:0.04194474994745874,&quot;Folds&quot;:5},{&quot;Feature&quot;:&quot;rotatable_bonds&quot;,&quot;Mean coefficient&quot;:-0.3356480212451802,&quot;Fold SD&quot;:0.0652888746823881,&quot;Folds&quot;:5},{&quot;Feature&quot;:&quot;rings&quot;,&quot;Mean coefficient&quot;:-0.2109511854262148,&quot;Fold SD&quot;:0.12985867557015213,&quot;Folds&quot;:5},{&quot;Feature&quot;:&quot;fraction_sp3&quot;,&quot;Mean coefficient&quot;:-0.04888099467610331,&quot;Fold SD&quot;:0.015045805565812694,&quot;Folds&quot;:5}]},&quot;mark&quot;:{&quot;type&quot;:&quot;bar&quot;},&quot;encoding&quot;:{&quot;color&quot;:{&quot;condition&quot;:{&quot;test&quot;:&quot;datum[&#x27;Mean coefficient&#x27;] &#92;u003e= 0&quot;,&quot;value&quot;:&quot;#35766b&quot;},&quot;value&quot;:&quot;#b36a43&quot;},&quot;tooltip&quot;:[{&quot;field&quot;:&quot;Feature&quot;,&quot;type&quot;:&quot;nominal&quot;},{&quot;field&quot;:&quot;Mean coefficient&quot;,&quot;format&quot;:&quot;.3f&quot;,&quot;type&quot;:&quot;quantitative&quot;},{&quot;field&quot;:&quot;Fold SD&quot;,&quot;format&quot;:&quot;.3f&quot;,&quot;type&quot;:&quot;quantitative&quot;}],&quot;x&quot;:{&quot;field&quot;:&quot;Mean coefficient&quot;,&quot;title&quot;:&quot;Standardized logistic coefficient&quot;,&quot;type&quot;:&quot;quantitative&quot;},&quot;y&quot;:{&quot;field&quot;:&quot;Feature&quot;,&quot;sort&quot;:&quot;-x&quot;,&quot;type&quot;:&quot;nominal&quot;}},&quot;height&quot;:210,&quot;width&quot;:560,&quot;&#36;schema&quot;:&quot;https://vega.github.io/schema/vega-lite/v6.4.1.json&quot;}' data-chart-selection='true' data-field-selection='true' data-embed-options='{}'></marimo-vega></marimo-ui-element><marimo-ui-element object-id='iLit-1' random-id='df7912e4-415c-edb4-e687-1622b3344836'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Feature&#92;&quot;:&#92;&quot;molecular_weight&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:0.259,&#92;&quot;Fold SD&#92;&quot;:0.0437,&#92;&quot;Folds&#92;&quot;:5},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;tpsa&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:-0.388,&#92;&quot;Fold SD&#92;&quot;:0.0345,&#92;&quot;Folds&#92;&quot;:5},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;hbd&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:-0.0065,&#92;&quot;Fold SD&#92;&quot;:0.0305,&#92;&quot;Folds&#92;&quot;:5},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;hba&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:0.3905,&#92;&quot;Fold SD&#92;&quot;:0.0419,&#92;&quot;Folds&#92;&quot;:5},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;rotatable_bonds&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:-0.3356,&#92;&quot;Fold SD&#92;&quot;:0.0653,&#92;&quot;Folds&#92;&quot;:5},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;rings&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:-0.211,&#92;&quot;Fold SD&#92;&quot;:0.1299,&#92;&quot;Folds&#92;&quot;:5},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;fraction_sp3&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:-0.0489,&#92;&quot;Fold SD&#92;&quot;:0.015,&#92;&quot;Folds&#92;&quot;:5}]&quot;' data-total-rows='7' data-total-columns='4' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='7' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "7024156d-82fb-4317-b463-ffeb885dd26d",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "ZHCJ",
+      "code_hash": "3b6f474b094a34bfafa292404bbf524b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"4-what-does-the-forest-rely-on\">4. What does the forest rely on?</h2>\n<span class=\"paragraph\">The forest has no single logistic-style weight vector. I measure importance\nas the <strong>drop in OOB macro-F1 when a feature is shuffled</strong>. For each tree I\nshuffle only its unsampled compounds, then aggregate class-probability votes.\nHere the target is the same three LD50 bins as above; the older binary\nlow-LD50-versus-rest diagnostic is deliberately not substituted.</span>\n<span class=\"paragraph\">Positive drop means the forest relies on the feature. Near-zero or negative\ndrop means little measured reliance or a possible improvement after shuffling.\nTen-repeat SD describes <strong>stability</strong>, not statistical significance or a\nconfidence interval. Correlated features can share importance. OOB permits\nfamiliar scaffolds in training and is not the held-out accuracy headline.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ROlb",
+      "code_hash": "7773d1a503e8b942bda44df049be9a2d",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='ROlb-0' random-id='4e61b4ab-4089-7d39-edb1-0f342c893f58'><marimo-vega data-initial-value='{}' data-label='null' data-spec='{&quot;config&quot;:{&quot;view&quot;:{&quot;continuousWidth&quot;:300,&quot;continuousHeight&quot;:300}},&quot;layer&quot;:[{&quot;mark&quot;:{&quot;type&quot;:&quot;bar&quot;,&quot;color&quot;:&quot;#526f9a&quot;},&quot;encoding&quot;:{&quot;x&quot;:{&quot;field&quot;:&quot;OOB macro-F1 drop&quot;,&quot;type&quot;:&quot;quantitative&quot;},&quot;y&quot;:{&quot;field&quot;:&quot;Feature&quot;,&quot;sort&quot;:&quot;-x&quot;,&quot;type&quot;:&quot;nominal&quot;}}},{&quot;mark&quot;:{&quot;type&quot;:&quot;rule&quot;,&quot;color&quot;:&quot;#263238&quot;},&quot;encoding&quot;:{&quot;x&quot;:{&quot;field&quot;:&quot;Lower&quot;,&quot;type&quot;:&quot;quantitative&quot;},&quot;x2&quot;:{&quot;field&quot;:&quot;Upper&quot;},&quot;y&quot;:{&quot;field&quot;:&quot;Feature&quot;,&quot;sort&quot;:&quot;-x&quot;,&quot;type&quot;:&quot;nominal&quot;}}}],&quot;data&quot;:{&quot;values&quot;:[{&quot;Feature&quot;:&quot;molecular_weight&quot;,&quot;OOB macro-F1 drop&quot;:0.014243136327375838,&quot;Repeat SD&quot;:0.005052584111575544,&quot;Lower&quot;:0.009190552215800295,&quot;Upper&quot;:0.01929572043895138,&quot;Baseline OOB macro-F1&quot;:0.48376746843139057,&quot;Repeats&quot;:10},{&quot;Feature&quot;:&quot;tpsa&quot;,&quot;OOB macro-F1 drop&quot;:0.03102823972966941,&quot;Repeat SD&quot;:0.004185869724569851,&quot;Lower&quot;:0.02684237000509956,&quot;Upper&quot;:0.035214109454239265,&quot;Baseline OOB macro-F1&quot;:0.48376746843139057,&quot;Repeats&quot;:10},{&quot;Feature&quot;:&quot;hbd&quot;,&quot;OOB macro-F1 drop&quot;:0.012625526565993117,&quot;Repeat SD&quot;:0.0031771418136317168,&quot;Lower&quot;:0.0094483847523614,&quot;Upper&quot;:0.015802668379624834,&quot;Baseline OOB macro-F1&quot;:0.48376746843139057,&quot;Repeats&quot;:10},{&quot;Feature&quot;:&quot;hba&quot;,&quot;OOB macro-F1 drop&quot;:0.005340894462694007,&quot;Repeat SD&quot;:0.002530761240978262,&quot;Lower&quot;:0.002810133221715745,&quot;Upper&quot;:0.007871655703672268,&quot;Baseline OOB macro-F1&quot;:0.48376746843139057,&quot;Repeats&quot;:10},{&quot;Feature&quot;:&quot;rotatable_bonds&quot;,&quot;OOB macro-F1 drop&quot;:0.01844986406490754,&quot;Repeat SD&quot;:0.0032923092587612253,&quot;Lower&quot;:0.015157554806146317,&quot;Upper&quot;:0.021742173323668765,&quot;Baseline OOB macro-F1&quot;:0.48376746843139057,&quot;Repeats&quot;:10},{&quot;Feature&quot;:&quot;rings&quot;,&quot;OOB macro-F1 drop&quot;:0.006848249206537255,&quot;Repeat SD&quot;:0.002122111101945429,&quot;Lower&quot;:0.004726138104591826,&quot;Upper&quot;:0.008970360308482684,&quot;Baseline OOB macro-F1&quot;:0.48376746843139057,&quot;Repeats&quot;:10},{&quot;Feature&quot;:&quot;fraction_sp3&quot;,&quot;OOB macro-F1 drop&quot;:0.026042913533912644,&quot;Repeat SD&quot;:0.005569532608490257,&quot;Lower&quot;:0.020473380925422387,&quot;Upper&quot;:0.0316124461424029,&quot;Baseline OOB macro-F1&quot;:0.48376746843139057,&quot;Repeats&quot;:10}]},&quot;height&quot;:210,&quot;width&quot;:560,&quot;&#36;schema&quot;:&quot;https://vega.github.io/schema/vega-lite/v6.4.1.json&quot;}' data-chart-selection='true' data-field-selection='true' data-embed-options='{}'></marimo-vega></marimo-ui-element><marimo-ui-element object-id='ROlb-1' random-id='f7dfb7be-05d5-7912-829e-212b6ab975e3'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Feature&#92;&quot;:&#92;&quot;molecular_weight&#92;&quot;,&#92;&quot;OOB macro-F1 drop&#92;&quot;:0.0142,&#92;&quot;Repeat SD&#92;&quot;:0.0051,&#92;&quot;Baseline OOB macro-F1&#92;&quot;:0.4838,&#92;&quot;Repeats&#92;&quot;:10},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;tpsa&#92;&quot;,&#92;&quot;OOB macro-F1 drop&#92;&quot;:0.031,&#92;&quot;Repeat SD&#92;&quot;:0.0042,&#92;&quot;Baseline OOB macro-F1&#92;&quot;:0.4838,&#92;&quot;Repeats&#92;&quot;:10},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;hbd&#92;&quot;,&#92;&quot;OOB macro-F1 drop&#92;&quot;:0.0126,&#92;&quot;Repeat SD&#92;&quot;:0.0032,&#92;&quot;Baseline OOB macro-F1&#92;&quot;:0.4838,&#92;&quot;Repeats&#92;&quot;:10},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;hba&#92;&quot;,&#92;&quot;OOB macro-F1 drop&#92;&quot;:0.0053,&#92;&quot;Repeat SD&#92;&quot;:0.0025,&#92;&quot;Baseline OOB macro-F1&#92;&quot;:0.4838,&#92;&quot;Repeats&#92;&quot;:10},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;rotatable_bonds&#92;&quot;,&#92;&quot;OOB macro-F1 drop&#92;&quot;:0.0184,&#92;&quot;Repeat SD&#92;&quot;:0.0033,&#92;&quot;Baseline OOB macro-F1&#92;&quot;:0.4838,&#92;&quot;Repeats&#92;&quot;:10},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;rings&#92;&quot;,&#92;&quot;OOB macro-F1 drop&#92;&quot;:0.0068,&#92;&quot;Repeat SD&#92;&quot;:0.0021,&#92;&quot;Baseline OOB macro-F1&#92;&quot;:0.4838,&#92;&quot;Repeats&#92;&quot;:10},{&#92;&quot;Feature&#92;&quot;:&#92;&quot;fraction_sp3&#92;&quot;,&#92;&quot;OOB macro-F1 drop&#92;&quot;:0.026,&#92;&quot;Repeat SD&#92;&quot;:0.0056,&#92;&quot;Baseline OOB macro-F1&#92;&quot;:0.4838,&#92;&quot;Repeats&#92;&quot;:10}]&quot;' data-total-rows='7' data-total-columns='5' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='7' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "99f95221-17bb-4985-8742-5358f8ce8a74",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "qnkX",
+      "code_hash": "9d39f9fcc05c0cd1e82d5a0c839bb8f2",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"5-trying-the-literature-activity-question\">5. Trying the literature activity question</h2>\n<span class=\"paragraph\">The reviewed individual policies cannot yet support five-fold activity\nmodeling. I can still inspect my earlier <strong>73-compound pooled sensitivity</strong>:\npositive = high plant response, negative = low response under source-specific\nrules. Plants, doses and endpoints differ. This is exploratory pooling.</span>\n<span class=\"paragraph\">I compare formula logistic with fingerprint logistic/forest, keeping their\nfeature representations explicit. A high F1 needs a baseline and a new-paper\ntest: F1 alone can look good when high responses dominate.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "TqIu",
+      "code_hash": "3cc86d1b487b641db3c28d6ce6a2c889",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='TqIu-0' random-id='73e696ea-34cd-212c-9354-61815e468f2b'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Model&#92;&quot;:&#92;&quot;Training-fold majority&#92;&quot;,&#92;&quot;F1 (high response)&#92;&quot;:0.719,&#92;&quot;Balanced accuracy&#92;&quot;:0.5,&#92;&quot;Compounds&#92;&quot;:73},{&#92;&quot;Model&#92;&quot;:&#92;&quot;formula_raw&#92;&quot;,&#92;&quot;F1 (high response)&#92;&quot;:0.513,&#92;&quot;Balanced accuracy&#92;&quot;:0.478,&#92;&quot;Compounds&#92;&quot;:73},{&#92;&quot;Model&#92;&quot;:&#92;&quot;morgan_logistic&#92;&quot;,&#92;&quot;F1 (high response)&#92;&quot;:0.727,&#92;&quot;Balanced accuracy&#92;&quot;:0.656,&#92;&quot;Compounds&#92;&quot;:73},{&#92;&quot;Model&#92;&quot;:&#92;&quot;morgan_forest&#92;&quot;,&#92;&quot;F1 (high response)&#92;&quot;:0.68,&#92;&quot;Balanced accuracy&#92;&quot;:0.543,&#92;&quot;Compounds&#92;&quot;:73}]&quot;' data-total-rows='4' data-total-columns='4' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='4' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element><marimo-ui-element object-id='TqIu-1' random-id='718da1ac-706e-6bfa-53c0-665b8801fc7c'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;New radish test&#92;&quot;:&#92;&quot;formula_raw&#92;&quot;,&#92;&quot;F1 (high response)&#92;&quot;:0.0,&#92;&quot;Test compounds&#92;&quot;:20,&#92;&quot;High responses&#92;&quot;:2,&#92;&quot;Missed high responses&#92;&quot;:2},{&#92;&quot;New radish test&#92;&quot;:&#92;&quot;morgan_logistic&#92;&quot;,&#92;&quot;F1 (high response)&#92;&quot;:0.0,&#92;&quot;Test compounds&#92;&quot;:20,&#92;&quot;High responses&#92;&quot;:2,&#92;&quot;Missed high responses&#92;&quot;:2},{&#92;&quot;New radish test&#92;&quot;:&#92;&quot;morgan_forest&#92;&quot;,&#92;&quot;F1 (high response)&#92;&quot;:0.0,&#92;&quot;Test compounds&#92;&quot;:20,&#92;&quot;High responses&#92;&quot;:2,&#92;&quot;Missed high responses&#92;&quot;:2}]&quot;' data-total-rows='3' data-total-columns='5' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='3' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Vxnm",
+      "code_hash": "ed6a70ba58aba45d353271c27f1683f6",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<div style='display: flex;flex: 1;flex-direction: column;justify-content: flex-start;align-items: normal;flex-wrap: nowrap;gap: 0.5rem'><marimo-ui-element object-id='Vxnm-0' random-id='793c5443-0092-c06d-c2c2-026aab896711'><marimo-table data-initial-value='[]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eFormula logistic: positive means high source-specific response&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-data='&quot;[{&#92;&quot;Formula logistic feature&#92;&quot;:&#92;&quot;formula_Cl_fraction&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:0.5852,&#92;&quot;Fold SD&#92;&quot;:0.1644},{&#92;&quot;Formula logistic feature&#92;&quot;:&#92;&quot;formula_O_count&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:-0.444,&#92;&quot;Fold SD&#92;&quot;:0.3946},{&#92;&quot;Formula logistic feature&#92;&quot;:&#92;&quot;formula_Cl_count&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:0.3546,&#92;&quot;Fold SD&#92;&quot;:0.1886},{&#92;&quot;Formula logistic feature&#92;&quot;:&#92;&quot;formula_O_fraction&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:-0.3503,&#92;&quot;Fold SD&#92;&quot;:0.2657},{&#92;&quot;Formula logistic feature&#92;&quot;:&#92;&quot;element_count&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:0.3068,&#92;&quot;Fold SD&#92;&quot;:0.5629},{&#92;&quot;Formula logistic feature&#92;&quot;:&#92;&quot;formula_Br_fraction&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:0.2708,&#92;&quot;Fold SD&#92;&quot;:0.1733},{&#92;&quot;Formula logistic feature&#92;&quot;:&#92;&quot;formula_C_count&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:-0.2297,&#92;&quot;Fold SD&#92;&quot;:0.2549},{&#92;&quot;Formula logistic feature&#92;&quot;:&#92;&quot;formula_C_fraction&#92;&quot;,&#92;&quot;Mean coefficient&#92;&quot;:-0.229,&#92;&quot;Fold SD&#92;&quot;:0.4197}]&quot;' data-total-rows='27' data-total-columns='3' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='8' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element><marimo-ui-element object-id='Vxnm-1' random-id='a288720d-2b4d-0521-f3b8-b7e38ae2fff1'><marimo-table data-initial-value='[]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eFingerprint forest: top 10 OOB F1 permutation drops&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-data='&quot;[{&#92;&quot;Fingerprint forest feature&#92;&quot;:&#92;&quot;morgan_bit_294&#92;&quot;,&#92;&quot;OOB F1 drop&#92;&quot;:0.0403,&#92;&quot;Repeat SD&#92;&quot;:0.0115,&#92;&quot;Baseline OOB F1&#92;&quot;:0.7436},{&#92;&quot;Fingerprint forest feature&#92;&quot;:&#92;&quot;morgan_bit_94&#92;&quot;,&#92;&quot;OOB F1 drop&#92;&quot;:0.0344,&#92;&quot;Repeat SD&#92;&quot;:0.0158,&#92;&quot;Baseline OOB F1&#92;&quot;:0.7436},{&#92;&quot;Fingerprint forest feature&#92;&quot;:&#92;&quot;morgan_bit_1765&#92;&quot;,&#92;&quot;OOB F1 drop&#92;&quot;:0.0245,&#92;&quot;Repeat SD&#92;&quot;:0.0083,&#92;&quot;Baseline OOB F1&#92;&quot;:0.7436},{&#92;&quot;Fingerprint forest feature&#92;&quot;:&#92;&quot;morgan_bit_1088&#92;&quot;,&#92;&quot;OOB F1 drop&#92;&quot;:0.0208,&#92;&quot;Repeat SD&#92;&quot;:0.0076,&#92;&quot;Baseline OOB F1&#92;&quot;:0.7436},{&#92;&quot;Fingerprint forest feature&#92;&quot;:&#92;&quot;morgan_bit_358&#92;&quot;,&#92;&quot;OOB F1 drop&#92;&quot;:0.0204,&#92;&quot;Repeat SD&#92;&quot;:0.0054,&#92;&quot;Baseline OOB F1&#92;&quot;:0.7436},{&#92;&quot;Fingerprint forest feature&#92;&quot;:&#92;&quot;morgan_bit_699&#92;&quot;,&#92;&quot;OOB F1 drop&#92;&quot;:0.0203,&#92;&quot;Repeat SD&#92;&quot;:0.0057,&#92;&quot;Baseline OOB F1&#92;&quot;:0.7436},{&#92;&quot;Fingerprint forest feature&#92;&quot;:&#92;&quot;morgan_bit_216&#92;&quot;,&#92;&quot;OOB F1 drop&#92;&quot;:0.0178,&#92;&quot;Repeat SD&#92;&quot;:0.0147,&#92;&quot;Baseline OOB F1&#92;&quot;:0.7436},{&#92;&quot;Fingerprint forest feature&#92;&quot;:&#92;&quot;morgan_bit_754&#92;&quot;,&#92;&quot;OOB F1 drop&#92;&quot;:0.0147,&#92;&quot;Repeat SD&#92;&quot;:0.0049,&#92;&quot;Baseline OOB F1&#92;&quot;:0.7436},{&#92;&quot;Fingerprint forest feature&#92;&quot;:&#92;&quot;morgan_bit_718&#92;&quot;,&#92;&quot;OOB F1 drop&#92;&quot;:0.0129,&#92;&quot;Repeat SD&#92;&quot;:0.0091,&#92;&quot;Baseline OOB F1&#92;&quot;:0.7436},{&#92;&quot;Fingerprint forest feature&#92;&quot;:&#92;&quot;morgan_bit_1187&#92;&quot;,&#92;&quot;OOB F1 drop&#92;&quot;:0.0115,&#92;&quot;Repeat SD&#92;&quot;:0.0105,&#92;&quot;Baseline OOB F1&#92;&quot;:0.7436}]&quot;' data-total-rows='10' data-total-columns='4' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='10' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element></div>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "DnEU",
+      "code_hash": "4cbb6303c44feb3e351b0ab41d0d7364",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><strong>What I take from this:</strong> pooled fingerprint logistic F1 is 0.727 against\nmajority 0.719; forest is 0.680. All three fixed profiles have <strong>F1 = 0 on\nthe new 20-compound radish test</strong> and miss both high responses. The appealing\nwithin-pool score does not transfer. Coefficients/importance describe this\npooled experiment, not a general signature of natural herbicidal activity.\nFingerprint bits can encode multiple motifs; I cannot name a unique chemical\nmechanism from a bit number. OOB SD is not a significance test.</span>\n<h2 id=\"6-binding-evidence-stays-a-separate-experiment\">6. Binding evidence stays a separate experiment</h2>\n<span class=\"paragraph\">I have two structural cases, tentoxin and cornexistin's bound diacid, rather\nthan a binding classifier. I can describe their exact forms, protein partners\nand contacts; there is no measured Kd/Ki training target or binding-model F1.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ulZA",
+      "code_hash": "720b76b5cb2e2ce4bf0c3ca6150fca4f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='ulZA-0' random-id='91ed021c-b274-6c5e-1d22-ae5c5029992d'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;Parent&#92;&quot;:&#92;&quot;tentoxin&#92;&quot;,&#92;&quot;PDB&#92;&quot;:&#92;&quot;1KMH&#92;&quot;,&#92;&quot;Bound ligand&#92;&quot;:&#92;&quot;TENTOXIN&#92;&quot;,&#92;&quot;Form relationship&#92;&quot;:&#92;&quot;exact_parent&#92;&quot;,&#92;&quot;Resolution (\u00c5)&#92;&quot;:&#92;&quot;3.4&#92;&quot;,&#92;&quot;Affinity label&#92;&quot;:&#92;&quot;unavailable&#92;&quot;},{&#92;&quot;Parent&#92;&quot;:&#92;&quot;(+)-cornexistin&#92;&quot;,&#92;&quot;PDB&#92;&quot;:&#92;&quot;8CI0&#92;&quot;,&#92;&quot;Bound ligand&#92;&quot;:&#92;&quot;(1~{Z},3~{R},4~{S},7~{S},8~{Z})-8-ethylidene-4,7-bis(oxidanyl)-5-oxidanylidene-3-propyl-cyclononene-1,2-dicarboxylic acid&#92;&quot;,&#92;&quot;Form relationship&#92;&quot;:&#92;&quot;source_reported_anhydride_hydrolysis&#92;&quot;,&#92;&quot;Resolution (\u00c5)&#92;&quot;:&#92;&quot;1.902&#92;&quot;,&#92;&quot;Affinity label&#92;&quot;:&#92;&quot;unavailable&#92;&quot;}]&quot;' data-total-rows='2' data-total-columns='6' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='2' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ecfG",
+      "code_hash": "6b0f74d85e881f3a5f09d5aa438bd20a",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"my-next-experiment\">My next experiment</h3>\n<span class=\"paragraph\">I want more compatible active/low-response literature series and reviewed\nnatural-occurrence annotations on the measured toxicity cohort. I will keep\nsource, species, dose and chemical form visible, and test new-paper transfer\nbefore interpreting a feature as useful for screening. I am leaving A/B\ncombined modeling deferred. Changing the controls here explores saved results;\nit does not silently refit or overwrite any frozen experiment.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Pvdt",
+      "code_hash": "d1bb79175a35574102b60d0813c6571b",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Pvdt-0' random-id='1f40c729-40a8-42b7-3ae5-6500e9419048'><marimo-table data-initial-value='[]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eFrozen inputs verified on load&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-data='&quot;[{&#92;&quot;bundle&#92;&quot;:&#92;&quot;separate-evidence-2026-11-12-v2&#92;&quot;,&#92;&quot;file&#92;&quot;:&#92;&quot;A_compounds.csv&#92;&quot;,&#92;&quot;hash&#92;&quot;:&#92;&quot;verified&#92;&quot;},{&#92;&quot;bundle&#92;&quot;:&#92;&quot;separate-evidence-2026-11-12-v2&#92;&quot;,&#92;&quot;file&#92;&quot;:&#92;&quot;B_compounds.csv&#92;&quot;,&#92;&quot;hash&#92;&quot;:&#92;&quot;verified&#92;&quot;},{&#92;&quot;bundle&#92;&quot;:&#92;&quot;human-reviewed-progress-2026-11-11-complete&#92;&quot;,&#92;&quot;file&#92;&quot;:&#92;&quot;group_membership.csv&#92;&quot;,&#92;&quot;hash&#92;&quot;:&#92;&quot;verified&#92;&quot;},{&#92;&quot;bundle&#92;&quot;:&#92;&quot;human-review-adopted-2026-11-11-final&#92;&quot;,&#92;&quot;file&#92;&quot;:&#92;&quot;activity_models.csv&#92;&quot;,&#92;&quot;hash&#92;&quot;:&#92;&quot;verified&#92;&quot;},{&#92;&quot;bundle&#92;&quot;:&#92;&quot;human-review-adopted-2026-11-11-final&#92;&quot;,&#92;&quot;file&#92;&quot;:&#92;&quot;HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1.csv&#92;&quot;,&#92;&quot;hash&#92;&quot;:&#92;&quot;verified&#92;&quot;},{&#92;&quot;bundle&#92;&quot;:&#92;&quot;human-review-adopted-2026-11-11-final&#92;&quot;,&#92;&quot;file&#92;&quot;:&#92;&quot;HUMAN-OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1.csv&#92;&quot;,&#92;&quot;hash&#92;&quot;:&#92;&quot;verified&#92;&quot;},{&#92;&quot;bundle&#92;&quot;:&#92;&quot;human-review-adopted-2026-11-11-final&#92;&quot;,&#92;&quot;file&#92;&quot;:&#92;&quot;HUMAN-LI2006-AR-150G-POST-BOUNDS-v0.1.csv&#92;&quot;,&#92;&quot;hash&#92;&quot;:&#92;&quot;verified&#92;&quot;},{&#92;&quot;bundle&#92;&quot;:&#92;&quot;human-review-adopted-2026-11-11-final&#92;&quot;,&#92;&quot;file&#92;&quot;:&#92;&quot;HUMAN-HE2011-AR-1500G-POST-BANDS-v0.1.csv&#92;&quot;,&#92;&quot;hash&#92;&quot;:&#92;&quot;verified&#92;&quot;}]&quot;' data-total-rows='19' data-total-columns='3' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='8' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

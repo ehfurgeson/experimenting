@@ -1,0 +1,25 @@
+{
+  "search_term": "OTYVBQZXUNBRTK-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:23.334092+00:00",
+  "url": "/chemical/search/equal/OTYVBQZXUNBRTK-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID60203030",
+        "dtxcid": "DTXCID60125521",
+        "casrn": "546-49-6",
+        "preferredName": "3,3,6-Trimethylhepta-1,5-dien-4-one",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)=CC(=O)C(C)(C)C=C",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "OTYVBQZXUNBRTK-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

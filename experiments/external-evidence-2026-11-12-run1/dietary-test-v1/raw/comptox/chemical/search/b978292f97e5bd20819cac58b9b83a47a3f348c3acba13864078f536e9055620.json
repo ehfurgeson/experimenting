@@ -1,0 +1,49 @@
+{
+  "search_term": "L-Threonine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:45.878792+00:00",
+  "url": "/chemical/search/equal/L-Threonine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2046412",
+        "dtxcid": "DTXCID0026412",
+        "casrn": "72-19-5",
+        "preferredName": "L-Threonine",
+        "hasStructureImage": 1,
+        "smiles": "C[C@@H](O)[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Threonine",
+        "rank": 9,
+        "searchName": "Approved Name"
+      },
+      {
+        "dtxsid": "DTXSID70893087",
+        "dtxcid": "DTXCID901323040",
+        "casrn": "80-68-2",
+        "preferredName": "DL-Threonine",
+        "hasStructureImage": 1,
+        "smiles": "C[C@@H](O)[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Threonine",
+        "rank": 12,
+        "searchName": "Systematic Name"
+      },
+      {
+        "dtxsid": "DTXSID801037448",
+        "dtxcid": "DTXCID901521480",
+        "casrn": "NOCAS_1037448",
+        "preferredName": "(2S)-2-Amino-3-hydroxybutanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CC(O)[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Threonine",
+        "rank": 12,
+        "searchName": "Systematic Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

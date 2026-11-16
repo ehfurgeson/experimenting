@@ -1,0 +1,25 @@
+{
+  "search_term": "PIUSRRUXGNYCSS-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:45.960872+00:00",
+  "url": "/chemical/search/equal/PIUSRRUXGNYCSS-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Calycopterin",
+        "dtxsid": "DTXSID401317858",
+        "dtxcid": "DTXCID001747655",
+        "casrn": "481-52-7",
+        "hasStructureImage": 1,
+        "smiles": "COC1=C(OC)C(OC)=C2OC(=C(OC)C(=O)C2=C1O)C1=CC=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "PIUSRRUXGNYCSS-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

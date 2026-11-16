@@ -1,0 +1,25 @@
+{
+  "search_term": "AGPKZVBTJJNPAG-WHFBIAKZSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:29.715390+00:00",
+  "url": "/chemical/search/equal/AGPKZVBTJJNPAG-WHFBIAKZSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1047441",
+        "dtxcid": "DTXCID9027441",
+        "casrn": "73-32-5",
+        "preferredName": "L-Isoleucine",
+        "hasStructureImage": 1,
+        "smiles": "CC[C@H](C)[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "AGPKZVBTJJNPAG-WHFBIAKZSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 9750,
+    "RecordTitle": "Citrulline",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 139,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "L-citrulline is converted to L-arginine by argininosuccinate synthase. L-arginine is in turn responsible for citrulline's therapeutic affects. Many of L-arginine's activities, including its possible anti-atherogenic actions, may be accounted for by its role as the precursor to nitric oxide or NO. NO is produced by all tissues of the body and plays very important roles in the cardiovascular system, immune system and nervous system. NO is formed from L-arginine via the enzyme nitric oxide synthase or synthetase (NOS), and the effects of NO are mainly mediated by 3',5' -cyclic guanylate or cyclic GMP. NO activates the enzyme guanylate cyclase, which catalyzes the synthesis of cyclic GMP from guanosine triphosphate or GTP. Cyclic GMP is converted to guanylic acid via the enzyme cyclic GMP phosphodiesterase. <br/><br/>NOS is a heme-containing enzyme with some sequences similar to cytochrome P-450 reductase. Several isoforms of NOS exist, two of which are constitutive and one of which is inducible by immunological stimuli. The constitutive NOS found in the vascular endothelium is designated eNOS and that present in the brain, spinal cord and peripheral nervous system is designated nNOS. The form of NOS induced by immunological or inflammatory stimuli is known as iNOS. iNOS may be expressed constitutively in select tissues such as lung epithelium. <br/><br/>All the nitric oxide synthases use NADPH (reduced nicotinamide adenine dinucleotide phosphate) and oxygen (O<sub>2</sub>) as cosubstrates, as well as the cofactors FAD (flavin adenine dinucleotide), FMN (flavin mononucleotide), tetrahydrobiopterin and heme. Interestingly, ascorbic acid appears to enhance NOS activity by increasing intracellular tetrahydrobiopterin. eNOS and nNOS synthesize NO in response to an increased concentration of calcium ions or in some cases in response to calcium-independent stimuli, such as shear stress. <i>In vitro</i> studies of NOS indicate that the Km of the enzyme for L-arginine is in the micromolar range. The concentration of L-arginine in endothelial cells, as well as in other cells, and in plasma is in the millimolar range. What this means is that, under physiological conditions, NOS is saturated with its L-arginine substrate. In other words, L-arginine would not be expected to be rate-limiting for the enzyme, and it would not appear that supraphysiological levels of L-arginine which could occur with oral supplementation of the amino acid would make any difference with regard to NO production. The reaction would appear to have reached its maximum level. However, <i>in vivo</i> studies have demonstrated that, under certain conditions, e.g. hypercholesterolemia, L-arginine could enhance endothelial-dependent vasodilation and NO production.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-citrulline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9750"
+                            },
+                            {
+                              "Start": 29,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-arginine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            },
+                            {
+                              "Start": 43,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/argininosuccinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-828"
+                            },
+                            {
+                              "Start": 71,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-arginine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            },
+                            {
+                              "Start": 109,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/citrulline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-833"
+                            },
+                            {
+                              "Start": 151,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-arginine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            },
+                            {
+                              "Start": 278,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitric%20oxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-145068"
+                            },
+                            {
+                              "Start": 453,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-arginine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            },
+                            {
+                              "Start": 479,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitric%20oxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-145068"
+                            },
+                            {
+                              "Start": 581,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/guanylate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398631"
+                            },
+                            {
+                              "Start": 594,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cyclic%20GMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398570"
+                            },
+                            {
+                              "Start": 630,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/guanylate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398631"
+                            },
+                            {
+                              "Start": 682,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cyclic%20GMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398570"
+                            },
+                            {
+                              "Start": 698,
+                              "Length": 22,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/guanosine%20triphosphate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398632"
+                            },
+                            {
+                              "Start": 724,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GTP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398633"
+                            },
+                            {
+                              "Start": 729,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Cyclic%20GMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398570"
+                            },
+                            {
+                              "Start": 756,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/guanylic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398631"
+                            },
+                            {
+                              "Start": 785,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cyclic%20GMP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398570"
+                            },
+                            {
+                              "Start": 1381,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nitric%20oxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-145068"
+                            },
+                            {
+                              "Start": 1408,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NADPH",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5884"
+                            },
+                            {
+                              "Start": 1436,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/adenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-190"
+                            },
+                            {
+                              "Start": 1472,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 1601,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tetrahydrobiopterin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135402045"
+                            },
+                            {
+                              "Start": 1646,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ascorbic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-155903693"
+                            },
+                            {
+                              "Start": 1720,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tetrahydrobiopterin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135402045"
+                            },
+                            {
+                              "Start": 1814,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Calcium"
+                            },
+                            {
+                              "Start": 1859,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Calcium"
+                            },
+                            {
+                              "Start": 1980,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-arginine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            },
+                            {
+                              "Start": 2040,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-arginine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            },
+                            {
+                              "Start": 2225,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-arginine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            },
+                            {
+                              "Start": 2263,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-arginine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            },
+                            {
+                              "Start": 2390,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-arginine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            },
+                            {
+                              "Start": 2689,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-arginine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6322"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 139,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 139,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4295",
+        "Name": "Citrulline",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4295",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443579
+      }
+    ]
+  }
+}

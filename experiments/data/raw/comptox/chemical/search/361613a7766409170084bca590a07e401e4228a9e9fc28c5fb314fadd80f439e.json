@@ -1,0 +1,25 @@
+{
+  "search_term": "Naptalam",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:01.792795+00:00",
+  "url": "/chemical/search/equal/Naptalam",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6032437",
+        "dtxcid": "DTXCID4012437",
+        "casrn": "132-66-1",
+        "preferredName": "Naptalam",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=C(C=CC=C1)C(=O)NC1=CC=CC2=C1C=CC=C2",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Naptalam",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "FOXFZRUHNHCZPX-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:44.878318+00:00",
+  "url": "/chemical/search/equal/FOXFZRUHNHCZPX-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6024204",
+        "dtxcid": "DTXCID404204",
+        "casrn": "21087-64-9",
+        "preferredName": "Metribuzin",
+        "hasStructureImage": 1,
+        "smiles": "CSC1=NN=C(C(=O)N1N)C(C)(C)C",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "FOXFZRUHNHCZPX-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

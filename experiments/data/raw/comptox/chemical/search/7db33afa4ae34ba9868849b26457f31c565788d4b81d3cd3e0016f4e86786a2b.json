@@ -1,0 +1,25 @@
+{
+  "search_term": "Endothall",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:15.466355+00:00",
+  "url": "/chemical/search/equal/Endothall",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7024081",
+        "dtxcid": "DTXCID204081",
+        "casrn": "145-73-3",
+        "preferredName": "Endothal",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1C2CCC(O2)C1C(O)=O",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "Endothall",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

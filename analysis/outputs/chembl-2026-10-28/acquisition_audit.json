@@ -1,0 +1,287 @@
+{
+  "assays": [
+    {
+      "assay": "CHEMBL3047330",
+      "records": 9,
+      "molecules": 9,
+      "valid_structures": 9,
+      "scaffolds": 3,
+      "endpoint_units": {
+        "('Inhibition', '%')": 9
+      },
+      "relations": {
+        "=": 9
+      },
+      "values": {
+        "0.0": 2,
+        "46.5": 1,
+        "10.9": 1,
+        "65.2": 1,
+        "17.4": 2,
+        "8.7": 1,
+        "77.0": 1
+      },
+      "doi": "10.1021/jf902541w"
+    },
+    {
+      "assay": "CHEMBL3047983",
+      "records": 5,
+      "molecules": 5,
+      "valid_structures": 5,
+      "scaffolds": 3,
+      "endpoint_units": {
+        "('GI', '%')": 5
+      },
+      "relations": {
+        "=": 5
+      },
+      "values": {
+        "98.0": 1,
+        "83.3": 1,
+        "73.3": 1,
+        "26.7": 1,
+        "78.2": 1
+      },
+      "doi": "10.1021/jf072851x"
+    },
+    {
+      "assay": "CHEMBL3048455",
+      "records": 8,
+      "molecules": 8,
+      "valid_structures": 8,
+      "scaffolds": 5,
+      "endpoint_units": {
+        "('GI', '%')": 7,
+        "('GI', None)": 1
+      },
+      "relations": {
+        "=": 7,
+        "None": 1
+      },
+      "values": {
+        "90.0": 1,
+        "None": 1,
+        "100.0": 6
+      },
+      "doi": "10.1021/jf203383s"
+    },
+    {
+      "assay": "CHEMBL3049732",
+      "records": 2,
+      "molecules": 2,
+      "valid_structures": 2,
+      "scaffolds": 2,
+      "endpoint_units": {
+        "('GI', '%')": 2
+      },
+      "relations": {
+        "=": 2
+      },
+      "values": {
+        "80.0": 2
+      },
+      "doi": "10.1021/jf200616y"
+    },
+    {
+      "assay": "CHEMBL3050086",
+      "records": 4,
+      "molecules": 4,
+      "valid_structures": 4,
+      "scaffolds": 3,
+      "endpoint_units": {
+        "('Inhibition', '%')": 4
+      },
+      "relations": {
+        "=": 4
+      },
+      "values": {
+        "90.0": 1,
+        "100.0": 1,
+        "70.0": 1,
+        "75.0": 1
+      },
+      "doi": "10.1021/jf301829m"
+    },
+    {
+      "assay": "CHEMBL3050227",
+      "records": 8,
+      "molecules": 8,
+      "valid_structures": 8,
+      "scaffolds": 1,
+      "endpoint_units": {
+        "('Inhibition', '%')": 8
+      },
+      "relations": {
+        "=": 8
+      },
+      "values": {
+        "85.0": 1,
+        "60.0": 4,
+        "80.0": 1,
+        "50.0": 1,
+        "100.0": 1
+      },
+      "doi": "10.1021/jf9026298"
+    },
+    {
+      "assay": "CHEMBL3050362",
+      "records": 58,
+      "molecules": 58,
+      "valid_structures": 58,
+      "scaffolds": 2,
+      "endpoint_units": {
+        "('GI', '%')": 58
+      },
+      "relations": {
+        "=": 37,
+        "<=": 21
+      },
+      "values": {
+        "90.0": 18,
+        "75.0": 11,
+        "50.0": 29
+      },
+      "doi": "10.1021/jf104247w"
+    },
+    {
+      "assay": "CHEMBL3050580",
+      "records": 1,
+      "molecules": 1,
+      "valid_structures": 1,
+      "scaffolds": 1,
+      "endpoint_units": {
+        "('Activity', '%')": 1
+      },
+      "relations": {
+        "=": 1
+      },
+      "values": {
+        "95.0": 1
+      },
+      "doi": "10.1021/jf2039444"
+    },
+    {
+      "assay": "CHEMBL3051568",
+      "records": 3,
+      "molecules": 3,
+      "valid_structures": 3,
+      "scaffolds": 1,
+      "endpoint_units": {
+        "('GI', '%')": 3
+      },
+      "relations": {
+        "=": 3
+      },
+      "values": {
+        "91.9": 1,
+        "57.6": 1,
+        "96.0": 1
+      },
+      "doi": "10.1021/jf803632t"
+    },
+    {
+      "assay": "CHEMBL3053086",
+      "records": 4,
+      "molecules": 4,
+      "valid_structures": 4,
+      "scaffolds": 2,
+      "endpoint_units": {
+        "('Activity', None)": 2,
+        "('Activity', 'mm')": 2
+      },
+      "relations": {
+        "None": 2,
+        "=": 2
+      },
+      "values": {
+        "None": 2,
+        "2.0": 1,
+        "1.0": 1
+      },
+      "doi": "10.1021/jf052843l"
+    },
+    {
+      "assay": "CHEMBL3066645",
+      "records": 24,
+      "molecules": 24,
+      "valid_structures": 24,
+      "scaffolds": 6,
+      "endpoint_units": {
+        "('GI', '%')": 24
+      },
+      "relations": {
+        ">": 14,
+        "<": 10
+      },
+      "values": {
+        "80.0": 14,
+        "50.0": 10
+      },
+      "doi": "10.1021/jf061976j"
+    },
+    {
+      "assay": "CHEMBL3066743",
+      "records": 2,
+      "molecules": 2,
+      "valid_structures": 2,
+      "scaffolds": 2,
+      "endpoint_units": {
+        "('Inhibition', '%')": 2
+      },
+      "relations": {
+        "=": 2
+      },
+      "values": {
+        "92.3": 1,
+        "100.0": 1
+      },
+      "doi": "10.1021/jf0636519"
+    },
+    {
+      "assay": "CHEMBL3079324",
+      "records": 4,
+      "molecules": 4,
+      "valid_structures": 4,
+      "scaffolds": 1,
+      "endpoint_units": {
+        "('Activity', '%')": 4
+      },
+      "relations": {
+        "=": 4
+      },
+      "values": {
+        "80.0": 1,
+        "100.0": 3
+      },
+      "doi": "10.1271/bbb1961.55.2737"
+    },
+    {
+      "assay": "CHEMBL970505",
+      "records": 25,
+      "molecules": 25,
+      "valid_structures": 25,
+      "scaffolds": 3,
+      "endpoint_units": {
+        "('Inhibition', '%')": 25
+      },
+      "relations": {
+        "=": 25
+      },
+      "values": {
+        "13.3": 2,
+        "32.0": 1,
+        "0.0": 12,
+        "38.0": 1,
+        "100.0": 1,
+        "18.0": 1,
+        "3.9": 1,
+        "15.6": 3,
+        "22.7": 2,
+        "20.3": 1
+      },
+      "doi": "10.1016/j.bmcl.2009.04.048"
+    }
+  ],
+  "unique_molecules": 154,
+  "records": 157
+}

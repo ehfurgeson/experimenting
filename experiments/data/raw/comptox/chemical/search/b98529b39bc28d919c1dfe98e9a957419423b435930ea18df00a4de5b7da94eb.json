@@ -1,0 +1,25 @@
+{
+  "search_term": "Propionic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:57.776008+00:00",
+  "url": "/chemical/search/equal/Propionic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8025961",
+        "dtxcid": "DTXCID505961",
+        "casrn": "79-09-4",
+        "preferredName": "Propionic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCC(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Propionic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

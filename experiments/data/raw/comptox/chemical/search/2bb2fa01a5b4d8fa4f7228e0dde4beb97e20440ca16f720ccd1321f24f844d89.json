@@ -1,0 +1,25 @@
+{
+  "search_term": "KIEDNEWSYUYDSN-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:53.058720+00:00",
+  "url": "/chemical/search/equal/KIEDNEWSYUYDSN-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1032355",
+        "dtxcid": "DTXCID9012355",
+        "casrn": "81777-89-1",
+        "preferredName": "Clomazone",
+        "hasStructureImage": 1,
+        "smiles": "CC1(C)CON(CC2=C(Cl)C=CC=C2)C1=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KIEDNEWSYUYDSN-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

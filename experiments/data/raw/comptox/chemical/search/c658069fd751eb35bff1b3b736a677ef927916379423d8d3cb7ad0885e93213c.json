@@ -1,0 +1,25 @@
+{
+  "search_term": "O-Coumaric Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:45.239244+00:00",
+  "url": "/chemical/search/equal/O-Coumaric Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "3-(2-Hydroxyphenyl)-2-propenoic acid",
+        "dtxsid": "DTXSID70862233",
+        "dtxcid": "DTXCID70811029",
+        "casrn": "583-17-5",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C=CC1=C(O)C=CC=C1",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "o-Coumaric acid",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

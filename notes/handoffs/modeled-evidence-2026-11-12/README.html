@@ -1,0 +1,487 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Modeled-evidence research handoff</title><style>body{max-width:1000px;margin:40px auto;padding:0 24px;font:17px/1.6 system-ui;color:#18323f}h1,h2,h3{line-height:1.25}h2{margin-top:2em}table{width:100%;border-collapse:collapse;font-size:15px}th,td{border:1px solid #cbd8dd;padding:9px;text-align:left;vertical-align:top}th{background:#eaf2f5}pre{overflow:auto;padding:16px;background:#f1f4f6}code{font-size:.9em}a{color:#076280}</style><body><h1>Handoff: grow both evidence pathways, then consider a combined pathway</h1>
+<p>Prepared <strong>12 November 2026</strong>. This is a <strong>plan for a new agent</strong>, not a record of
+new acquisition, fitted toxicity models or a completed combined analysis.</p>
+<h2>1. The assignment in plain language</h2>
+<p>The professor wants comparisons supported by two kinds of evidence:</p>
+<ol>
+<li><strong>Experimental pathway A:</strong> toxicity or plant responses measured in real experiments.</li>
+<li><strong>External-model pathway B:</strong> estimates produced by documented outside models,
+   such as EPA TEST. These estimates need not have a measurement for the compound.</li>
+<li><strong>Possible combined pathway C, later:</strong> consider using both kinds together,
+   after A and B have been developed, evaluated and reported separately.</li>
+</ol>
+<p><strong>The immediate priority is gathering as much useful, traceable data as possible
+from as many accessible sources as possible.</strong> Expand both the number of compounds
+and the number of sources. Keep the original records, including failed queries,
+out-of-domain predictions, missing results and disagreements. A larger number of
+rows is not automatically a larger number of independent compounds or studies.</p>
+<p>Follow this order: <strong>audit → gather broadly → freeze separate datasets → model A
+and B separately → compare them → decide whether C is justified</strong>. Do not begin
+by mixing predictions into the existing measured tables. Do not start pathway C
+as a shortcut around a sparse experimental dataset.</p>
+<p>This document was requested while the broader autonomous research goal was
+paused. Creating the handoff does not resume that goal. The next agent should
+follow the user's current authorization when starting execution.</p>
+<h2>2. Orientation, checkout and operating rules</h2>
+<p>Work in <code>/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity</code> when using this
+checkout. Local <code>main</code> is at <code>e94b9b6</code> after the reviewed experimental integration;
+<code>origin/main</code> was still at <code>b771c87</code> when this handoff was written. Nothing was
+pushed. Recheck Git state rather than assuming those pointers remain current.</p>
+<p>Read these before editing:</p>
+<ul>
+<li><a href="../../AGENTS/README.md">Agent orientation</a>, including project context.</li>
+<li>Unchanged <a href="../../GOALS.md">GOALS.md</a>, <a href="../../notes.md">current overview</a>,
+  <a href="../../INCREMENTAL_COMMIT_GUIDE.md">incremental commit guide</a> and
+  <a href="../../AGENTS/DOCUMENTATION.md">documentation rules</a>.</li>
+<li><a href="../research-2026-11-11/README.md">Original handoff</a> for the experimental evidence.</li>
+<li><a href="../../../pipeline/docs/epa-chembl.md">EPA source contracts</a>, especially TEST,
+  hazard evidence and calculated properties; <a href="../../../pipeline/docs/decisions.md">decisions</a>.</li>
+<li><a href="../../../analysis/docs/experimental-expansion-2026-11-12.md">Experimental findings</a>,
+  <a href="../../../analysis/docs/rat-source-review-2026-11-12.md">rat-source review</a>,
+  <a href="../../../analysis/docs/binding-evidence.md">binding pilot</a>, and
+  <a href="../../../docs/results.md">result inventory</a>.</li>
+</ul>
+<p>Use a new local-only branch for substantive research, for example
+<code>experiment/external-modeled-evidence-2026-11-12</code>. Preserve main and prior bundles.
+Create small, reviewable commits when authorized; <strong>do not push</strong>. Nothing under
+<code>notes/</code> may be staged or committed. Do not alter GOALS.md, frozen source exports,
+accepted labels or old manifests. Use new versioned outputs. The owner permits
+creative, provisional experiments; identify them as AI experimental, not human
+scientific review or established truth.</p>
+<p>The <a href="../../../docs/data.md#local-experimental-preservation--2026-11-12">local preservation record</a>
+identifies the verified archive, historical Git bundle and one unresolved script
+hash from a superseded preliminary run. The canonical final transfer run has
+recoverable source. A clone alone lacks ignored research data. Keep raw scientific
+assets local unless separate sharing permission exists. Do not copy credentials
+into reports, logs or transfer bundles.</p>
+<h2>3. What exists now</h2>
+<h3>External predictions: collected, largely not analyzed</h3>
+<p>Read <code>experiments/data/epa_test_predictions.csv</code> or its Parquet sibling and
+<code>experiments/data/epa_test_coverage.csv</code>. The cached retrieval dates are
+<strong>21 October 2026</strong>. All 2,176 records are marked <code>predicted</code>; they represent
+136 approved EPA identities ×16 endpoints. They are not 2,176 experiments, and
+not every row contains a finite prediction.</p>
+<table>
+<thead>
+<tr>
+<th>Endpoint as stored</th>
+<th style="text-align: right;">Records</th>
+<th style="text-align: right;">Finite values</th>
+<th>Provider AD Inside / Outside</th>
+<th>Stored units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oral Rat LD50</td>
+<td style="text-align: right;">136</td>
+<td style="text-align: right;">120</td>
+<td>120 /16</td>
+<td>mol/kg</td>
+</tr>
+<tr>
+<td>48 Hour Daphnia Magna LC50</td>
+<td style="text-align: right;">136</td>
+<td style="text-align: right;">125</td>
+<td>125 /11</td>
+<td>mol/L</td>
+</tr>
+<tr>
+<td>96 Hour Fathead Minnow LC50</td>
+<td style="text-align: right;">136</td>
+<td style="text-align: right;">122</td>
+<td>122 /14</td>
+<td>mol/L</td>
+</tr>
+</tbody>
+</table>
+<p>These counts describe this cache, not current service coverage or a validated
+comparison cohort. In these three cached endpoints the finite-value and Inside
+counts happen to agree. Do not generalize that rule to other endpoints/providers.
+There are 16 endpoints overall, including toxicity and physicochemical predictions;
+not all 16 are toxicity outcomes. Binary-labeled endpoint outputs may be scores
+between zero and one; inspect documentation before thresholding.</p>
+<p>Existing code:</p>
+<ul>
+<li><code>pipeline/src/agrotox/epa_test.py</code> reads <strong>already stored</strong> TEST predictions.
+  It does not submit a novel structure to a model. Keep that distinction.</li>
+<li><code>pipeline/src/agrotox/epa_properties.py</code> separates calculated and experimental
+  properties. Inspect its outputs for additional reusable provider estimates.</li>
+<li><code>experiments/03_fetch_epa.py</code> orchestrates acquisition. It needs the existing
+  environment credential; never print or archive the credential.</li>
+<li>Raw responses are under
+  <code>experiments/data/raw/comptox/chemical/property/predicted/</code>.</li>
+<li>Current TEST rows preserve model name/ID, endpoint/value/unit, applicability
+  domain (AD), QMRF fields and retrieval time. Raw responses also preserve useful
+  fields <strong>not promoted into the current TEST table</strong>: source/model version
+  (<code>sourceName</code>, e.g. TEST5.1.3), chemical structures, provider record ID,
+  experimental comparator fields and error fields. Audit and retain these before
+  extending the table. A provider's embedded experimental value needs its original
+  source and training-set lineage checked before joining experimental pathway A.</li>
+</ul>
+<h3>Experimental pathway: more developed, still limited</h3>
+<ul>
+<li>Historical rat pilot:43 exact +25 censored observations,49 compound summaries,
+  of which34 have exact medians. Frozen tertiles:1,080/3,400mg/kg. These are
+  sample-derived bins, not regulatory hazard categories.</li>
+<li>Identity-approved ECOTOX screen:28 trout96h LC50 and13 Daphnia48h immobilization
+  EC50 observations. Exposure duration is a separate field. The extra reported-
+  context subset is0 trout/1Daphnia. Do not call all41 fully comparable experiments.</li>
+<li>Human adoption:19 natural-occurrence labels and80 activity decisions in four
+  bounded policies. Individual policies still lack five-fold activity support.</li>
+<li>A73-compound heterogeneous activity experiment fit successfully but transferred
+  poorly across publications. All three fixed models missed both high responses
+  in a new20-compound radish test. More permissive pooling did not establish a
+  general activity model. Read the checkpoint before repeating this approach.</li>
+<li>New primary rat review maps two acid-equivalent cases and distinguishes four
+  overlap pairs. No historical rat admissions or bins changed. Material-tested,
+  acid-equivalent, dietary and single-dose results remain distinct.</li>
+<li>The binding pilot has two structural complexes, no affinity predictor. Protein
+  docking scores or crystal preparation concentrations are not measured Kd/Ki.</li>
+<li>Latest unfinished acquisition: <code>experiments/aquatic-series-2026-11-12/</code> has a
+  downloaded, visually inspected Kühn1989 Daphnia paper. Its tables are <strong>not yet
+  transcribed or modeled</strong>. A benzoic-acid full-text route failed; preserve the log
+  under <code>experiments/daphnia-source-review-2026-11-12/</code>. Do not report planned data
+  as an integrated dataset.</li>
+</ul>
+<p>See <code>status_snapshot.json</code> in this folder for machine-readable cache counts and
+hashes of starting inputs. It is an inventory, not a new scientific result.</p>
+<h2>4. Definitions that must stay separate</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Meaning here</th>
+<th>What it does not establish</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Natural occurrence</td>
+<td>A molecule is documented in a biological source</td>
+<td>Plant inactivity, efficacy or safety</td>
+</tr>
+<tr>
+<td>Plant activity</td>
+<td>A response under a stated species/dose/time/endpoint</td>
+<td>Universal herbicidal activity</td>
+</tr>
+<tr>
+<td>Experimental toxicity</td>
+<td>Measured outcome with traceable study context</td>
+<td>Comparability with every same-named endpoint</td>
+</tr>
+<tr>
+<td>External estimate</td>
+<td>A named outside model's output</td>
+<td>A new experiment or certain biological truth</td>
+</tr>
+<tr>
+<td>Our surrogate model</td>
+<td>Our model fitted to external estimates</td>
+<td>Independent experimental validation</td>
+</tr>
+<tr>
+<td>Binding structure</td>
+<td>A deposited protein/ligand complex</td>
+<td>A quantitative binding affinity or field efficacy</td>
+</tr>
+</tbody>
+</table>
+<p><strong>A/B are evidence pathways, not replacements for Track1/Track2.</strong> Track1 studies
+non-target toxicity and group differences. Track2 studies natural herbicidal
+chemistry and plant activity. Either track may use A and B where scientifically
+appropriate. TEST non-target toxicity predictions do not supply plant-activity
+labels. For Track2, measured plant efficacy can be discussed alongside a separate
+external non-target-hazard analysis. If a documented, fit-for-purpose external
+plant-activity model cannot be found, record that gap; do not invent one.</p>
+<p>Define “experimental-only” explicitly. At minimum all <strong>outcome labels</strong> in A
+must come from experiments. Formula counts and structural fingerprints are derived
+from structures, not toxicity experiments. Calculated logP and external predicted
+properties must not be called measured inputs. If the professor requires both X
+and y to be experimental, make a stricter measured-property subset and report its
+coverage separately. Record feature provenance in either case.</p>
+<p>BMD/BMDL are model-derived from experimental dose-response data, not independent
+QSAR predictions. Retain them as a distinct evidence type. ToxCast/Tox21 are
+experimental bioassays with processing/model-fit steps; a model-derived hit call
+is not automatically an in-vivo toxicity measurement. CompTox and PubChem contain
+mixed evidence; classify individual records, not entire websites.</p>
+<h2>5. Gather broadly: source queue and collection strategy</h2>
+<p>Use this as a starting queue, not a closed list. The official source links below
+were checked for planning on12November2026. Recheck endpoint availability, version,
+access method, licensing and validation documentation when executing. Do not
+assume a source provides the same species/endpoint as another source.</p>
+<table>
+<thead>
+<tr>
+<th>Priority</th>
+<th>Source family</th>
+<th>What to seek</th>
+<th>Main caution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Existing EPA TEST cache; <a href="https://www.epa.gov/comptox-tools/computational-toxicology-and-exposure-apis-data-domains">CTX data domains</a></td>
+<td>Audit all136 identities, missing outputs, endpoints, raw versions and domains; expand stored predictions to more compounds</td>
+<td>Current adapter fetches stored outputs only; no new-structure inference</td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="https://www.epa.gov/comptox-tools/toxicity-estimation-software-tool-test">EPA TEST</a></td>
+<td>Documented external toxicity estimates; assess supported batch/local prediction routes for compounds without stored outputs</td>
+<td>Installation, source version, structure handling, training overlap and AD must be retained</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://ntp.niehs.nih.gov/iccvamreport/2025/technology/comp-tools-dev">NIEHS ICE/OPERA</a></td>
+<td>Predicted properties/ADME and relevant toxicity estimates; curated experimental data through the appropriate ICE products</td>
+<td>Confirm which endpoint/model each product actually supplies; mirrored predictions are not independent</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.vegahub.eu/portfolio-item/vega-qsar/">VEGA</a></td>
+<td>Relevant endpoint-specific QSAR outputs, reports and applicability-domain information</td>
+<td>Do not turn platform reputation into blanket acceptance of every estimate</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.epa.gov/comptox-tools/generalized-read-across-genra">EPA GenRA</a></td>
+<td>Documented read-across estimates where useful; retain analogues, similarity and source observations</td>
+<td>Read-across may reuse the same experimental data used elsewhere</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.oecd.org/content/dam/oecd/en/topics/policy-issue-focus/quantitative-structure-activity-relationships-project/326598-qsar-briefing-notes.pdf">OECD QSAR Toolbox</a> and well-documented published models/datasets</td>
+<td>Additional transparent estimates and read-across; original underlying experimental studies</td>
+<td>Qualify each workflow and endpoint; a database/model catalog is not itself a prediction dataset</td>
+</tr>
+<tr>
+<td>parallel</td>
+<td>ECOTOX, EPA hazard/ToxVal records, PubChem BioAssay, accessible primary papers, curated governmental datasets</td>
+<td>More measured toxicities and full plant-response series, including low responses</td>
+<td>Trace original experiments, dose basis and identities; mirrored citations do not add independent studies</td>
+</tr>
+<tr>
+<td>expansion</td>
+<td>Reviewed project compounds, dietary list, COCONUT/LOTUS and other documented structure/occurrence inventories</td>
+<td>Broader chemical coverage; natural-origin leads with source/version metadata</td>
+<td>Inventory membership is a lead, not verified plant inactivity or universal natural-origin truth</td>
+</tr>
+</tbody>
+</table>
+<p>Use multiple legitimate acquisition routes where available: existing local cache,
+official API, official bulk files, permitted software/batch inference, repository
+supplements and original papers. Avoid repeated single-compound calls when a
+versioned bulk product is suitable. Do not bypass access controls or contact
+people on the owner's behalf without explicit authorization. Log access gaps and
+continue independent source work. Protect credentials and respect service limits.</p>
+<p>Collection should proceed in auditable batches:</p>
+<ol>
+<li>Start with the original176 resolved selection compounds and all currently
+   reviewed literature/occurrence identities. Deduplicate exact structures while
+   retaining aliases and memberships.</li>
+<li>Extend to the200-compound dietary inventory and additional documented natural
+   products/herbicides. Recheck full-key identity, stereochemistry, tested salt/
+   acid/ester and mixtures. The Li2253255/2253236/2253237 identity holds persist.</li>
+<li>Expand further through source-first chemical inventories. Do not stop at the
+   original selection if sources support broader coverage. Keep a source-cohort
+   field so later comparisons can assess selection bias.</li>
+<li>For each source/batch, report attempted, resolved, ambiguous, successful,
+   no-stored-output, failed and out-of-domain counts. Report unique structures,
+   measured studies, model families, species and endpoint coverage separately.</li>
+<li>Freeze versioned A and B releases after each major collection pass. Maintain a
+   backlog for remaining sources so modeling does not wait for an impossible claim
+   that every possible source in the world has been exhausted.</li>
+</ol>
+<p>No hard numerical collection cap is set. Judge useful expansion by coverage,
+independence, chemical diversity and endpoint compatibility, as well as row count.</p>
+<h2>6. Planned data contracts and quality checks</h2>
+<p>Proposed working root: <code>experiments/external-evidence-NEXT_DATE-run/</code>. Names below
+are <strong>planned artifacts</strong>, not implemented commands or existing files.</p>
+<ul>
+<li><code>sources.csv</code>: provider, product/model/version, official URL, access/rights,
+  retrieval time, raw file/hash, method, endpoint scope, documentation, training-
+  data availability and relationship to other sources.</li>
+<li><code>chemical_identity.csv</code>: stable compound/substance IDs, exact SMILES/full key,
+  parent/form relationship, molecular weight and its chemical basis, source IDs,
+  mapping method, review status, aliases and unresolved reasons.</li>
+<li><code>experimental_observations</code>: study/result IDs, actual tested form, species,
+  strain/sex/stage, route, exposure and observation time separately, endpoint/
+  effect, raw estimate/qualifier/units, bounds/CI and their meaning, concentration
+  basis, purity/formulation, controls, measurement method and primary locator.</li>
+<li><code>external_predictions</code>: provider record ID, model/family/version/method, exact
+  queried structure and preprocessing, endpoint/species/route/duration, original
+  value/units/transform, normalized value with conversion provenance, AD fields,
+  uncertainty kind/value, analogues/training membership, retrieval/input/output
+  hashes, failure state and review status. Keep sourceName from raw TEST payloads.</li>
+<li><code>lineage_links</code>: original study/model IDs, mirrors, shared training datasets,
+  consensus members, duplicates and uncertainty about relationships.</li>
+<li><code>normalization_audit</code>, <code>coverage</code>, <code>excluded_records</code>, <code>collection_log</code> and a
+  release <code>manifest.json</code> with code/locks/inputs/outputs/versions.</li>
+</ul>
+<p>Keep A/B physical outputs and target columns separate. Never fill a missing
+measurement with a prediction in A. Missing, outside domain, not calculable,
+unavailable and zero are different. Unknown origin/activity stays unknown.
+Provider embedded experimental comparators need their own measured-source audit.
+Preserve rejected records and reasons; a parser accepting a row is not approval.</p>
+<h3>Units and endpoint matching</h3>
+<p>Check whether a prediction is linear, logarithmic, negative-log molar or another
+scale before conversion. The current cached TEST toxicity units are mol/kg and
+mol/L, with small positive linear-looking values; retain raw metadata and verify
+semantics from the provider. Never infer a transform from a plausible range alone.
+For confirmed <strong>linear</strong> values and the correct queried chemical form:</p>
+<ul>
+<li>mg/kg = mol/kg × molecular weight(g/mol) ×1,000.</li>
+<li>mg/L = mol/L × molecular weight(g/mol) ×1,000.</li>
+<li>If supplied as pX = −log10(mol/unit), first recover mol/unit =10^(−pX).</li>
+</ul>
+<p>Do not apply the parent acid's molecular weight to a salt or formulated mixture.
+Do not treat mg/kg feed or mg/kg-day as an acute mg/kg body-weight dose. Do not
+silently mix acid-equivalent and material-tested doses. Retain inequality/range
+bounds and uncertainty separately; confidence intervals are not censoring bounds.</p>
+<p>Rat oral LD50 is a practical first matching target. Fish TEST predictions name
+<strong>fathead minnow</strong>, whereas the reviewed aquatic policy names <strong>rainbow trout</strong>.
+They are not matched-species validation pairs. The cached Daphnia prediction is
+labeled <strong>LC50</strong>, while the measured core is immobilization <strong>EC50</strong>. Check the
+model training endpoint definition and effect, not just the species and48h label.
+Start with matched subsets; show broader harmonization only as an explicit
+sensitivity with its remaining differences.</p>
+<h2>7. Model each pathway separately</h2>
+<p>Write the protocol before new scores: target, chemical group meaning, endpoint
+policy, exclusions, threshold/bin rules, feature set, splits, profiles, baselines,
+metrics, uncertainty and selection rules. Freeze the inputs and keep test results
+out of threshold or feature selection.</p>
+<h3>A: learn from experimental outcomes</h3>
+<p>Use measured outcomes only. Begin with descriptive distributions and study-level
+strata, then regression on a documented log-dose scale and/or classification when
+support permits. State that <strong>lower LD50 means greater acute hazard</strong>. Call the
+existing bins low/medium/high <strong>LD50</strong>, not low/medium/high safety. Their cutoffs
+are historical cohort tertiles; do not call them regulatory categories.</p>
+<p>Use fixed common cutoffs for direct A/B bin comparison; if estimating new cutoffs,
+fit them on training data only and report a separate analysis. Do not turn lower
+bounds into exact values. Use censored methods or bound-compatible sensitivity
+analyses when appropriate. A sparse policy may validly return unsupported status.</p>
+<h3>B: analyze external estimates and, where useful, learn a surrogate</h3>
+<p>First compare external predictions directly across chemical groups and model
+families. Preserve AD Inside/Outside/unknown strata. Choose a documented primary
+model/version before seeing favorable results; retain others as separate
+sensitivity estimates. Several related models predicting one compound are not
+several independent compounds or votes.</p>
+<p>If fitting our own model to B outcomes, say explicitly: <strong>the target is a model
+estimate</strong>. Its F1 or MAE measures reproduction of the teacher model, not agreement
+with real animals or plants. Keep that surrogate separate from A models. Do not
+use the same model's toxicity output or an algebraic equivalent as both feature
+and target. Predicted physicochemical features need provenance and a separate
+feature-block sensitivity; check for shared teacher/training-data leakage.</p>
+<h3>Shared evaluation requirements</h3>
+<ul>
+<li>Stable compound grouping across duplicate records, stereo/form-related
+  structures where justified, and held-out scaffold/publication/provider checks.
+  Keep all records for a chemical in one outer partition. No random row split
+  across repeated doses, studies or predictions of the same chemical.</li>
+<li>Preprocessing and hyperparameter selection use training data only. Inspect
+  actual train/test class and scaffold support. Do not relax validation to claim
+  a strong model; separately named easier sensitivity tests may be informative.</li>
+<li>Fixed simple baselines first: majority classification; training-mean/median or
+  simple descriptor regression. Logistic regression and random forest are useful
+  comparisons, not presumed winners.</li>
+<li>Classification: F1 (positive class defined), macro-F1 for three bins, precision,
+  recall, balanced accuracy, AUROC where defined, confusion counts and majority
+  baseline. Explain class imbalance and calibration where support permits.</li>
+<li>Regression: MAE/RMSE on the stated transformed scale, rank correlation,
+  residual/bias plots and prediction-interval coverage where available. Convert
+  back carefully; a log-unit error is a multiplicative dose error.</li>
+<li>Explain standardized logistic feature weights without causal claims. Forest
+  OOB permutation importance includes uncertainty/stability, but repeat SD is
+  <strong>not a p-value</strong> and OOB does not hold scaffolds out. If formal significance is
+  claimed, define a justified null/permutation scheme and account for grouping
+  and multiple testing. Otherwise call it importance/stability, not significance.</li>
+<li>Report sample counts, independent groups, excluded/unsupported cases, AD,
+  model version, source bias and uncertainty alongside scores. Never turn unknown
+  plant activity or source membership into tested-inactive labels.</li>
+</ul>
+<h2>8. Compare A and B before considering C</h2>
+<p>Freeze paired, compatible compound/endpoint records with both evidence types.
+Analyze coverage gained, dose/rank disagreement, error by group, AD and chemical
+similarity, and sensitivity to experimental quality and duplicate resolution.
+Do not treat B's larger coverage as evidence that its values are experimentally
+correct. Disagreement can reveal identity, unit, context or model-domain problems.</p>
+<p>Audit <strong>external-model training overlap</strong>: a measured record used to build TEST
+or another teacher is not an independent test of that teacher. Use a truly
+held-out experimental subset if identifiable. If training membership cannot be
+established, mark independence unknown and describe the comparison as agreement,
+not independent validation. Provider confidence/AD Inside is not proof of accuracy.</p>
+<p>A model trained on B and evaluated against A must retain these same independence
+cautions. Do not claim safety or field efficacy from a toxicity surrogate. For
+Track2, keep literature efficacy evidence alongside non-target hazard, without
+multiplying them into an unsupported universal score.</p>
+<h2>9. Only later: decide whether to try combined pathway C</h2>
+<p>This is a future decision, not authorization within this planning deliverable to
+run C now. First complete and document A and B collection releases, model fits
+or explicit unsupported statuses, and paired comparisons. Write a decision note
+on what combination could add, the compatible endpoint, shared data lineage,
+uncertainty and leakage risks. If no defensible design exists, defer C explicitly.</p>
+<p>Possible designs to assess (do not implement all by default):</p>
+<ol>
+<li>Use external predictions as an additional feature to predict measured outcomes,
+   comparing against A-only on the <strong>same untouched experimental test set</strong>.</li>
+<li>Pretrain on model estimates, then update on measured training data; keep
+   experiments as the evaluation target and track teacher training overlap.</li>
+<li>Use source-aware weighted or hierarchical models that retain evidence-type
+   indicators and uncertainty, rather than pretending all rows are measurements.</li>
+</ol>
+<p>Never simply concatenate duplicate measured/predicted labels as independent rows.
+Measured and predicted values must remain distinguishable and recoverable.
+Weights are documented assumptions, not scientific truth. Show A-only, B-only and
+C on common evaluation cohorts where meaningful. Test sensitivity to AD, source
+weights and coverage/chemical-class shifts. Fit any learned blend/calibration
+inside training folds only. C earns support through measured held-out performance
+and uncertainty, not just a higher training score or more completed rows.</p>
+<h2>10. Proposed deliverables and completion checks</h2>
+<p>A useful first release contains:</p>
+<ul>
+<li>A broad source-search/collection log, including attempted inaccessible sources,
+  resource/version/rights notes and a next-source backlog.</li>
+<li>Separate raw and normalized A/B releases, identity/lineage tables and coverage
+  by compound, chemical group, endpoint/species and model family/AD.</li>
+<li>An audit of the existing TEST136-compound cache, including raw version fields,
+  unit semantics, missing/outside-domain results and duplicate/mirror handling.</li>
+<li>Expansion beyond the original selection where sources allow; report the actual
+  increase in unique structures and independent source coverage.</li>
+<li>Independently documented A and B analysis/modeling reports with actual split
+  membership, metrics/baselines, coefficients/OOB diagnostics and limitations.</li>
+<li>A paired A/B comparison with experimental-context and teacher-training overlap
+  audits; no overstated external validation.</li>
+<li>A written <strong>go/defer/design decision for C</strong>, after the separate work above.</li>
+<li>A simple learning/presentation summary with “completed”, “provisional” and
+  “planned” labels; versioned manifests, required tests and reproducible commands.</li>
+</ul>
+<p>A blocked source or unsupported model is a recorded result, not permission to
+invent data or hide the gap. Continue other collection sources while specific
+access/identity issues remain open. The goal is more usable evidence and more
+honest comparisons, not a quota of favorable predictions.</p>
+<h2>11. Immediate first tasks for the next agent</h2>
+<ol>
+<li>Recheck checkout, instructions, data availability and this snapshot's hashes.</li>
+<li>Inventory the existing raw TEST/other predicted-property records without
+   modifying them. Inspect versions, model reports, endpoint semantics and AD.</li>
+<li>Write the A/B schema and normalization/acquisition protocol; identify which
+   current adapters can be reused and what is actually missing.</li>
+<li>Begin source collection in staged batches, first TEST coverage expansion and
+   documented additional sources, in parallel with measured-source recovery as
+   useful. Keep separate data products from the start.</li>
+<li>After a major collection pass, freeze A/B releases and proceed with the
+   separate modeling/evaluation steps above. Decide about C only afterward.</li>
+</ol>
+<p>Use locked environments from repository root:</p>
+<pre><code class="language-bash">UV_CACHE_DIR=analysis/.uv-cache uv run --project pipeline --locked --offline pytest pipeline/tests -q
+UV_CACHE_DIR=analysis/.uv-cache uv run --project analysis --locked --offline pytest analysis/tests -q
+UV_CACHE_DIR=analysis/.uv-cache uv run --project analysis --locked --offline ruff check analysis pipeline
+</code></pre>
+<p>These are existing verification commands, not new acquisition/modeling commands.
+Network acquisition needs its own permitted access and immutable raw cache;
+normal tests stay offline. Do not run the broad acquisition script merely to
+inspect the existing cache. Latest merge validation was300 analysis tests and
+1,076 pipeline tests; these are historical software checks, not biological proof.</p></body></html>

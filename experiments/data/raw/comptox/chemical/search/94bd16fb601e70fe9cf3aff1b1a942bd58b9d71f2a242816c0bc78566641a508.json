@@ -1,0 +1,37 @@
+{
+  "search_term": "Germacrene B",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:42.994690+00:00",
+  "url": "/chemical/search/equal/Germacrene B",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Germacrene B",
+        "dtxsid": "DTXSID701037033",
+        "dtxcid": "DTXCID501838706",
+        "casrn": "15423-57-1",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)=C1CC\\C(C)=C\\CC\\C(C)=C\\C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Germacrene B",
+        "rank": 9
+      },
+      {
+        "preferredName": "(1E,4Z)-Germacrene B",
+        "dtxsid": "DTXSID401358993",
+        "dtxcid": "DTXCID201838707",
+        "casrn": "NOCAS_1358993",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)=C1CC\\C(C)=C\\CC\\C(C)=C/C1",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "GERMACRENE-B",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

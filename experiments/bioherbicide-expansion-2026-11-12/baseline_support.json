@@ -1,0 +1,62 @@
+[
+  {
+    "policy": "K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1",
+    "representation": "formula",
+    "n": 5,
+    "inactive": 0,
+    "active": 5,
+    "inactive_scaffolds": 0,
+    "active_scaffolds": 3,
+    "inactive_compound_deficit": 5,
+    "active_compound_deficit": 0,
+    "inactive_scaffold_deficit": 5,
+    "active_scaffold_deficit": 2,
+    "status": "insufficient_class_support",
+    "folds": 0
+  },
+  {
+    "policy": "OKAMOTO-1991-UPLAND-10G-AI-PER-A-v0.1",
+    "representation": "formula",
+    "n": 4,
+    "inactive": 0,
+    "active": 4,
+    "inactive_scaffolds": 0,
+    "active_scaffolds": 1,
+    "inactive_compound_deficit": 5,
+    "active_compound_deficit": 1,
+    "inactive_scaffold_deficit": 5,
+    "active_scaffold_deficit": 4,
+    "status": "insufficient_class_support",
+    "folds": 0
+  },
+  {
+    "policy": "LI2006-AR-150G-POST-BOUNDS-v0.1",
+    "representation": "formula",
+    "n": 21,
+    "inactive": 10,
+    "active": 11,
+    "inactive_scaffolds": 2,
+    "active_scaffolds": 3,
+    "inactive_compound_deficit": 0,
+    "active_compound_deficit": 0,
+    "inactive_scaffold_deficit": 3,
+    "active_scaffold_deficit": 2,
+    "status": "insufficient_scaffold_support",
+    "folds": 0
+  },
+  {
+    "policy": "HE2011-AR-1500G-POST-BANDS-v0.1",
+    "representation": "formula",
+    "n": 50,
+    "inactive": 21,
+    "active": 29,
+    "inactive_scaffolds": 2,
+    "active_scaffolds": 2,
+    "inactive_compound_deficit": 0,
+    "active_compound_deficit": 0,
+    "inactive_scaffold_deficit": 3,
+    "active_scaffold_deficit": 3,
+    "status": "insufficient_scaffold_support",
+    "folds": 0
+  }
+]

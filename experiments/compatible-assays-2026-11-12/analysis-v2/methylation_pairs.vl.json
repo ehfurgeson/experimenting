@@ -1,0 +1,240 @@
+{
+  "config": {
+    "view": {
+      "continuousWidth": 300,
+      "continuousHeight": 300
+    }
+  },
+  "data": {
+    "values": [
+      {
+        "parent": "7-hydroxyflavone",
+        "species": "Raphanus",
+        "form": "Parent",
+        "inhibition": -11.538461538461542
+      },
+      {
+        "parent": "7-hydroxyflavone",
+        "species": "Raphanus",
+        "form": "O-methylated",
+        "inhibition": 44.230769230769226
+      },
+      {
+        "parent": "7-hydroxyflavone",
+        "species": "Lepidium",
+        "form": "Parent",
+        "inhibition": -2.77777777777779
+      },
+      {
+        "parent": "7-hydroxyflavone",
+        "species": "Lepidium",
+        "form": "O-methylated",
+        "inhibition": 33.333333333333336
+      },
+      {
+        "parent": "chrysin",
+        "species": "Raphanus",
+        "form": "Parent",
+        "inhibition": 48.07692307692307
+      },
+      {
+        "parent": "chrysin",
+        "species": "Raphanus",
+        "form": "O-methylated",
+        "inhibition": 92.3076923076923
+      },
+      {
+        "parent": "chrysin",
+        "species": "Lepidium",
+        "form": "Parent",
+        "inhibition": -33.33333333333333
+      },
+      {
+        "parent": "chrysin",
+        "species": "Lepidium",
+        "form": "O-methylated",
+        "inhibition": 94.44444444444444
+      },
+      {
+        "parent": "luteolin",
+        "species": "Raphanus",
+        "form": "Parent",
+        "inhibition": 19.23076923076923
+      },
+      {
+        "parent": "luteolin",
+        "species": "Raphanus",
+        "form": "O-methylated",
+        "inhibition": 25.0
+      },
+      {
+        "parent": "luteolin",
+        "species": "Lepidium",
+        "form": "Parent",
+        "inhibition": -27.777777777777768
+      },
+      {
+        "parent": "luteolin",
+        "species": "Lepidium",
+        "form": "O-methylated",
+        "inhibition": 16.666666666666675
+      },
+      {
+        "parent": "3-hydroxyflavone",
+        "species": "Raphanus",
+        "form": "Parent",
+        "inhibition": 11.538461538461553
+      },
+      {
+        "parent": "3-hydroxyflavone",
+        "species": "Raphanus",
+        "form": "O-methylated",
+        "inhibition": 7.692307692307699
+      },
+      {
+        "parent": "3-hydroxyflavone",
+        "species": "Lepidium",
+        "form": "Parent",
+        "inhibition": 16.666666666666675
+      },
+      {
+        "parent": "3-hydroxyflavone",
+        "species": "Lepidium",
+        "form": "O-methylated",
+        "inhibition": 22.222222222222232
+      },
+      {
+        "parent": "7-hydroxyflavanone",
+        "species": "Raphanus",
+        "form": "Parent",
+        "inhibition": 1.9230769230769384
+      },
+      {
+        "parent": "7-hydroxyflavanone",
+        "species": "Raphanus",
+        "form": "O-methylated",
+        "inhibition": 3.8461538461538547
+      },
+      {
+        "parent": "7-hydroxyflavanone",
+        "species": "Lepidium",
+        "form": "Parent",
+        "inhibition": -11.111111111111116
+      },
+      {
+        "parent": "7-hydroxyflavanone",
+        "species": "Lepidium",
+        "form": "O-methylated",
+        "inhibition": 44.44444444444444
+      },
+      {
+        "parent": "pinocembrin",
+        "species": "Raphanus",
+        "form": "Parent",
+        "inhibition": 1.9230769230769384
+      },
+      {
+        "parent": "pinocembrin",
+        "species": "Raphanus",
+        "form": "O-methylated",
+        "inhibition": 80.76923076923077
+      },
+      {
+        "parent": "pinocembrin",
+        "species": "Lepidium",
+        "form": "Parent",
+        "inhibition": -36.111111111111114
+      },
+      {
+        "parent": "pinocembrin",
+        "species": "Lepidium",
+        "form": "O-methylated",
+        "inhibition": 69.44444444444444
+      }
+    ]
+  },
+  "facet": {
+    "column": {
+      "field": "species",
+      "title": null,
+      "type": "nominal"
+    }
+  },
+  "spec": {
+    "mark": {
+      "type": "point",
+      "filled": true,
+      "size": 70
+    },
+    "encoding": {
+      "color": {
+        "field": "form",
+        "scale": {
+          "domain": [
+            "Parent",
+            "O-methylated"
+          ],
+          "range": [
+            "#176b87",
+            "#c75b12"
+          ]
+        },
+        "title": "Form",
+        "type": "nominal"
+      },
+      "tooltip": [
+        {
+          "field": "parent",
+          "type": "nominal"
+        },
+        {
+          "field": "species",
+          "type": "nominal"
+        },
+        {
+          "field": "form",
+          "type": "nominal"
+        },
+        {
+          "field": "inhibition",
+          "format": ".1f",
+          "type": "quantitative"
+        }
+      ],
+      "x": {
+        "field": "inhibition",
+        "scale": {
+          "domain": [
+            -40,
+            100
+          ]
+        },
+        "title": "Mean radicle inhibition relative to control (%)",
+        "type": "quantitative"
+      },
+      "y": {
+        "field": "parent",
+        "sort": [
+          "7-hydroxyflavone",
+          "chrysin",
+          "luteolin",
+          "3-hydroxyflavone",
+          "7-hydroxyflavanone",
+          "pinocembrin"
+        ],
+        "title": null,
+        "type": "nominal"
+      }
+    },
+    "height": 220,
+    "width": 330
+  },
+  "title": {
+    "text": "O-methylation pairs at 100 \u00b5M, 120 h",
+    "subtitle": [
+      "Same-paper means; 3 dishes \u00d7 10 seeds per condition; no derived uncertainty.",
+      "Negative inhibition denotes stimulation. Provisional identities; no efficacy or safety prediction."
+    ]
+  },
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.4.1.json"
+}

@@ -1,0 +1,50 @@
+compound_id,query,group,exact_records,censored_records,median_mg_kg,min_mg_kg,max_mg_kg,discordant_exact_values,ld50_bin,historical_group,reviewed_compound_id,activity_policy,natural_origin
+PUBCHEM:1032,Propionic acid,unreviewed_natural_product_selection,0,1,,,,False,,unreviewed_natural_product_selection,,,unknown
+PUBCHEM:10800,DNOC,selected_herbicide_comparator,1,0,25.0,25.0,25.0,False,low,selected_herbicide,,,unknown
+PUBCHEM:11571392,saflufenacil,selected_herbicide_comparator,0,1,,,,False,,selected_herbicide,,,unknown
+PUBCHEM:1183,Vanillin,unreviewed_natural_product_selection,2,0,3565.0,3300.0,3830.0,True,high,unreviewed_natural_product_selection,,,unknown
+PUBCHEM:126,p-Hydroxybenzaldehyde,unreviewed_natural_product_selection,1,0,3980.0,3980.0,3980.0,False,high,unreviewed_natural_product_selection,,,unknown
+PUBCHEM:1486,"2,4-D",selected_herbicide_comparator,1,0,375.0,375.0,375.0,False,low,selected_herbicide,,,unknown
+PUBCHEM:15531,Bromoxynil,selected_herbicide_comparator,1,0,190.0,190.0,190.0,False,low,selected_herbicide,,,unknown
+PUBCHEM:15939,Paraquat,selected_herbicide_comparator,1,0,150.0,150.0,150.0,False,low,selected_herbicide,,,unknown
+PUBCHEM:1639,Amitrole,selected_herbicide_comparator,1,1,5000.0,5000.0,5000.0,False,high,selected_herbicide,,,unknown
+PUBCHEM:18752,Asulam,selected_herbicide_comparator,1,0,4000.0,4000.0,4000.0,False,high,selected_herbicide,,,unknown
+PUBCHEM:1988,acetochlor,selected_herbicide_comparator,1,0,2950.0,2950.0,2950.0,False,medium,selected_herbicide,,,unknown
+PUBCHEM:2256,Atrazine,selected_herbicide_comparator,2,0,2090.0,1960.0,2220.0,True,medium,selected_herbicide,,,unknown
+PUBCHEM:2328,bentazon,selected_herbicide_comparator,1,0,1100.0,1100.0,1100.0,False,medium,selected_herbicide,,,unknown
+PUBCHEM:243,Benzoic acid,natural_activity_unknown,3,0,2565.0,2360.0,2742.0,True,medium,unreviewed_natural_product_selection,PUBCHEM:243,,natural
+PUBCHEM:24685,Propham,selected_herbicide_comparator,1,0,5000.0,5000.0,5000.0,False,high,selected_herbicide,,,unknown
+PUBCHEM:264,Butyric acid,unreviewed_natural_product_selection,2,0,5865.0,2940.0,8790.0,True,high,unreviewed_natural_product_selection,,,unknown
+PUBCHEM:2728,chlorpropham,selected_herbicide_comparator,0,1,,,,False,,selected_herbicide,,,unknown
+PUBCHEM:27375,Chlorotoluron,selected_herbicide_comparator,0,1,,,,False,,selected_herbicide,,,unknown
+PUBCHEM:3030,dicamba,selected_herbicide_comparator,1,0,1707.0,1707.0,1707.0,False,medium,selected_herbicide,,,unknown
+PUBCHEM:3031,dichlobenil,selected_herbicide_comparator,3,2,4460.0,3160.0,4460.0,True,high,selected_herbicide,,,unknown
+PUBCHEM:30479,metribuzin,selected_herbicide_comparator,1,0,322.0,322.0,322.0,False,low,selected_herbicide,,,unknown
+PUBCHEM:3120,Diuron,selected_herbicide_comparator,1,0,3400.0,3400.0,3400.0,False,medium,selected_herbicide,,,unknown
+PUBCHEM:31677,Butachlor,selected_herbicide_comparator,1,0,3300.0,3300.0,3300.0,False,medium,selected_herbicide,,,unknown
+PUBCHEM:323,Coumarin,natural_active_K1998,3,1,520.0,293.0,680.0,True,low,unreviewed_natural_product_selection,PUBCHEM:323,HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1,natural
+PUBCHEM:33775,Norflurazon,selected_herbicide_comparator,1,0,1080.0,1080.0,1080.0,False,low,selected_herbicide,,,unknown
+PUBCHEM:338,Salicylic acid,natural_activity_unknown,1,0,891.0,891.0,891.0,False,low,unreviewed_natural_product_selection,PUBCHEM:338,,natural
+PUBCHEM:3496,Glyphosate,selected_herbicide_comparator,1,0,4230.0,4230.0,4230.0,False,high,selected_herbicide,,,unknown
+PUBCHEM:38479,pendimethalin,selected_herbicide_comparator,1,0,1050.0,1050.0,1050.0,False,low,selected_herbicide,,,unknown
+PUBCHEM:39327,Oxyfluorfen,selected_herbicide_comparator,0,1,,,,False,,selected_herbicide,,,unknown
+PUBCHEM:39425,Difenzoquat,selected_herbicide_comparator,1,0,470.0,470.0,470.0,False,low,selected_herbicide,,,unknown
+PUBCHEM:43079,fluridone,selected_herbicide_comparator,0,1,,,,False,,selected_herbicide,,,unknown
+PUBCHEM:44146693,Indaziflam,selected_herbicide_comparator,1,1,2500.0,2500.0,2500.0,False,medium,selected_herbicide,,,unknown
+PUBCHEM:442428,Naringin,unreviewed_natural_product_selection,0,1,,,,False,,unreviewed_natural_product_selection,,,unknown
+PUBCHEM:444539,Cinnamic acid,natural_active_K1998,0,1,,,,False,,unreviewed_natural_product_selection,PUBCHEM:444539,HUMAN-K1998-TWO-SPECIES-VERY-ACTIVE-1MM-v1,natural
+PUBCHEM:4650,Benzoquinone,unreviewed_natural_product_selection,1,0,130.0,130.0,130.0,False,low,unreviewed_natural_product_selection,,,unknown
+PUBCHEM:47491,Chlorsulfuron,selected_herbicide_comparator,1,0,5545.0,5545.0,5545.0,False,high,selected_herbicide,,,unknown
+PUBCHEM:50465,fluroxypyr,selected_herbicide_comparator,0,1,,,,False,,selected_herbicide,,,unknown
+PUBCHEM:51556,Fomesafen,selected_herbicide_comparator,1,0,1250.0,1250.0,1250.0,False,medium,selected_herbicide,,,unknown
+PUBCHEM:5216,simazine,selected_herbicide_comparator,0,2,,,,False,,selected_herbicide,,,unknown
+PUBCHEM:54778,Clomazone,selected_herbicide_comparator,1,0,1369.0,1369.0,1369.0,False,medium,selected_herbicide,,,unknown
+PUBCHEM:5569,Trifluralin,selected_herbicide_comparator,0,1,,,,False,,selected_herbicide,,,unknown
+PUBCHEM:6780,Anthraquinone,unreviewed_natural_product_selection,0,3,,,,False,,unreviewed_natural_product_selection,,,unknown
+PUBCHEM:6795,diquat,selected_herbicide_comparator,1,0,231.0,231.0,231.0,False,low,selected_herbicide,,,unknown
+PUBCHEM:8468,Vanillic acid,unreviewed_natural_product_selection,0,1,,,,False,,unreviewed_natural_product_selection,,,unknown
+PUBCHEM:8594,naptalam,selected_herbicide_comparator,1,0,8200.0,8200.0,8200.0,False,high,selected_herbicide,,,unknown
+PUBCHEM:91735,Diflufenican,selected_herbicide_comparator,0,1,,,,False,,selected_herbicide,,,unknown
+PUBCHEM:92389,Aclonifen,selected_herbicide_comparator,0,1,,,,False,,selected_herbicide,,,unknown
+PUBCHEM:9502,linuron,selected_herbicide_comparator,1,0,4000.0,4000.0,4000.0,False,high,selected_herbicide,,,unknown
+PUBCHEM:999,Phenylacetic acid,unreviewed_natural_product_selection,1,2,2250.0,2250.0,2250.0,False,medium,unreviewed_natural_product_selection,,,unknown

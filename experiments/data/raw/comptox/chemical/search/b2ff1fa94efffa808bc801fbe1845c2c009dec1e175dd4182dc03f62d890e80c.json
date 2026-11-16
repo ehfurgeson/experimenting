@@ -1,0 +1,25 @@
+{
+  "search_term": "IWEDIXLBFLAXBO-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:41.706527+00:00",
+  "url": "/chemical/search/equal/IWEDIXLBFLAXBO-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID4024018",
+        "dtxcid": "DTXCID904018",
+        "casrn": "1918-00-9",
+        "preferredName": "Dicamba",
+        "hasStructureImage": 1,
+        "smiles": "COC1=C(Cl)C=CC(Cl)=C1C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "IWEDIXLBFLAXBO-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

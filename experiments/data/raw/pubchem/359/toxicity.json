@@ -1,0 +1,258 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 359,
+    "RecordTitle": "Phloroglucinol",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Cosmetic Ingredient Review Conclusion",
+                    "Reference": [
+                      "Journal of the American College of Toxicology 14(6):468-475, 1995"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Journal of the American College of Toxicology 14(6):468-475, 1995",
+                        "Matched": {
+                          "PCLID": 906421568,
+                          "Citation": "Journal of the American College of Toxicology 14(6):468-475, 1995"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "On the basis of the available data, the CIR Panel cannot conclude that Phloroglucinol is safe for use in cosmetic products until the appropriate safety data have been obtained and evaluated.",
+                          "Markup": [
+                            {
+                              "Start": 71,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Phloroglucinol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-359"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Cosmetic Ingredient Review Finding(s)",
+                    "Reference": [
+                      "Journal of the American College of Toxicology 14(6):468-475, 1995"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Journal of the American College of Toxicology 14(6):468-475, 1995",
+                        "Matched": {
+                          "PCLID": 906421568,
+                          "Citation": "Journal of the American College of Toxicology 14(6):468-475, 1995"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Ingredients for which the data are insufficient and their use in cosmetics is not supported"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Drug Induced Liver Injury",
+                "Description": "This compound's potential to cause drug-induced liver injury.  This information is from the FDA's Drug-Induced Liver Injury Rank (DILIrank) dataset.  DILIrank groups more than 1,000 FDA-approved drugs into 4 categories (most-, less-, no-, and ambiguous-DILI-concerns).  DILIrank assigns a severity grade, ranging from 0 (no-DILI-concern) to 8 (fatal hepatotoxicity).",
+                "URL": "https://www.fda.gov/science-research/liver-toxicity-knowledge-base-ltkb/drug-induced-liver-injury-rank-dilirank-dataset",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 30,
+                    "Name": "Dataset",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Drug-Induced Liver Injury Severity and Toxicity (DILIst)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 30,
+                    "Name": "Compound",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Phloroglucinol"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 30,
+                    "Name": "DILIst Classification",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DILI Positive"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 30,
+                    "Name": "Routes of Administration",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": ""
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 30,
+                    "Name": "References",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DOI:10.1016/j.drudis.2019.09.022",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 32,
+                              "URL": "https://doi.org/10.1016/j.drudis.2019.09.022"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134970685"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 25,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 25,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 25,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134970685",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000108736",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19462851
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "Cosmetic Ingredient Review (CIR)",
+        "SourceID": "30f8f578-5719-40b5-a416-249f514510ba",
+        "Name": "Phloroglucinol",
+        "Description": "The Cosmetic Ingredient Review (CIR) studies individual chemical compounds as they are used in cosmetic products. CIR relies heavily on the International Nomenclature of Cosmetic Ingredients (INCI) when identifying the ingredients to be assessed. The Expert Panel for Cosmetic Ingredient Safety (Panel) assess the safety of ingredients for use in cosmetics. The function of an ingredient in cosmetics is noted. The Panel reviews the data relevant to the safety of an ingredient and concludes whether an ingredient is safe in cosmetics in the present practices of use and concentration described in a safety assessment.",
+        "URL": "https://cir-reports.cir-safety.org/cir-ingredient-status-report/?id=30f8f578-5719-40b5-a416-249f514510ba",
+        "LicenseURL": "https://cir-safety.org/terms-use",
+        "ANID": 39000551
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID9048354",
+        "Name": "1,3,5-Trihydroxybenzene",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57036334
+      },
+      {
+        "ReferenceNumber": 30,
+        "SourceName": "FDA Liver Toxicity Knowledge Base (LTKB)",
+        "SourceID": "3707197227",
+        "Name": "Phloroglucinol",
+        "Description": "The drugs listed in the drug-induced liver injury severity and toxicity (DILIst) dataset are divided into two classes according to their potential for causing drug-induced liver injury (DILI).",
+        "URL": "https://www.fda.gov/science-research/liver-toxicity-knowledge-base-ltkb/drug-induced-liver-injury-severity-and-toxicity-dilist-dataset",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 55257809
+      }
+    ]
+  }
+}

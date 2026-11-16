@@ -1,0 +1,25 @@
+{
+  "search_term": "WHUUTDBJXJRKMK-VKHMYHEASA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:21.928042+00:00",
+  "url": "/chemical/search/equal/WHUUTDBJXJRKMK-VKHMYHEASA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5020659",
+        "dtxcid": "DTXCID30659",
+        "casrn": "56-86-0",
+        "preferredName": "L-Glutamic acid",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CCC(O)=O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "WHUUTDBJXJRKMK-VKHMYHEASA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

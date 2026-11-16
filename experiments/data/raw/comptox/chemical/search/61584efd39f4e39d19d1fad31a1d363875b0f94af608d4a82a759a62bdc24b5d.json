@@ -1,0 +1,25 @@
+{
+  "search_term": "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:13.720306+00:00",
+  "url": "/chemical/search/equal/HFPZCAJZSCWRBC-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3026645",
+        "dtxcid": "DTXCID006645",
+        "casrn": "99-87-6",
+        "preferredName": "p-Cymene",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)C1=CC=C(C)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "HFPZCAJZSCWRBC-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

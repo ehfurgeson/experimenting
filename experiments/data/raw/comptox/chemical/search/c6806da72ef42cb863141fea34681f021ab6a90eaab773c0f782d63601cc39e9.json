@@ -1,0 +1,25 @@
+{
+  "search_term": "Acetochlor",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:58.215236+00:00",
+  "url": "/chemical/search/equal/Acetochlor",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8023848",
+        "dtxcid": "DTXCID303848",
+        "casrn": "34256-82-1",
+        "preferredName": "Acetochlor",
+        "hasStructureImage": 1,
+        "smiles": "CCOCN(C(=O)CCl)C1=C(CC)C=CC=C1C",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Acetochlor",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

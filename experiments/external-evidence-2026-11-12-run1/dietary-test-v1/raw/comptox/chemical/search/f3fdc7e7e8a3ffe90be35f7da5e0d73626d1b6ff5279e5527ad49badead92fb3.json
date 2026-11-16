@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Asparagine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:16.408490+00:00",
+  "url": "/chemical/search/equal/L-Asparagine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID10883220",
+        "dtxcid": "DTXCID901022769",
+        "casrn": "70-47-3",
+        "preferredName": "L-Asparagine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC(N)=O)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Asparagine",
+        "rank": 9,
+        "searchName": "Approved Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Glutamine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:24.351071+00:00",
+  "url": "/chemical/search/equal/L-Glutamine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1023100",
+        "dtxcid": "DTXCID503100",
+        "casrn": "56-85-9",
+        "preferredName": "L-Glutamine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CCC(N)=O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "L-Glutamine",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

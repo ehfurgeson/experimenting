@@ -1,0 +1,113 @@
+{
+  "aeid": 739,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:38:11.849801+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/739",
+  "status": 200,
+  "response": {
+    "aeid": 739,
+    "assayList": [
+      {
+        "name": "ToxCast AR Pathway Model",
+        "description": "Androgen receptor assays used in ToxCast AR Pathway model. See 10.1016/j.yrtph.2020.104764 and 10.1021/acs.chemrestox.6b00347"
+      }
+    ],
+    "assayName": "OT_AR_ARELUC_AG_1440",
+    "assayComponentName": "OT_AR_ARELUC_AG_1440",
+    "assayComponentEndpointName": "OT_AR_ARELUC_AG_1440",
+    "assayComponentEndpointDesc": "Data from the assay component OT_AR_ARELUC_AG_1440 was analyzed into 1 assay endpoint. \nThis assay endpoint, OT_AR_ARELUC_AG_1440, was analyzed in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. \nUsing a type of inducible reporter, measures of receptor for gain-of-signal activity can be used to understand the reporter gene at the pathway-level as they relate to the gene AR. \nFurthermore, this assay endpoint can be referred to as a primary readout, because the performed assay has only produced 1 assay endpoint. \nTo generalize the intended target to other relatable targets, this assay endpoint is annotated to the nuclear receptor intended target family, where the subfamily is steroidal.",
+    "assayFunctionType": "reporter gene",
+    "normalizedDataType": "percent_activity",
+    "burstAssay": 0,
+    "keyPositiveControl": "6-alpha-Fluorotestosterone",
+    "signalDirection": "gain",
+    "intendedTargetType": "pathway",
+    "intendedTargetTypeSub": "pathway-specified",
+    "intendedTargetFamily": "nuclear receptor",
+    "intendedTargetFamilySub": "steroidal",
+    "cellViabilityAssay": 0,
+    "acid": 476,
+    "assayComponentDesc": "OT_AR_ARELUC_AG_1440 is one of one assay component(s) measured or calculated from the OT_AR_ARELUC_AG_1440 assay. It is designed to make measurements of luciferase induction, a form of inducible reporter, as detected with bioluminescence signals by Luciferase technology.",
+    "assayComponentTargetDesc": "Changes to bioluminescence signals produced from an enzymatic reaction involving the key substrate [D-luciferin] are indicative of changes in transcriptional gene expression due to agonist activity regulated by the human androgen receptor [GeneSymbol:AR | GeneID:367 | Uniprot_SwissProt_Accession:P10275].",
+    "parameterReadoutType": "single",
+    "assayDesignType": "inducible reporter",
+    "assayDesignTypeSub": "luciferase induction",
+    "biologicalProcessTarget": "regulation of gene expression",
+    "detectionTechnologyType": "luminescence",
+    "detectionTechnologyTypeSub": "bioluminescence",
+    "detectionTechnology": "Luciferase",
+    "keyAssayReagentType": "substrate",
+    "keyAssayReagent": "D-luciferin",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "receptor",
+    "aid": 290,
+    "assayDesc": "OT_AR_ARELUC_AG_1440 is a cell-based, single-readout assay that uses CHO-K1, a chinese hamster ovary cell line, with measurements taken at 24 hours after chemical dosing in a 384-well plate.",
+    "timepointHr": 24.0,
+    "organismId": 10029,
+    "organism": "chinese hamster",
+    "tissue": "ovary",
+    "cellFormat": "cell line",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "CHO-K1",
+    "cellGrowthMode": "adherent",
+    "assayFootprint": "microplate: 384-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "cell-based format",
+    "contentReadoutType": "single",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 0.5,
+    "asid": 6,
+    "assaySourceName": "OT",
+    "assaySourceLongName": "Odyssey Thera",
+    "assaySourceDesc": "Odyssey Thera is a drug discovery company focusing on high-throughput screening with a particular focus on developing novel protein:protein interaction assays using protein-fragment complementation technology. ",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "androgen receptor",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 367,
+        "officialSymbol": "AR",
+        "officialFullName": "androgen receptor",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "NA",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/16680159",
+        "pmid": 16680159,
+        "title": "Identifying off-target effects and hidden phenotypes of drugs in human cells",
+        "author": "MacDonald ML, Lamerdin J, Owens S, Keon BH, Bilter GK, Shang Z, Huang Z, Yu H, Dias J, Minami T, Michnick SW, Westwick JK",
+        "citation": "MacDonald ML, Lamerdin J, Owens S, Keon BH, Bilter GK, Shang Z, Huang Z, Yu H, Dias J, Minami T, Michnick SW, Westwick JK. Identifying off-target effects and hidden phenotypes of drugs in human cells. Nat Chem Biol. 2006 Jun;2(6):329-37. Epub 2006 May 7. PubMed PMID: 16680159.",
+        "otherId": "NA",
+        "citationId": 230,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "NA",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/15090227",
+        "pmid": 15090227,
+        "title": "Measuring drug action in the cellular context using protein-fragment complementation assays",
+        "author": "Yu H, West M, Keon BH, Bilter GK, Owens S, Lamerdin J, Westwick JK",
+        "citation": "Yu H, West M, Keon BH, Bilter GK, Owens S, Lamerdin J, Westwick JK. Measuring drug action in the cellular context using protein-fragment complementation assays. Assay Drug Dev Technol. 2003 Dec;1(6):811-22. PubMed PMID: 15090227.",
+        "otherId": "NA",
+        "citationId": 232,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "10.1021/acs.chemrestox.6b00347",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27933809/",
+        "pmid": 27933809,
+        "title": "Development and Validation of a Computational Model for Androgen Receptor Activity",
+        "author": "Kleinstreuer NC, Ceger P, Watt ED, Martin M, Houck K, Browne P, Thomas RS, Casey WM, Dix DJ, Allen D, Sakamuru S, Xia M, Huang R, Judson R",
+        "citation": "Kleinstreuer NC, Ceger P, Watt ED, Martin M, Houck K, Browne P, Thomas RS, Casey WM, Dix DJ, Allen D, Sakamuru S, Xia M, Huang R, Judson R. Development and Validation of a Computational Model for Androgen Receptor Activity. Chem Res Toxicol. 2017 Apr 17;30(4):946-964. doi: 10.1021/acs.chemrestox.6b00347. Epub 2016 Dec 9. PMID: 27933809; PMCID: PMC5396026.",
+        "otherId": "NA",
+        "citationId": 266,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

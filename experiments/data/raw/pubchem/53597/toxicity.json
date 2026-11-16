@@ -1,0 +1,2934 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 53597,
+    "RecordTitle": "Glufosinate-Ammonium",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "T10: Casarett LJ, Klaassen CD, and Watkins JB (2003). Casarett and Doull's essentials of toxicology. New York: McGraw-Hill/Medical Pub. Div.",
+                        "Matched": {
+                          "PCLID": 900177872,
+                          "Citation": "T10: Casarett LJ, Klaassen CD, and Watkins JB (2003). Casarett and Doull's essentials of toxicology. New York: McGraw-Hill/Medical Pub. Div."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Glufosinate irreversibly inhibits the enzyme glutamine synthetase, which decreases ammonia detoxification. Increased ammonia levels lead to impairment of photorespiration and photosynthesis in plants. (T10)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 45,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5961"
+                            },
+                            {
+                              "Start": 83,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ammonia",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-222"
+                            },
+                            {
+                              "Start": 117,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ammonia",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-222"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=247",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Glufosinate-ammonium"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Critical Effect Systems",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Urinary"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Reference Dose (RfD), chronic",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4 x 10 ^-4 mg/kg-day"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "USGS Health-Based Screening Levels for Evaluating Water-Quality",
+                "Description": "This section provides the USGS Health-Based Screening Levels for Evaluating Water-Quality data.",
+                "URL": "https://water.usgs.gov/water-resources/hbsl/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Name": "Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Glufosinate ammonium"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Name": "Chemical Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pesticide"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Name": "Chronic Noncancer HHBP (Human Health Benchmarks for Pesticides)[μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "40"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Name": "Reference",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Smith, C.D. and Nowell, L.H., 2024. Health-Based Screening Levels for evaluating water-quality data (3rd ed.). DOI:10.5066/F71C1TWP",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Not Likely to be Carcinogenic to Humans"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Health Effects",
+                "Description": "Principal effect(s) of exposure to each substance, listed by OSHA Health Code, Health Effects from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "T10: Casarett LJ, Klaassen CD, and Watkins JB (2003). Casarett and Doull's essentials of toxicology. New York: McGraw-Hill/Medical Pub. Div.",
+                        "Matched": {
+                          "PCLID": 900177872,
+                          "Citation": "T10: Casarett LJ, Klaassen CD, and Watkins JB (2003). Casarett and Doull's essentials of toxicology. New York: McGraw-Hill/Medical Pub. Div."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Seizures; muscle weakness (post-status epileptic myopathy); convulsions; and even death. (T10)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "T10: Casarett LJ, Klaassen CD, and Watkins JB (2003). Casarett and Doull's essentials of toxicology. New York: McGraw-Hill/Medical Pub. Div.",
+                        "Matched": {
+                          "PCLID": 900177872,
+                          "Citation": "T10: Casarett LJ, Klaassen CD, and Watkins JB (2003). Casarett and Doull's essentials of toxicology. New York: McGraw-Hill/Medical Pub. Div."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Nausea, vomiting, and diarrhea that is followed in 24h by impaired respiration. (T10)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Urinary"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 19,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Neurotoxin - Other CNS neurotoxin"
+                        },
+                        {
+                          "String": "Reproductive Toxin - A chemical that is toxic to the reproductive system, including defects in the progeny and injury to male or female reproductive function. Reproductive toxicity includes developmental effects. See Guidelines for Reproductive Toxicity Risk Assessment."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135012288"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 26,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.063"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 26,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 26,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.006"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 26,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document?D=EPA-HQ-OPP-2018-0207-0006",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Glufosinate-ammonium"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.063"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1800"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Females 13-49 yrs"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.006"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "40"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) = 1,260 mg/m3"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Farm Chemicals Handbook 2002. Meister Publishing Co., 2002., p. C 214"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Farm Chemicals Handbook 2002. Meister Publishing Co., 2002., p. C 214",
+                            "Matched": {
+                              "PCLID": 900093241,
+                              "Citation": "Farm Chemicals Handbook 2002. Meister Publishing Co., 2002., p. C 214"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat (male) oral 2000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Farm Chemicals Handbook 2002. Meister Publishing Co., 2002., p. C 214"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Farm Chemicals Handbook 2002. Meister Publishing Co., 2002., p. C 214",
+                            "Matched": {
+                              "PCLID": 900093241,
+                              "Citation": "Farm Chemicals Handbook 2002. Meister Publishing Co., 2002., p. C 214"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat (female) oral 1620 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542",
+                            "Matched": {
+                              "PCLID": 900107703,
+                              "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse (male) oral 431 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542",
+                            "Matched": {
+                              "PCLID": 900107703,
+                              "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse (female) oral 416 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "For more Non-Human Toxicity Values (Complete) data for GLUFOSINATE-AMMONIUM (11 total), please visit the HSDB record page.",
+                              "Markup": [
+                                {
+                                  "Start": 105,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6666#section=Non-Human-Toxicity-Values-(Complete)"
+                                },
+                                {
+                                  "Start": 55,
+                                  "Length": 20,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GLUFOSINATE-AMMONIUM",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-53597"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Concentration",
+                    "Description": "Effect concentration values describe the concentration of a chemical associated with observed biological or toxicological effects in test subjects. These concentration-based endpoints include Lowest Observed Effect Concentration (LOEC), No Observed Effect Concentration (NOEC), Lowest Observed Adverse Effect Concentration (LOAEC), and No Observed Adverse Effect Concentration (NOAEC), which represent concentrations associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139",
+                        "Matched": {
+                          "PCLID": 900120265,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Basic treatment: Establish a patent airway. Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with normal saline during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 ml/kg up to 200 ml of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poison A and B/",
+                          "Markup": [
+                            {
+                              "Start": 157,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 409,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 452,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/normal%20saline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5234"
+                            },
+                            {
+                              "Start": 575,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139",
+                        "Matched": {
+                          "PCLID": 900120265,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 139"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in respiratory arrest. Positive pressure ventilation techniques with a bag valve mask device may be beneficial. Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start an IV with D5W /SRP: \"To keep open\", minimal flow rate/. Use lactated Ringer's if signs of hypovolemia are present. Watch for signs of fluid overload. Consider drug therapy for pulmonary edema ... . For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam (Valium) ... . Use proparacaine hydrochloride to assist eye irrigation ... . /Poison A and B/",
+                          "Markup": [
+                            {
+                              "Start": 669,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 679,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 697,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:8523494",
+                      "Tanaka J et al; J Toxicol Clin Toxicol 33 (6): 691-4 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:8523494",
+                        "Matched": {
+                          "PCLID": 10406873,
+                          "Citation": "Tanaka J, Yamashita M, Yamamoto T. A Comparative Study of Direct Hemoperfusion and Hemodialysis for the Removal of Glufosinate Ammonium. Journal of Toxicology: Clinical Toxicology. 1995 Jan;33(6):691–4. doi: 10.3109/15563659509010630.",
+                          "PMID": 8523494,
+                          "DOI": "10.3109/15563659509010630"
+                        }
+                      },
+                      {
+                        "Citation": "Tanaka J et al; J Toxicol Clin Toxicol 33 (6): 691-4 (1995)",
+                        "Matched": {
+                          "PCLID": 10406873,
+                          "Citation": "Tanaka J, Yamashita M, Yamamoto T. A Comparative Study of Direct Hemoperfusion and Hemodialysis for the Removal of Glufosinate Ammonium. Journal of Toxicology: Clinical Toxicology. 1995 Jan;33(6):691–4. doi: 10.3109/15563659509010630.",
+                          "PMID": 8523494,
+                          "DOI": "10.3109/15563659509010630"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "BASTA is a herbicide containing glufosinate-ammonium 18.5% and a surface-active agent. There    were 6 fatalities in 34 cases of glufosinate-ammonium poisoning reported by the Japan Poison    Information Center. To evaluate efficacy in the removal of glufosinate ammonium from the    blood, 2 bottles were prepared containing 600 mL of heparinized bovine blood with 1 mL or 3    mL of BASTA. Direct hemoperfusion or hemodialysis was performed for 2 hours at a flow rate  of   50 mL/min. The final glufosinate ammonium concn of the blood bottle containing 1 mL of BASTA   decreased to 96.9% of the initial concn after direct hemoperfusion and to 0.5% after   hemodialysis. The final glufosinate ammonium concn of the bottle containing 3 mL of BASTA   decreased to 62.2% after direct hemoperfusion and to 0.9% after hemodialysis.  Hemodialysis is   more effective than direct hemoperfusion for removal of glufosinate ammonium  from blood.",
+                          "Markup": [
+                            {
+                              "Start": 32,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 129,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 251,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate%20ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 497,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate%20ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 682,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate%20ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 903,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate%20ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:10778913",
+                      "Takahashi H et al; J Toxicol Clin Toxicol 38 (2): 153-6 (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:10778913",
+                        "Matched": {
+                          "PCLID": 19266195,
+                          "Citation": "Takahashi H, Toya T, Matsumiya N, Koyama K. A Case of Transient Diabetes Insipidus Associated with Poisoning by a Herbicide Containing Glufosinate. Journal of Toxicology: Clinical Toxicology. 2000 Jan;38(2):153–6. doi: 10.1081/clt-100100931.",
+                          "PMID": 10778913,
+                          "DOI": "10.1081/clt-100100931"
+                        }
+                      },
+                      {
+                        "Citation": "Takahashi H et al; J Toxicol Clin Toxicol 38 (2): 153-6 (2000)",
+                        "Matched": {
+                          "PCLID": 19266195,
+                          "Citation": "Takahashi H, Toya T, Matsumiya N, Koyama K. A Case of Transient Diabetes Insipidus Associated with Poisoning by a Herbicide Containing Glufosinate. Journal of Toxicology: Clinical Toxicology. 2000 Jan;38(2):153–6. doi: 10.1081/clt-100100931.",
+                          "PMID": 10778913,
+                          "DOI": "10.1081/clt-100100931"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/HUMAN EXPOSURE STUDIES/ ... In acute oral BASTA poisoning, patients develop a variety of  clinical signs, including disturbed consciousness, convulsions, & apnea. These effects are   suspected to be due to the effects of glufosinate on the CNS. ... A 60-yr-old man ingested 500  mL of BASTA herbicide ... He developed not only unconsciousness, respiratory distress, &   convulsions but also an incr in urine output (7885 mL/d), elevated serum sodium (167 mEq/L),   elevated plasma osmolality (332 mOsm/kg), & a decr in both urine osmolality (200 mOsm/kg) &   urine specific gravity (1.003), which suggested the development of diabetes insipidus. The   plasma level of antidiuretic hormone remained within the normal range (1.3 pg/mL), despite   high plasma osmolality. The admin of desmopressin was successful in normalizing urine volume,  specific gravity, & osmolality. Serum sodium corrected gradually within 48 hrs. /BASTA/",
+                          "Markup": [
+                            {
+                              "Start": 222,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 444,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            },
+                            {
+                              "Start": 783,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/desmopressin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5311065"
+                            },
+                            {
+                              "Start": 879,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:10372751",
+                      "Hirose Y et al; Hum Exp Toxicol 18 (5): 305-8 (1999)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:10372751",
+                        "Matched": {
+                          "PCLID": 4277758,
+                          "Citation": "Hirose Y, Kobayashi M, Koyama K, Kohda Y, Tanaka T, Honda H, Hori Y, Yoshida K, Kikuchi M. A toxicokinetic analysis in a patient with acute glufosinate poisoning. Hum Exp Toxicol. 1999 May;18(5):305–8. doi: 10.1191/096032799678840110. PMID: 10372751.",
+                          "PMID": 10372751,
+                          "DOI": "10.1191/096032799678840110"
+                        }
+                      },
+                      {
+                        "Citation": "Hirose Y et al; Hum Exp Toxicol 18 (5): 305-8 (1999)",
+                        "Matched": {
+                          "PCLID": 4277758,
+                          "Citation": "Hirose Y, Kobayashi M, Koyama K, Kohda Y, Tanaka T, Honda H, Hori Y, Yoshida K, Kikuchi M. A toxicokinetic analysis in a patient with acute glufosinate poisoning. Hum Exp Toxicol. 1999 May;18(5):305–8. doi: 10.1191/096032799678840110. PMID: 10372751.",
+                          "PMID": 10372751,
+                          "DOI": "10.1191/096032799678840110"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/CASE REPORTS/ ...A 65-yr-old male ingested BASTA, which contains 20% w/v of glufosinate ammonium, about 300 ml, more than the estimated human toxic dose. Four and a half hours after ingestion, he showed speech ataxia and systemic tremor. He was prophylactically intubated before the occurrence of serious respiratory failure. After 5 days of artificial ventilation he was extubated and discharged without any sequelae. We studied the serial change of serum glufosinate concn every 3-6 hr and assessed the urinary excretion of glufosinate every 24 hr. The absorbed amount of glufosinate was estimated from the cumulative  excreted in urine. ... The changes in serum glufosinate concn exhibited T1/2alpha of  1.84 and T1/2beta of 9.59 hr. The apparent distribution volume at beta-phase and the total  body clearance were 1.44 l/kg and 86.6 ml/min, respectively. Renal clearance was estimated to be 77.9 ml/min... /BASTA/",
+                          "Markup": [
+                            {
+                              "Start": 77,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate%20ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 458,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 527,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 575,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 666,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:9682408",
+                      "Tanaka J et al; Vet Hum Toxicol 40 (4): 219-22 (1998)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9682408",
+                        "Matched": {
+                          "PCLID": 2220761,
+                          "Citation": "Tanaka J, Yamashita M, Yamashita M, Matsuo H, Yamamoto T. Two cases of glufosinate poisoning with late onset convulsions. Vet Hum Toxicol. 1998 Aug;40(4):219–22. PMID: 9682408.",
+                          "PMID": 9682408
+                        }
+                      },
+                      {
+                        "Citation": "Tanaka J et al; Vet Hum Toxicol 40 (4): 219-22 (1998)",
+                        "Matched": {
+                          "PCLID": 2220761,
+                          "Citation": "Tanaka J, Yamashita M, Yamashita M, Matsuo H, Yamamoto T. Two cases of glufosinate poisoning with late onset convulsions. Vet Hum Toxicol. 1998 Aug;40(4):219–22. PMID: 9682408.",
+                          "PMID": 9682408
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/CASE REPORTS/ ...A 69-yr-old female was admitted to the emergency department after taking 500 ml of BASTA. On arrival she was conscious, and gut decontamination, hemodialysis and hemoperfusion were performed. However, 8-1/2 hrs after ingestion, general convulsions occurred. Her serum CK increased to a peak of 24,900 IU/L on the third day of admission. An 87-yr-old male was admitted to the emergency department 3-1/2 hrs after taking 200 ml of BASTA and receiving gastric lavage at a local emergency room. On arrival he was conscious, and serial activated charcoal and hemodialysis was performed. Blood concn of glufosinate ammonium after hemodialysis decreased from 1.56 ug/ml to 0.68 ug/ml. Thirty hours after admission he had general convulsions. Glufosinate ammonium was not detected in the cerebrospinal fluid 6 hr after the convulsions. His serum CK increased to a peak of 17,870 IU/L on the 5th day of admission. /BASTA/",
+                          "Markup": [
+                            {
+                              "Start": 559,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 615,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate%20ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 753,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glufosinate%20ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:9491336",
+                      "Watanabe T, Sano T; Hum Exp Toxicol 17 (1): 35-9 (1998)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9491336",
+                        "Matched": {
+                          "PCLID": 16521713,
+                          "Citation": "Watanabe T, Sano T. Neurological effects of glufosinate poisoning with a brief review. Hum Exp Toxicol. 1998 Jan;17(1):35–9. doi: 10.1177/096032719801700106. PMID: 9491336.",
+                          "PMID": 9491336,
+                          "DOI": "10.1177/096032719801700106"
+                        }
+                      },
+                      {
+                        "Citation": "Watanabe T, Sano T; Hum Exp Toxicol 17 (1): 35-9 (1998)",
+                        "Matched": {
+                          "PCLID": 16521713,
+                          "Citation": "Watanabe T, Sano T. Neurological effects of glufosinate poisoning with a brief review. Hum Exp Toxicol. 1998 Jan;17(1):35–9. doi: 10.1177/096032719801700106. PMID: 9491336.",
+                          "PMID": 9491336,
+                          "DOI": "10.1177/096032719801700106"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/CASE REPORTS/ ... A case of a 64-yr-old man who ingested glufosinate ... /was   reported/.  The patient suffered mental disturbances and hematological changes together with   GI effects  shortly after ingesting the poison, and later developed generalized  convulsions,  impaired  respiration and circulatory failure. During recovery he exhibited loss  of short-term  memory  (retrograde and anterograde amnesia). Neurotoxicity is a characteristic  of glufosinate   poisoning, although the mechanism is not clear. From the analysis of clinical  symptoms of   previously published cases, glufosinate toxicity appears to arise both from the  active   ingredient and the surfactant in the formulation. /PHOSPHINOTHRICIN/",
+                          "Markup": [
+                            {
+                              "Start": 58,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 452,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 587,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 700,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PHOSPHINOTHRICIN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91619"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Human Toxicity Excerpts (Complete) data for GLUFOSINATE-AMMONIUM (6 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 102,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6666#section=Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 53,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GLUFOSINATE-AMMONIUM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Yoshiyama Y et al; Vet Hum Toxicol 37(1): p.22-3 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Yoshiyama Y et al; Vet Hum Toxicol 37(1): p.22-3 (1995)",
+                        "Matched": {
+                          "PCLID": 5643299,
+                          "Citation": "Yoshiyama Y, Kobayashi T, Kondo R, Tomonaga F, Ohwada T. Chronotoxicity of glufosinate ammonium in mice. Vet Hum Toxicol. 1995 Feb;37(1):22–3. PMID: 7709584.",
+                          "PMID": 7709584
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ The effect of a circadian-stage dependent dosing  schedule on  the toxicity of glufosinate was studied in mice. Male ICR mice were housed in a  standardized  12:12 light:dark cycle for 3 w. Each animal was given 1500 or 3000 mg  glufosinate/kg po. A  highly significant circadian rhythm occurred in the resulting mortality,  with the highest  mortality from doses given during the light phase and the lowest from doses  administered  during the dark phase. The circadian-stage dependent dosing schedule had a  marked influence on  the pattern of acute glufosinate toxicity in mice.",
+                          "Markup": [
+                            {
+                              "Start": 116,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 266,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 589,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Matsumura N et al, Neurosci Lett 304(1-2): p.123-5 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Matsumura N et al, Neurosci Lett 304(1-2): p.123-5 (2001)",
+                        "Matched": {
+                          "PCLID": 900044285,
+                          "Citation": "Matsumura N et al, Neurosci Lett 304(1-2): p.123-5 (2001)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Glufosinate-ammonium ... causes convulsion in  rodents and humans.   Because of the structural similarities between glufosinate & glutamate,  the convulsion induced   by glufosinate-ammonium may be ascribed to glutamate receptor  activation. Three   N-methyl-D-asparate (NMDA) receptor antagonists, dizocilpine, LY235959,  and Compound 40, & an   alpha-amino-3-hydroxy-5-methylisoxazole-4-propionic acid  (AMPA)/kainate receptor antagonist,   NBQX, were coadmin with glufosinate-ammonium (80 mg/kg,  intraperitoneally) in mice.   Statistical analyses showed that the NMDA receptor antagonists  markedly inhibited the   convulsions, while the AMPA/kainate receptor antagonist had no effect  on the convulsion. These   results suggest that the convulsion caused by glufosinate-ammonium  is mediated through NMDA   receptors.",
+                          "Markup": [
+                            {
+                              "Start": 37,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 153,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 167,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-14598502"
+                            },
+                            {
+                              "Start": 207,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 247,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-14598502"
+                            },
+                            {
+                              "Start": 308,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NMDA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-22880"
+                            },
+                            {
+                              "Start": 336,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dizocilpine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-180081"
+                            },
+                            {
+                              "Start": 349,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/LY235959",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-131938"
+                            },
+                            {
+                              "Start": 443,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/AMPA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1221"
+                            },
+                            {
+                              "Start": 449,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kainate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-73755076"
+                            },
+                            {
+                              "Start": 480,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NBQX",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3272524"
+                            },
+                            {
+                              "Start": 504,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 604,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NMDA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-22880"
+                            },
+                            {
+                              "Start": 679,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/AMPA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1221"
+                            },
+                            {
+                              "Start": 684,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kainate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-73755076"
+                            },
+                            {
+                              "Start": 800,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 842,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NMDA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-22880"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:2379893",
+                      "Ebert E et al; Food Chem Toxicol 28 (5): 339-49 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:2379893",
+                        "Matched": {
+                          "PCLID": 26537337,
+                          "Citation": "Ebert E, Leist KH, Mayer D. Summary of safety evaluation toxicity studies of glufosinate ammonium. Food Chem Toxicol. 1990 May;28(5):339–49. doi: 10.1016/0278-6915(90)90108-y. PMID: 2379893.",
+                          "PMID": 2379893,
+                          "DOI": "10.1016/0278-6915(90)90108-y"
+                        }
+                      },
+                      {
+                        "Citation": "Ebert E et al; Food Chem Toxicol 28 (5): 339-49 (1990)",
+                        "Matched": {
+                          "PCLID": 26537337,
+                          "Citation": "Ebert E, Leist KH, Mayer D. Summary of safety evaluation toxicity studies of glufosinate ammonium. Food Chem Toxicol. 1990 May;28(5):339–49. doi: 10.1016/0278-6915(90)90108-y. PMID: 2379893.",
+                          "PMID": 2379893,
+                          "DOI": "10.1016/0278-6915(90)90108-y"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ ...Glufosinate-ammonium and its  formulation /(200 g/l)/ are  slightly  toxic following oral exposure. In addition, the  formulation induced glufosinate- ammonium and its formulation are slightly toxic following  oral exposure. In addition, the  formulation induced slight dermal toxicity and eye  irritation. Testing for teratogenicity in  rats and rabbits indicated no teratogenic  potential, and numerous mutagenicity tests showed  glufosinate-ammonium to be non-genotoxic.  Chronic toxicity testing in rats and dogs yielded   no-observable-effect levels of 2 and 5  mg/kg body weight/day, respectively. Oncogenicity   studies in rats and mice revealed no  carcinogenic potential. ...",
+                          "Markup": [
+                            {
+                              "Start": 61,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 199,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 212,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-223"
+                            },
+                            {
+                              "Start": 493,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Watanabe T, Iwase T; Teratog Carcinog Mutagen 16(6): p.287-99 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Watanabe T, Iwase T; Teratog Carcinog Mutagen 16(6): p.287-99 (1996)",
+                        "Matched": {
+                          "PCLID": 23270112,
+                          "Citation": "Watanabe T, Iwase T. Developmental and dysmorphogenic effects of glufosinate ammonium on mouse embryos in culture. Teratog Carcinog Mutagen. 1996;16(6):287–99. doi: 10.1002/(sici)1520-6866(1996)16:6<287::aid-tcm1>3.0.co;2-e. PMID: 9178451.",
+                          "PMID": 9178451,
+                          "DOI": "10.1002/(sici)1520-6866(1996)16:6<287::aid-tcm1>3.0.co;2-e"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ The effects of glufosinate ammonium on embryonic  development in mice were examined using whole embryo & micromass cultures of midbrain & limb  bud cells. In day 8 embryos cultured for 48 hr, glufosinate caused significant overall  embryonic growth retardation & increased embryolethality to 37.5% at 10 ug/ml (5.0*10(-5) M).  All embryos in the treated groups exhibited specific morphological defects including  hypoplasia of the prosencephalon (forebrain) ... & visceral arches ... In day 10 embryos  cultured for 24 hr, glufosinate significantly reduced the crown-rump length & the number of  somite pairs, & produced a high incidence of morphological defects ... at 10 ug/ml. These  embryos were characterized by blister in the lateral head ... hypoplasia of prosencephalon ...  & cleft lips ... at 20 ug/ml (10.0 x 10(-5) M). Histological exam of the treated embryos  showed numerous cell death ... present throughout the neuroepithelium in the brain vesicle &  neural tube, but did not involve the underlying mesenchyme. In micromass culture, glufosinate  inhibited the differentiation of midbrain cells in day 12 embryos with 50% inhibition  occurring at 0.55 ug/ml (2.8*10(-6) M). The ratios of 50% inhibition concn for cell  proliferation to cell differentiation in limb bud cells were 0.76 & 1.52 in day 11 & 12  embryos, respectively. These findings indicate that glufosinate ammonium is embryotoxic in  vitro ...",
+                          "Markup": [
+                            {
+                              "Start": 76,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate%20ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 253,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 584,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 1110,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 1436,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate%20ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for GLUFOSINATE-AMMONIUM (7 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 106,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6666#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GLUFOSINATE-AMMONIUM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 132
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542",
+                        "Matched": {
+                          "PCLID": 900107703,
+                          "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Japanese quail >5000 mg/kg (8 day dietary)"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542",
+                        "Matched": {
+                          "PCLID": 900107703,
+                          "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Rainbow trout 710 mg/l (96 hr) /Conditions of bioassay not specified./"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542",
+                        "Matched": {
+                          "PCLID": 900107703,
+                          "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Bluegill >1000 mg/l (96 hr) /Conditions of bioassay not specified./"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542",
+                        "Matched": {
+                          "PCLID": 900107703,
+                          "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Carp >1000 mg/l (96 hr) /Conditions of bioassay not specified./"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542",
+                        "Matched": {
+                          "PCLID": 900107703,
+                          "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 542"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Golden orfe >1000 mg/l (96 hr) /Conditions of bioassay not specified./"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.80e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.90e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.20e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.00e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.60e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "6.00e-03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.10e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.50e+04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.60e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.00e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "6.00e-03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Glufosinate-ammonium's production may result in its release to the environment through various waste streams; it's use as a herbicide will result in its direct release to the environment. If released to air, an estimated vapor pressure of 9.1X10-12 mm Hg at 25 °C indicates glufosinate-ammonium will exist solely in particulate phase in the ambient atmosphere. Particulate-phase glufosinate-ammonium will be removed from the atmosphere by wet and dry deposition. If released to soil, glufosinate-ammonium is expected to have high to low soil mobility based on Koc values of 9.6 to 1,229. Field studies have indicated that glufosinate-ammonium rarely migrates below 10-15 cm in soil, presumably because of rapid microbial degradation. Microbial degradation is the primary degradation process in soil and occurs rapidly with transformation to 3-methylphosphinyl-propionic acid and 2-methylphosphinyl-acetic acid and ultimately to carbon dioxide. The aerobic half-life in soil is typically 3-11 days with an anaerobic half-life of 5-10 days. Field dissipation half-lives of 6-20 days (avg 13 days) are reported. A laboratory batch and in situ microcosm study demonstrated that glufosinate-ammonium can be persistent and transported in an aquifer with relatively low clay content and little labile organic carbon. If released into water, glufosinate-ammonium is expected to have low to high adsorption to suspended solids and sediment based upon the Koc. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's estimated Henry's Law constant. An estimated BCF of 3.2 suggests the potential for bioconcentration in aquatic organisms is low. Hydrolysis and photolysis in water are not expected to be important fate processes with half-lives of greater than 300 days. Occupational exposure to glufosinate-ammonium may occur through inhalation of dust and dermal contact with this compound at workplaces where glufosinate-ammonium is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 379,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 484,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 622,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 928,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 1174,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 1302,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1327,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1334,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 1471,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1719,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1840,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 1956,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Ahrens WH, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Champaign, IL: Weed Sci Soc Amer p. 148 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Ahrens WH, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Champaign, IL: Weed Sci Soc Amer p. 148 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Glufosinate-ammonium's production may result in its release to the environment through various waste streams; it's use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) USDA; Agric Res Service. ARS Pesticide Properties Database on Glufosinate-Ammonium (77182-82-2). Available from, as of Jun 11, 2002: https://www.ars.usda.gov/Services/docs.htm?docid=14199",
+                      "(3) Ahrens WH, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Champaign, IL: Weed Sci Soc Amer p. 148 (1994)",
+                      "(4) Faber MJ et al; J Agric Food Chem 45: 3672-3676 (1997)",
+                      "(5) Smith AE; J Agric Food Chem 36: 393-397 (1988)",
+                      "(6) Gallina MA, Stephenson GR; J Agric Food Chem 40: 165-168 (1992)",
+                      "(7) Allen-King RM et al; J Contaminant Hydrology 18: 161-179 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) USDA; Agric Res Service. ARS Pesticide Properties Database on Glufosinate-Ammonium (77182-82-2). Available from, as of Jun 11, 2002: https://www.ars.usda.gov/Services/docs.htm?docid=14199"
+                      },
+                      {
+                        "Citation": "(3) Ahrens WH, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Champaign, IL: Weed Sci Soc Amer p. 148 (1994)"
+                      },
+                      {
+                        "Citation": "(4) Faber MJ et al; J Agric Food Chem 45: 3672-3676 (1997)"
+                      },
+                      {
+                        "Citation": "(5) Smith AE; J Agric Food Chem 36: 393-397 (1988)"
+                      },
+                      {
+                        "Citation": "(6) Gallina MA, Stephenson GR; J Agric Food Chem 40: 165-168 (1992)"
+                      },
+                      {
+                        "Citation": "(7) Allen-King RM et al; J Contaminant Hydrology 18: 161-179 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an observed Koc range of 9.6 to 1,229 (recommended avg of 430)(2) indicates that glufosinate-ammonium can have low to high mobility in soil(SRC). Field studies have indicated that glufosinate-ammonium rarely leaches below 10-15 cm in soil(3,4), presumably because of rapid microbial degradation(3). Microbial degradation occurs rapidly in soil with transformation to 3-methylphosphinyl-propionic acid and 2-methylphosphinyl-acetic acid and ultimately to carbon dioxide(4-6). The aerobic half-life in soil is typically 3-11 days(2,4-6) with an anaerobic half-life of 5-10 days(2). Field dissipation half-lives 6-20 days (avg 13 days) are reported(2). A laboratory batch and in situ microcosm study(7) demonstrated that glufosinate-ammonium can be persistent and transported in an aquifer with relatively low clay content and little labile organic carbon.",
+                          "Markup": [
+                            {
+                              "Start": 136,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 235,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 509,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 773,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 901,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) USDA; Agric Res ervice. ARS Pesticide Properties Database on Glufosinate-Ammonium (77182-82-2). Available from the Database Query page at https://www.arsusda.gov/acsl/services/ppdb/ppdb3.html as of Jun 11, 2002.",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(4) Tomlin CDS, ed; The Pesticide Manual World Compendium, 11th ed, Surrey, England: British Crop Protection Council, p. 644 (1997)",
+                      "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(6) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(7) Ahrens WH, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Champaign, IL: Weed Sci Soc Amer p. 148 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) USDA; Agric Res ervice. ARS Pesticide Properties Database on Glufosinate-Ammonium (77182-82-2). Available from the Database Query page at https://www.arsusda.gov/acsl/services/ppdb/ppdb3.html as of Jun 11, 2002."
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Tomlin CDS, ed; The Pesticide Manual World Compendium, 11th ed, Surrey, England: British Crop Protection Council, p. 644 (1997)"
+                      },
+                      {
+                        "Citation": "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(6) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(7) Ahrens WH, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Champaign, IL: Weed Sci Soc Amer p. 148 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an observed Koc range of 9.6 to 1,229 (recommended avg of 430)(2) indicates that glufosinate-ammonium can have low to high adsorption to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(3) based upon an estimated Henry's Law constant of 4.4X10-14 atm-cu m/mole(4). According to a classification scheme(5), an estimated BCF of 3.2(SRC), from a log Kow of <0.10(4), and a regression-derived equation(6) suggests the potential for bioconcentration in aquatic organisms is low(SRC). The aqueous hydrolysis rate of glufosinate-ammonium is reported to be <0.0023/day at 25 °C and pH 5,7 and 9(2) which corresponds to a half-life of greater than 300 days(SRC). The aqueous photolysis rate of glufosinate-ammonium is also reported to be <0.0023/day(2) which corresponds to a half-life of greater than 300 days(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 132,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 244,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), glufosinate-ammonium, which has an estimated vapor pressure of 9.1X10-12 mm Hg at 25 °C(SRC), determinded from a fragment constant method(2), is expected to exist solely in particulate phase in the ambient atmosphere. Particulate-phase glufosinate-ammonium may be removed from the air by wet and dry deposition(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 360,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Smith AE; J Agric Food Chem 36: 393-397 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Smith AE; J Agric Food Chem 36: 393-397 (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Laboratory degradation studies using 14-C radio-labeled glufosinate-ammonium (applied rate of 2 ppm) and three prairie soils as inoculum found that degradation occurred more rapidly at 20 °C than 10 °C(1); at 20 °C, the soil half-life was 3-7 days and at 10 °C the half-life was 8-11 days(1); in all soils, glufosinate-ammonium was biologically transformed to degradation products that underwent further slow degradation with release of [14-C] carbon dioxide(1); over a 90-day incubation period at 20 °C, between 28-55% of applied radioactivity was released as [14-C] carbon dioxide(1).",
+                          "Markup": [
+                            {
+                              "Start": 65,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 316,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 453,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 577,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Gallina MA, Stephenson GR; J Agric Food Chem 40: 165-168 (1992)",
+                      "(2) Faber MJ et al; J Agric Food Chem 45: 3672-3676 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Gallina MA, Stephenson GR; J Agric Food Chem 40: 165-168 (1992)"
+                      },
+                      {
+                        "Citation": "(2) Faber MJ et al; J Agric Food Chem 45: 3672-3676 (1997)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Laboratory degradation studies at 22 °C using 14-C radio-labeled glufosinate-ammonium and two Ontario soils as inoculum found rapid degradation of glufosinate-ammonium(1); in the Fox sandy loam soil, the initial half-life was 3-4 days while in the Guelph loam soil the initial half-life was just over 4 days(1); after a 22-day incubation period, 10-12% of applied radioactivity was recovered in 14C-carbon dioxide, 8-11% remained as glufosinate, 53-61% was in the degradation product MPPA-3 (3-(methylphosphinyl)propionic acid) and 13-16% was in the degradation product MPPA-2 (2-(methylphosphinyl)acetic acid)(1). An Ontario forest degradation study using 14-C radio-labeled glufosinate-ammonium observed a half-life of 4.3 days(2); MPAA-3 and MPAA-2 were the two main metabolites(2).",
+                          "Markup": [
+                            {
+                              "Start": 74,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 156,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 408,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 442,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4794"
+                            },
+                            {
+                              "Start": 685,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Allen-King RM et al; J Contaminant Hydrology 18: 161-179 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Allen-King RM et al; J Contaminant Hydrology 18: 161-179 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Glufosinate-ammonium was found to be persistent in an aerobic sandy aquifer material in laboratory batch and in situ microcosm studies at concentrations of 50-400 ppb(1); at 50 ppb, the initial half-life was about 20 days, but after 20 days, the glufosinate-ammonium concentration remained steady (about 25 ppb) throughout the 70 day incubation period(1); at 400 ppb in the in situ microcosm, glufosinate-ammonium concentrations remained between 275-350 ppb for 55 days before falling to 200 ppb at 75 days(1); the research suggests that in an aquifer with relatively low clay content and little labile organic carbon, glufosinate-ammonium will be persistent and transport will be essentially unretarded(1).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 255,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 402,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 620,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 628,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) USDA; Agric Res Service. ARS Pesticide Properties Database on Glufosinate-Ammonium (77182-82-2). Available from, as of Jun 11, 2002: https://www.ars.usda.gov/Services/docs.htm?docid=14199"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) USDA; Agric Res Service. ARS Pesticide Properties Database on Glufosinate-Ammonium (77182-82-2). Available from, as of Jun 11, 2002: https://www.ars.usda.gov/Services/docs.htm?docid=14199"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of glufosinate-ammonium with photochemically-produced hydroxyl radicals has been estimated as 3.07X10-11 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 12.5 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). The aqueous hydrolysis rate of glufosinate-ammonium is reported to be <0.0023/day at 25 °C and pH 5,7 and 9(2) which corresponds to a half-life of greater than 300 days(SRC). The aqueous photolysis rate of glufosinate-ammonium is also reported to be <0.0023/day(2) which corresponds to a half-life of greater than 300 days(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 101,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 332,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 395,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium, 11th ed, Surrey, England: British Crop Protection Council, p. 644 (1997)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium, 11th ed, Surrey, England: British Crop Protection Council, p. 644 (1997)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of <3.2 was calculated for glufosinate-ammonium (SRC), using a log Kow of <0.1 at pH 7(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USDA; Agric Res Service. ARS Pesticide Properties Database on Glufosinate-Ammonium (77182-82-2). Available from, as of Jun 11, 2002: https://www.ars.usda.gov/Services/docs.htm?docid=14199",
+                      "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USDA; Agric Res Service. ARS Pesticide Properties Database on Glufosinate-Ammonium (77182-82-2). Available from, as of Jun 11, 2002: https://www.ars.usda.gov/Services/docs.htm?docid=14199"
+                      },
+                      {
+                        "Citation": "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Glufosinate-ammonium has observed Koc values ranging from 9.6 in sand to 1,229 in volcanic ash(1); the average recommended Koc is 430(1). According to a classification scheme(2), this Koc range suggests that glufosinate-ammonium can have high to low mobility in soil.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 208,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Ahrens WH, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Champaign, IL: Weed Sci Soc Amer p. 159-160 (1994)",
+                      "(2) Faber MJ et al; J Agric Food Chem 45: 3672- 3676 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Ahrens WH, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Champaign, IL: Weed Sci Soc Amer p. 159-160 (1994)"
+                      },
+                      {
+                        "Citation": "(2) Faber MJ et al; J Agric Food Chem 45: 3672- 3676 (1997)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Field studies have indicated that glufosinate-ammonium rarely leaches below 10-15 cm in soil(1,2), presumably because of rapid microbial degradation(1).",
+                          "Markup": [
+                            {
+                              "Start": 34,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium, 11th ed, Surrey, England: British Crop Protection Council, p. 644 (1997)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The Pesticide Manual World Compendium, 11th ed, Surrey, England: British Crop Protection Council, p. 644 (1997)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for glufosinate-ammonium is estimated as 4.4X10-14 atm-cu m/mole(1). This Henry's Law constant indicates that glufosinate-ammonium is expected to be essentially nonvolatile from water surfaces(2).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 135,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 203,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to glufosinate-ammonium may occur through inhalation of dust and dermal contact with this compound at workplaces where glufosinate-ammonium is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            },
+                            {
+                              "Start": 141,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glufosinate-ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-53597"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Glufosinate-ammonium$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Glufosinate-ammonium$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Glufosinate-ammonium$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Glufosinate-ammonium$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135012288",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0077182822",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19491235
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "cc1caefbaef1919d90586692c4a131ba",
+        "Name": "Glufosinate-ammonium",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49737970
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_247",
+        "Name": "Glufosinate-ammonium",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=247",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895298
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID53597",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125601
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_355",
+        "Name": "Glufosinate, Ammonium",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2435965
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_355",
+        "Name": "Glufosinate, Ammonium",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8258759
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "a08211ba6328bfdb938cb4d887531a95",
+        "Name": "Glufosinate-ammonium",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667373
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID1024120",
+        "Name": "Glufosinate-ammonium",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57002175
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz5430",
+        "Name": "Glufosinate-ammonium",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17279521
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "6666",
+        "Name": "GLUFOSINATE-AMMONIUM",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6666",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4385
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Glufosinate, Ammonium",
+        "Name": "Glufosinate, Ammonium",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401102
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D0812",
+        "Name": "Glufosinate",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D0812",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20441099
+      },
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "USGS Health-Based Screening Levels for Evaluating Water-Quality Data",
+        "SourceID": "19ce5cb2393323ed2c7aa3f21b69977a",
+        "Name": "Glufosinate ammonium",
+        "Description": "The USGS Health-Based Screening Levels for Evaluating Water-Quality Data contains Health-Based Screening Levels (HBSLs) that are non-enforceable water-quality benchmarks that can be used to (1) supplement U.S. Environmental Protection Agency (USEPA) Maximum Contaminant Levels (MCLs) and Human Health Benchmarks for Pesticides (HHBPs), (2) determine whether contaminants found in surface-water or groundwater sources of drinking water may indicate a potential human-health concern, and (3) help prioritize monitoring efforts. HBSLs were developed by the U.S. Geological Survey (USGS).",
+        "URL": "https://water.usgs.gov/water-resources/hbsl/index.html",
+        "LicenseURL": "https://www.usgs.gov/legal",
+        "ANID": 39668083
+      }
+    ]
+  }
+}

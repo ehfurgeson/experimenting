@@ -1,0 +1,25 @@
+{
+  "search_term": "RZVHIXYEVGDQDX-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:32.601087+00:00",
+  "url": "/chemical/search/equal/RZVHIXYEVGDQDX-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3020095",
+        "dtxcid": "DTXCID9095",
+        "casrn": "84-65-1",
+        "preferredName": "Anthraquinone",
+        "hasStructureImage": 1,
+        "smiles": "O=C1C2=C(C=CC=C2)C(=O)C2=C1C=CC=C2",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "RZVHIXYEVGDQDX-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

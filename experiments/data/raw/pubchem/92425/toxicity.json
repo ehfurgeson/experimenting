@@ -1,0 +1,1398 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 92425,
+    "RecordTitle": "Flumioxazin",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Not Likely to be Carcinogenic to Humans"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 78,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 76,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 76,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 76,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 76,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document/EPA-HQ-OPP-2011-0176-0071",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Flumioxazin"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "800"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Females 13-49 yrs"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "100"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490",
+                            "Matched": {
+                              "PCLID": 900095728,
+                              "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral >5000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490",
+                            "Matched": {
+                              "PCLID": 900095728,
+                              "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat percutaneous >2000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490",
+                            "Matched": {
+                              "PCLID": 900095728,
+                              "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 Rat inhalation >3930 mg/cu m air/ 4 hr"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490",
+                        "Matched": {
+                          "PCLID": 900095728,
+                          "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 490"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Non-irritating to skin; mild eye irritant (rabbits). Non-sensitizing to skin (guinea pigs)."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kawamura S, et al. Teratology. 54 (5): 237-244. 1996"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kawamura S, et al. Teratology. 54 (5): 237-244. 1996",
+                        "Matched": {
+                          "PCLID": 900131295,
+                          "Citation": "Kawamura S, et al. Teratology. 54 (5): 237-244. 1996"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An N-phenylimide herbicide, S-53482, inhibits protoporphyrinogen oxidase, an enzyme common to chlorophyll & heme biosynthesis, & produces embryolethality, teratogenicity [mainly ventricular septal defects (VSD) & wavy ribs], & growth retardation in rats. In order to elucidate the mechanism of the developmental toxicity, in particular VSD, effects of the herbicide on rat embryonic blood cells were investigated histologically at the light & electron microscopic levels at 6, 12, 24, 36, & 48 hr after oral admin of the chemical to pregnant rats on day 12 of gestation, the most sensitive day for toxicity. Electron & light microscopy demonstrated mitochondrial lesions, including abnormal iron deposits that were probably due to inhibition of heme biosynthesis, in erythroblasts derived from the yolk sac. Subsequently, degeneration of these erythroblasts occurred followed by erythrophagocytosis. Histologically hearts from exposed embryos had a thin ventricular wall, which may reflect a compensatory reaction to a loss of embryonic blood cells.",
+                          "Markup": [
+                            {
+                              "Start": 28,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/S-53482",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 46,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/protoporphyrinogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-121893"
+                            },
+                            {
+                              "Start": 691,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "US EPA; Pesticide Fact Sheet. Flumioxazin. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/flumioxazin.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "US EPA; Pesticide Fact Sheet. Flumioxazin. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/flumioxazin.pdf",
+                        "Matched": {
+                          "PCLID": 900161691,
+                          "Citation": "US EPA; Pesticide Fact Sheet. Flumioxazin. Conditional Registration. August 22, 2000. Washington, DC: USEPA, Off Prev Pest Tox Sub (7501C). Available from, as of April 1, 2002: https://www.epa.gov/opprd001/factsheets/flumioxazin.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pregnant females were admin 400 mg/kg by gavage on gestation day 11 or 12 or 13 or 14 or 15. Day 12 admin showed: largest incidence of embryonic death, lowest fetal body weights & greatest incidence of ventricular spetal defects."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 489"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 489",
+                        "Matched": {
+                          "PCLID": 900113740,
+                          "Citation": "Tomlin, C.D.S. (ed.). The Pesticide Manual - World Compendium. 10th ed. Surrey, UK: The British Crop Protection Council, 1994., p. 489"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Mode of action: Herbicide, absorbed by foliage & germinating seedlings. Acts, in the presence of light & oxygen, by inducing massive accumulation of porphyrins, & enhancing peroxidation of membrane lipids, which leads to irreversible damage of the membrane function & structure of susceptible plants.",
+                          "Markup": [
+                            {
+                              "Start": 105,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 13,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 56
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Flumioxazin's production may result in its release to the environment through various waste streams; it's use as a herbicide will result in its direct release to the environment. If released to air, a vapor pressure of 2.41X10-6 mm Hg at 20 °C indicates flumioxazin will exist in both the vapor and particulate phases in the ambient atmosphere. Vapor-phase flumioxazin will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 6.8 hours. Particulate-phase flumioxazin will be removed from the atmosphere by wet and dry deposition. If released to soil, flumioxazin is expected to have a low potential to leach based on column leaching studies and a fast degradation rate. Volatilization from moist soil surfaces is negligible. Flumioxazin degrades rapidly in soil water via hydrolysis with half-lives of 3.4 to 5.1 days at pH 5.0, 21.4-24.6 hours at pH 7.0, and 14.6-22.0 minutes at pH 9.0; therefore, aqueous chemical hydrolysis in moist soils will be an important fate process. Microbial degradation in soil is also an important fate process; the half-life for aerobic soil metabolism is 11.9 to 17.5 days, with an average of 14.7 days. The photolysis half-life on soil is 3.2 to 8.4 days (average 5.8 days). The rapid soil dissipation rate indicates flumioxazin is not persistent in soil. If released into water, chemical hydrolysis will be a major degradation process. Flumioxazin has an anaerobic aquatic metabolism half-life of 0.2 days. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's estimated Henry's Law constant. An estimated BCF of 18 suggests the potential for bioconcentration in aquatic organisms is low. Photodegradation in shallow water can occur (surface half-life of about 1 day at pH 5). Occupational exposure to flumioxazin may occur through short and intermediate-term dermal and inhalation exposure during mixing, loading, applying and post-application activities. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 254,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 357,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 446,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 552,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 648,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 822,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 859,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1348,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 1404,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1468,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 1559,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1805,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1890,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Farm Chemicals Handbook 2001. Willoughby, Ohio: Meister, p. C374 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Farm Chemicals Handbook 2001. Willoughby, Ohio: Meister, p. C374 (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Flumioxazin's production may result in its release to the environment through various waste streams; it's use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hatzios KK, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Suppl. Champaign, IL: Weed Sci Soc Amer p. 30 (1998)",
+                      "(2) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hatzios KK, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Suppl. Champaign, IL: Weed Sci Soc Amer p. 30 (1998)"
+                      },
+                      {
+                        "Citation": "(2) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on column leaching studies and the short aerobic soil half-life, the potential for flumioxazin to leach in field agricultural soil is low(1). In soils that have been treated with flumioxazin, it is generally not found below 3 inches in depth(2). Volatilization losses from soil surfaces are negligible(1). Flumioxazin degrades rapidly in soil water via hydrolysis with half-lives of 3.4 to 5.1 days at pH 5.0, 21.4-24.6 hours at pH 7.0, and 14.6-22.0 minutes at pH 9.0(1); therefore, aqueous hydrolysis in moist soils will be an important fate process(SRC). Microbial degradation in soil is also an important fate process(1); the half-life for aerobic soil metabolism is 11.9 to 17.5 days, with an average of 14.7 days(1,2). The photolysis half-life on soil is 3.2 to 8.4 days (average 5.8 days)(2). The rapid soil dissipation rate indicates flumioxazin is not persistent in soil(1).",
+                          "Markup": [
+                            {
+                              "Start": 107,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 203,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 330,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 367,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 866,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992)",
+                      "(3) Hatzios KK, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Suppl. Champaign, IL: Weed Sci Soc Amer p. 30 (1998)",
+                      "(4) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002.",
+                      "(5) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(6) Tomlin CDS, ed; The Pesticide Manual World Compendium, 11th ed, Surrey, England: British Crop Protection Council, p. 696 (1997)",
+                      "(7) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(8) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992)"
+                      },
+                      {
+                        "Citation": "(3) Hatzios KK, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Suppl. Champaign, IL: Weed Sci Soc Amer p. 30 (1998)"
+                      },
+                      {
+                        "Citation": "(4) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                      },
+                      {
+                        "Citation": "(5) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(6) Tomlin CDS, ed; The Pesticide Manual World Compendium, 11th ed, Surrey, England: British Crop Protection Council, p. 696 (1997)"
+                      },
+                      {
+                        "Citation": "(7) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(8) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 13000(SRC), determined from a structure estimation method(2), indicates that flumioxazin is expected to adsorb to suspended solids and sediment(SRC). The hydrolytic degradation half-life of flumioxazin in soil water is 3.4 to 5.1 days at pH 5.0, 21.4-24.6 hours at pH 7.0, and 14.6-22.0 minutes at pH 9.0(3); therefore, hydrolysis will be the major degradation process in water(SRC). An anaerobic aquatic metabolism half-life of 0.2 days has been reported(4). The photolysis half-life in water at pH 5 is 1 day(4). Volatilization from water surfaces is expected to be slow(5) based upon an estimated Henry's Law constant of 6.28X10-7 atm-cu m/mole(SRC), derived from its vapor pressure, 2.41X10-6 mm Hg(6), and water solubility, 1.79 mg/l(4). Using this estimated Henry's Law constant and an estimation method(5), volatilization half-lives for a model river and model lake are 1,765 hours and 809 days, respectively(SRC). According to a classification scheme(7), an estimated BCF of 18(SRC), from a log Kow of 2.55(4) suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 154,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 267,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 287,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 449,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 565,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 612,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 788,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Tomlin CDS, ed; The Pesticide Manual World Compendium, 11th ed, Surrey, England: British Crop Protection Council, p. 696 (1997)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin CDS, ed; The Pesticide Manual World Compendium, 11th ed, Surrey, England: British Crop Protection Council, p. 696 (1997)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), flumioxazin, which has a vapor pressure of 2.41X10-6 mm Hg at 25 °C (2), will exist in both the vapor and particulate phases in the ambient atmosphere. Vapor-phase flumioxazin is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 6.8 hours(SRC), calculated from its rate constant of 5.68X10-11 cu cm/molecule-sec at 25 °C(SRC) (that was derived using a structure estimation method(3). Particulate-phase flumioxazin may be removed from the air by wet and dry deposition(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 288,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 372,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 627,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hatzios KK, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Suppl. Champaign, IL: Weed Sci Soc Amer p. 30 (1998)",
+                      "(2) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hatzios KK, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Suppl. Champaign, IL: Weed Sci Soc Amer p. 30 (1998)"
+                      },
+                      {
+                        "Citation": "(2) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Based on laboratory tests, loss of flumioxazin in soil appears to be primarily by microbial degradation(1); the half-life for aerobic soil metabolism is 11.9 to 17.5 days, with an average of 14.7 days(1,2).",
+                          "Markup": [
+                            {
+                              "Start": 35,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hatzios KK, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Suppl. Champaign, IL: Weed Sci Soc Amer p. 30 (1998)",
+                      "(2) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hatzios KK, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Suppl. Champaign, IL: Weed Sci Soc Amer p. 30 (1998)"
+                      },
+                      {
+                        "Citation": "(2) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The hydrolytic degradation half-life of flumioxazin in soil water is 3.4 to 5.1 days at pH 5.0, 21.4-24.6 hours at pH 7.0, and 14.6-22.0 minutes at pH 9.0(1). Similar chemical hydrolysis half-lives of 4.2 days (pH 5), 1 day (pH 7), and 0.01 days (pH 9) are also reported(2). The photolysis half-life in water at pH 5 is 1 day(2). The photolysis half-life on soil is 3.2 to 8.4 days (average 5.8 days)(1).",
+                          "Markup": [
+                            {
+                              "Start": 40,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 60,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 303,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of flumioxazin with photochemically-produced hydroxyl radicals has been estimated as 5.68X10-11 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 6.8 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 92,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 322,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of April 12, 2001",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of April 12, 2001"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 18 was calculated for flumioxazin(SRC), using an experimental log Kow of 2.55(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 42,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992)",
+                      "(2) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(3) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM et al; Environ Sci Technol 26: 1560-67 (1992)"
+                      },
+                      {
+                        "Citation": "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(3) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Using a structure estimation method based on molecular connectivity indices(1), the Koc for flumioxazin can be estimated to be 13000(SRC). The Koc can also be estimated as 581 and 2000(SRC), using a log Kow of 2.55(3) and a water solubility of 1.79 mg/l at 25 °C(3) and regression-derived equations(2). According to a classification scheme(3), these estimated Koc values suggests that flumioxazin is expected to have low to no mobility in soil.",
+                          "Markup": [
+                            {
+                              "Start": 92,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 224,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 385,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The mobility (unaged leaching) of flumioxazin is reported as moderately mobile(1); fluxioxazin is generally not found below 3 inches of soil depth(1). Available data indicate flumioxazin is relatively unstable and its potential to leach to groundwater is low(1); however, the potential for degradation products to leach to groundwater is high(1).",
+                          "Markup": [
+                            {
+                              "Start": 34,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 175,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002.",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)",
+                      "(3) Hatzios KK, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Suppl. Champaign, IL: Weed Sci Soc Amer p. 30 (1998)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Hatzios KK, ed; Herbicide Handbook of the Weed Science Society of America. 7th ed. Suppl. Champaign, IL: Weed Sci Soc Amer p. 30 (1998)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for flumioxazin is estimated as 6.28X10-7 atm-cu m/mole(SRC) derived from its vapor pressure, 2.41X10-6 mm Hg(1), and water solubility, 1.79 mg/l at 25 °C(1). This estimated Henry's Law constant indicates that flumioxazin is expected to be volatilize slowly from water surfaces(2). Based on this estimated Henry's Law constant, the volatilization half-life from a model river (1 m deep, flowing 1 m/sec, wind velocity of 3 m/sec)(2) is estimated as 1765 hours(SRC). The volatilization half-life from a model lake (1 m deep, flowing 0.05 m/sec, wind velocity of 0.5 m/sec)(2) is estimated as 809 days(SRC). Flumioxazin is reported to have negligible volatilization losses from soil(3).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 143,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 235,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            },
+                            {
+                              "Start": 288,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 631,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Pesticide Fact Sheet - Flumioxazin. April 12, 2001. Available from the Database Query page at https://www.epa.gov/opprd001/factsheets/ as of Mar, 2002."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to flumioxazin may occur through short- and intermediate-term dermal and inhalation exposure during mixing, loading, applying and post-application activities(1).",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumioxazin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-92425"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Flumioxazin$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Flumioxazin$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Flumioxazin$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Flumioxazin$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "53bf04f29f5e4aedcf64fcd758d759b4",
+        "Name": "Flumioxazin",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49733057
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID92425",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2126031
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "4b709cf6159e299a10b6e298b38657e4",
+        "Name": "Flumioxazin",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667349
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID7032555",
+        "Name": "Flumioxazin",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57027579
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7012",
+        "Name": "FLUMIOXAZIN",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7012",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4626
+      },
+      {
+        "ReferenceNumber": 76,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Flumioxazin",
+        "Name": "Flumioxazin",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401038
+      },
+      {
+        "ReferenceNumber": 78,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D3847",
+        "Name": "Flumioxazin",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D3847",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443282
+      }
+    ]
+  }
+}

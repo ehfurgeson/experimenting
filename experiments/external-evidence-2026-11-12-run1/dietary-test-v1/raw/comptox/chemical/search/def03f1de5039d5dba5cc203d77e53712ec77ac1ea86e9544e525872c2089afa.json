@@ -1,0 +1,25 @@
+{
+  "search_term": "Maltose",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:06.216858+00:00",
+  "url": "/chemical/search/equal/Maltose",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1023233",
+        "dtxcid": "DTXCID101748070",
+        "casrn": "69-79-4",
+        "preferredName": "Maltose",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@]1(O[C@H]([C@H](O)CO)[C@H](O)[C@@H](O)C=O)O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Maltose",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

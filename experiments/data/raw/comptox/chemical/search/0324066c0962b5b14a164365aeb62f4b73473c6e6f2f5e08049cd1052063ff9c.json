@@ -1,0 +1,25 @@
+{
+  "search_term": "KCDXJAYRVLXPFO-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:03.005667+00:00",
+  "url": "/chemical/search/equal/KCDXJAYRVLXPFO-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Syringaldehyde",
+        "dtxsid": "DTXSID2059643",
+        "dtxcid": "DTXCID6034182",
+        "casrn": "134-96-3",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(C=O)=CC(OC)=C1O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KCDXJAYRVLXPFO-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

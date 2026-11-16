@@ -1,0 +1,25 @@
+{
+  "search_term": "Coixol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:55.405838+00:00",
+  "url": "/chemical/search/equal/Coixol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID30201260",
+        "dtxcid": "DTXCID30123751",
+        "casrn": "532-91-2",
+        "preferredName": "6-Methoxybenzoxazolinone",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC2=C(NC(=O)O2)C=C1",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Coixol",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

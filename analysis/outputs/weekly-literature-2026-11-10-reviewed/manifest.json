@@ -1,0 +1,50 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/structure-2026-10-28-stress-baseline/structural_features.parquet": "42d932ee2896382c3cbb5c5eceaf0a2948111c848be6670a502ede4864dd5a06",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_00.json": "eb003223e94447e999909c454ccd98a5018d5600540226bad0d240b7ee6f429d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_01.json": "5fc69a82c64772c38f41056fc1bcde930a10e4ed0dcc5477243628d3f4c7ca46",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_02.json": "619bc41a23ff387e5904387ddae63948f4adbbdbd2e76fd2f69d62881e146304",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_03.json": "a13130f3b7b482394e0b753f34c1265cf960c1e4c3da2f55f61bc43ec815b1c4",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_04.json": "276ce1a67b3eda17ad05ce8e2b3391b30ff15ff0b60167794f2abf83819bbfda",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_05.json": "76592201e1779604076a87bceb9b22ae709b749c66c11aaa6b299e00254f7d1a",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_06.json": "9c1afdb7d48775db518515c286e68efafc7b70c81ed564dde38d385fbd511cae",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_07.json": "4972aa3d2ac333af10d809c602513f85b3e3e5f1cc098b27589602546d5605e3",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_08.json": "1dce96a51ab6a0b4d7b6e4a19cf47179d36414caf2f0cad180905020d568517d",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_09.json": "cf1ca128b473c0f9d06c9e0ef5cc49d9c1292b273648f71664c9b160b49d8828",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_10.json": "29b604b669f968f10ddd71f5d322e7354dbbfd0ee893bccaa3f422470801c71e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_11.json": "27d9ea2ba582505cdb0d828cbeeabb92e430ed7d264417704380d080549e0619",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_12.json": "c3fc0d73d248ee11a15566367535e08215f23c4c622a7e9c1617e645c792fe9f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_13.json": "6cf4897c43557bffd7f308ed2531d6890465eeecfac0d561edfbcf82cca51546",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/identity_14.json": "3bb930f34a26e778abb0c7dcd70f4886592319c9fbddf191bf0c9ea144265137",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-sources-2026-11-10/manifest.json": "4b402a25249fc661c9f921b3101f954f0a83dd9c8e0496bfaaf1ce6a76a798ea",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/resources/weekly_literature.json": "f931210ebc555ef2b52704fc6172564cc15856fca74611f335e790308c884f80"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/formula.py": "d326c65e8740a46232c8c2ae15a5211e03c97d356a48f74e12dc6eea8a661bad",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure.py": "763fd952f2c4c57ed16136cf6efb58d7454daf8106cc9075a8064114578dae4c",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_literature.py": "63414e074a302e0e00d8e3a6f58393cd28c0b0c9429d444e024ff53bd365a0eb"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/pyproject.toml": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-2026-11-10-reviewed/descriptor_points.csv": "ba20678a35e889abbd2235febf8de216b2c2277de72297737309a98c87570604",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-2026-11-10-reviewed/descriptor_summary.csv": "93962c3bd7863c1441b7fa36e1728a0e2cb83a6246d0a380d2f83e318a3311a5",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-2026-11-10-reviewed/descriptors.html": "002784836b254481bab46c1248c55b8b8e14f30c6c57073994bf75b0cfef39dd",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-2026-11-10-reviewed/descriptors.svg": "d3fbda92befec245e05d772f457ef376a86ea198770503b90d2b93b34e4ff122",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-2026-11-10-reviewed/literature_evidence.csv": "4de8a700ff646b267493dd018c97f69782656d971e2ef45e7469dbcc0bc9d361",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-literature-2026-11-10-reviewed/source_packets.json": "c5108a906d4bd93580c60621b0280d1f1dc58977ce3f173a74fa9736bd228cb9"
+  },
+  "counts": {
+    "literature_names": 15,
+    "supported_unique_leads": 15,
+    "selected_herbicides": 58,
+    "sources": 4
+  },
+  "excluded_selection_overlaps": [],
+  "accepted_activity_labels": 0,
+  "natural_negative_group": "not_established",
+  "model_readiness": "No accepted activity/origin labels; no biological models fitted.",
+  "scope": "AI-assisted source screen and provisional database identities. Descriptor groups do not establish accepted natural origin or activity."
+}

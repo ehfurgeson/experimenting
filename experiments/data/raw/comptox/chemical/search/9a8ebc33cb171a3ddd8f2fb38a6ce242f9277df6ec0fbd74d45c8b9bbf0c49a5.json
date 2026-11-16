@@ -1,0 +1,25 @@
+{
+  "search_term": "Chlorogenic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:40.735700+00:00",
+  "url": "/chemical/search/equal/Chlorogenic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3024786",
+        "dtxcid": "DTXCID604786",
+        "casrn": "327-97-9",
+        "preferredName": "Chlorogenic acid",
+        "hasStructureImage": 1,
+        "smiles": "O[C@@H]1C[C@](O)(C[C@@H](OC(=O)C=CC2=CC(O)=C(O)C=C2)[C@@H]1O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Chlorogenic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

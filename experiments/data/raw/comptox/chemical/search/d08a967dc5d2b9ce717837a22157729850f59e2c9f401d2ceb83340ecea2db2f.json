@@ -1,0 +1,25 @@
+{
+  "search_term": "IRJQWZWMQCVOLA-DNTJNYDQSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:00.131219+00:00",
+  "url": "/chemical/search/equal/IRJQWZWMQCVOLA-DNTJNYDQSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "2-[(1E)-1-[2-[[(3,5-Difluorophenyl)amino]carbonyl]hydrazinylidene]ethyl]-3-pyridinecarboxylic acid",
+        "dtxsid": "DTXSID301337352",
+        "dtxcid": "DTXCID6014538",
+        "casrn": "1957168-02-3",
+        "hasStructureImage": 1,
+        "smiles": "C\\C(=N/NC(=O)NC1=CC(F)=CC(F)=C1)C1=C(C=CC=N1)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "IRJQWZWMQCVOLA-DNTJNYDQSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

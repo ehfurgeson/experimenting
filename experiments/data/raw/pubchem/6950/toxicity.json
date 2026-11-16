@@ -1,0 +1,2925 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 6950,
+    "RecordTitle": "Dinoseb",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=47",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dinoseb"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Critical Effect Systems",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Developmental"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Reference Dose (RfD), chronic",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1 x 10 ^-3 mg/kg-day"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "USGS Health-Based Screening Levels for Evaluating Water-Quality",
+                "Description": "This section provides the USGS Health-Based Screening Levels for Evaluating Water-Quality data.",
+                "URL": "https://water.usgs.gov/water-resources/hbsl/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 110,
+                    "Name": "Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dinoseb"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 110,
+                    "Name": "USGS Parameter Code",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "49301"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 110,
+                    "Name": "Chemical Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pesticide"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 110,
+                    "Name": "MCL (Maximum Contaminant Levels)[μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "7"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 110,
+                    "Name": "Reference",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Smith, C.D. and Nowell, L.H., 2024. Health-Based Screening Levels for evaluating water-quality data (3rd ed.). DOI:10.5066/F71C1TWP",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Group C Possible Human Carcinogen"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS). Summary on Dinoseb (88-85-7). Available from, as of March 15, 2000: https://www.epa.gov/iris/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS). Summary on Dinoseb (88-85-7). Available from, as of March 15, 2000: https://www.epa.gov/iris/",
+                        "Matched": {
+                          "PCLID": 900051943,
+                          "Citation": "U.S. Environmental Protection Agency's Integrated Risk Information System (IRIS). Summary on Dinoseb (88-85-7). Available from, as of March 15, 2000: https://www.epa.gov/iris/"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CLASSIFICATION: D; not classifiable as to human carcinogenicity. BASIS FOR CLASSIFICATION: Dinoseb was not observed to be carcinogenic in two inadequate studies in rats and in mice. In a third study, an increase in benign liver tumors in female mice was not considered to be treatment-related. The increase was much lower in the high dose than the mid dose, there were no decreases in time to tumor, nor any evidence of any of the potentially predisposing lesions in the liver such as hypertrophy, hyperplasia or degeneration which are often associated with known hepatocellular carcinogens. HUMAN CARCINOGENICITY DATA: None. ANIMAL CARCINOGENICITY DATA: Inadequate.",
+                          "Markup": [
+                            {
+                              "Start": 91,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 106,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exposure Routes",
+                "Description": "The way people or other living organisms may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 36,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The substance can be absorbed into the body by inhalation, through the skin and by ingestion."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 36,
+                    "Name": "Inhalation Exposure",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sweating. Headache. Laboured breathing. Nausea. Vomiting. Fever. Convulsions. Unconsciousness. Cyanosis"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 36,
+                    "Name": "Skin Exposure",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EASILY ABSORBED! Redness. Further see Inhalation."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 36,
+                    "Name": "Eye Exposure",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Redness. Pain."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 36,
+                    "Name": "Ingestion Exposure",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Abdominal pain. Further see Inhalation."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Developmental"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Toxicity Link",
+                "Description": "This section provides the link to the aquatic acute toxicity test results, available at the Acute Toxicity Database at the U.S. Geological Survey (USGS) Columbia Environmental Research Center (CERC).",
+                "URL": "https://www.cerc.usgs.gov/data/acute/acute.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 109,
+                    "URL": "https://www.cerc.usgs.gov/data/acute/qryboth.asp?Chemical=DINOSEB",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: DINOSEB"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        },
+                        {
+                          "String": "Nephrotoxin - The chemical is potentially toxic to the kidneys in the occupational setting."
+                        },
+                        {
+                          "String": "Other Poison - Uncoupler"
+                        },
+                        {
+                          "String": "Reproductive Toxin - A chemical that is toxic to the reproductive system, including defects in the progeny and injury to male or female reproductive function. Reproductive toxicity includes developmental effects. See Guidelines for Reproductive Toxicity Risk Assessment."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134972512"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "EPA Provisional Peer-Reviewed Toxicity Values",
+                    "Description": "This section provides the EPA Provisional Peer-Reviewed Toxicity Values (PPRTVs) and links of related assessment documents.",
+                    "URL": "https://www.epa.gov/pprtv",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Chemical Substance",
+                        "URL": "https://cfpub.epa.gov/ncea/pprtv/chemicalLanding.cfm?pprtv_sub_id=1725",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Dinoseb"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "PPRTV Assessment",
+                        "URL": "https://cfpub.epa.gov/ncea/pprtv/documents/Dinoseb.pdf",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "PDF Document"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Weight-Of-Evidence (WOE)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "See the IRIS entry for Dinoseb",
+                              "Markup": [
+                                {
+                                  "Start": 23,
+                                  "Length": 7,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-6950"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Last Revision",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2002"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 94,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.001"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 94,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "IRIS Current"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 94,
+                        "Name": "Oral Subchronic Chronic Reference Dose (RfDos) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.001"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 94,
+                        "Name": "Oral Subchronic Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "HEAST Current"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 28,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-197"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-197",
+                            "Matched": {
+                              "PCLID": 900090810,
+                              "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-197"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit percutaneous 80 to 200 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 28,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 570"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 570",
+                            "Matched": {
+                              "PCLID": 900117365,
+                              "Citation": "Verschueren, K. Handbook of Environmental Data of Organic Chemicals. 2nd ed. New York, NY: Van Nostrand Reinhold Co., 1983., p. 570"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Guinea pig acute dermal 100 to 200 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 28,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Budavari, S. (ed.). The Merck Index - Encyclopedia of Chemicals, Drugs and Biologicals. Rahway, NJ: Merck and Co., Inc., 1989., p. 519"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Budavari, S. (ed.). The Merck Index - Encyclopedia of Chemicals, Drugs and Biologicals. Rahway, NJ: Merck and Co., Inc., 1989., p. 519",
+                            "Matched": {
+                              "PCLID": 900122722,
+                              "Citation": "Budavari, S. (ed.). The Merck Index - Encyclopedia of Chemicals, Drugs and Biologicals. Rahway, NJ: Merck and Co., Inc., 1989., p. 519"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat, adult male oral 27 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 28,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Budavari, S. (ed.). The Merck Index - Encyclopedia of Chemicals, Drugs and Biologicals. Rahway, NJ: Merck and Co., Inc., 1989., p. 519"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Budavari, S. (ed.). The Merck Index - Encyclopedia of Chemicals, Drugs and Biologicals. Rahway, NJ: Merck and Co., Inc., 1989., p. 519",
+                            "Matched": {
+                              "PCLID": 900122722,
+                              "Citation": "Budavari, S. (ed.). The Merck Index - Encyclopedia of Chemicals, Drugs and Biologicals. Rahway, NJ: Merck and Co., Inc., 1989., p. 519"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat, adult female oral 28 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Medium-Specific Concentration",
+                    "Description": "Medium-specific concentration (MSC) is a chemical concentration in a specific medium (e.g., air, water, soil) that is considered to be safe for human health or the environment.  MSCs are used in risk assessments to evaluate potential risks from chemical exposures in different media.  The MSCs for a chemical can be derived from various sources, such as regulatory standards, toxicity data, and risk assessment models.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MSC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Other Toxicity Values",
+                    "Description": "Other toxicity values that are less commonly used in toxicological studies.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^Other$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. III-157"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. III-157",
+                        "Matched": {
+                          "PCLID": 900148354,
+                          "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. III-157"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In a poisoned person, the result is an almost immediate incr in oxygen consumption, body temp, breathing rate, and heart rate. Because circulation and resp do not accelerate in proportion to the metabolic demand, anoxia and acidosis develop. ... It is a milder corrosive to skin and mucous membrane than phenol, but concentrated soln have produced corrosion of the oropharyngeal, esophageal and gastric mucous membranes; Dinoseb exerts direct actions on the cerebrum and lower brain centers consisting of stimulation followed by depression; It may produce a necrotizing tubular injury of the kidneys. If the acute phase of poisoning is survived, the patient usually tolerates successfully the later complications, which may include renal insufficiency and a toxic hepatitis. The fulminating type of poisoning is characterized by sudden onset, severe symptoms, and prompt death (within 24 hours). Death is due to resp or circulatory collapse, especially the former. Many factors undoubtedly contribute to this collapse, notably hyperpyrexia, ... dehydration, muscle rigor (due to heat and/or lactic acid), and occasionally pulmonary edema. ... In subacute poisoning due to repeated daily exposures, some individuals complain of lassitude, headache, and malaise, while others experience a disarming sense of well-being, energy, and drive. /Dinitrophenol/",
+                          "Markup": [
+                            {
+                              "Start": 64,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 304,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-996"
+                            },
+                            {
+                              "Start": 421,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 1091,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lactic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-612"
+                            },
+                            {
+                              "Start": 1338,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinitrophenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1493"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 24"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 24",
+                        "Matched": {
+                          "PCLID": 900081400,
+                          "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 24"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "YELLOW STAINING OF SKIN & HAIR SIGNIFY CONTACT WITH NITROPHENOLIC CHEMICAL. STAINING OF SCLERAE & URINE INDICATE ABSORPTION OF POTENTIALLY TOXIC AMT. PROFUSE SWEATING, HEADACHE, THIRST, MALAISE, & LASSITUDE ARE COMMON EARLY SYMPTOMS OF POISONING. WARM, FLUSHED SKIN, TACHYCARDIA, & FEVER CHARACTERIZE A SERIOUS DEGREE OF POISONING. APPREHENSION, RESTLESSNESS, ANXIETY, MANIC BEHAVIOR, OR UNCONSCIOUSNESS REFLECT SEVERE CEREBRAL INJURY. ... CYANOSIS, TACHYPNEA & DYSPNEA OCCUR AS CONSEQUENCE OF EXTREME STIMULATION OF METABOLISM, PYREXIA, & TISSUE ANOXIA. WEIGHT LOSS OCCURS IN PERSONS CHRONICALLY POISONED AT LOW DOSAGES. /NITROPHENOLIC COMPOUNDS/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 23"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 23",
+                        "Matched": {
+                          "PCLID": 900022232,
+                          "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 23"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... TOXIC TO LIVER, KIDNEY, & NERVOUS SYSTEM. ... LIVER PARENCHYMA & RENAL TUBULES SHOW DEGENERATIVE CHANGES. ALBUMINURIA, PYURIA, HEMATURIA, & INCR BUN ARE OFTEN PROMINENT SIGNS OF RENAL INJURY. ... DEATH IN NITROPHENOL POISONING IS FOLLOWED PROMPTLY BY INTENSE RIGOR MORTIS. /NITROPHENOLIC COMPOUNDS/",
+                          "Markup": [
+                            {
+                              "Start": 209,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NITROPHENOL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6947"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 23"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 23",
+                        "Matched": {
+                          "PCLID": 900022232,
+                          "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 23"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MOST SEVERE POISONINGS FROM ABSORPTION OF THESE COMPOUNDS HAVE OCCURRED IN WORKERS WHO WERE CONCURRENTLY EXPOSED TO HOT ENVIRONMENTS. /NITROPHENOLIC COMPOUNDS/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "The Chemical Society. Foreign Compound Metabolism in Mammals Volume 3. London: The Chemical Society, 1975., p. 422"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "The Chemical Society. Foreign Compound Metabolism in Mammals Volume 3. London: The Chemical Society, 1975., p. 422",
+                        "Matched": {
+                          "PCLID": 900159329,
+                          "Citation": "The Chemical Society. Foreign Compound Metabolism in Mammals Volume 3. London: The Chemical Society, 1975., p. 422"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AFTER ORAL OR IP ADMINISTRATION OF DINOSEB ... TO PREGNANT MICE, THE PARENT CMPD & METABOLITES WERE FOUND @ LOW CONCN IN EMBRYOS. INITIAL LEVELS IN EMBRYOS AFTER IP ADMINISTRATION WERE HIGHER THAN THOSE FOUND AFTER ORAL DOSING, WHICH MIGHT EXPLAIN ... DIFFERENT TERATOGENIC RESPONSE ELICITED BY ORAL (NEG) & IP (POS) ROUTES.",
+                          "Markup": [
+                            {
+                              "Start": 35,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DINOSEB",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 189"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 189",
+                        "Matched": {
+                          "PCLID": 906290478,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 189"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... DINOSEB IS HIGHLY TOXIC TO FISH. AFTER 24 HR OF EXPOSURE, GOLDFISH SHOWED NO EFFECT @ 0.1 PPM; BUT @ 0.4 PPM, ALL DIED.",
+                          "Markup": [
+                            {
+                              "Start": 4,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DINOSEB",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 230"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 230",
+                        "Matched": {
+                          "PCLID": 900005102,
+                          "Citation": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 230"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... REPORT SURVIVAL OF RATS ADMINISTERED 5 MG/KG ORALLY, 60 MG/KG FATAL. ... RATS, AFTER SIX MONTHS OF 0.01% DINOSEB IN DIET, & DOGS AFTER 90 DAYS OF 4 MG/KG/DAY DINOSEB, SHOWED NO ILL EFFECTS.",
+                          "Markup": [
+                            {
+                              "Start": 109,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DINOSEB",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 162,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DINOSEB",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 190"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 190",
+                        "Matched": {
+                          "PCLID": 900137458,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 5th ed. Champaign, Illinois: Weed Science Society of America, 1983., p. 190"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "FED TO RATS FOR 5 TO 13 DAYS AS 0.05% OF DIET; CAUSED RAPID EMACIATION, SLIGHT KIDNEY & LIVER EFFECTS, & DEATH."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for DINOSEB (29 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 94,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1445#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DINOSEB",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Populations at Special Risk",
+                "Description": "People within the general population vary greatly in their sensitivity to chemical agents on an individual or mixture basis.  Some segments of the general population may be at greatest risk for adverse outcomes.  Well-known groups at special risk include children, women of childbearing age, the elderly and are also defined by nutritional status, occupations, contamination of local food supplies, gender and genetic inheritance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 23"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 23",
+                        "Matched": {
+                          "PCLID": 900022232,
+                          "Citation": "Morgan, D.P. Recognition and Management of Pesticide Poisonings. EPA 540/9-80-005. Washington, DC: U.S. Government Printing Office, Jan. 1982., p. 23"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "MOST SEVERE POISONINGS FROM ABSORPTION OF THESE COMPOUNDS HAVE OCCURRED IN WORKERS WHO WERE CONCURRENTLY EXPOSED TO HOT ENVIRONMENTS. /NITROPHENOLIC COMPOUNDS/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 20
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "LORZ HW ET AL; EFFECTS OF SELECTED HERBICIDES ON SMOLTING OR COHO SALMON, US EPA, EPA 600/3-79-071 : 1-103 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "LORZ HW ET AL; EFFECTS OF SELECTED HERBICIDES ON SMOLTING OR COHO SALMON, US EPA, EPA 600/3-79-071 : 1-103 (1979)",
+                        "Matched": {
+                          "PCLID": 900097673,
+                          "Citation": "LORZ HW ET AL; EFFECTS OF SELECTED HERBICIDES ON SMOLTING OR COHO SALMON, US EPA, EPA 600/3-79-071 : 1-103 (1979)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 YEARLING COHO SALMON 100 UG/L/96 HR /CONDITIONS OF BIOASSAY NOT SPECIFIED/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:907845",
+                      "MCCORKLE FM ET AL; BULL ENVIRON CONTAM TOXICOL 18 (3): 267-70 (1977)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:907845",
+                        "Matched": {
+                          "PCLID": 19737445,
+                          "Citation": "McCorkle FM, Chambers JE, Yarbrough JD. Acute toxicities of selected herbicides to fingerling channel catfish,Ictalurus punctatus. Bulletin of Environmental Contamination and Toxicology. 1977 Sep;18(3):267–70. doi: 10.1007/bf01683417.",
+                          "PMID": 907845,
+                          "DOI": "10.1007/bf01683417"
+                        }
+                      },
+                      {
+                        "Citation": "MCCORKLE FM ET AL; BULL ENVIRON CONTAM TOXICOL 18 (3): 267-70 (1977)",
+                        "Matched": {
+                          "PCLID": 19737445,
+                          "Citation": "McCorkle FM, Chambers JE, Yarbrough JD. Acute toxicities of selected herbicides to fingerling channel catfish,Ictalurus punctatus. Bulletin of Environmental Contamination and Toxicology. 1977 Sep;18(3):267–70. doi: 10.1007/bf01683417.",
+                          "PMID": 907845,
+                          "DOI": "10.1007/bf01683417"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 CATFISH 118 PPB/96 HR /CONDITIONS OF BIOASSAY NOT SPECIFIED/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 33"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 33",
+                        "Matched": {
+                          "PCLID": 900067813,
+                          "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 33"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Salmo clarki (Cutthroat trout) 67 ug/l/96 hr @ 10 °C (95% confidence limit 56-81 ug/l), wt 0.3 g /Technical material, 95.8%/ /Static bioassay/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 33"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 33",
+                        "Matched": {
+                          "PCLID": 900067813,
+                          "Citation": "U.S. Department of Interior, Fish and Wildlife Service. Handbook of Acute Toxicity of Chemicals to Fish and Aquatic Invertebrates. Resource Publication No. 137. Washington, DC: U.S. Government Printing Office, 1980., p. 33"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Salvelinus namaycush (Lake trout) 44 ug/l 96 hr @ 10 °C (95% confidence limit 38-51 ug/l), wt 0.3 g /Technical material, 95.8%/ /Static bioassay/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for DINOSEB (14 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 85,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1445#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DINOSEB",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 108,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Hudson, R.H.,  et al. 1984. Handbook of toxicity of pesticides to wildlife. U.S. Fish and  Wildlife Service, Resource Publication No. 153. 90 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/T_HudsonTuckerHaegele84.pdf",
+                      "Schafer, E.W.  1972. The acute oral toxicity of 369 pesticidal,  pharmaceutical and other chemicals to wild birds. Toxicology and Applied  Pharmacology. 21:315-330. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/A_Schafer_ToxicolApplPharmacol1972.pdf",
+                      "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hudson, R.H.,  et al. 1984. Handbook of toxicity of pesticides to wildlife. U.S. Fish and  Wildlife Service, Resource Publication No. 153. 90 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/T_HudsonTuckerHaegele84.pdf",
+                        "Matched": {
+                          "PCLID": 906318737,
+                          "Citation": "Hudson, R.H.,  et al. 1984. Handbook of toxicity of pesticides to wildlife. U.S. Fish and  Wildlife Service, Resource Publication No. 153. 90 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/T_HudsonTuckerHaegele84.pdf"
+                        }
+                      },
+                      {
+                        "Citation": "Schafer, E.W.  1972. The acute oral toxicity of 369 pesticidal,  pharmaceutical and other chemicals to wild birds. Toxicology and Applied  Pharmacology. 21:315-330. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/A_Schafer_ToxicolApplPharmacol1972.pdf",
+                        "Matched": {
+                          "PCLID": 906318721,
+                          "Citation": "Schafer, E.W.  1972. The acute oral toxicity of 369 pesticidal,  pharmaceutical and other chemicals to wild birds. Toxicology and Applied  Pharmacology. 21:315-330. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/A_Schafer_ToxicolApplPharmacol1972.pdf"
+                        }
+                      },
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf",
+                        "Matched": {
+                          "PCLID": 906318723,
+                          "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^88-85-7$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "6.30e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "8.20e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.50e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "7.00e+00"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.30e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "MCL-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "6.20e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.00e-03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.90e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.50e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.40e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "7.00e+00"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.00e-03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "ICSC Environmental Data",
+                "Description": "Environmental effects of this chemical, provided by the International Labour Organization's (ILO's) International Chemical Safety Cards (ICSC).",
+                "URL": "https://www.ilo.org/safework/info/publications/WCMS_113134/lang--en/index.htm",
+                "Information": [
+                  {
+                    "ReferenceNumber": 36,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The substance is very toxic to aquatic organisms. This substance may be hazardous to the environment. Special attention should be given to bees, birds and mammals. This substance does enter the environment under normal use. Great care, however, should be taken to avoid any additional release, for example through inappropriate disposal."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Release of dinoseb has resulted primarily from its use as an herbicide on a variety of weeds. Release of dinoseb to soil is expected to result in biodegradation and dinoseb will only weakly adsorb to soils and should, therefore, leach to groundwater. However, it may bind more strongly to clay soils, especially at acidic pH. Photolytic degradation of dinoseb from soil surface may be important. Dinoseb may photodegrade in surface water with a half-life of 14-18 days. Hydrolysis in water may not be important. It is unlikely to undergo significant biodegradation in most natural waters. Volatilization from water is expected to be slow and bioconcentration is expected to be insignificant. The half-life for the reaction of vapor phase dinoseb with photochemically generated hydroxyl radicals in the atmosphere was estimated to be 14.1 days. Wet deposition may remove some of the compound from air. Exposure to dinoseb in humans is expected to occur primarily in workers using the herbicide. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 105,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 165,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 352,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 396,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 432,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 484,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 609,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 738,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 777,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 913,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Worthing CR, Walker SB; The Pesticide Manual 8th ed. The Lavenham Press Ltd, Suffolk. pp. 307-8 (1987)",
+                      "(2) Verschueren K; Handbook of Environmental Data on Organic Chemicals. 2nd ed. Van Nostrand Reinhold NY p. 570 (1983)",
+                      "(3) Merck Index; An Encyclopedia of Chemicals, Drugs and Biologicals 10th ed pp. 480 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Worthing CR, Walker SB; The Pesticide Manual 8th ed. The Lavenham Press Ltd, Suffolk. pp. 307-8 (1987)"
+                      },
+                      {
+                        "Citation": "(2) Verschueren K; Handbook of Environmental Data on Organic Chemicals. 2nd ed. Van Nostrand Reinhold NY p. 570 (1983)"
+                      },
+                      {
+                        "Citation": "(3) Merck Index; An Encyclopedia of Chemicals, Drugs and Biologicals 10th ed pp. 480 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dinoseb is a contact herbicide used as the ammonium or amine salt for post-emergence weed control in cereals, undersown cereals, seedling lucerne and peas(1). Oil solutions of dinoseb are used for pre-emergence control of annual weeds in beans, peas and potatoes, for pre-harvest dessication of hops, leguminous seed crops, potatoes and for control of runners and suckers in strawberries and raspberries(1). Dinoseb is also used as a corn yield enhancer(2) and an insecticide and miticide(3). Therefore, direct release to the environment from these herbicidal applications has occurred(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 43,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ammonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-223"
+                            },
+                            {
+                              "Start": 176,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 408,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 679"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 679",
+                        "Matched": {
+                          "PCLID": 906289026,
+                          "Citation": "Kearney, P.C., and D. D. Kaufman (eds.) Herbicides: Chemistry, Degredation and Mode of Action. Volumes 1 and 2. 2nd ed. New York: Marcel Dekker, Inc., 1975., p. 679"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: WATER-SOLUBLE SALTS OF DINOSEB ... LEACH READILY IN SOIL. HOWEVER, OIL-SOLUBLE OR WATER-MISCIBLE FORMULATIONS OF DINOSEB MOVED MUCH LESS THAN WATER-SOLUBLE FORMULATIONS.",
+                          "Markup": [
+                            {
+                              "Start": 18,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 41,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DINOSEB",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 100,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 131,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DINOSEB",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 160,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Stevens DK et al; Sensitive Parameter Evaluation for a Vadose Zone Fate and Treatment Model Ada,OK USEPA-600/S-2-89-039 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Stevens DK et al; Sensitive Parameter Evaluation for a Vadose Zone Fate and Treatment Model Ada,OK USEPA-600/S-2-89-039 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Dinoseb is expected to biodegrade in slowly soil. It should bind weakly to soil. Therefore, leaching in soil is possible and dinoseb has been detected in groundwater. However, it may bind more strongly to clay soils, specialy at acidic pH. Photolytic degrdration of dinoseb from soil surface may be important. Volatilization is not expected to be significant. In the absence of volatilization, the half-life of dinoseb in the vadose zone sandy loam soil was estimated to be about 100 days(1).",
+                          "Markup": [
+                            {
+                              "Start": 18,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 143,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 284,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 429,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Drinking Water Health Advisory: Pesticides Chelsea,MI: Lewis Publ Inc pp. 324-5 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Drinking Water Health Advisory: Pesticides Chelsea,MI: Lewis Publ Inc pp. 324-5 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Dinoseb may photodegrade in surface water with a half-life of 14-16 days(1). Hydrolysis in water may not be important(1). Volatilization and adsorption to sediments are not expected to be significant. It is unlikely to undergo significant biodegradation in most natural waters(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 50,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 105,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Sunito LR et al; Rev Environ Contam Toxicol 103: 1-59 (1988)",
+                      "(2) Eisenreich SJ et al; Environ Sci Technol 15: 30-8 (1981)",
+                      "(3) Atkinson R; Chem Rev 85: 69-201 (1985)",
+                      "(4) Kearney PC, Kaufman DD; Herbicides 2nd ed. Vol 2 NY: Marcel Dekker p. 678 (1975)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Sunito LR et al; Rev Environ Contam Toxicol 103: 1-59 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Eisenreich SJ et al; Environ Sci Technol 15: 30-8 (1981)"
+                      },
+                      {
+                        "Citation": "(3) Atkinson R; Chem Rev 85: 69-201 (1985)"
+                      },
+                      {
+                        "Citation": "(4) Kearney PC, Kaufman DD; Herbicides 2nd ed. Vol 2 NY: Marcel Dekker p. 678 (1975)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: Based on its vapor pressure of 8.5X10-2 mm Hg at 20 °C(1), dinoseb may exist entirely in the vapor phase in the atmosphere(2). The half-life for the reaction of vapor phase dinoseb with photochemically generated hydroxyl radicals in the atmosphere was estimated to be 4.1 days(3). Due to its water solubility of 52 mg/L at 25 °C(4), some of the atmospheric dinoseb may be removed by wet deposition.",
+                          "Markup": [
+                            {
+                              "Start": 77,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 191,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 230,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 310,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 375,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 175"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 175",
+                        "Matched": {
+                          "PCLID": 900055777,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 175"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "RESULTANT AVERAGE PERSISTENCE OF PHYTOTOXICITY @ RECOMMENDED RATES: 2 TO 4 WK UNDER AVERAGE CONDITIONS OF USE."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 175"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 175",
+                        "Matched": {
+                          "PCLID": 900055777,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 175"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... MICROBIAL BREAKDOWN HAS BEEN DEMONSTRATED."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Stojanovic BJ et al; J Environ Qual 1: 54-62 (1972)",
+                      "(2) Kearney PC, Kaufman DD; Herbicides 2nd ed. Vol 2 NY: Marcel Dekker p. 678 (1975)",
+                      "(3) Doyle RC et al; J Agric Food Chem 26: 987-9 (1978)",
+                      "(4) Verschuren K; Handbook of Environmental Data on Organic Chemicals 2nd ed. NY; Van Nostrand Reinhold p. 570 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Stojanovic BJ et al; J Environ Qual 1: 54-62 (1972)"
+                      },
+                      {
+                        "Citation": "(2) Kearney PC, Kaufman DD; Herbicides 2nd ed. Vol 2 NY: Marcel Dekker p. 678 (1975)"
+                      },
+                      {
+                        "Citation": "(3) Doyle RC et al; J Agric Food Chem 26: 987-9 (1978)"
+                      },
+                      {
+                        "Citation": "(4) Verschuren K; Handbook of Environmental Data on Organic Chemicals 2nd ed. NY; Van Nostrand Reinhold p. 570 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "At a very high application rate of 5 tons/acre, no biodegradation of dinoseb was observed in calcareous loam soil and the pesticide was found to be very inhibitory to soil microorganisms(1). At concentration typically applied to soil, dinoseb may biodegrade(2). Pseudomonas aeroginosa and P putida grew readily with dinoseb as a sole source of carbon, although it was not degraded by DNOC-degrading bacteria(2). Incubation of 5 ppm dinoseb in soil at 25 °C for 60 days resulted in evolution of 36.0% of the applied (14)C carbon as (14)C carbon dioxide(3). Dinoseb has been classified as unlikely to be degraded by even extended exposure to conventional biological sewage treatment process(4).",
+                          "Markup": [
+                            {
+                              "Start": 69,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 235,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 316,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 344,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 384,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DNOC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10800"
+                            },
+                            {
+                              "Start": 432,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 521,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 537,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 556,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Schneider M, Smith GW; Photochemical degradation of Malathion NTIS PB-286115 (1978)",
+                      "(2) USEPA; Drinking Water Health Advisory: Pesticides Chelsea,MI: Lewis Publ Inc pp. 324-5 (1989)",
+                      "(3) Worthing CR, Walker SB (eds); The Pesticides Manual 8th ed. The Lavenham Press Ltd, Suffolk, pp. 307-8 (1987)",
+                      "(4) Gustafson DI; Environ Toxicol Chem 8: 339-57 (1989)",
+                      "(5) Atkinson R; Chem Re 85: 69-201 (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Schneider M, Smith GW; Photochemical degradation of Malathion NTIS PB-286115 (1978)"
+                      },
+                      {
+                        "Citation": "(2) USEPA; Drinking Water Health Advisory: Pesticides Chelsea,MI: Lewis Publ Inc pp. 324-5 (1989)"
+                      },
+                      {
+                        "Citation": "(3) Worthing CR, Walker SB (eds); The Pesticides Manual 8th ed. The Lavenham Press Ltd, Suffolk, pp. 307-8 (1987)"
+                      },
+                      {
+                        "Citation": "(4) Gustafson DI; Environ Toxicol Chem 8: 339-57 (1989)"
+                      },
+                      {
+                        "Citation": "(5) Atkinson R; Chem Re 85: 69-201 (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The absorption maximum of dinoseb in water is 375 nm(1) and therefore, direct photolysis of dinoseb in water may be significant. The half-life of dinoseb in a sandly loam soil was 14 hrs when exposed to natural sunlight indicating that it is subject to photodegradation in soil(2). In water dinoseb had a half-life of 14-18 days when exposed to natural sunlight(2). Dinoseb is a weak acid (pKa = 4.62(3)) and ionization will occur in alkaline water. Dinoseb was stable to hydrolysis in water in the pH range of 5-9 at 25 °C over a period of 30 days(2). The hydrolysis half-life of dinoseb to soil was estimated to be 30 days(4). This indicates that hydrolysis in soil may be soil-catalyzed. Based on an estimation method(5) and a daily average concn of 5X10+5/cu cm for hydroxyl radicals(5), a half-life of 4.1 days was estimated fo the reaction of vapor phase dinoseb with photochemically produced generated hydroxyl radicals(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 26,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 37,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 92,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 103,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 146,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 285,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 291,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 366,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 443,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 450,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 486,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 581,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 770,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 861,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 909,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Kenaga EE; Ecotox Env Safety 4: 26-38 (1980)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Kenaga EE; Ecotox Env Safety 4: 26-38 (1980)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A bioconcentration factor (BCF) of 68 for dinoseb was estimated from its water solubility (50 mg/L)(1). A BCF of this magnitude suggests that dinoseb will not bioconcentrate significantly(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 42,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 73,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 142,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Kenaga EE; Ecotox Env Safety 4: 26-38 (1980)",
+                      "(2) Hodson J, Williams NA; Chemosphere 17: 67-77 (1988)",
+                      "(3) Saltzman S, Yariv S; Soil Sci Soc Amer Proc 39 474-9 (1974)",
+                      "(4) USEPA; Drinking Water Health Advisory; Pesticides Chelsea,MI: Lewis Publ Inc pp. 324-5 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Kenaga EE; Ecotox Env Safety 4: 26-38 (1980)"
+                      },
+                      {
+                        "Citation": "(2) Hodson J, Williams NA; Chemosphere 17: 67-77 (1988)"
+                      },
+                      {
+                        "Citation": "(3) Saltzman S, Yariv S; Soil Sci Soc Amer Proc 39 474-9 (1974)"
+                      },
+                      {
+                        "Citation": "(4) USEPA; Drinking Water Health Advisory; Pesticides Chelsea,MI: Lewis Publ Inc pp. 324-5 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The measured soil-sorption coefficient (Koc) of dinoseb is 124(1). A Koc of this magnitude suggests that dinoseb will be highly mobile in soil and may leach to groundwater. A much higher Koc value of 6607 wa obtained at a buffered pH of 3(2). It appears that soil sorption may be pH dependent and at low pH adsorption may be stronger. It has been shown, however, that p-nitrophenol adsorbs strongly to clays through an interaction between the nitro group and the water molecules or metallic cations in the clay(3). Dinoseb may similarly bind to clays at low pH. Experiments with soil thin layer chromatography showed that dinoseb was intermediate to very mobile in silt loam sand loam and silty loam soils(4).",
+                          "Markup": [
+                            {
+                              "Start": 48,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 105,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 368,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/p-nitrophenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-980"
+                            },
+                            {
+                              "Start": 463,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 515,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 622,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 175"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 175",
+                        "Matched": {
+                          "PCLID": 900055777,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 175"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SOME LOSSES ... UNDER SPECIFIC CONDITIONS OF SOIL ACIDITY, HIGH TEMP, & SURFACE SOIL MOISTURE."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Sunito LR et al; Rev Environ Contam Toixcol 103: 1-59 (1988)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods NY: McGraw-Hill pp. 15-16 (1982)",
+                      "(3) Kearney PC, Kaufman DD; Herbicides 2nd ed. Vol 2 NY: Marcel Dekker p. 678 (1975)",
+                      "(4) Morrill LG et al; Toxic Chemicals in the Soil Environment Vol 2 NTIS AD-A158 215, Springfield, VA (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Sunito LR et al; Rev Environ Contam Toixcol 103: 1-59 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods NY: McGraw-Hill pp. 15-16 (1982)"
+                      },
+                      {
+                        "Citation": "(3) Kearney PC, Kaufman DD; Herbicides 2nd ed. Vol 2 NY: Marcel Dekker p. 678 (1975)"
+                      },
+                      {
+                        "Citation": "(4) Morrill LG et al; Toxic Chemicals in the Soil Environment Vol 2 NTIS AD-A158 215, Springfield, VA (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The esimated Henry's Law constant of 5.04X10-4 atm cu m/mol(1) suggests that volatilization of dinoseb from water will be slow(2). Some loss of dinoseb may occur from moist soil surface by codistillation specially at high temperature and acidic soil conditions(3). The laboratory-measured evaporation half-life for dinoseb from a soil surface (soil characteristics and environmental conditions not specified) was 26 days(4).",
+                          "Markup": [
+                            {
+                              "Start": 95,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 108,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 144,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 315,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:537863",
+                      "FRANK R ET AL; PESTIC MONIT J 13 (3): 120-27 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:537863",
+                        "Matched": {
+                          "PCLID": 27174671,
+                          "Citation": "Frank R, Sirons GJ, Ripley BD. Herbicide contamination and decontamination of well waters in Ontario, Canada, 1969-78. Pestic Monit J. 1979 Dec;13(3):120–7. PMID: 537863.",
+                          "PMID": 537863
+                        }
+                      },
+                      {
+                        "Citation": "FRANK R ET AL; PESTIC MONIT J 13 (3): 120-27 (1979)",
+                        "Matched": {
+                          "PCLID": 27174671,
+                          "Citation": "Frank R, Sirons GJ, Ripley BD. Herbicide contamination and decontamination of well waters in Ontario, Canada, 1969-78. Pestic Monit J. 1979 Dec;13(3):120–7. PMID: 537863.",
+                          "PMID": 537863
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GROUNDWATER: OVER 10 YR 1969-1978, WATERS OF WELLS IN ONTARIO, CANADA WERE ANALYZED BECAUSE OF CONTAMINATION FROM HERBICIDE SPILLAGE IN OR NEAR THE WELL, COMPLAINTS OF IMPAIRED WATER FLAVOR, OR INJURY TO SEEDLING PLANTS MOISTENED WITH WELL WATER. ONE OF THE 3 PARTICULARLY PERSISTENT CONTAMINANTS WAS DINOSEB.",
+                          "Markup": [
+                            {
+                              "Start": 177,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 240,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 301,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DINOSEB",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Aharonson N et al; Pure Appl Chem 59: 1419-46 (1987)",
+                      "(2) Cohen SZ et al; ACS Symp Ser 315: 176-96 (1986)",
+                      "(3) Frank R et al; Arch Environ Contam Toxicol 16: 9-22 (1987)",
+                      "(4) Cohen DB; ACS Symp Ser 315: 499-529 (1986)",
+                      "(5) Krill RM, Sonzogni WC; J Am Water Works Assoc 78: 70-5 (1986)",
+                      "(6) Hallberg GR; Agr Ecosyst Environ 26: 299-367 (1989)",
+                      "(7) Williams WM et al; Pesticides in Groundwater Database: 1988 Interim Report, NTIS PB89 164230 AS, Springfield, VA (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Aharonson N et al; Pure Appl Chem 59: 1419-46 (1987)"
+                      },
+                      {
+                        "Citation": "(2) Cohen SZ et al; ACS Symp Ser 315: 176-96 (1986)"
+                      },
+                      {
+                        "Citation": "(3) Frank R et al; Arch Environ Contam Toxicol 16: 9-22 (1987)"
+                      },
+                      {
+                        "Citation": "(4) Cohen DB; ACS Symp Ser 315: 499-529 (1986)"
+                      },
+                      {
+                        "Citation": "(5) Krill RM, Sonzogni WC; J Am Water Works Assoc 78: 70-5 (1986)"
+                      },
+                      {
+                        "Citation": "(6) Hallberg GR; Agr Ecosyst Environ 26: 299-367 (1989)"
+                      },
+                      {
+                        "Citation": "(7) Williams WM et al; Pesticides in Groundwater Database: 1988 Interim Report, NTIS PB89 164230 AS, Springfield, VA (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GROUNDWATER: Detected in groundwater of Long Island, NY at concn range 1-5 ug/L(2). The concn of dinoseb in well water 182 days following a spill was 13 mg/L(3) and was over 3000 mg/L after 382 days of spill(3). Qualitatively detected in 11 groundwater samples in CA(4) and 2 groundwater samples in WI(5). It was also detected in groundwater samples in ME, MA and OR(6). In 3 states in US, its median concn in groundwater was 0.7 ug/L with a max concn of 36.7 ug/L(7).",
+                          "Markup": [
+                            {
+                              "Start": 97,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 113,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Drinking Water Health Advisory: Pesticides Chelsea,MI: Lewis Publ Inc pp. 324-5 (1989)",
+                      "(2) Wan MT; J Environ Sci Healtyh B24: 183-204 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Drinking Water Health Advisory: Pesticides Chelsea,MI: Lewis Publ Inc pp. 324-5 (1989)"
+                      },
+                      {
+                        "Citation": "(2) Wan MT; J Environ Sci Healtyh B24: 183-204 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATER: If was found at a concn of 1 ug/L in a Ohio surface water out of 89 surface waters collected from different locations(1). Dinoseb was consistently found in ditch water at farms in British Columbia, Canada at concn from not detected to 20 ug/L(2).",
+                          "Markup": [
+                            {
+                              "Start": 8,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 67,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 137,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 177,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Effluent Concentrations",
+                "Description": "Concentration of this compound in effluent.  Effluent is wastewater (treated or untreated) discharged into surface waters from a treatment plant, sewer, or industrial outfall. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:2597801",
+                      "(1) O'Neill HJ et al; Bull Environ Contam Toxicol 43: 935-40 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:2597801",
+                        "Matched": {
+                          "PCLID": 25881043,
+                          "Citation": "O'Neill HJ, Pollock TL, Bailey HS, Milburn P, Gartley C, Richards JE. Dinoseb presence in agricultural subsurface drainage from potato fields in northwestern New Brunswick, Canada. Bulletin of Environmental Contamination and Toxicology. 1989 Dec;43(6):935–40. doi: 10.1007/bf01702068.",
+                          "PMID": 2597801,
+                          "DOI": "10.1007/bf01702068"
+                        }
+                      },
+                      {
+                        "Citation": "(1) O'Neill HJ et al; Bull Environ Contam Toxicol 43: 935-40 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dinoseb was detected at a max concn of 44 ug/L in the agricultural drainage water from potatoe fields in Northwestern New Brunswick, Canada(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 76,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Sediment/Soil Concentrations",
+                "Description": "Concentrations of this compound in sediment/soil. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Wan MT; J Environ Sci Health B24: 183-203 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Wan MT; J Environ Sci Health B24: 183-203 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A monitoring survey was conducted from 1985 to 1987 to determine the levels of five pesticides in selected farm ditches leading three rivers in British Columbia, Canada. In 1985, dinoseb was only found once in ditch sediments (July 1985, 22.9 ug/kg). However, in 1987, dinoseb residues were found in ditch sediments at two sites (mean level 81.2 and 108.6 ug/kg). Elevated levels were detected during the wet season of the yr (Dec 1987 and Feb 1988 samples)(1).",
+                          "Markup": [
+                            {
+                              "Start": 179,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            },
+                            {
+                              "Start": 269,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hayes, W. J., Jr. Toxicology of Pesticides Baltimore: Williams & Wilkins, 1975., p. 291"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hayes, W. J., Jr. Toxicology of Pesticides Baltimore: Williams & Wilkins, 1975., p. 291",
+                        "Matched": {
+                          "PCLID": 900038557,
+                          "Citation": "Hayes, W. J., Jr. Toxicology of Pesticides Baltimore: Williams & Wilkins, 1975., p. 291"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "POTENTIAL EXPOSURE OF WORKERS TO DINOSEB SPRAYING CORN & PEA FIELDS WITH BOOM GROUND SPRAYERS: 0.12 MG/HR RESPIRATORY; 88.7 MG/HR DERMAL; TOTAL= 0.57% TOXIC DOSE/HR. /FROM TABLE/",
+                          "Markup": [
+                            {
+                              "Start": 33,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DINOSEB",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 184"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 184",
+                        "Matched": {
+                          "PCLID": 900079363,
+                          "Citation": "Clarke, E.G., and M. L. Clarke. Veterinary Toxicology. Baltimore, Maryland: The Williams and Wilkins Company, 1975., p. 184"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DEATHS HAVE OCCURRED IN SPRAY OPERATORS & PLANNED MEASURES HAVE BEEN INTRODUCED TO PREVENT RISKS TO AGRICULTURAL WORKERS DURING APPLICATION ... ."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Exposure of workers to dinoseb is likely during spraying and mixing operations. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 23,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dinoseb",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6950"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134972512",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000088857",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19464351
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_47",
+        "Name": "Dinoseb",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=47",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895246
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID6950",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125844
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "EPA Provisional Peer-Reviewed Toxicity Values (PPRTVs)",
+        "SourceID": "pprtv_1725",
+        "Name": "Dinoseb",
+        "Description": "A Provisional Peer-Reviewed Toxicity Value (PPRTV) is a toxicity value primarily derived for use in EPA's Superfund Program. PPRTVs are derived from a review of the relevant scientific literature using EPA methods, sources of data and guidance for value derivation.",
+        "URL": "https://cfpub.epa.gov/ncea/pprtv/chemicalLanding.cfm?pprtv_sub_id=1725",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 39412947
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_284",
+        "Name": "Dinoseb",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2435895
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_284",
+        "Name": "Dinoseb",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8258688
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID3020207",
+        "Name": "Dinoseb",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57009808
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz1015",
+        "Name": "4,6-Dinitro-o-sec-butyl phenol",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17276681
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "1445",
+        "Name": "DINOSEB",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/1445",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 1243
+      },
+      {
+        "ReferenceNumber": 108,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "2614816250",
+        "Name": "Dinoseb",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49292071
+      },
+      {
+        "ReferenceNumber": 36,
+        "SourceName": "ILO-WHO International Chemical Safety Cards (ICSCs)",
+        "SourceID": "0149",
+        "Name": "DINOSEB",
+        "Description": "The International Chemical Safety Cards (ICSCs) are data sheets intended to provide essential safety and health information on chemicals in a clear and concise way. The primary aim of the Cards is to promote the safe use of chemicals in the workplace.",
+        "URL": "https://chemicalsafety.ilo.org/dyn/icsc/showcard.display?p_card_id=0149",
+        "LicenseNote": "Creative Commons CC BY 4.0",
+        "LicenseURL": "https://www.ilo.org/global/copyright/lang--en/index.htm",
+        "ANID": 2260065
+      },
+      {
+        "ReferenceNumber": 94,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Dinoseb",
+        "Name": "Dinoseb",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45400879
+      },
+      {
+        "ReferenceNumber": 106,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4873",
+        "Name": "(±)-2-(1-Methylpropyl)-4,6-dinitrophenol",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4873",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443962
+      },
+      {
+        "ReferenceNumber": 109,
+        "SourceName": "USGS Columbia Environmental Research Center",
+        "SourceID": "D0320",
+        "Name": "DINOSEB",
+        "Description": "The Acute Toxicity Database at the USGS Columbia Environmental Research Center (CERC) provides the results from aquatic acute toxicity tests.",
+        "URL": "https://www.cerc.usgs.gov/data/acute/qrychemdesc.asp?Chemical=D0320",
+        "LicenseURL": "https://www.usgs.gov/foia",
+        "ANID": 2284338
+      },
+      {
+        "ReferenceNumber": 110,
+        "SourceName": "USGS Health-Based Screening Levels for Evaluating Water-Quality Data",
+        "SourceID": "9e762f664a23afc22bdc90318211877f",
+        "Name": "Dinoseb",
+        "Description": "The USGS Health-Based Screening Levels for Evaluating Water-Quality Data contains Health-Based Screening Levels (HBSLs) that are non-enforceable water-quality benchmarks that can be used to (1) supplement U.S. Environmental Protection Agency (USEPA) Maximum Contaminant Levels (MCLs) and Human Health Benchmarks for Pesticides (HHBPs), (2) determine whether contaminants found in surface-water or groundwater sources of drinking water may indicate a potential human-health concern, and (3) help prioritize monitoring efforts. HBSLs were developed by the U.S. Geological Survey (USGS).",
+        "URL": "https://water.usgs.gov/water-resources/hbsl/index.html",
+        "LicenseURL": "https://www.usgs.gov/legal",
+        "ANID": 39668004
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Mesotrione",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:07.853609+00:00",
+  "url": "/chemical/search/equal/Mesotrione",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Mesotrione",
+        "dtxsid": "DTXSID7032424",
+        "dtxcid": "DTXCID5012424",
+        "casrn": "104206-82-8",
+        "hasStructureImage": 1,
+        "smiles": "CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C1C(=O)CCCC1=O)[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Mesotrione",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

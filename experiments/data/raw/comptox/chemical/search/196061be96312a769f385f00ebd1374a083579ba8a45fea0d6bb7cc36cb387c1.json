@@ -1,0 +1,25 @@
+{
+  "search_term": "KBEBGUQPQBELIU-HJWRWDBZSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:27.362333+00:00",
+  "url": "/chemical/search/equal/KBEBGUQPQBELIU-HJWRWDBZSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "(Z)-Ethyl cinnamate",
+        "dtxsid": "DTXSID701366711",
+        "dtxcid": "DTXCID40911500",
+        "casrn": "4610-69-9",
+        "hasStructureImage": 1,
+        "smiles": "CCOC(=O)\\C=C/C1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "KBEBGUQPQBELIU-HJWRWDBZSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

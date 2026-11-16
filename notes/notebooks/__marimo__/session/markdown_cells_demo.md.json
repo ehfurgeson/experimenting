@@ -1,0 +1,126 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.25.2",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "8d76c63867f11da54fb79bca4ac4182e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h1 id=\"native-markdown-cells\">Native Markdown cells</h1>\n<span class=\"paragraph\">A small authoring comparison for review. <strong>Read the rendered notebook, then inspect\nthe <code>.md</code> source</strong> to see how narrative and executable cells are separated.\nAll numbers below are synthetic demonstration values.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "acdfe07fe95211139a6eddc7d3509931",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"1-compare-the-source\">1. Compare the source</h2>\n<span class=\"paragraph\">Both styles can render the same heading and paragraph. The difference is how\nwe author and store the text.</span>\n<h3 id=\"old-pattern-illustrative-code-only\">Old pattern \u2014 illustrative code only</h3>\n<span class=\"paragraph\">This ordinary Python fence is displayed as code. It does <strong>not</strong> execute:</span>\n<div class=\"language-python codehilite\"><pre><span></span><code><span class=\"n\">mo</span><span class=\"o\">.</span><span class=\"n\">md</span><span class=\"p\">(</span>\\<span class=\"s2\">\"</span><span class=\"se\">\\\"\\\"</span>\n<span class=\"c1\">### A clear research question</span>\n\n<span class=\"n\">Compare</span> <span class=\"o\">**</span><span class=\"n\">synthetic</span> <span class=\"n\">herbicides</span><span class=\"o\">**</span> <span class=\"ow\">and</span> <span class=\"o\">**</span><span class=\"n\">natural</span> <span class=\"n\">products</span><span class=\"o\">**.</span>\n\\<span class=\"s2\">\"</span><span class=\"se\">\\\"\\\"</span><span class=\"s2\">)</span>\n</code></pre></div>\n<h3 id=\"preferred-pattern-native-markdown\">Preferred pattern \u2014 native Markdown</h3>\n<span class=\"paragraph\">Write the following directly in a <code>.md</code> notebook, outside Python cells:</span>\n<div class=\"language-markdown codehilite\"><pre><span></span><code><span class=\"gu\">### A clear research question</span>\n\nCompare <span class=\"gs\">**synthetic herbicides**</span> and <span class=\"gs\">**natural products**</span>.\n</code></pre></div></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "59b40d7059e13d60b4fa7ffd390a7635",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"a-clear-research-question\">A clear research question</h3>\n<span class=\"paragraph\">Compare <strong>synthetic herbicides</strong> and <strong>natural products</strong>.</span>\n<span class=\"paragraph\">This heading and paragraph are a native Markdown cell. There is no Python\nstring wrapper or Markdown-rendering call in this cell's source.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": "e44958dd154c951aca44c3675b96b1e7",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"2-keep-the-document-easy-to-read\">2. Keep the document easy to read</h2>\n<span class=\"paragraph\">Use a short introduction, descriptive headings, and a result followed by its\ninterpretation. Native cells support familiar Markdown:</span>\n<table>\n<thead>\n<tr>\n<th>Element</th>\n<th>Use it for</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Bold text</strong></td>\n<td>A key observation</td>\n</tr>\n<tr>\n<td>Lists</td>\n<td>Parallel points or review steps</td>\n</tr>\n<tr>\n<td>Equations, such as <marimo-tex class=\"arithmatex\">||(p = n_{observed} / n_{total}||)</marimo-tex></td>\n<td>Definitions with clear denominators</td>\n</tr>\n<tr>\n<td><a href=\"../AGENTS/MARIMO.md\">Authoring guidelines</a></td>\n<td>Supporting detail</td>\n</tr>\n</tbody>\n</table>\n<span class=\"paragraph\">Keep one main idea per cell. Use <code>&lt;!----&gt;</code> in the source to split adjacent\nMarkdown cells without adding a visible divider to the document.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "lEQa",
+      "code_hash": "8ce0c44c3ba3cacd22d0ff98ea60f514",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h2 id=\"3-put-changing-values-in-python-outputs\">3. Put changing values in Python outputs</h2>\n<span class=\"paragraph\">Choose how many of <strong>20 synthetic records</strong> have an observation. The table\nupdates reactively in the live notebook. These values describe evidence coverage;\nthey make no claim about toxicity or safety.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "PKri",
+      "code_hash": "1d0db38904205bec4d6f6f6a1f6cec3e",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Xref",
+      "code_hash": "c31245c3c4197a2c5cfd86f9b83a7c7f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Xref-0' random-id='52234839-d746-34d9-26b0-4126ae3ca371'><marimo-slider data-initial-value='12' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eRecords with an observation (out of 20)&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-start='0' data-stop='20' data-step='1' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='true' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "SFPL",
+      "code_hash": "17e340877751fc02cfc120536ee1182c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='SFPL-0' random-id='35e54984-27d2-8343-d2b2-c11100b51768'><marimo-table data-initial-value='[]' data-label='&quot;&#92;u003cspan class=&#92;&quot;markdown prose dark:prose-invert contents&#92;&quot;&#92;u003e&#92;u003cspan class=&#92;&quot;paragraph&#92;&quot;&#92;u003eSynthetic evidence coverage&#92;u003c/span&#92;u003e&#92;u003c/span&#92;u003e&quot;' data-data='&quot;[{&#92;&quot;Records with observation&#92;&quot;:12,&#92;&quot;Total records&#92;&quot;:20,&#92;&quot;Coverage (%)&#92;&quot;:60.0}]&quot;' data-total-rows='1' data-total-columns='3' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='false' data-page-size='1' data-show-filters='false' data-show-download='true' data-show-search='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-hidden-columns='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "BYtC",
+      "code_hash": "bc774b94058db79741e7de318e0bc620",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"why-the-result-has-its-own-cell\">Why the result has its own cell</h3>\n<span class=\"paragraph\">Native Markdown is static. For example, <code>{observed_records.value}</code> remains\nliteral text here; it is not Python interpolation. The labeled table above\ndisplays the computed value without using <code>mo.md(...)</code>.</span>\n<h2 id=\"review-checklist\">Review checklist</h2>\n<ol>\n<li>Inspect the source: prose is plain Markdown; only executable cells have\n   a <code>python {.marimo}</code> fence.</li>\n<li>Confirm the old pattern appears only as a displayed code sample.</li>\n<li>Move the slider in the live notebook: 0, 12, and 20 records should give\n   0%, 60%, and 100% coverage.</li>\n<li>Compare the source with this rendered view. Native Markdown changes the\n   authoring experience; it does not require a different rendered appearance.</li>\n</ol>\n<span class=\"paragraph\">The HTML export captures the default 12-record view. Use the live notebook for\nPython-backed interaction. This notebook and its export stay local in <code>notes/</code>.</span></span>"
+          }
+        }
+      ],
+      "console": []
+    }
+  ]
+}

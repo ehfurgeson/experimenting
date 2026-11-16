@@ -1,0 +1,44 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/records.json": "e6672ed83ddae73f32d0f46d96cced5c8c17bf534920805bdab8dd2ec047e1d0",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/1KMH_entry.json": "3437008c65c9522490b50aa367eff272fb6ebf58684bdb3330cd42c2cfc063a9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/1KMH_nonpolymer_3.json": "928796b17258eed3107d726e1bab4063dd86ac9e5d6ac3c1f68864fb13fb2ea3",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/1KMH_polymer_1.json": "23835e1fbca03bcc36ac4584475dbf3da39bd468820e667f73e31f1b0d8bacb4",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/1KMH_polymer_2.json": "b2b2dc63650271e4c80d6a6257cda0d6ce7b3deb4fa4fc045ac0a02b8a0a237f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/TTX_chemcomp.json": "97f04f0e10d865a3bafd70c1d089b7c6b42910f9727575ff22c78b9fcf4959bd",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/tentoxin_pubchem.json": "6d01c20c0003be25a23fafbce5fb19a9d8cabc44f9e74b52ddfb9835d63d6290",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/tentoxin_primary.html": "d94320ddff1913c59054225476118a36c74744e8dc2c743db1b7b5c0387fe75b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/8CI0_entry.json": "852c068ac5f1f4eb04b0898feb7298acd8d2745bea9064ea0c82d650f72fb880",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/8CI0_nonpolymer_2.json": "35492d26dd354ea72d264c41e2e5f866e5807f36d9b03cafbf10151b616c9435",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/8CI0_nonpolymer_3.json": "a6924abafbe15ebcc781fa8e6154940a494daeb044ab13850acc994f8c6aa8ef",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/8CI0_nonpolymer_4.json": "7dbcf8f1a5da0bf802dd6c9d82765eaf7dbe5f9aa18db013786c571d6b6141d5",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/8CI0_nonpolymer_5.json": "0015f7e3642ee595e371bc333a676a50eee8377bc2019cd83708130b7d34dc3e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/8CI0_polymer_1.json": "73a71ef1784e85812ab9cd1d45e8f080adaaaae1782e15aa1722b6dbc32e7ad7",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/UP0_chemcomp.json": "d7a5c059ba9ffbf73cb991334e4ee3f52e1510140029485ca45dbb23d9ca7bc1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/cornexistin_pubchem.json": "cb4e150b5199b37b9b7b27b58ddc18d3ee5e55b0b4867eb6838bfd8385a97455",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/cornexistin_primary.html": "c4ae8a716a2a53a4d36806dfacf224f1b94e741fecc740a31b2c312c3fc74bc7"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/binding-structural-pilot-2026-11-12-final/interactions.csv": "d3d811513bf48019608796e6586557bbb1dfb1b356812c950d756f798b279ebf",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/binding-structural-pilot-2026-11-12-final/protein_entities.csv": "ce207b5997328e4df52f35e0505de7162f3b4352f212f1406f8a428318ff3e60",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/binding-structural-pilot-2026-11-12-final/protein_sequences.fasta": "8d33199dd862b5e6b66f5be851391763a7d999665bbc7bef80d2c477abcca3e2"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/binding_catalog.py": "8ae097a14cfb8eb1d884a081ad35db20e2e99ec4a753413bc46745c05a4a7656",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/formula.py": "d326c65e8740a46232c8c2ae15a5211e03c97d356a48f74e12dc6eea8a661bad",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/screen.py": "5db7a6d1c7cf992b858211284c576c91eabc68ba47adce3234dafa52847efa74",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/structure.py": "763fd952f2c4c57ed16136cf6efb58d7454daf8106cc9075a8064114578dae4c"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/pyproject.toml": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "versions": {
+    "rdkit": "2026.9.1",
+    "polars": "2.0.0"
+  },
+  "interactions": 2,
+  "protein_entities": 3,
+  "models_fitted": 0,
+  "scope": "Declared experimental structural-evidence pilot, not a validated affinity model, natural-origin label set or safety claim. No docking scores or crystal incubation concentrations become Kd/Ki. Protein construct sequences and parent/bound forms remain distinct."
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "VJYIFXVZLXQVHO-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:33.241405+00:00",
+  "url": "/chemical/search/equal/VJYIFXVZLXQVHO-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Chlorsulfuron",
+        "dtxsid": "DTXSID7023980",
+        "dtxcid": "DTXCID503980",
+        "casrn": "64902-72-3",
+        "hasStructureImage": 1,
+        "smiles": "COC1=NC(C)=NC(NC(=O)NS(=O)(=O)C2=C(Cl)C=CC=C2)=N1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "VJYIFXVZLXQVHO-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

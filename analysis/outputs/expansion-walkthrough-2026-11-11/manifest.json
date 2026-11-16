@@ -1,0 +1,32 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-cohort-2026-11-11/manifest.json": "6f817413c1cda3c9d09795de04e17ed08fcfbf8233fc6fde14713c8d01d0337e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-ecotox-2026-11-11-context-verified/manifest.json": "d099ce66c0689297f689de59f6b5877162572e296905bfafc5a84f0b4366cded",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-primary-2026-11-11/manifest.json": "ff0ec43315ad41c3e9cfa3ebfbcf10c885c595eacab47ad65ab94346ecfa4cb2",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-review-2026-11-11/manifest.json": "5bb687ef6e9f58a4d243eec8ac6d9788308aa2da8b3eb19671b97f09b02711d5",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-toxicity-2026-11-11-final/manifest.json": "97c5c4fc162688130770a8bfb55011bbd1ef9df037fde73a4c1b56fe6242dc35"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/expansion_report.py": "d2e1c660d860f14211a60ee81b28b8540a4c25cccf18867211a863523a1a8167",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_report.py": "da72ca26118ded379cc2b4b7737ca33fa8efe3d0afd97481415276afc0514a0b"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-walkthrough-2026-11-11/README.md": "76bbe4ccfbc304266e1c266068761930ae0976ac1b7df321f30cb28f4236dce4",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-walkthrough-2026-11-11/aquatic_context.svg": "3c4f06095aaf4542f21a53594758351dcc21684dc51ae7ded772b6c442a7853b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-walkthrough-2026-11-11/missingness.svg": "407da521600054aa56c65ee14f7b391f8ccf87c2f6f7dd98192f8d0b8d8b0f20",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-walkthrough-2026-11-11/study_values.svg": "4c43ad7fc4e2fe782a7ea8f6af09ad017b1dda0bde9d0f5791274afb05917ae7",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/expansion-walkthrough-2026-11-11/walkthrough.html": "783d31e1781c072b3bdac526019ee4d2cdc79de5eeeca88bf23ca62125606054"
+  },
+  "upstream_bundles_verified": [
+    "ecotox",
+    "toxicity",
+    "review",
+    "sources",
+    "cohort"
+  ],
+  "accepted_labels": 0,
+  "biological_models_fitted": 0
+}

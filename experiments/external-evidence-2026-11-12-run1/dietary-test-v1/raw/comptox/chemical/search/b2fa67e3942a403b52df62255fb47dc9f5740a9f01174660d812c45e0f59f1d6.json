@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Glutamic acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:22.662017+00:00",
+  "url": "/chemical/search/equal/L-Glutamic acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5020659",
+        "dtxcid": "DTXCID30659",
+        "casrn": "56-86-0",
+        "preferredName": "L-Glutamic acid",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CCC(O)=O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "L-Glutamic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

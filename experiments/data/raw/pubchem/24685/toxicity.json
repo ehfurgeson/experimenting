@@ -1,0 +1,3377 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 24685,
+    "RecordTitle": "Propham",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 62,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Propham is a cholinesterase or acetylcholinesterase (AChE) inhibitor. Carbamates form unstable complexes with chlolinesterases by carbamoylation of the active sites of the enzymes.  This inhibition is reversible. A cholinesterase inhibitor suppresses the action of acetylcholine esterase. Because of its essential function, chemicals that interfere with the action of acetylcholine esterase are potent neurotoxins, causing excessive salivation and eye-watering in low doses.  Headache, salivation, nausea, vomiting, abdominal pain and diarrhea are often prominent at higher levels of exposure. Acetylcholine esterase breaks down the neurotransmitter acetylcholine, which is released at nerve and muscle junctions, in order to allow the muscle or organ to relax. The result of acetylcholine esterase inhibition is that acetylcholine builds up and continues to act so that any nerve impulses are continually transmitted and muscle contractions do not stop.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 265,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 368,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 594,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 650,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 776,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 818,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=260",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Propham"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Critical Effect Systems",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Immune"
+                        },
+                        {
+                          "String": "Nervous"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "Reference Dose (RfD), chronic",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2 x 10 ^-2 mg/kg-day"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "USGS Health-Based Screening Levels for Evaluating Water-Quality",
+                "Description": "This section provides the USGS Health-Based Screening Levels for Evaluating Water-Quality data.",
+                "URL": "https://water.usgs.gov/water-resources/hbsl/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 66,
+                    "Name": "Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Propham"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 66,
+                    "Name": "Chemical Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pesticide"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 66,
+                    "Name": "Noncancer HBSL (Health-Based Screening Level)[μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "100"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 66,
+                    "Name": "Reference",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Smith, C.D. and Nowell, L.H., 2024. Health-Based Screening Levels for evaluating water-quality data (3rd ed.). DOI:10.5066/F71C1TWP",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No data are available in humans. Inadequate evidence of carcinogenicity in animals. OVERALL EVALUATION: Group 3: The agent is not classifiable as to its carcinogenicity to humans."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "IARC Carcinogenic Agent",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Propham"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "IARC Carcinogenic Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Group 3: Not classifiable as to its carcinogenicity to humans"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "IARC Monographs",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Volume 12: (1976) Some Carbamates, Thiocarbamates and Carbazides",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "http://publications.iarc.who.int/30"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Volume Sup 7: Overall Evaluations of Carcinogenicity: An Updating of IARC Monographs Volumes 1 to 42, 1987; 440 pages; ISBN 92-832-1411-0 (out of print)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "http://publications.iarc.who.int/139"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Publication Year",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1987"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 24,
+                    "Name": "Evaluation Year",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1987"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 62,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php",
+                        "Matched": {
+                          "PCLID": 900177075,
+                          "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3, not classifiable as to its carcinogenicity to humans. (L135)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Health Effects",
+                "Description": "Principal effect(s) of exposure to each substance, listed by OSHA Health Code, Health Effects from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 62,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "A15321: Roldan-Tapia L, Nieto-Escamez FA, del Aguila EM, Laynez F, Parron T, Sanchez-Santed F: Neuropsychological sequelae from acute poisoning and long-term exposure to carbamate and organophosphate pesticides. Neurotoxicol Teratol. 2006 Nov-Dec;28(6):694-703. Epub 2006 Aug 30. PMID:17029710",
+                        "Matched": {
+                          "PCLID": 6512048,
+                          "Citation": "Roldan-Tapia L, Nieto-Escamez FA, del Aguila EM, Laynez F, Parron T, Sanchez-Santed F. Neuropsychological sequelae from acute poisoning and long-term exposure to carbamate and organophosphate pesticides. Neurotoxicol Teratol. 2006 Nov;28(6):694–703. doi: 10.1016/j.ntt.2006.07.004. PMID: 17029710.",
+                          "PMID": 17029710,
+                          "DOI": "10.1016/j.ntt.2006.07.004"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Acute exposure to cholinesterase inhibitors can cause a cholinergic crisis characterized by severe nausea/vomiting, salivation, sweating, bradycardia, hypotension, collapse, and convulsions. Increasing muscle weakness is a possibility and may result in death if respiratory muscles are involved.  Accumulation of ACh at motor nerves causes overstimulation of nicotinic expression at the neuromuscular junction. When this occurs symptoms such as muscle weakness, fatigue, muscle cramps, fasciculation, and paralysis can be seen. When there is an accumulation of ACh at autonomic ganglia this causes overstimulation of nicotinic expression in the sympathetic system. Symptoms associated with this are hypertension, and hypoglycemia. Overstimulation of nicotinic acetylcholine receptors in the central nervous system, due to accumulation of ACh, results in anxiety, headache, convulsions, ataxia, depression of respiration and circulation, tremor, general weakness, and potentially coma. When there is expression of muscarinic overstimulation due to excess acetylcholine at muscarinic acetylcholine receptors symptoms of visual disturbances, tightness in chest, wheezing due to bronchoconstriction, increased bronchial secretions, increased salivation, lacrimation, sweating, peristalsis, and urination can occur.  Chronically high (>10 years) exposure leads to neuropsychological consequences including disturbances in perception and visuo-motor processing (A15321).",
+                          "Markup": [
+                            {
+                              "Start": 760,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 1054,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 1082,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exposure Routes",
+                "Description": "The way people or other living organisms may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 62,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L793: IPCS Intox Database (1987). Antimony pentoxide. http://www.intox.org/databank/documents/chemical/antpenta/ukpid36.htm",
+                        "Matched": {
+                          "PCLID": 900177944,
+                          "Citation": "L793: IPCS Intox Database (1987). Antimony pentoxide. http://www.intox.org/databank/documents/chemical/antpenta/ukpid36.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Inhalation  (L793) ; oral (L793); dermal (L793)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Signs and Symptoms",
+                "Description": "Symptoms of exposure to this chemical through various routes (for example, ingestion, inhalation, skin contact, and eye contact).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 62,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L795: Fishel F (2009). Pesticide Toxicity Profile: Carbamate Pesticides. University of Florida, IFAS Extension. http://edis.ifas.ufl.edu/PI088",
+                        "Matched": {
+                          "PCLID": 900178123,
+                          "Citation": "L795: Fishel F (2009). Pesticide Toxicity Profile: Carbamate Pesticides. University of Florida, IFAS Extension. http://edis.ifas.ufl.edu/PI088"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "As with organophosphates, the signs and symptoms are based on excessive cholinergic stimulation. Unlike organophosphate poisoning, carbamate poisonings tend to be of shorter duration because the inhibition of nervous tissue acetylcholinesterase is reversible, and carbamates are more rapidly metabolized. Muscle weakness, dizziness, sweating and slight body discomfort are commonly reported early symptoms. Headache, salivation, nausea, vomiting, abdominal pain and diarrhea are often prominent at higher levels of exposure. Contraction of the pupils with blurred vision, incoordination, muscle twitching and slurred speech have been reported. (L795)",
+                          "Markup": [
+                            {
+                              "Start": 131,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-276"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Immune"
+                        },
+                        {
+                          "String": "Nervous"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Toxicity Link",
+                "Description": "This section provides the link to the aquatic acute toxicity test results, available at the Acute Toxicity Database at the U.S. Geological Survey (USGS) Columbia Environmental Research Center (CERC).",
+                "URL": "https://www.cerc.usgs.gov/data/acute/acute.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 65,
+                    "URL": "https://www.cerc.usgs.gov/data/acute/qryboth.asp?Chemical=PROPHAM",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: PROPHAM"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134973712"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 51,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 51,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "IRIS Current"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 1399"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 1399",
+                            "Matched": {
+                              "PCLID": 900058633,
+                              "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 1399"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat (male) oral 3724 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 1399"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 1399",
+                            "Matched": {
+                              "PCLID": 900058633,
+                              "Citation": "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of  Chemicals, Drugs, and Biologicals. 13th Edition, Whitehouse  Station, NJ:  Merck and Co., Inc., 2001., p. 1399"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat (female) oral 4315 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin CDS, ed. Propham (122-42-9). In: The e-Pesticide Manual, 13th Edition  Version 3.2 (2005-06). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin CDS, ed. Propham (122-42-9). In: The e-Pesticide Manual, 13th Edition  Version 3.2 (2005-06). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900087873,
+                              "Citation": "Tomlin CDS, ed. Propham (122-42-9). In: The e-Pesticide Manual, 13th Edition  Version 3.2 (2005-06). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse oral 3000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Tomlin CDS, ed. Propham (122-42-9). In: The e-Pesticide Manual, 13th Edition  Version 3.2 (2005-06). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Tomlin CDS, ed. Propham (122-42-9). In: The e-Pesticide Manual, 13th Edition  Version 3.2 (2005-06). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900087873,
+                              "Citation": "Tomlin CDS, ed. Propham (122-42-9). In: The e-Pesticide Manual, 13th Edition  Version 3.2 (2005-06). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse ip 1000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "For more Non-Human Toxicity Values (Complete) data for ISOPROPYL PHENYLCARBAMATE (6 total), please visit the HSDB record page.",
+                              "Markup": [
+                                {
+                                  "Start": 109,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/602#section=Non-Human-Toxicity-Values-(Complete)"
+                                },
+                                {
+                                  "Start": 55,
+                                  "Length": 25,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ISOPROPYL%20PHENYLCARBAMATE",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-24685"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Medium-Specific Concentration",
+                    "Description": "Medium-specific concentration (MSC) is a chemical concentration in a specific medium (e.g., air, water, soil) that is considered to be safe for human health or the environment.  MSCs are used in risk assessments to evaluate potential risks from chemical exposures in different media.  The MSCs for a chemical can be derived from various sources, such as regulatory standards, toxicity data, and risk assessment models.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MSC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Other Toxicity Values",
+                    "Description": "Other toxicity values that are less commonly used in toxicological studies.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^Other$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Treatment",
+                "Description": "Treatment when exposed to toxin",
+                "Information": [
+                  {
+                    "ReferenceNumber": 62,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "If the compound has been ingested, rapid gastric lavage should be performed using 5% sodium bicarbonate. For skin contact, the skin should be washed with soap and water. If the compound has entered the eyes, they should be washed with large quantities of isotonic saline or water. In serious cases, atropine and/or pralidoxime should be administered. Anti-cholinergic drugs work to counteract the effects of excess acetylcholine and reactivate AChE. Atropine can be used as an antidote in conjunction with pralidoxime or other pyridinium oximes (such as trimedoxime or obidoxime), though the use of '-oximes' has been found to be of no benefit, or possibly harmful, in at least two meta-analyses. Atropine is a muscarinic antagonist, and thus blocks the action of acetylcholine peripherally.",
+                          "Markup": [
+                            {
+                              "Start": 85,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20bicarbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-516892"
+                            },
+                            {
+                              "Start": 163,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 299,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/atropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-174174"
+                            },
+                            {
+                              "Start": 315,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pralidoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398747"
+                            },
+                            {
+                              "Start": 415,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            },
+                            {
+                              "Start": 450,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Atropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-174174"
+                            },
+                            {
+                              "Start": 506,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pralidoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398747"
+                            },
+                            {
+                              "Start": 554,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/trimedoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135539427"
+                            },
+                            {
+                              "Start": 569,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/obidoxime",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135412781"
+                            },
+                            {
+                              "Start": 697,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Atropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-174174"
+                            },
+                            {
+                              "Start": 764,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylcholine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-187"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 263"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 263",
+                        "Matched": {
+                          "PCLID": 900083787,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 263"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious. Positive pressure ventilation techniques with a bag valve mask device may be beneficial. Monitor cardiac rhythm and treat arrhythmias if necessary ... . Start an IV with D5W /SRP: \"To keep open\", minimal flow rate/. Use lactated Ringer's if signs of hypovolemia are present. For hypotension if signs of hypovolemia are present, administer fluid cautiously. Watch for signs of pulmonary edema ... . Administer atropine. Correct hypoxia before administration ... . In severely poisoned patients, administer pralidoxime chloride (2 PAM). DIRECT PHYSICIAN ORDERS ONLY ... . Treat seizures with adequate atropinization and correction of hypoxia. Rarely is diazepam necessary ... . Use proparacaine hydrochloride to assist eye irrigation ... . /Carbamates and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 531,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/atropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-174174"
+                            },
+                            {
+                              "Start": 627,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pralidoxime%20chloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54072659"
+                            },
+                            {
+                              "Start": 773,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 802,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 263"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 263",
+                        "Matched": {
+                          "PCLID": 900083787,
+                          "Citation": "Bronstein, A.C., P.L. Currance; Emergency Care for Hazardous Materials Exposure. 2nd ed. St. Louis, MO. Mosby Lifeline. 1994., p. 263"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Basic treatment: Establish a patent airway. Suction if necessary. Aggressive airway control may be needed. Watch for signs of respiratory insufficiency and assist ventilations if necessary. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with normal saline during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 ml/kg up to 200 ml of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool. Administer activated charcoal ... . /Carbamates and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 201,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 453,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 496,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/normal%20saline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5234"
+                            },
+                            {
+                              "Start": 619,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 732,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 386"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 386",
+                        "Matched": {
+                          "PCLID": 900114901,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 386"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Subacute toxicity: no-effect level for propham in diet of albino rats & beagle dogs over ... 90 days was 200 ppm & 2000 ppm, respectively.",
+                          "Markup": [
+                            {
+                              "Start": 95,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Oral administration with skin application of a promoting agent: Groups of 15 Swiss mice of each sex received...one of the following schedules: (1) a single dose of 15 mg/animal as a 1% solution in tragacanth given by stomach tube; (2) 15 mg once weekly for 10 wk; or (3) 1 g/kg of diet (0.1%) for 6 months. Promotion was induced either with a 5% solution of croton oil in olive oil twice weekly or with undiluted Tween 60 given 6 times/wk/6 months. A total of 65 /skin/ papillomas appeared during the 6 months of treatment plus 10 months of observation in mice given propham and croton oil...in 2 animals the papillomas progressed to carcinomas. 1 papilloma was seen in controls receiving croton oil only. In mice given propham and Tween 60, 5 papillomas appeared during the two periods. No skin tumors occurred in similar groups of mice given the propham treatments without the croton oil or Tween 60 treatments.",
+                          "Markup": [
+                            {
+                              "Start": 469,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tween%2060",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24832100"
+                            },
+                            {
+                              "Start": 623,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 776,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 788,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tween%2060",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24832100"
+                            },
+                            {
+                              "Start": 904,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 949,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tween%2060",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24832100"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "FAO/WHO; JMPR Pesticide residues in food, Part II Toxicology- Propham (1992). Available from, as of February 1, 2006: https://www.inchem.org/documents/jmpr/jmpmono/v92pr17.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "FAO/WHO; JMPR Pesticide residues in food, Part II Toxicology- Propham (1992). Available from, as of February 1, 2006: https://www.inchem.org/documents/jmpr/jmpmono/v92pr17.htm",
+                        "Matched": {
+                          "PCLID": 900053801,
+                          "Citation": "FAO/WHO; JMPR Pesticide residues in food, Part II Toxicology- Propham (1992). Available from, as of February 1, 2006: https://www.inchem.org/documents/jmpr/jmpmono/v92pr17.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Four groups of 10 Wistar rats (Bor strain, WISW/SPF Cpb)/sex, 4 to 5 weeks old were fed dietary concentrations of 0, 200, 1000 or 5000 ppm (equal to 0, 14, 70 or 384 mg/kg bw/day for males and 0, 21, 109 or 576 mg/kg bw/day for females) 99.3% purity propham for 13 weeks. ...Appearance, behavior and mortality of the rats were unaffected by dosages of up to 5000 ppm. Food intake of females was slightly increased at all three dose levels, but the increase was not dose-dependent. At 5000 ppm the body-weight gain in males was slightly but statistically significantly reduced. A significant and dose-dependent decrease was seen in the erythrocyte counts, hemoglobin, hematocrit and mean cell hemoglobin concentration and an increase was seen in the mean cell volume in males receiving 1000 and 5000 ppm and in females receiving 5000 ppm. Cholesterol concentrations were increased in females at 5000 ppm. Males dosed with 1000 and 5000 ppm had a significantly increased relative adrenal weight and at 5000 ppm increased relative liver and spleen weights. In females a significant increase in relative liver weight was observed at 1000 ppm and a significant increase in relative kidney and liver weight at 5000 ppm. At 1000 and 5000 ppm a treatment-related effect on liver function (liver weight and /aspartate aminotransferase/ (ASAT) activity) was seen in both sexes. A dose-dependent increase in hemosiderin content in the spleen was seen in both sexes at 1000 and 5000 ppm. Based on the effects on the blood parameters a NOAEL of 200 ppm equal to 14 and 21 mg/kg bw/day in males and females, respectively, was determined.",
+                          "Markup": [
+                            {
+                              "Start": 306,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 894,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Cholesterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5997"
+                            },
+                            {
+                              "Start": 1355,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspartate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "FAO/WHO; JMPR Pesticide residues in food, Part II Toxicology- Propham (1992). Available from, as of February 1, 2006: https://www.inchem.org/documents/jmpr/jmpmono/v92pr17.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "FAO/WHO; JMPR Pesticide residues in food, Part II Toxicology- Propham (1992). Available from, as of February 1, 2006: https://www.inchem.org/documents/jmpr/jmpmono/v92pr17.htm",
+                        "Matched": {
+                          "PCLID": 900053801,
+                          "Citation": "FAO/WHO; JMPR Pesticide residues in food, Part II Toxicology- Propham (1992). Available from, as of February 1, 2006: https://www.inchem.org/documents/jmpr/jmpmono/v92pr17.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Propham was tested in female guinea-pigs for skin sensitizing properties using Magnusson and Kligman's Maximization Test. ...Propham (purity 99.6%) was formulated in Cremophor EL (2% v/v) in physiological NaCl solution. ...The test animal group consisted of 10 guinea-pigs, and two control groups consisted of 10 animals each. The following propham concentrations were used: intradermal induction: 2.5%, topical induction: 25%, and challenge: 25%. Following shaving of the backs and flanks of the guinea-pigs three intradermal injections (injection volume 0.1 mL) with a distance of 1-2 cm were given in a row per side to the left and right of the spinal column. Topical induction with propham in cremophor/saline solution was performed one week after intradermal induction. Challenge exposure (0.5 mL) was performed three weeks after intradermal induction. A hypoallergenic dressing soaked in the 25% test article formulation was placed for 24 hr on the left flank of propham animals and first control group. A control dressing was placed on the right flank. The criterion for sensitization was a higher incidence and intensity of skin reaction in test animals compared to control animals. All animals tolerated the treatment without signs of toxicity and no skin reactions occurred among the test or control animals. There is thus no indication of a skin sensitizing effect of propham.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 181,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 222,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Cremophor%20EL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-104840"
+                            },
+                            {
+                              "Start": 397,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 742,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 1025,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 1435,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for ISOPROPYL PHENYLCARBAMATE (12 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 112,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/602#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ISOPROPYL%20PHENYLCARBAMATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of the Interior, Fish and Wildlife Service. Handbook of Toxicity of Pesticides to Wildlife. Resource Publication 153. Washington, DC: U.S. Government Printing Office, 1984., p. 49"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of the Interior, Fish and Wildlife Service. Handbook of Toxicity of Pesticides to Wildlife. Resource Publication 153. Washington, DC: U.S. Government Printing Office, 1984., p. 49",
+                        "Matched": {
+                          "PCLID": 900144233,
+                          "Citation": "U.S. Department of the Interior, Fish and Wildlife Service. Handbook of Toxicity of Pesticides to Wildlife. Resource Publication 153. Washington, DC: U.S. Government Printing Office, 1984., p. 49"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50 /Anas platyrhynchos/ (Mallard duck, 3 month old) oral >2,000 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Mayer FLJ, Ellersieck MR; Manual of Acute Toxicity: Interpretation and Data Base for 410 Chemicals and 66 Species of Freshwater Animals Resour Publ No.160: 505 (1986) Available from, as of January 18, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Mayer FLJ, Ellersieck MR; Manual of Acute Toxicity: Interpretation and Data Base for 410 Chemicals and 66 Species of Freshwater Animals Resour Publ No.160: 505 (1986) Available from, as of January 18, 2006",
+                        "Matched": {
+                          "PCLID": 900057740,
+                          "Citation": "Mayer FLJ, Ellersieck MR; Manual of Acute Toxicity: Interpretation and Data Base for 410 Chemicals and 66 Species of Freshwater Animals Resour Publ No.160: 505 (1986) Available from, as of January 18, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Gammarus fasciatus (Scud) 54 mg/L/24 hr (95% confidence interval: 31-92 mg/L); static /Formulated product/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Mayer FLJ, Ellersieck MR; Manual of Acute Toxicity: Interpretation and Data Base for 410 Chemicals and 66 Species of Freshwater Animals Resour Publ No.160: 505 (1986) Available from, as of January 18, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Mayer FLJ, Ellersieck MR; Manual of Acute Toxicity: Interpretation and Data Base for 410 Chemicals and 66 Species of Freshwater Animals Resour Publ No.160: 505 (1986) Available from, as of January 18, 2006",
+                        "Matched": {
+                          "PCLID": 900057740,
+                          "Citation": "Mayer FLJ, Ellersieck MR; Manual of Acute Toxicity: Interpretation and Data Base for 410 Chemicals and 66 Species of Freshwater Animals Resour Publ No.160: 505 (1986) Available from, as of January 18, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Gammarus fasciatus (Scud) 19 mg/L/96 hr (95% confidence interval: 10-34 mg/L); static /Formulated product/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Sanders HO; J Water Pollut Control Fed 24 (8): 1544-50 (1970) Available from, as of January 18, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Sanders HO; J Water Pollut Control Fed 24 (8): 1544-50 (1970) Available from, as of January 18, 2006",
+                        "Matched": {
+                          "PCLID": 900098897,
+                          "Citation": "Sanders HO; J Water Pollut Control Fed 24 (8): 1544-50 (1970) Available from, as of January 18, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Gammarus fasciatus (Scud) 22 mg/L/48 hr (95% confidence interval: 14-35 mg/L); static /Formulated product/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for ISOPROPYL PHENYLCARBAMATE (21 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 103,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/602#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ISOPROPYL%20PHENYLCARBAMATE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 63,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Hudson, R.H.,  et al. 1984. Handbook of toxicity of pesticides to wildlife. U.S. Fish and  Wildlife Service, Resource Publication No. 153. 90 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/T_HudsonTuckerHaegele84.pdf",
+                      "Tucker, R.K. and D.G. Crabtree. 1970. Handbook of toxicity of pesticides to  wildlife. U.S. Fish and Wildlife Service, Resource Publication No. 84. 131  pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/R_TuckerCrabtree70.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hudson, R.H.,  et al. 1984. Handbook of toxicity of pesticides to wildlife. U.S. Fish and  Wildlife Service, Resource Publication No. 153. 90 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/T_HudsonTuckerHaegele84.pdf",
+                        "Matched": {
+                          "PCLID": 906318737,
+                          "Citation": "Hudson, R.H.,  et al. 1984. Handbook of toxicity of pesticides to wildlife. U.S. Fish and  Wildlife Service, Resource Publication No. 153. 90 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/T_HudsonTuckerHaegele84.pdf"
+                        }
+                      },
+                      {
+                        "Citation": "Tucker, R.K. and D.G. Crabtree. 1970. Handbook of toxicity of pesticides to  wildlife. U.S. Fish and Wildlife Service, Resource Publication No. 84. 131  pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/R_TuckerCrabtree70.pdf",
+                        "Matched": {
+                          "PCLID": 906318734,
+                          "Citation": "Tucker, R.K. and D.G. Crabtree. 1970. Handbook of toxicity of pesticides to  wildlife. U.S. Fish and Wildlife Service, Resource Publication No. 84. 131  pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/R_TuckerCrabtree70.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^122-42-9$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "U.S. Department of the Interior, Fish and Wildlife Service. Handbook of Toxicity of Pesticides to Wildlife. Resource Publication 153. Washington, DC: U.S. Government Printing Office, 1984., p. 47"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "U.S. Department of the Interior, Fish and Wildlife Service. Handbook of Toxicity of Pesticides to Wildlife. Resource Publication 153. Washington, DC: U.S. Government Printing Office, 1984., p. 47",
+                        "Matched": {
+                          "PCLID": 900041132,
+                          "Citation": "U.S. Department of the Interior, Fish and Wildlife Service. Handbook of Toxicity of Pesticides to Wildlife. Resource Publication 153. Washington, DC: U.S. Government Printing Office, 1984., p. 47"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/BIRDS and MAMMALS/ /In male Mallards 3 months old/ regurgitation, high carriage, goose-stepping ataxia, falling when walking, walking with aid of wings. Signs persisted 2 to 4 wk after single oral administration."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Caporiccio B et al; CR Seances Soc Biol Ses Fil 175 (6): 811-20 (1981)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Caporiccio B et al; CR Seances Soc Biol Ses Fil 175 (6): 811-20 (1981)",
+                        "Matched": {
+                          "PCLID": 16462118,
+                          "Citation": "Caporiccio B, Michel R, Tournamille J, Sentein P. [Effects of propham and chlorpropham on the embryonic development of various vertebrates]. C R Seances Soc Biol Fil. 1981;175(6):811–20. PMID: 6459825.",
+                          "PMID": 6459825
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ Both propham and chloropropham were embryotoxic and teratogenic in amphibians.",
+                          "Markup": [
+                            {
+                              "Start": 23,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 35,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chloropropham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2728"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Domozych DS; Plant Cell Environ 14 (4): 391-398 (1991)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Domozych DS; Plant Cell Environ 14 (4): 391-398 (1991)",
+                        "Matched": {
+                          "PCLID": 692703022,
+                          "Citation": "DOMOZYCH DS. The perturbation of the endomembrane network of the chlamydomonad alga <i>Gloeomonas</i> by the herbicide isopropyl N‐phenyl carbamate (IPC). Plant Cell & Environment. 1991 May;14(4):391–8. doi: 10.1111/j.1365-3040.1991.tb00948.x.",
+                          "DOI": "10.1111/j.1365-3040.1991.tb00948.x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ The endomembrane network of the chlamydomonad alga, Gloeomonas kupferri, can be disrupted by the herbicide, isopropyl N-phenyl carbamate (IPC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.30e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.60e+04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.50e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.20e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.80e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.90e+04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.10e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Isopropyl phenylcarbmate's production may result in its release to the environment through various waste streams; it's former use in the US as a herbicide will have resulted in its direct release to the environment. If released to air, a vapor pressure of 1.4X10-4 mm Hg at 25 °C indicates isopropyl phenylcarbmate will exist solely in the vapor phase in the atmosphere. Vapor-phase isopropyl phenylcarbmate will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 7.3 hours. Isopropyl phenylcarbmate is not sensitive to sunlight. If released to soil, isopropyl phenylcarbmate is expected to have very high mobility based upon measured Koc values ranging from 51-65. Volatilization from water and moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 1.8X10-7 atm-cu m/mole. Isopropyl phenylcarbmate is not expected to volatilize from dry soil surfaces based upon its vapor pressure. Pure culture studies show that phenylcarbates are biodegraded to catechol which is then further metabolized through the TCA cycle. Isopropyl phenylcarbamate biodegrades more rapidly in soil that was previously treated with isopropyl phenylcarbamate. After 60 days, 70% of isopropyl phenylcarbamate from soil previously treated with the pesticide was degraded into CO2 compared to the 20% degraded by soil that had never been treated with the pesticide. Similar results were obtained with soil that had been treated with the pesticide carbetamide. Isopropyl phenylcarbamate is stable in the presence of anaerobic microorganisms. If released into water, isopropyl phenylcarbmate is not expected to adsorb to suspended solids and sediment based upon measured Koc values. Studies in river and lake water indicate biodegradation in water may be an important fate process; however this reaction may be dependent on concentration of the isopropyl phenylcarbamate in the water. An estimated BCF of 20 suggests the potential for bioconcentration in aquatic organisms is low. Isopropyl phenylcarbmate has been shown to be resistant to hydrolysis in the environment. Occupational exposure and general population exposure should be low or non-existent since isophenyl carbamate is no longer produced or used in the US (1998). In the past, isopropyl phenyl carbamate was applied directly to the potato, clover, lentil, sugar beet, safflower, pea, flax and spinach crops as an herbicide and exposure to this compound was primarily by dermal contact and in the field where it was applied. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 290,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 383,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 485,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 573,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 649,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 784,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 934,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 1108,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/catechol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-289"
+                            },
+                            {
+                              "Start": 1163,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6421"
+                            },
+                            {
+                              "Start": 1174,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 1266,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 1315,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 1577,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbetamide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-152031"
+                            },
+                            {
+                              "Start": 1590,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 1688,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1695,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 1837,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1870,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1973,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 2006,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2109,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 2299,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-276"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Isopropyl phenylcarbamate. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Isopropyl phenylcarbamate. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Isopropyl phenylcarbmate's production may result in its release to the environment through various waste streams; it's former use in the US as a herbicide(1) will have resulted in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Kenga EE; Ecotox Environ Saf 4:26-38 (1980)",
+                      "(3) Sabljic A et al.; Chemosphere 31:4489-4514 (1995)",
+                      "(4) Crop Protection Handbook 2004. Willoughby, OH: Meister Publishing Co. p. D-347 (2004)",
+                      "(5) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 675 (2003)",
+                      "(6) Mateen et al; Biological Degradation Bioremidication of Toxic Chem. Dioscorides Press: Portland, OR pp 198-233 (1994)",
+                      "(7) Robertson BK, Alexander M; Pest Sci 41: 311-318 (1994)",
+                      "(8) Hole SJW et al; Weed Res 41: 341-349 (2001)",
+                      "(9) Williams PP; Res Rev 66: 63-135 (1977)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Kenga EE; Ecotox Environ Saf 4:26-38 (1980)"
+                      },
+                      {
+                        "Citation": "(3) Sabljic A et al.; Chemosphere 31:4489-4514 (1995)"
+                      },
+                      {
+                        "Citation": "(4) Crop Protection Handbook 2004. Willoughby, OH: Meister Publishing Co. p. D-347 (2004)"
+                      },
+                      {
+                        "Citation": "(5) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 675 (2003)"
+                      },
+                      {
+                        "Citation": "(6) Mateen et al; Biological Degradation Bioremidication of Toxic Chem. Dioscorides Press: Portland, OR pp 198-233 (1994)"
+                      },
+                      {
+                        "Citation": "(7) Robertson BK, Alexander M; Pest Sci 41: 311-318 (1994)"
+                      },
+                      {
+                        "Citation": "(8) Hole SJW et al; Weed Res 41: 341-349 (2001)"
+                      },
+                      {
+                        "Citation": "(9) Williams PP; Res Rev 66: 63-135 (1977)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), measured Koc values ranging from 51 to 65(2,3) indicate that isopropyl phenylcarbmate is expected to have very high mobility in soil(SRC). Volatilization of isopropyl phenylcarbmate from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 1.8X10-7 atm-cu m/mole(SRC), derived from a vapor pressure of 1X10-4 mm Hg(4) and a water solubility of 1.79 mg/L(5). Isopropyl phenylcarbmate is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure. Pure culture studies show that phenylcarbates are biodegraded to catechol which is then further metabolized in the TCA cycle(6). Isopropyl phenylcarbamate biodegrades more rapidly in soil that was previously treated with isopropyl phenylcarbamate(7). After 60, days 70% of isopropyl phenylcarbamate from soil previously treated with the pesticide was degraded into CO2 compared to the 20% degraded by soil that had never been treated with the pesticide(7). Similar results were obtained with soil that had been treated with the pesticide carbetamide(8). Isopropyl phenylcarbamate is stable in the presence of anaerobic microorganisms(9).",
+                          "Markup": [
+                            {
+                              "Start": 116,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 212,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 442,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 476,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 655,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/catechol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-289"
+                            },
+                            {
+                              "Start": 705,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6421"
+                            },
+                            {
+                              "Start": 719,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 811,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 863,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 1128,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbetamide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-152031"
+                            },
+                            {
+                              "Start": 1144,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hocombe SD et al; Proc 8th Brit Weed Control Conference pp 605-613 (1966)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hocombe SD et al; Proc 8th Brit Weed Control Conference pp 605-613 (1966)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Isopropyl phenyl carbamate was applied as a spray on sandy loam soil taken from Bagbroke Hill Farm(1). The soil was then repotted and Italian rye grass was grown under greenhouse environment. Analysis of dry weight samples showed that isopropyl phenylcarbamate had a half life of less than 4.5 weeks in soil where Italian rye grass was grown(1).",
+                          "Markup": [
+                            {
+                              "Start": 253,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Kenga EE; Ecotox Environ Saf 4: 26-38 (1980)",
+                      "(3) Sabljic A et al; Chemosphere 31: 4489-4514 (1995)",
+                      "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(5) Crop Protection Handbook 2004. Willoughby, OH: Meister Publishing Co. p. D-347 (2004)",
+                      "(6) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 675 (2003)",
+                      "(7) Wolfe NL et al; Water Res 12: 561-563 (1978)",
+                      "(8) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(9) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 74 (1995)",
+                      "(10) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(11) Mateen et al; Biological Degradation Bioremidication of Toxic Chem. Dioscorides Press: Portland, OR pp 198-233 (1994)",
+                      "(12) Hoover DG et al; Appl Environ Microb 51: 226-232 (1986)",
+                      "(13) E-Dib MA, Aly OA; Water Res 10: 1055-1059 (1976)",
+                      "(14) Williams PP; Res Rev 66: 63-135 (1977)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Kenga EE; Ecotox Environ Saf 4: 26-38 (1980)"
+                      },
+                      {
+                        "Citation": "(3) Sabljic A et al; Chemosphere 31: 4489-4514 (1995)"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(5) Crop Protection Handbook 2004. Willoughby, OH: Meister Publishing Co. p. D-347 (2004)"
+                      },
+                      {
+                        "Citation": "(6) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 675 (2003)"
+                      },
+                      {
+                        "Citation": "(7) Wolfe NL et al; Water Res 12: 561-563 (1978)"
+                      },
+                      {
+                        "Citation": "(8) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(9) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 74 (1995)"
+                      },
+                      {
+                        "Citation": "(10) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(11) Mateen et al; Biological Degradation Bioremidication of Toxic Chem. Dioscorides Press: Portland, OR pp 198-233 (1994)"
+                      },
+                      {
+                        "Citation": "(12) Hoover DG et al; Appl Environ Microb 51: 226-232 (1986)"
+                      },
+                      {
+                        "Citation": "(13) E-Dib MA, Aly OA; Water Res 10: 1055-1059 (1976)"
+                      },
+                      {
+                        "Citation": "(14) Williams PP; Res Rev 66: 63-135 (1977)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), measured Koc values ranging from 51 to 65(2,3) indicate that isopropyl phenylcarbmate is not expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(4) based upon an estimated Henry's Law constant of 1.8X10-7 atm-cu m/mole(SRC), derived from a vapor pressure of 1X10-4 mm Hg(5) and a water solubility of 1.79 mg/L(6). Isopropyl phenylcarbmate has been shown to be resistant to hydrolysis in the environment(7). According to a classification scheme(8), an estimated BCF of 20(SRC), from its log Kow of 2.6 (9) and a regression-derived equation(10), suggests the potential for bioconcentration in aquatic organisms is low(SRC). Pure culture studies show that phenylcarbamates are biodegraded to catechol which is then further metabolized in the TCA cycle(11). Studies show that biodegradation in water may be an important fate process(12,13); however this reaction may be dependent on concentration of the sample(12). Isopropyl phenylcarbamate is stable in the presence of anaerobic microorganisms(14).",
+                          "Markup": [
+                            {
+                              "Start": 112,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 222,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 388,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 422,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 797,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/catechol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-289"
+                            },
+                            {
+                              "Start": 847,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6421"
+                            },
+                            {
+                              "Start": 898,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1020,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Crop Protection Handbook 2004. Willoughby, OH: Meister Publishing Co. p. D-347 (2004)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(4) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Isopropyl phenylcarbamate. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Crop Protection Handbook 2004. Willoughby, OH: Meister Publishing Co. p. D-347 (2004)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Isopropyl phenylcarbamate. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council, (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), isopropyl phenylcarbmate, which has a vapor pressure of 1.4X10-4 mm Hg at 25 deg(2), is expected to exist solely as a vapor phase in the ambient atmosphere. Vapor-phase isopropyl phenylcarbmate is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 7.3 hours(SRC), calculated from its rate constant of 5.2X10-11 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(3). Isopropyl phenylcarbmate does not contain chromophores that absorb at wavelengths >290 nm and has been shown not to be susceptible to direct photolysis by sunlight(4).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 293,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 390,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 625,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 385"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 385",
+                        "Matched": {
+                          "PCLID": 906297252,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 385"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SOIL MICROORGANISMS READILY DEGRADE PROPHAM, AS DEMONSTRATED BY PRODUCTION OF ANILINE, BY AN ENZYMATIC HYDROLYSIS REACTION WITH SUBSEQUENT LIBERATION OF CARBON DIOXIDE. ... IDENTIFIED ISOLATES FOUND EFFECTIVE IN DEGRADING PROPHAM ARE PSEUDOMONAS STRIATA CHESTER, A FLAVOBACTERIUM SP, AN AGROBACTERIUM SP, & ACHROMOBACTER SP.",
+                          "Markup": [
+                            {
+                              "Start": 36,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PROPHAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 78,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ANILINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6115"
+                            },
+                            {
+                              "Start": 153,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/CARBON%20DIOXIDE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 222,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PROPHAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Robertson BK, Alexander M; Pest Sci 41: 311-318 (1994)",
+                      "(2) Hole SJW et al; Weed Res 41: 341-349 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Robertson BK, Alexander M; Pest Sci 41: 311-318 (1994)"
+                      },
+                      {
+                        "Citation": "(2) Hole SJW et al; Weed Res 41: 341-349 (2001)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Lima silt loam (7.7% organic matter; pH 7.2) that was never treated with pesticide was treated with 1 ml of distilled water containing 14C labeled isopropyl phenylcarbamate(1). The final concentration of labeled and unlabeled pesticide was between 50,000-60,000 dpm. C14C labeled carbon dioxide was trapped and analyzed(1). Within 60 days, 20% of the C14 was mineralized to carbon dioxide. When the soil was retreated with isopropyl phenylcarbamate about 70% was mineralized to carbon dioxide within 60 days. This shows that biodegradation may be an important fate process especially in soil that has repeated treatments of isopropyl phenylcarbamate(1). Similar results were obtained in a separate study where a different carbamate pesticide was used(2). After 14 days less than 10% of isopropyl phenylcarbamate remained in soil(pH5.8 6% silt and 8% clay) that had previously been treated with the pesticide carbetamide(2). Similar soil that had never been treated with any pesticide contained greater than 70% of the original isopropyl phenyl carbamate pesticide after 14 days(2). This shows that biodegradation of isopropylphenyl carbamate is likely to be dependent on the history of pesticide application on the soil.",
+                          "Markup": [
+                            {
+                              "Start": 127,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 156,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 289,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 383,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 432,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 487,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbon%20dioxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-280"
+                            },
+                            {
+                              "Start": 633,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 731,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-276"
+                            },
+                            {
+                              "Start": 795,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 917,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbetamide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-152031"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hoover DG et al; Appl Enivron Microb 51: 226-232 (1986)",
+                      "(2) El-Dib MA, Aly OA; Water Res 10: 1055-1059 (1976)",
+                      "(3) Mateen et al; Biological Degradation Bioremidication of Toxic Chem. Dioscorides Press: Portland, OR pp 198-233 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hoover DG et al; Appl Enivron Microb 51: 226-232 (1986)"
+                      },
+                      {
+                        "Citation": "(2) El-Dib MA, Aly OA; Water Res 10: 1055-1059 (1976)"
+                      },
+                      {
+                        "Citation": "(3) Mateen et al; Biological Degradation Bioremidication of Toxic Chem. Dioscorides Press: Portland, OR pp 198-233 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Labeled isopropyl phenylcarbamate was incubated in water from White Lake in Old Forge, NY and Beebe Lake in Ithaca, NY(1). At concentrations of 400 pg/ml and 10 ng/ml less than 30% of the substrate remained after 60 days. However at 1 ug/mL there was little or no loss of labeled isopropyl phenyl carbamate(1). This indicates that biodegradation in water may be dependent on the concentration of isopropyl phenylcarbamate. Isopropyl phenylcarbamate was incubated with water samples taken from the Nile River in Egypt in concentrations of 6-7 mg/L(2). No degradation was observed during 4 months of observation; however, biodegradation occurred within a few days after Bacillus cerus was added to the water(2). Pure culture studies have shown that phenylcarbamates are degraded to aniline which in turn is then metabolized to catechol and used in the TCA cycle(3).",
+                          "Markup": [
+                            {
+                              "Start": 17,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 60,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 358,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 405,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 432,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 477,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 709,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 789,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aniline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6115"
+                            },
+                            {
+                              "Start": 834,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/catechol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-289"
+                            },
+                            {
+                              "Start": 859,
+                              "Length": 3,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6421"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Williams PP; Res Rev 66: 63-135 (1977)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Williams PP; Res Rev 66: 63-135 (1977)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: Isopropyl phenylcarbamate are stable in the presence of anaerobic microorganisms(1). This is consistent with other phenylcarbamates.",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kirk-Othmer Encyclopedia of Chemical Technology. 3rd ed., Volumes 1-26. New York, NY: John Wiley and Sons, 1978-1984., p. V21: 263-294 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kirk-Othmer Encyclopedia of Chemical Technology. 3rd ed., Volumes 1-26. New York, NY: John Wiley and Sons, 1978-1984., p. V21: 263-294 (1983)",
+                        "Matched": {
+                          "PCLID": 906286905,
+                          "Citation": "Kirk-Othmer Encyclopedia of Chemical Technology. 3rd ed., Volumes 1-26. New York, NY: John Wiley and Sons, 1978-1984., p. V21: 263-294 (1983)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The carbamate herbicide propham photodecomposes by at least two pathways.",
+                          "Markup": [
+                            {
+                              "Start": 4,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-276"
+                            },
+                            {
+                              "Start": 24,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Wolfe NL et al; Water Res 12: 561-563 (1978)",
+                      "(3) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Isopropyl phenylcarbamate. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Wolfe NL et al; Water Res 12: 561-563 (1978)"
+                      },
+                      {
+                        "Citation": "(3) Tomlin CDS, ed; The e-Pesticide Manual: a world compendium. Isopropyl phenylcarbamate. 13th ed. PC CD-ROM, Version 3.0, 2003-04. Surrey, UK: British Crop Protection Council (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of isopropyl phenylcarbmate with photochemically-produced hydroxyl radicals has been estimated as 5.2X10-11 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 7.3 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). Isopropyl phenylcarbmate has been shown to be resistant to hydrolysis in the environment(2). Isopropyl phenylcarbmate does not contain chromophores that absorb at wavelengths >290 nm and has been shown not to be susceptible to direct photolysis by sunlight(3).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 105,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 334,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 366,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 459,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 74 (1995)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 74 (1995)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 20 was calculated for isopropyl phenylcarbmate(SRC), using a log Kow of 2.6(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 42,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 385"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 385",
+                        "Matched": {
+                          "PCLID": 906297252,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 385"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "...PROPHAM IS READILY ADSORBED TO ACTIVATED CARBON & ORG MATTER...BOND IS RATHER WEAK, ALLOWING WATER TO LEACH PROPHAM THROUGH SOIL COLUMN.",
+                          "Markup": [
+                            {
+                              "Start": 3,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PROPHAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 44,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 96,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 111,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PROPHAM",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Kenga EE; Ecotox Environ Safety 4: 26-38 (1980)",
+                      "(2) Sabljic A et al; Chemosphere 31: 4489-4514 (1995)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Kenga EE; Ecotox Environ Safety 4: 26-38 (1980)"
+                      },
+                      {
+                        "Citation": "(2) Sabljic A et al; Chemosphere 31: 4489-4514 (1995)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of isopropyl phenylcarbmate has reported values between 51 to 65(1,2). According to a classification scheme(3), this estimated Koc value suggests that isopropyl phenylcarbmate is expected to have very high mobility in soil.",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 159,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 386"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 386",
+                        "Matched": {
+                          "PCLID": 900114901,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 386"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "INCR FIELD MOISTURE CAPACITY & TEMP GREATLY INCR VAPOR LOSSES TO POINT WHERE @ 35 °C VOLATILITY MAY BE MAJOR MEANS OF DISSIPATION."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Crop Protection Handbook 2004. Willoughby, OH: Meister Publishing Co. p. D-347 (2004)",
+                      "(2) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 675 (2003)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Crop Protection Handbook 2004. Willoughby, OH: Meister Publishing Co. p. D-347 (2004)"
+                      },
+                      {
+                        "Citation": "(2) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 675 (2003)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for isopropyl phenylcarbmate is estimated as 1.8X10-7 atm-cu m/mole(SRC) derived from a vapor pressure of 1X10-4 mm Hg(1) and a water solubility of 1.79 mg/L(2). This Henry's Law constant indicates that isopropyl phenylcarbmate is expected to be essentially nonvolatile from water and moist soil surfaces(2). Isopropyl phenylcarbmate is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 153,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 228,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 300,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 334,
+                              "Length": 24,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbmate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US EPA; Pesticides in Groundwater Database. A Compilation of Monitoring Studies: 1971-1991. National Summary USEPA Office of Pesticide Programs. Prevention Pesticides and Toxic Substinces (1992)",
+                      "(2) Hoffman RS et al; Environ Toxicol Chem 19: 2249-58 (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US EPA; Pesticides in Groundwater Database. A Compilation of Monitoring Studies: 1971-1991. National Summary USEPA Office of Pesticide Programs. Prevention Pesticides and Toxic Substinces (1992)"
+                      },
+                      {
+                        "Citation": "(2) Hoffman RS et al; Environ Toxicol Chem 19: 2249-58 (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "GROUNDWATER: Isopropyl phenylcarbamate was detected but not quantified in 1 out of 1,060 wells sampled in the US from 1971-1991(1). In a separate study, isopropyl phenylcarbamate was detected with 0.5% frequency in the public stream water of Denver CO with a maximum concentration of 0.07 ug/L(2).",
+                          "Markup": [
+                            {
+                              "Start": 13,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 153,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 233,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Jager ME et al; Internat J Environ Anal Chem 70: 149-162 (1998)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Jager ME et al; Internat J Environ Anal Chem 70: 149-162 (1998)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "RAIN/SNOW/FOG: Isopropyl phenylcarbamate was not detected in rainwater collected from Konigsmoor, Germany during 1996(1).",
+                          "Markup": [
+                            {
+                              "Start": 15,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Effluent Concentrations",
+                "Description": "Concentration of this compound in effluent.  Effluent is wastewater (treated or untreated) discharged into surface waters from a treatment plant, sewer, or industrial outfall. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) California EPA; Sampling for Pesticide Residues in California Well Water. 1995 Update of Well inventory database. Sacramento, CA: California Environmental Protection Agency, Deptartment of Pesticide Regulation, 10th annual report (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) California EPA; Sampling for Pesticide Residues in California Well Water. 1995 Update of Well inventory database. Sacramento, CA: California Environmental Protection Agency, Deptartment of Pesticide Regulation, 10th annual report (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Isopropyl phenylcarbamate was not detected in 35 wells from 3 counties in CA between July 1, 1994 and June 30, 1995(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Sediment/Soil Concentrations",
+                "Description": "Concentrations of this compound in sediment/soil. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Doull, J., C.D. Klaassen, and M. D. Amdur (eds.). Casarett and Doull's Toxicology. 2nd ed. New York: Macmillan Publishing Co., 1980., p. 642"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Doull, J., C.D. Klaassen, and M. D. Amdur (eds.). Casarett and Doull's Toxicology. 2nd ed. New York: Macmillan Publishing Co., 1980., p. 642",
+                        "Matched": {
+                          "PCLID": 900067232,
+                          "Citation": "Doull, J., C.D. Klaassen, and M. D. Amdur (eds.). Casarett and Doull's Toxicology. 2nd ed. New York: Macmillan Publishing Co., 1980., p. 642"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Compounds in.../the phenylcarbamate and carbanilate herbicide/ group incl propham. ...they are very immobile in soil systems. ...these cmpd have been shown to be inactivated by adsorption to soil org matter. ... The mechanism of adsorption to soil org matter is thought to involve hydrogen bonding between the carboxyl groups of the org matter and the nitrogen and carbonyl oxygen of the carbamate.",
+                          "Markup": [
+                            {
+                              "Start": 20,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-21896570"
+                            },
+                            {
+                              "Start": 74,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 281,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Hydrogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Hydrogen"
+                            },
+                            {
+                              "Start": 352,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Nitrogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Nitrogen"
+                            },
+                            {
+                              "Start": 388,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-276"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 386"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 386",
+                        "Matched": {
+                          "PCLID": 900114901,
+                          "Citation": "Weed Science Society of America. Herbicide Handbook. 4th ed. Champaign, IL: Weed Science Society of America, 1979. of America, 1979., p. 386"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "BIOASSAY TESTS INDICATE HALF LIFE...TO BE ABOUT 15 DAYS @ 16 °C & 5 DAYS @ 29 °C. HOWEVER, THE RATE OF DISSIPATION CAN VARY GREATLY WITH THE MICROBIAL ACTIVITY AND MOISTURE LEVEL OF A GIVEN SOIL."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Food Survey Values",
+                "Description": "Information on the amount or concentration of this compound in food, reported from various data sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Dejonckheere W et al; J AOAC Internat 79: 520-528 (1996)",
+                      "(2) Ekstrom G et al; Rev Environ Contam Toxicol 147: 119-147 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Dejonckheere W et al; J AOAC Internat 79: 520-528 (1996)"
+                      },
+                      {
+                        "Citation": "(2) Ekstrom G et al; Rev Environ Contam Toxicol 147: 119-147 (1996)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Isopropyl phenylcarbamate was detected in boiled potatoes(1). There were 97 reports of isopropyl carbamate in imported food in Sweden from 1990-1994(2).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Isopropyl%20phenylcarbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            },
+                            {
+                              "Start": 87,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/isopropyl%20carbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-15628"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Milk Concentrations",
+                "Description": "Concentrations of this compound in milk.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Menzie, C.M. Metabolism of Pesticides, Update II. U.S. Department of the Interior, Fish Wildlife Service, Special Scientific Report - Wildlife No. 2l2. Washington, DC: U.S. Government Printing Office, 1978., p. 80"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Menzie, C.M. Metabolism of Pesticides, Update II. U.S. Department of the Interior, Fish Wildlife Service, Special Scientific Report - Wildlife No. 2l2. Washington, DC: U.S. Government Printing Office, 1978., p. 80",
+                        "Matched": {
+                          "PCLID": 900073055,
+                          "Citation": "Menzie, C.M. Metabolism of Pesticides, Update II. U.S. Department of the Interior, Fish Wildlife Service, Special Scientific Report - Wildlife No. 2l2. Washington, DC: U.S. Government Printing Office, 1978., p. 80"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Main route of excretion of propham by goat was via urine. Small amount appeared in milk and feces.",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propham",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24685"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure and general population exposure should be low or non-existent since isophenyl carbamate is no longer produced or used in the US (1998). In the past, isopropyl phenyl carbamate was applied directly to the potato, clover, lentil, sugar beet, safflower, pea, flax and spinach crops as an herbicide and exposure to this compound was primarily by dermal contact and in the field where it was applied. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 100,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/carbamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-276"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134973712",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000122429",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19465236
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_260",
+        "Name": "Propham",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=260",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895467
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_726",
+        "Name": "Propham",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2436328
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_725",
+        "Name": "Propham",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8259129
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID7020766",
+        "Name": "Propham",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57026664
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "602",
+        "Name": "ISOPROPYL PHENYLCARBAMATE",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/602",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 536
+      },
+      {
+        "ReferenceNumber": 63,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "429989421",
+        "Name": "Propham,IPC",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49291829
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "International Agency for Research on Cancer (IARC)",
+        "SourceID": "1450796784",
+        "Name": "Propham",
+        "Description": "",
+        "URL": "https://monographs.iarc.who.int/list-of-classifications",
+        "LicenseNote": "Materials made available by IARC/WHO enjoy copyright protection under the Berne Convention for the Protection of Literature and Artistic Works, under other international conventions, and under national laws on copyright and neighbouring rights. IARC exercises copyright over its Materials to make sure that they are used in accordance with the Agency's principles. All rights are reserved.",
+        "LicenseURL": "https://publications.iarc.who.int/Terms-Of-Use",
+        "ANID": 39310684
+      },
+      {
+        "ReferenceNumber": 62,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D1002",
+        "Name": "Propham",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D1002",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20441233
+      },
+      {
+        "ReferenceNumber": 51,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Propham",
+        "Name": "Propham",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401884
+      },
+      {
+        "ReferenceNumber": 65,
+        "SourceName": "USGS Columbia Environmental Research Center",
+        "SourceID": "P0500",
+        "Name": "PROPHAM",
+        "Description": "The Acute Toxicity Database at the USGS Columbia Environmental Research Center (CERC) provides the results from aquatic acute toxicity tests.",
+        "URL": "https://www.cerc.usgs.gov/data/acute/qrychemdesc.asp?Chemical=P0500",
+        "LicenseURL": "https://www.usgs.gov/foia",
+        "ANID": 2284526
+      },
+      {
+        "ReferenceNumber": 66,
+        "SourceName": "USGS Health-Based Screening Levels for Evaluating Water-Quality Data",
+        "SourceID": "1edee5b6a0d31a9bb652b410793663eb",
+        "Name": "Propham",
+        "Description": "The USGS Health-Based Screening Levels for Evaluating Water-Quality Data contains Health-Based Screening Levels (HBSLs) that are non-enforceable water-quality benchmarks that can be used to (1) supplement U.S. Environmental Protection Agency (USEPA) Maximum Contaminant Levels (MCLs) and Human Health Benchmarks for Pesticides (HHBPs), (2) determine whether contaminants found in surface-water or groundwater sources of drinking water may indicate a potential human-health concern, and (3) help prioritize monitoring efforts. HBSLs were developed by the U.S. Geological Survey (USGS).",
+        "URL": "https://water.usgs.gov/water-resources/hbsl/index.html",
+        "LicenseURL": "https://www.usgs.gov/legal",
+        "ANID": 39668313
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Ethyl 2-methylacetoacetate",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:25.796470+00:00",
+  "url": "/chemical/search/equal/Ethyl 2-methylacetoacetate",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2033493",
+        "dtxcid": "DTXCID0013493",
+        "casrn": "609-14-3",
+        "preferredName": "Ethyl-2-methyl acetoacetate",
+        "hasStructureImage": 1,
+        "smiles": "CCOC(=O)C(C)C(C)=O",
+        "isMarkush": false,
+        "searchName": "Synonym from Valid Source",
+        "searchValue": "ethyl 2-methylacetoacetate",
+        "rank": 11
+      }
+    ],
+    "suggestions": []
+  }
+}

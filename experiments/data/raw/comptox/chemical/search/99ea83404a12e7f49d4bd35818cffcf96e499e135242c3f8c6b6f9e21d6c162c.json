@@ -1,0 +1,25 @@
+{
+  "search_term": "Cyclopyrimorate",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:17.446537+00:00",
+  "url": "/chemical/search/equal/Cyclopyrimorate",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID40198157",
+        "dtxcid": "DTXCID70120648",
+        "casrn": "499231-24-2",
+        "preferredName": "4-Morpholinecarboxylic acid, 6-chloro-3-(2-cyclopropyl-6-methylphenoxy)-4-pyridazinyl ester",
+        "hasStructureImage": 1,
+        "smiles": "CC1=C(OC2=NN=C(Cl)C=C2OC(=O)N2CCOCC2)C(=CC=C1)C1CC1",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Cyclopyrimorate",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "name": "confertin",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/confertin/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "file": "confertin.pubchem.json",
+    "sha256": "5b5482ba9b387984cfac444ff33c316c296fbd5fef6ef16ba5d757488cb6b911"
+  },
+  {
+    "name": "neoambrosin",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/neoambrosin/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "file": "neoambrosin.pubchem.json",
+    "sha256": "3b13d7a64542f1ff0b408a46d00a18172d9c43b05c67930f314ae85022fa47dc"
+  },
+  {
+    "name": "stagonolide A",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/stagonolide%20A/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 404
+  },
+  {
+    "name": "stagonolide J",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/stagonolide%20J/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "file": "stagonolide_J.pubchem.json",
+    "sha256": "d09702978f38c4d62d437218d63eedd5f7814372e5ff039fdc443c3e532dcb4c"
+  },
+  {
+    "name": "stagonolide K",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/stagonolide%20K/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "file": "stagonolide_K.pubchem.json",
+    "sha256": "aa540a4eb439d3aca8a26db877d95d334cb87094214df0f8294ed58e2368d60d"
+  },
+  {
+    "name": "herbarumin I",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/herbarumin%20I/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "file": "herbarumin_I.pubchem.json",
+    "sha256": "e33296a7f3ceef5a5ec86b0bc1a42b4f151acee97d18b79ff9c72cb2a011265c"
+  },
+  {
+    "name": "bisvertinolone",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bisvertinolone/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "file": "bisvertinolone.pubchem.json",
+    "sha256": "794f82498055ad476aca04ebd0c5ad73c76e0cee5793088dabfc02689d91e4f9"
+  },
+  {
+    "name": "demethyltrichodimerol",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/demethyltrichodimerol/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "file": "demethyltrichodimerol.pubchem.json",
+    "sha256": "ddadfe3c286bdcf7cd5ff25047b3a08372d37308dbd6e07472cdce58704006f9"
+  },
+  {
+    "name": "trichodimerol",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/trichodimerol/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "file": "trichodimerol.pubchem.json",
+    "sha256": "9366ed29ce52508584f62aab33114275fd5129584bc2f316409c9fd64ecdb033"
+  },
+  {
+    "name": "bislongiquinolide",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/bislongiquinolide/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "file": "bislongiquinolide.pubchem.json",
+    "sha256": "89f6430fac126515492eb0e62092348c4d93e5f9cd27f1a22286a703e2ca4f52"
+  }
+]

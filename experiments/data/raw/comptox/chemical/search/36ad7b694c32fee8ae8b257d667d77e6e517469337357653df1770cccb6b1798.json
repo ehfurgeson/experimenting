@@ -1,0 +1,25 @@
+{
+  "search_term": "XBDQKXXYIPTUBI-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:57.238962+00:00",
+  "url": "/chemical/search/equal/XBDQKXXYIPTUBI-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8025961",
+        "dtxcid": "DTXCID505961",
+        "casrn": "79-09-4",
+        "preferredName": "Propionic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCC(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "XBDQKXXYIPTUBI-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

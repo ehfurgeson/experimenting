@@ -1,0 +1,25 @@
+{
+  "search_term": "Chlorsulfuron",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:33.663510+00:00",
+  "url": "/chemical/search/equal/Chlorsulfuron",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7023980",
+        "dtxcid": "DTXCID503980",
+        "casrn": "64902-72-3",
+        "preferredName": "Chlorsulfuron",
+        "hasStructureImage": 1,
+        "smiles": "COC1=NC(C)=NC(NC(=O)NS(=O)(=O)C2=C(Cl)C=CC=C2)=N1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Chlorsulfuron",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

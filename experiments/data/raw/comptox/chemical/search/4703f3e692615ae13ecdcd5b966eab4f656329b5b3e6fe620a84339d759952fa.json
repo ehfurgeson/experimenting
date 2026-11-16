@@ -1,0 +1,25 @@
+{
+  "search_term": "Solanine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:28.814431+00:00",
+  "url": "/chemical/search/equal/Solanine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Solanine",
+        "dtxsid": "DTXSID801053062",
+        "dtxcid": null,
+        "casrn": "51938-42-2",
+        "hasStructureImage": 0,
+        "smiles": null,
+        "isMarkush": null,
+        "searchName": "Approved Name",
+        "searchValue": "Solanine",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

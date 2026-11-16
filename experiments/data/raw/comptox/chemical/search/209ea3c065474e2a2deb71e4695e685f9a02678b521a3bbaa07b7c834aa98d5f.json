@@ -1,0 +1,37 @@
+{
+  "search_term": "Fomesafen",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:54.456106+00:00",
+  "url": "/chemical/search/equal/Fomesafen",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Fomesafen",
+        "dtxsid": "DTXSID7024112",
+        "dtxcid": "DTXCID704112",
+        "casrn": "72178-02-0",
+        "hasStructureImage": 1,
+        "smiles": "CS(=O)(=O)NC(=O)C1=CC(OC2=CC=C(C=C2Cl)C(F)(F)F)=CC=C1[N+]([O-])=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Fomesafen",
+        "rank": 9
+      },
+      {
+        "preferredName": "Mirtazapine",
+        "dtxsid": "DTXSID0023325",
+        "dtxcid": "DTXCID503325",
+        "casrn": "85650-52-8",
+        "hasStructureImage": 1,
+        "smiles": "CN1CCN2C(C1)C1=CC=CC=C1CC1=C2N=CC=C1",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Fomesafen",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

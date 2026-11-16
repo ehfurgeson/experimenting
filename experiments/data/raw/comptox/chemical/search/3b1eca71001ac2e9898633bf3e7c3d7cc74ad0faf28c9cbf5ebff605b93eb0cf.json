@@ -1,0 +1,25 @@
+{
+  "search_term": "Aplotaxene",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:39.944504+00:00",
+  "url": "/chemical/search/equal/Aplotaxene",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID801318527",
+        "dtxcid": "DTXCID701748335",
+        "casrn": "10482-53-8",
+        "preferredName": "Aplotaxene",
+        "hasStructureImage": 1,
+        "smiles": "CC\\C=C/C\\C=C/C\\C=C/CCCCCC=C",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Aplotaxene",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

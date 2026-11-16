@@ -1,0 +1,25 @@
+{
+  "search_term": "(+-)-Piperitone",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:28.610190+00:00",
+  "url": "/chemical/search/equal/(+-)-Piperitone",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Piperitone",
+        "dtxsid": "DTXSID7052604",
+        "dtxcid": "DTXCID1031177",
+        "casrn": "89-81-6",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)C1CCC(C)=CC1=O",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "(+-)-Piperitone",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Propham",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:04.278506+00:00",
+  "url": "/chemical/search/equal/Propham",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7020766",
+        "dtxcid": "DTXCID70766",
+        "casrn": "122-42-9",
+        "preferredName": "Propham",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)OC(=O)NC1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Propham",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

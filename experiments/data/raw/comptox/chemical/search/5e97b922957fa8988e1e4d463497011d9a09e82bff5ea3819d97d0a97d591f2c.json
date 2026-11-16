@@ -1,0 +1,25 @@
+{
+  "search_term": "WKOLLVMJNQIZCI-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:36.070400+00:00",
+  "url": "/chemical/search/equal/WKOLLVMJNQIZCI-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Vanillic acid",
+        "dtxsid": "DTXSID6059522",
+        "dtxcid": "DTXCID1033668",
+        "casrn": "121-34-6",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC(=CC=C1O)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "WKOLLVMJNQIZCI-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

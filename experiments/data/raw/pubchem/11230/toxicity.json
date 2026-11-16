@@ -1,0 +1,2594 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 11230,
+    "RecordTitle": "Terpinen-4-ol",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "IDENTIFICATION AND USE: 1-Terpinen-4-ol is colorless to pale yellow liquid with pine odor. It is found in more than 200 derivatives from leaves, herbs, and flowers. It is used in artificial geranium and pepper oils and in perfumery for creating herbaceous and lavender notes. It is also used as experimental medication and topical antimicrobial. HUMAN EXPOSURE AND TOXICITY: Terpinen-4-ol can induce human leukemic MOLT-4 cell apoptosis via both intrinsic and extrinsic pathways. It suppress the production of superoxide by monocytes, but not neutrophils, suggesting the potential for selective regulation of cell types by these components during inflammation. In addition, the water-soluble components of tea tree oil can suppress pro-inflammatory mediator production by activated human monocytes. ANIMAL STUDIES:  Oral LD50's range from 1.0 to 4.3 g/kg in rodents. A single study of dermal toxicity in rabbits reported a LD50 of >3 g/kg.",
+                          "Markup": [
+                            {
+                              "Start": 24,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1-Terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 375,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 678,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134978014"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 31,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Opdyke, D.L.J. (ed.). Monographs on Fragrance Raw Materials. New York: Pergamon Press, 1979., p. 695"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Opdyke, D.L.J. (ed.). Monographs on Fragrance Raw Materials. New York: Pergamon Press, 1979., p. 695",
+                            "Matched": {
+                              "PCLID": 900125113,
+                              "Citation": "Opdyke, D.L.J. (ed.). Monographs on Fragrance Raw Materials. New York: Pergamon Press, 1979., p. 695"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit Dermal >3 g/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 31,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Opdyke, D.L.J. (ed.). Monographs on Fragrance Raw Materials. New York: Pergamon Press, 1979., p. 695"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Opdyke, D.L.J. (ed.). Monographs on Fragrance Raw Materials. New York: Pergamon Press, 1979., p. 695",
+                            "Matched": {
+                              "PCLID": 900125113,
+                              "Citation": "Opdyke, D.L.J. (ed.). Monographs on Fragrance Raw Materials. New York: Pergamon Press, 1979., p. 695"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat Oral 4.3 g/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 31,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3363"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3363",
+                            "Matched": {
+                              "PCLID": 900034178,
+                              "Citation": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3363"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 rat oral 1300 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 31,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3363"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3363",
+                            "Matched": {
+                              "PCLID": 900034178,
+                              "Citation": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3363"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mice oral 1016 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 23,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 23,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:11556915",
+                      "Cox SD et al; J Appl Microbiol 91(3): 492-7 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:11556915",
+                        "Matched": {
+                          "PCLID": 17920856,
+                          "Citation": "Cox SD, Mann CM, Markham JL. Interactions between components of the essential oil of Melaleuca alternifolia. J Appl Microbiol. 2001 Sep;91(3):492–7. doi: 10.1046/j.1365-2672.2001.01406.x. PMID: 11556915.",
+                          "PMID": 11556915,
+                          "DOI": "10.1046/j.1365-2672.2001.01406.x"
+                        }
+                      },
+                      {
+                        "Citation": "Cox SD et al; J Appl Microbiol 91(3): 492-7 (2001)",
+                        "Matched": {
+                          "PCLID": 17920856,
+                          "Citation": "Cox SD, Mann CM, Markham JL. Interactions between components of the essential oil of Melaleuca alternifolia. J Appl Microbiol. 2001 Sep;91(3):492–7. doi: 10.1046/j.1365-2672.2001.01406.x. PMID: 11556915.",
+                          "PMID": 11556915,
+                          "DOI": "10.1046/j.1365-2672.2001.01406.x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "This study compared the antimicrobial activity of Melaleuca alternifolia (tea tree) oil with that of some of its components, both individually and in two-component combinations.  Minimum inhibitory concentration and time-kill assays revealed that terpinen-4-ol, the principal active component of tea tree oil, was more active on its own than when present in tea tree oil. Combinations of terpinen-4-ol and either gamma-terpinene or p-cymene produced similar activities to tea tree oil. Concentration-dependent reductions in terpinen-4-ol activity and solubility also occurred in the presence of gamma-terpinene.  Non-oxygenated terpenes in tea tree oil appear to reduce terpinen-4-ol efficacy by lowering its aqueous solubility.  These findings explain why tea tree oil can be less active in vitro than terpinen-4-ol alone and further suggest that the presence of a non-aqueous phase in tea tree oil formulations may limit the microbial availability of its active components.",
+                          "Markup": [
+                            {
+                              "Start": 247,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 388,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 413,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gamma-terpinene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-7461"
+                            },
+                            {
+                              "Start": 432,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/p-cymene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-7463"
+                            },
+                            {
+                              "Start": 524,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 595,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/gamma-terpinene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-7461"
+                            },
+                            {
+                              "Start": 670,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:25180069",
+                      "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4142302",
+                      "Nobrega FF et al; Oxid Med Cell Longev (2014)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:25180069",
+                        "Matched": {
+                          "PCLID": 23563067,
+                          "Citation": "Nóbrega FFF, Salvadori MGSS, Masson CJ, Mello CF, Nascimento TS, Leal-Cardoso JH, de Sousa DP, Almeida RN. Monoterpenoid Terpinen-4-ol Exhibits Anticonvulsant Activity in Behavioural and Electrophysiological Studies. Oxidative Medicine and Cellular Longevity. 2014;2014():1–9. doi: 10.1155/2014/703848.",
+                          "PMID": 25180069,
+                          "PMCID": "PMC4142302",
+                          "DOI": "10.1155/2014/703848"
+                        }
+                      },
+                      {
+                        "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4142302",
+                        "Matched": {
+                          "PCLID": 900012928,
+                          "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4142302"
+                        }
+                      },
+                      {
+                        "Citation": "Nobrega FF et al; Oxid Med Cell Longev (2014)",
+                        "Matched": {
+                          "PCLID": 900042999,
+                          "Citation": "Nobrega FF et al; Oxid Med Cell Longev (2014)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Terpinen-4-ol (4TRP) is a monoterpenoid alcoholic component of essential oils obtained from several aromatic plants. We investigated the psychopharmacological and electrophysiological activities of 4TRP in male Swiss mice and Wistar rats. 4TRP was administered intraperitoneally (i.p.) at doses of 25 to 200 mg/kg and intracerebroventricularly (i.c.v.) at concentrations of 10, 20, and 40 ng/2 uL. For in vitro experiments, 4TRP concentrations were 0.1mM and 1.0mM. 4TRP (i.p.) inhibited pentylenetetrazol- (PTZ-) induced seizures, indicating anticonvulsant effects. Electroencephalographic recordings showed that 4TRP (i.c.v.) protected against PTZ-induced seizures, corroborating the behavioural results. To determine whether 4TRP exerts anticonvulsant effects via regulation of GABAergic neurotransmission, we measured convulsions induced by 3-mercapto-propionic acid (3-MP). The obtained results showed involvement of the GABAergic system in the anticonvulsant action exerted by 4TRP, but flumazenil, a selective antagonist of the benzodiazepine site of the GABAA receptor, did not reverse the anticonvulsant effect, demonstrating that 4TRP does not bind to the benzodiazepine-binding site. Furthermore, 4TRP decreased the sodium current through voltage-dependent sodium channels, and thus its anticonvulsant effect may be related to changes in neuronal excitability because of modulation of these channels.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 488,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pentylenetetrazol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5917"
+                            },
+                            {
+                              "Start": 845,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-mercapto-propionic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6514"
+                            },
+                            {
+                              "Start": 993,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/flumazenil",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3373"
+                            },
+                            {
+                              "Start": 1035,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzodiazepine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-134664"
+                            },
+                            {
+                              "Start": 1166,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/benzodiazepine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-134664"
+                            },
+                            {
+                              "Start": 1227,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            },
+                            {
+                              "Start": 1268,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:24292348",
+                      "Ben Hsouna A et al; J Oleo Sci 62(12): 973-80 (2013)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:24292348",
+                        "Matched": {
+                          "PCLID": 11380543,
+                          "Citation": "Ben Hsouna A, Ben Halima N, Abdelkafi S, Hamdi N. Essential oil from Artemisia phaeolepis: chemical composition and antimicrobial activities. J Oleo Sci. 2013;62(12):973–80. doi: 10.5650/jos.62.973. PMID: 24292348.",
+                          "PMID": 24292348,
+                          "DOI": "10.5650/jos.62.973"
+                        }
+                      },
+                      {
+                        "Citation": "Ben Hsouna A et al; J Oleo Sci 62(12): 973-80 (2013)",
+                        "Matched": {
+                          "PCLID": 11380543,
+                          "Citation": "Ben Hsouna A, Ben Halima N, Abdelkafi S, Hamdi N. Essential oil from Artemisia phaeolepis: chemical composition and antimicrobial activities. J Oleo Sci. 2013;62(12):973–80. doi: 10.5650/jos.62.973. PMID: 24292348.",
+                          "PMID": 24292348,
+                          "DOI": "10.5650/jos.62.973"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Artemisia phaeolepis, a perennial herb with a strong volatile odor, grows on the grasslands of Mediterranean region. Essential oil obtained from Artemisia phaeolepis was analyzed by gas chromatography-flame ionization detection and gas chromatography-mass spectrometry. A total of 79 components representing 98.19% of the total oil were identified, and the main compounds in the oil were found to be eucalyptol (11.30%), camphor (8.21%), terpine-4-ol (7.32%), germacrene D (6.39), caryophyllene oxide (6.34%), and caryophyllene (5.37%). The essential oil showed definite inhibitory activity against 10 strains of test microorganisms. Eucalyptol, camphor, terpine-4-ol, caryophyllene, germacrene D and caryophyllene oxide were also examined as the major components of the oil. Camphor showed the strongest antimicrobial activity; terpine-4-ol, eucalyptol, caryophyllene and germacrene D were moderately active and caryophyllene oxide was weakly active. The study revealed that the antimicrobial properties of the essential oil can be attributed to the synergistic effects of its diverse major and minor components.",
+                          "Markup": [
+                            {
+                              "Start": 400,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/eucalyptol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2758"
+                            },
+                            {
+                              "Start": 421,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/camphor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2537"
+                            },
+                            {
+                              "Start": 438,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpin-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 460,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/germacrene%20D",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5317570"
+                            },
+                            {
+                              "Start": 481,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caryophyllene%20oxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1742210"
+                            },
+                            {
+                              "Start": 514,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caryophyllene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281515"
+                            },
+                            {
+                              "Start": 634,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Eucalyptol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2758"
+                            },
+                            {
+                              "Start": 646,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/camphor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2537"
+                            },
+                            {
+                              "Start": 655,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpin-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 669,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caryophyllene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281515"
+                            },
+                            {
+                              "Start": 684,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/germacrene%20D",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5317570"
+                            },
+                            {
+                              "Start": 701,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caryophyllene%20oxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1742210"
+                            },
+                            {
+                              "Start": 776,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Camphor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2537"
+                            },
+                            {
+                              "Start": 829,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpin-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 843,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/eucalyptol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2758"
+                            },
+                            {
+                              "Start": 855,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caryophyllene",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5281515"
+                            },
+                            {
+                              "Start": 873,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/germacrene%20D",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5317570"
+                            },
+                            {
+                              "Start": 913,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/caryophyllene%20oxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1742210"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:23292030",
+                      "Ninomiya K et al; Yakugaku Zasshi 133(1): 133-40 (2013)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:23292030",
+                        "Matched": {
+                          "PCLID": 8688799,
+                          "Citation": "Ninomiya K, Hayama K, Ishijima S, Takahashi M, Kurihara J, Abe S. [Effects of inhibitory activity on mycelial growth of Candida albicans and therapy for murine oral candidiasis by the combined use of terpinen-4-ol and a middle-chain fatty acid, capric acid]. Yakugaku Zasshi. 2013;133(1):133–40. doi: 10.1248/yakushi.12-00242. PMID: 23292030.",
+                          "PMID": 23292030,
+                          "DOI": "10.1248/yakushi.12-00242"
+                        }
+                      },
+                      {
+                        "Citation": "Ninomiya K et al; Yakugaku Zasshi 133(1): 133-40 (2013)",
+                        "Matched": {
+                          "PCLID": 900113800,
+                          "Citation": "Ninomiya K et al; Yakugaku Zasshi 133(1): 133-40 (2013)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The combined effect of terpinen-4-ol, the main component of tea tree oil, and capric acid against mycelial growth of Candida albicans and murine oral candidiasis was evaluated in vitro and in vivo. Mycelial growth of C. albicans was estimated by the Cristal violet method. Combination of these compounds revealed a potent synergistic inhibition of growth. Therapeutic efficacy of the combination was evaluated microbiologically in murine oral candidiasis, and its application of the compounds clearly demonstrated therapeutic activity. Based on these results, the combined agent of terpinen-4-ol and capric acid was discussed as a possible candidate for oral candidiasis therapy.",
+                          "Markup": [
+                            {
+                              "Start": 23,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 78,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/capric%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2969"
+                            },
+                            {
+                              "Start": 582,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 600,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/capric%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2969"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:12803571",
+                      "Lahlou S et al; Fundam Clin Pharmacol 17(3): 323-30 (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:12803571",
+                        "Matched": {
+                          "PCLID": 24715152,
+                          "Citation": "Lahlou S, Interaminense LF, Leal-Cardoso JH, Duarte GP. Antihypertensive effects of the essential oil of Alpinia zerumbet and its main constituent, terpinen-4-ol, in DOCA-salt hypertensive conscious rats. Fundam Clin Pharmacol. 2003 Jun;17(3):323–30. doi: 10.1046/j.1472-8206.2003.00150.x. PMID: 12803571.",
+                          "PMID": 12803571,
+                          "DOI": "10.1046/j.1472-8206.2003.00150.x"
+                        }
+                      },
+                      {
+                        "Citation": "Lahlou S et al; Fundam Clin Pharmacol 17(3): 323-30 (2003)",
+                        "Matched": {
+                          "PCLID": 24715152,
+                          "Citation": "Lahlou S, Interaminense LF, Leal-Cardoso JH, Duarte GP. Antihypertensive effects of the essential oil of Alpinia zerumbet and its main constituent, terpinen-4-ol, in DOCA-salt hypertensive conscious rats. Fundam Clin Pharmacol. 2003 Jun;17(3):323–30. doi: 10.1046/j.1472-8206.2003.00150.x. PMID: 12803571.",
+                          "PMID": 12803571,
+                          "DOI": "10.1046/j.1472-8206.2003.00150.x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The present study investigated the hypotensive responses to intravenous (i.v.) treatment with the essential oil of Alpinia zerumbet (EOAZ) and its main constituent, terpinen-4-ol (Trp-4-ol), in the experimental model of deoxycorticosterone-acetate (DOCA)-salt hypertensive rat. In both DOCA-salt hypertensive and uninephrectomized, normotensive rats, i.v. bolus injections of EOAZ (1-20 mg/kg) or Trp-4-ol (1-10 mg/kg) decreased mean aortic pressure (MAP) in a dose-related manner. However, hypotensive responses to Trp-4-ol were significantly greater than those evoked by the same doses of EOAZ (1-10 mg/kg). Treatment with DOCA-salt significantly enhanced the maximal percentage decreases in MAP evoked by EOAZ or Trp-4-ol. Likewise, both maximal percentage and absolute decreases in MAP elicited by i.v. injection of the ganglion blocker, hexamethonium (30 mg/kg), were significantly greater in DOCA-salt hypertensive than in control rats. In DOCA-salt hypertensive rats, neither hexamethonium (30 mg/kg, i.v.) nor methylatropine (1 mg/kg, i.v.) pretreatment affected the enhancement of EOAZ-induced hypotension. These results show that i.v. treatment with either EOAZ or Trp-4-ol dose-dependently decreases blood pressure in conscious DOCA-salt hypertensive rats, and this action is enhanced when compared with uninephrectomized controls. This enhancement could be related mainly to an increase in EOAZ-induced vascular smooth muscle relaxation rather than to enhanced sympathetic nervous system activity in this hypertensive model. The data further support our previous hypothesis that hypotensive effects of EOAZ are partially attributed to the actions of Trp-4-ol.",
+                          "Markup": [
+                            {
+                              "Start": 165,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 220,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/deoxycorticosterone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6166"
+                            },
+                            {
+                              "Start": 240,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-175"
+                            },
+                            {
+                              "Start": 249,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DOCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5952"
+                            },
+                            {
+                              "Start": 286,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DOCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5952"
+                            },
+                            {
+                              "Start": 625,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DOCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5952"
+                            },
+                            {
+                              "Start": 842,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hexamethonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3604"
+                            },
+                            {
+                              "Start": 898,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DOCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5952"
+                            },
+                            {
+                              "Start": 946,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DOCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5952"
+                            },
+                            {
+                              "Start": 983,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hexamethonium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3604"
+                            },
+                            {
+                              "Start": 1018,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methylatropine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-656598"
+                            },
+                            {
+                              "Start": 1239,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DOCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5952"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 244"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 244",
+                        "Matched": {
+                          "PCLID": 900092257,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 244"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Immediate first aid: Ensure that adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR if necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on the left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Turpentine, terpenes, and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 324,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 244"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 244",
+                        "Matched": {
+                          "PCLID": 900092257,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 244"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch  for signs of respiratory insufficiency and assist ventilations if necessary. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 mL/kg up to 200 mL of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool. /Turpentine, terpenes, and related compounds/",
+                          "Markup": [
+                            {
+                              "Start": 220,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 425,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 594,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 245"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 245",
+                        "Matched": {
+                          "PCLID": 906272093,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 245"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in severe respiratory distress. Positive-  pressure ventilation techniques with a bag-valve-mask device may be beneficial. Consider drug therapy for pulmonary edema ...  . Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start IV administration of D5W /SRP: \"To keep open\",  minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's (LR) if signs of hypovolemia are present.  For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... .Treat seizures with diazepam  or lorazepam ... . Use proparacaine hydrochloride to assist eye irrigation ... . /Turpentine, Terpenes, and related  compounds/",
+                          "Markup": [
+                            {
+                              "Start": 689,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 702,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 722,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:22994712",
+                      "Khaw-on P et al; Asian Pac J Cancer Prev 13(7): 3073-76 (2012)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:22994712",
+                        "Matched": {
+                          "PCLID": 32965605,
+                          "Citation": "Khaw-On P, Banjerdpongchai R. Induction of Intrinsic and Extrinsic Apoptosis Pathways in the Human Leukemic MOLT-4 Cell Line by Terpinen-4-ol. Asian Pacific Journal of Cancer Prevention. 2012 Jul 31;13(7):3073–6. doi: 10.7314/apjcp.2012.13.7.3073.",
+                          "PMID": 22994712,
+                          "DOI": "10.7314/apjcp.2012.13.7.3073"
+                        }
+                      },
+                      {
+                        "Citation": "Khaw-on P et al; Asian Pac J Cancer Prev 13(7): 3073-76 (2012)",
+                        "Matched": {
+                          "PCLID": 32965605,
+                          "Citation": "Khaw-On P, Banjerdpongchai R. Induction of Intrinsic and Extrinsic Apoptosis Pathways in the Human Leukemic MOLT-4 Cell Line by Terpinen-4-ol. Asian Pacific Journal of Cancer Prevention. 2012 Jul 31;13(7):3073–6. doi: 10.7314/apjcp.2012.13.7.3073.",
+                          "PMID": 22994712,
+                          "DOI": "10.7314/apjcp.2012.13.7.3073"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ Terpinen-4-ol is a terpene found in the rhizome of Plai (Zingiber montanum (Koenig) Link ex Dietr.). In this study apoptogenic activity and mechanisms of cell death induced by terpinen-4-ol were investigated in the human leukemic MOLT-4 cell line. Terpinen-4-ol exhibited cytotoxicity in MOLT-4 cells, with characteristic morphological features of apoptosis by Wright's staining. The mode of cell death was confirmed to be apoptosis by flow cytometric analysis after staining with annexin V-FITC and propidium iodide. A sub-G1 peak in DNA histograms of cell cycle assays was observed. Terpinen-4-ol induced-MOLT-4 cell apoptosis mediated through an intrinsic pathway involving the loss of mitochondrial transmembrane potential (MTP) and release of cytochrome c into the cytosol. In addition, terpinen-4-ol also induced apoptosis via an extrinsic pathway by caspase-8 activation resulting in the cleavage of cytosolic Bid. Truncated-Bid (tBid) translocated to mitochondria and activated the mitochondrial pathway in conjunction with down-regulation of Bcl-2 protein expression. Caspase-3 activity also increased. In conclusion, terpinen-4-ol can induce human leukemic MOLT-4 cell apoptosis via both intrinsic and extrinsic pathways.",
+                          "Markup": [
+                            {
+                              "Start": 33,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 209,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 281,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 524,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FITC",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-18730"
+                            },
+                            {
+                              "Start": 533,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/propidium%20iodide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-104981"
+                            },
+                            {
+                              "Start": 618,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 825,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 1160,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:11392609",
+                      "Brand C et al; Inflamm Res 50(4): 213-19 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:11392609",
+                        "Matched": {
+                          "PCLID": 11138876,
+                          "Citation": "Brand C, Ferrante A, Prager RH, Riley TV, Carson CF, Finlay-Jones JJ, Hart PH. The water-soluble components of the essential oil of Melaleuca alternifolia (tea tree oil) suppress the production of superoxide by human monocytes, but not neutrophils, activated in vitro. Inflamm Res. 2001 Apr;50(4):213–9. doi: 10.1007/s000110050746. PMID: 11392609.",
+                          "PMID": 11392609,
+                          "DOI": "10.1007/s000110050746"
+                        }
+                      },
+                      {
+                        "Citation": "Brand C et al; Inflamm Res 50(4): 213-19 (2001)",
+                        "Matched": {
+                          "PCLID": 906271773,
+                          "Citation": "Brand C et al; Inflamm Res 50(4): 213-19 (2001)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ To evaluate the regulatory properties of the essential oil of Melaleuca alternifolia (tea tree oil) on the production of oxygen derived reactive species by human peripheral blood leukocytes activated in vitro.  The ability of tea tree oil to reduce superoxide production by neutrophils and monocytes stimulated with N-formyl-methionyl-leucyl-phenylalanine (fMLP), lipopolysaccharide (LPS) or phorbol 12-myristate 13-acetate (PMA) was examined.  The water-soluble fraction of tea tree oil had no significant effect on agonist-stimulated superoxide production by neutrophils, but significantly and dose-dependently suppressed agonist-stimulated superoxide production by monocytes. This suppression was not due to cell death. Chemical analysis identified the water-soluble components to be terpinen-4-ol, alpha-terpineol and 1,8-cineole. When examined individually, terpinen-4-ol significantly suppressed fMLP- and LPS- but not PMA-stimulated superoxide production; alpha-terpineol significantly suppressed fMLP-, LPS- and PMA-stimulated superoxide production; 1,8-cineole was without effect.  Tea tree oil components suppress the production of superoxide by monocytes, but not neutrophils, suggesting the potential for selective regulation of cell types by these components during inflammation.",
+                          "Markup": [
+                            {
+                              "Start": 154,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 349,
+                              "Length": 39,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/N-formyl-methionyl-leucyl-phenylalanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-443295"
+                            },
+                            {
+                              "Start": 390,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fMLP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-443295"
+                            },
+                            {
+                              "Start": 425,
+                              "Length": 31,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phorbol%2012-myristate%2013-acetate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27924"
+                            },
+                            {
+                              "Start": 482,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 789,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 820,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 835,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alpha-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-17100"
+                            },
+                            {
+                              "Start": 855,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C8-cineole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2758"
+                            },
+                            {
+                              "Start": 896,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 935,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fMLP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-443295"
+                            },
+                            {
+                              "Start": 996,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alpha-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-17100"
+                            },
+                            {
+                              "Start": 1037,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fMLP",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-443295"
+                            },
+                            {
+                              "Start": 1091,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C8-cineole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2758"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:11131302",
+                      "Hart PH et al;  Inflamm Res 49(11): 619-26 (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:11131302",
+                        "Matched": {
+                          "PCLID": 24669230,
+                          "Citation": "Hart PH, Brand C, Carson CF, Riley TV, Prager RH, Finlay-Jones JJ. Terpinen-4-ol, the main component of the essential oil of Melaleuca alternifolia (tea tree oil), suppresses inflammatory mediator production by activated human monocytes. Inflamm Res. 2000 Nov;49(11):619–26. doi: 10.1007/s000110050639. PMID: 11131302.",
+                          "PMID": 11131302,
+                          "DOI": "10.1007/s000110050639"
+                        }
+                      },
+                      {
+                        "Citation": "Hart PH et al;  Inflamm Res 49(11): 619-26 (2000)",
+                        "Matched": {
+                          "PCLID": 900122525,
+                          "Citation": "Hart PH et al;  Inflamm Res 49(11): 619-26 (2000)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ To evaluate potential antiinflammatory properties of tea tree oil, the essential oil steam distilled from the Australian native plant, Melaleuca alternifolia. The ability of tea tree oil to reduce the production in vitro of tumour necrosis factor-alpha (TNFalpha), interleukin (IL)-1beta, IL-8, IL-10 and prostaglandin E2 (PGE2) by lipopolysaccharide (LPS)-activated human peripheral blood monocytes was examined. Tea tree oil emulsified by sonication in a glass tube into culture medium containing 10% fetal calf serum (FCS) was toxic for monocytes at a concentration of 0.016% v/v. However, the water soluble components of tea tree oil at concentrations equivalent to 0.125% significantly suppressed LPS-induced production of TNFalpha, IL-1beta and IL-10 (by approximately 50%) and PGE2 (by approximately 30%) after 40 h. Gas chromatography/mass spectrometry identified terpinen-4-ol (42 %), a-terpineol (3 %) and 1,8-cineole (2%, respectively, of tea tree oil) as the water soluble components of tea tree oil. When these components were examined individually, only terpinen-4-ol suppressed the production after 40 h of TNFalpha, IL-1beta, IL-8, IL-10 and PGE2 by LPS-activated monocytes. The water-soluble components of tea tree oil can suppress pro-inflammatory mediator production by activated human monocytes. /Tea tree oil/",
+                          "Markup": [
+                            {
+                              "Start": 338,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/prostaglandin%20E2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280360"
+                            },
+                            {
+                              "Start": 356,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PGE2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280360"
+                            },
+                            {
+                              "Start": 630,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 817,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PGE2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280360"
+                            },
+                            {
+                              "Start": 905,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 949,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/1%2C8-cineole",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2758"
+                            },
+                            {
+                              "Start": 1004,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1101,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            },
+                            {
+                              "Start": 1191,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/PGE2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280360"
+                            },
+                            {
+                              "Start": 1228,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:17397109",
+                      "Straede A et al; Yeast 24(4): 321-34 (2007)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:17397109",
+                        "Matched": {
+                          "PCLID": 16662542,
+                          "Citation": "Straede A, Corran A, Bundy J, Heinisch JJ. The effect of tea tree oil and antifungal agents on a reporter for yeast cell integrity signalling. Yeast. 2007 Apr;24(4):321–34. doi: 10.1002/yea.1478. PMID: 17397109.",
+                          "PMID": 17397109,
+                          "DOI": "10.1002/yea.1478"
+                        }
+                      },
+                      {
+                        "Citation": "Straede A et al; Yeast 24(4): 321-34 (2007)",
+                        "Matched": {
+                          "PCLID": 900050771,
+                          "Citation": "Straede A et al; Yeast 24(4): 321-34 (2007)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/OTHER TOXICITY INFORMATION/ Cell integrity in Saccharomyces cerevisiae is ensured by a rigid cell wall whose synthesis is controlled by a highly conserved MAP kinase signal transduction cascade. Stress at the cell surface is detected by a set of sensors and ultimately transmitted through this cascade to the transcription factor Rlm1, which governs expression of many genes encoding enzymes of cell wall biosynthesis. We here report on a number of versatile reporter constructs which link activation of a hybrid, Rlm1-lexA, by the MAP kinase Mpk1/Slt2 to the expression of the bacterial lacZ gene. This system was adapted to automated microwell screening and shown to be activated by a number of compounds inhibiting cell wall biosynthesis or interfering with plasma membrane function. In addition, we tested tea tree oil and two of its purified constituents (alpha-terpineol, terpinen-4-ol) for their effects on growth and on cell integrity signalling using such reporter strains. Tea tree oil was found to inhibit growth of wild-type and slg1/wsc1 mutant cells at a threshold of approximately 0.1% v/v, with the purified compounds acting already at half these concentrations. A mid2 deletion displayed hyper-resistance. Tea tree oil also induces the signalling pathway in a dose-dependent manner.",
+                          "Markup": [
+                            {
+                              "Start": 862,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alpha-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-17100"
+                            },
+                            {
+                              "Start": 879,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/terpinen-4-ol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-11230"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4-Terpineol's production, extraction and use as a food and beverage additive and in perfumery may result in its release to the environment through various waste streams. 4-Terpineol occurs naturally in many plants and plant volatiles including; guava, big sagebrush and choke cherry trees, ginger root, Artemisia phaeolepis, lavender, Eucalyptus, apple, apricots, orange, lemon, grapefruit, tangerines, anise, cinnamon and nutmeg. If released to air, an estimated vapor pressure of 0.04 mm Hg at 25 °C indicates 4-terpineol will exist solely as a vapor in the atmosphere. Vapor-phase 4-terpineol will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals and ozone; the half-lives for these reactions in air are estimated to be 3.7 hours and 38 minutes, respectively. 4-Terpineol does not contain chromophores that absorb at wavelengths >290 nm and, therefore, is not expected to be susceptible to direct photolysis by sunlight. If released to soil, 4-terpineol is expected to have high mobility based upon an estimated Koc of 80. Volatilization from moist soil surfaces is expected based upon an estimated Henry's Law constant of 3.2X10-6 atm-cu m/mole. 4-Terpineol is not expected to volatilize from dry soil surfaces based upon its vapor pressure. Aerobic degradation studies done using batch and continuous digesters resulting in 96% 4-terpineol removal suggest that biodegradation is an important environmental fate process in soil and water. If released into water, 4-terpineol is not expected to adsorb to suspended solids and sediment based upon the estimated Koc. Volatilization from water surfaces is expected based upon this compound's estimated Henry's Law constant. Estimated volatilization half-lives for a model river and model lake are 15 and 110 days, respectively. An estimated BCF of 66 suggests the potential for bioconcentration in aquatic organisms is moderate. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions (pH 5 to 9). Occupational exposure to 4-terpineol may occur through inhalation and dermal contact with this compound at workplaces where 4-terpineol is produced or used. Monitoring data indicate that the general population may be exposed to 4-terpineol via ingestion of food and beverages containing it. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 170,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 512,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 584,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 673,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 695,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 804,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 986,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 1191,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 1374,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 1477,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1501,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1508,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 1629,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2121,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 2220,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 2324,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Binder RG, Flath RA; J Agric Food Chem 37: 734-6 (1989)",
+                      "(2) Helmig D et al; Chemosphere 38: 2163-87 (1999)",
+                      "(3) Nishimura O; J Agric Food Chem 43: 2941-5 (1995)",
+                      "(4) BenHsouna A et al; J Oleo Sci 62:  973-80 (2013)",
+                      "(5) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 621 (2009)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Binder RG, Flath RA; J Agric Food Chem 37: 734-6 (1989)"
+                      },
+                      {
+                        "Citation": "(2) Helmig D et al; Chemosphere 38: 2163-87 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Nishimura O; J Agric Food Chem 43: 2941-5 (1995)"
+                      },
+                      {
+                        "Citation": "(4) BenHsouna A et al; J Oleo Sci 62:  973-80 (2013)"
+                      },
+                      {
+                        "Citation": "(5) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 621 (2009)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4-Terpineol occurs naturally in many plants and plant volatiles including; guava(1), big sagebrush and choke cherry trees(2), ginger root(3), Artemisia phaeolepis(4), lavender(5), Eucalyptus(5), apple(5), apricots(5), orange(5), lemon(5), grapefruit(5), tangerines(5), anise(5), cinnamon(5) and nutmeg(5).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 621 (2009)",
+                      "(2) Fahlbusch K-G et al; Flavors and Fragrances. Ullmann's Encyclopedia of Industrial Chemistry 7th ed. (1999-2015). New York, NY: John Wiley & Sons. Online Posting Date: 15 Jan 2003"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 621 (2009)"
+                      },
+                      {
+                        "Citation": "(2) Fahlbusch K-G et al; Flavors and Fragrances. Ullmann's Encyclopedia of Industrial Chemistry 7th ed. (1999-2015). New York, NY: John Wiley & Sons. Online Posting Date: 15 Jan 2003"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4-Terpineol's production, extraction and use as a food and beverage additive(1,2) and in perfumery(2) may result in its release to the environment through various waste streams(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(3) Hrutfiord BF et al; Tappi 58: 98-100 (1975)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(3) Hrutfiord BF et al; Tappi 58: 98-100 (1975)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 80(SRC), determined from a structure estimation method(2), indicates that 4-terpineol is expected to have high mobility in soil(SRC). Volatilization of 4-terpineol from moist soil surfaces is expected(SRC) given an estimated Henry's Law constant of 3.2X10-6 atm-cu m/mole(SRC), using a fragment constant estimation method(2). 4-Terpineol is not expected to volatilize from dry soil surfaces(SRC) based upon an estimated vapor pressure of 0.04 mm Hg at 25 °C(SRC), determined from a fragment constant method(2). Aerobic degradation studies done using batch and continuous digesters resulting in 96% 4-terpineol removal(3) suggest that biodegradation may be an important environmental fate process in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 155,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 233,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 407,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 679,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 15-1 to 15-29 (1990)",
+                      "(4) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(5) Griffin S et al; J Chromatogr 864: 221-8 (1999)",
+                      "(6) Hrutfiord BF et al; Tappi 58: 98-100 (1975)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(5) Griffin S et al; J Chromatogr 864: 221-8 (1999)"
+                      },
+                      {
+                        "Citation": "(6) Hrutfiord BF et al; Tappi 58: 98-100 (1975)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 80(SRC), determined from a structure estimation method(2), indicates that 4-terpineol is not expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is expected(3) based upon an estimated Henry's Law constant of 3.2X10-6 atm-cu m/mole(SRC), developed using a fragment constant estimation method(2). Using this Henry's Law constant and an estimation method(3), volatilization half-lives for a model river and model lake are 15 and 110 days, respectively(SRC). 4-Terpineol is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(3). According to a classification scheme(4), an estimated BCF of 66(SRC), from its log Kow of 3.26(5) and a regression-derived equation(2), suggests the potential for bioconcentration in aquatic organisms is moderate(SRC). Aerobic degradation studies done using batch and continuous digesters resulting in 96% 4-terpineol removal(6) suggest that biodegradation may be an important environmental fate process in water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 151,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 248,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 573,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 1035,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 1136,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), 4-terpineol, which has a estimated vapor pressure of 0.04 mm Hg at 25 °C(SRC), determined from a fragment constant method(2), is expected to exist solely as a vapor in the ambient atmosphere. Vapor-phase 4-terpineol is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals and ozone(SRC); the half-lives for these reactions in air are estimated to be 3.7 hours and 38 minutes(SRC), calculated from respective rate constants of 1.0X10-10 and 4.3X10-16 cu cm/molecule-sec at 25 °C(SRC) that were derived using a structure estimation method(2). 4-Terpineol does not contain chromophores that absorb at wavelengths >290 nm(3) and, therefore, is not expected to be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 328,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 412,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 434,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 699,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hrutfiord BF et al; Tappi 58: 98-100 (1975)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hrutfiord BF et al; Tappi 58: 98-100 (1975)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Utilizing both batch and continuous digesters, 96% removal of 4-terpineol (initial concentration of 0.50 ppm) was reported when it was incubated for 168-192 hr under aerobic conditions using sewage inoculum in a biological treatment study(1).",
+                          "Markup": [
+                            {
+                              "Start": 71,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US EPA;  Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(2) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12, 8-13 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US EPA;  Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(2) Atkinson R, Carter WPL; Chem Rev 84: 437-70 (1984)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12, 8-13 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of 4-terpineol with photochemically-produced hydroxyl radicals has been estimated as 1.0X10-10 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 3.7 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). The rate constant for the vapor-phase reaction of 4-terpineol with ozone is estimated as 4.3X10-16 cu cm/molecule-sec at 25 °C(1). This corresponds to an atmospheric half-life of 38 minutes at an atmospheric concentration of 7X10+11 ozone molecules per cu cm(2). 4-Terpineol is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(3). 4-Terpineol does not contain chromophores that absorb at wavelengths >290 nm(3) and, therefore, is not expected to be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 92,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 321,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 403,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 420,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 586,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ozone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-24823"
+                            },
+                            {
+                              "Start": 616,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 772,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Griffin S et al; J Chromatogr 864: 221-8 (1999)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Griffin S et al; J Chromatogr 864: 221-8 (1999)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm/"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 66 was calculated in fish for 4-terpineol(SRC), using a log Kow of 3.26(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(2) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Using a structure estimation method based on molecular connectivity indices(1), the Koc of 4-terpineol can be estimated to be 80(SRC). According to a classification scheme(2), this estimated Koc value suggests that 4-terpineol is expected to have high mobility in soil.",
+                          "Markup": [
+                            {
+                              "Start": 91,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 215,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.1. Nov, 2012. Available from, as of July 22, 2015: https://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for 4-terpineol is estimated as 3.2X10-6 atm-cu m/mole(SRC) using a fragment constant estimation method(1). This Henry's Law constant indicates that 4-terpineol is expected to volatilize from water surfaces(2). Based on this Henry's Law constant, the volatilization half-life from a model river (1 m deep, flowing 1 m/sec, wind velocity of 3 m/sec)(2) is estimated as 15 days(SRC). The volatilization half-life from a model lake (1 m deep, flowing 0.05 m/sec, wind velocity of 0.5 m/sec)(2) is estimated as 110 days(SRC). 4-Terpineol's Henry's Law constant indicates that volatilization from moist soil surfaces may occur(SRC). 4-Terpineol is not expected to volatilize from dry soil surfaces(SRC) based upon an estimated vapor pressure of 0.04 mm Hg(SRC), determined from a fragment constant method(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 174,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 217,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 547,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 653,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bertsch W et al; J Chromatogr 112: 701-18 (1075)",
+                      "(2) Juttner F; Wat Sci Tech 25: 155-64 (1992)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bertsch W et al; J Chromatogr 112: 701-18 (1075)"
+                      },
+                      {
+                        "Citation": "(2) Juttner F; Wat Sci Tech 25: 155-64 (1992)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATER: 4-Terpineol was identified, not quantified, in water samples collected from Black Warrior River, Tuscaloosa, AL(1). Water collected from 6 of 8 small rivers flowing into Lake Constance, Germany, contained 4-terpineol at unreported concentrations(2).",
+                          "Markup": [
+                            {
+                              "Start": 8,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 15,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 62,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 131,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 220,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Effluent Concentrations",
+                "Description": "Concentration of this compound in effluent.  Effluent is wastewater (treated or untreated) discharged into surface waters from a treatment plant, sewer, or industrial outfall. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bursey JT, Pellizzari ED; Analysis of Industrial Wastewater for Organic Pollutants in Consent Degree Survey. Contract No. 68-03-2867. Athens, GA: USEPA Environ Res Lab pp. 162 (1982)",
+                      "(2) Ellis DD et al; Arch Environ Contam Toxicol 11: 373-82 (1982)",
+                      "(3) Wilson D, Hrutfiord B; Pulp Pap Canada 76: 91 (1975)",
+                      "(4) Wilkins CK, Larsen K; J High Resol Chromatogr 18: 373-77 (1995)",
+                      "(5) Wilkins K, Larsen K; Chemosphere 32: 2049-55 (1996)",
+                      "(6) Koistinen J et al; Chemosphere 37: 219-35 (1998)",
+                      "(7) Voss RH; Environ Sci Technol 18: 938-46 (1984)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bursey JT, Pellizzari ED; Analysis of Industrial Wastewater for Organic Pollutants in Consent Degree Survey. Contract No. 68-03-2867. Athens, GA: USEPA Environ Res Lab pp. 162 (1982)"
+                      },
+                      {
+                        "Citation": "(2) Ellis DD et al; Arch Environ Contam Toxicol 11: 373-82 (1982)"
+                      },
+                      {
+                        "Citation": "(3) Wilson D, Hrutfiord B; Pulp Pap Canada 76: 91 (1975)"
+                      },
+                      {
+                        "Citation": "(4) Wilkins CK, Larsen K; J High Resol Chromatogr 18: 373-77 (1995)"
+                      },
+                      {
+                        "Citation": "(5) Wilkins K, Larsen K; Chemosphere 32: 2049-55 (1996)"
+                      },
+                      {
+                        "Citation": "(6) Koistinen J et al; Chemosphere 37: 219-35 (1998)"
+                      },
+                      {
+                        "Citation": "(7) Voss RH; Environ Sci Technol 18: 938-46 (1984)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4-Terpineol was detected in wastewater effluent at unreported concentrations from plastics and synthetics industries(1). 4-Terpineol was detected in a final effluent sample collected Apr 17, 1980 from a publicly owned water treatment plant in Addison, IL at an unreported concentration; grab samples from 9 other sites in Illinois did not contain detectable concentrations of 4-terpineol(2). 4-Terpineol was detected in effluent from two kraft pulp mill waste waters receiving secondary treatment in aerated lagoons(3). 4-Terpineol was detected at unreported concentrations in head space analyses of kitchen waste exudate(4) and garden waste exudate(5) collected in Denmark. 4-Terpineol was detected in the primary clarifier effluent from a Finnish bleached kraft pulp mill(6). 4-Terpineol was detected in 4 of 9 aerated lagoon discharge samples at a mean and range of 50 and 10-100 ug/L, respectively; samples were collected from softwood bleached kraft pulp mills located across Canada during winter 1980-1981(7).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 121,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 218,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 376,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 392,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 520,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 675,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Atmospheric Concentrations",
+                "Description": "Concentrations of this compound in the atmosphere. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Kesselmeier J et al; Atmos Environ 34: 4063-72 (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Kesselmeier J et al; Atmos Environ 34: 4063-72 (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "RURAL/REMOTE: 4-Terpineol was detected in Balbina, Amazonia tropical forest atomospheric samples at concentrations of <0.1 ppb(1).",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Food Survey Values",
+                "Description": "Information on the amount or concentration of this compound in food, reported from various data sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Cantalejo MH; J Agric Food Chem 45: 1853-60 (1997)",
+                      "(2) Chevance FV, Farmer LJ; J Agric Food Chem 47: 5161-8 (1999)",
+                      "(3) Chung TY et al; J Agric Food Chem 41: 1693-7 (1993)",
+                      "(4) Gomez E et al; J Agric Food Chem 1: 1669-76 (1993)",
+                      "(5) Kim KY, Chung HJ; J Agric Food Chem 48: 1269-72 (2000)",
+                      "(6) Kinlin TE et al; J Agric Food Chem 20: 1021-8 (1972)",
+                      "(7) Takeoka GR et al; J Agric Food Chem 36: 553-60 (1988)",
+                      "(8) Moshonas MG, Shaw PE; J Agric Food Chem 42: 1525-8 (1994)",
+                      "(9) IARC Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Humans. Alcohol Drinking. Volume 44."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Cantalejo MH; J Agric Food Chem 45: 1853-60 (1997)"
+                      },
+                      {
+                        "Citation": "(2) Chevance FV, Farmer LJ; J Agric Food Chem 47: 5161-8 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Chung TY et al; J Agric Food Chem 41: 1693-7 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Gomez E et al; J Agric Food Chem 1: 1669-76 (1993)"
+                      },
+                      {
+                        "Citation": "(5) Kim KY, Chung HJ; J Agric Food Chem 48: 1269-72 (2000)"
+                      },
+                      {
+                        "Citation": "(6) Kinlin TE et al; J Agric Food Chem 20: 1021-8 (1972)"
+                      },
+                      {
+                        "Citation": "(7) Takeoka GR et al; J Agric Food Chem 36: 553-60 (1988)"
+                      },
+                      {
+                        "Citation": "(8) Moshonas MG, Shaw PE; J Agric Food Chem 42: 1525-8 (1994)"
+                      },
+                      {
+                        "Citation": "(9) IARC Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Humans. Alcohol Drinking. Volume 44."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4-Terpineol was identified, not quantified, in the volatile emissions of raw earth almonds(1), Frankfurter sausages(2), edible Korean chamchwi (Aster scaber Thunb)(3), apricots(4), pine needle tea(5), roasted filberts(6), and nectarines(7). 4-Terpineol was detected in fresh-squeezed unpasteurized orange juice from five of six different cultivars at 0.071-0.20 ppm(8). 4-Terpineol has been detected in beer, wine and spirits(9).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 241,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 370,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Plant Concentrations",
+                "Description": "Concentrations of this compound in plants.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Binder RG, Flath RA; J Agric Food Chem 37: 734-6 (1989)",
+                      "(2) Helmig D et al; Chemosphere 38: 2163-87 (1999)",
+                      "(3) Nishimura O; J Agric Food Chem 43: 2941-5 (1995)",
+                      "(4) BenHsouna A et al; J Oleo Sci 62: 973-80 (2013)",
+                      "(5) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 621 (2009)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Binder RG, Flath RA; J Agric Food Chem 37: 734-6 (1989)"
+                      },
+                      {
+                        "Citation": "(2) Helmig D et al; Chemosphere 38: 2163-87 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Nishimura O; J Agric Food Chem 43: 2941-5 (1995)"
+                      },
+                      {
+                        "Citation": "(4) BenHsouna A et al; J Oleo Sci 62: 973-80 (2013)"
+                      },
+                      {
+                        "Citation": "(5) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 621 (2009)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pineapple guava contained 4-terpineol at 0.03 ug/g(1). 4-Terpineol has been identified as a volatile emission from big sagebrush and choke cherry trees(2). 4-Terpineol was identified as a volatile component of fresh ginger root(3). 4-Terpineol was found to be 7.32% of the essential oil of the perennial herb Artemisia phaeolepis; plants were collected from Qassim, Saudi Arabia(4). 4-Terpineol has been reported in the oil of Cupressus macrocarpa lavender, Spanish origanum, Ledum palustre, Eucalyptus australiana, Eucalyptus dives, Xanthoxylum rhetsa and camphor oil(5). It has been found in fresh apple, apricots, orange juice, peel oils of orange, lemon, grapefruit, tangerines, anise, cinnamon, ginger and nutmeg(5).",
+                          "Markup": [
+                            {
+                              "Start": 26,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 55,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 156,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 232,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 383,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. 4-Terpineol. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of July 22, 2015: https://www.ars-grin.gov/duke/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USDA; Dr. Duke's Phytochemical and Ethnobotanical Databases. Plants with a chosen chemical. 4-Terpineol. Washington, DC: US Dept Agric, Agric Res Service. Available from, as of July 22, 2015: https://www.ars-grin.gov/duke/"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4-Terpineol detections in plants(1).[Table#8246]",
+                          "Markup": [
+                            {
+                              "Start": 36,
+                              "Length": 12,
+                              "Type": "Inline Table",
+                              "Extra": "[Table#8246]"
+                            },
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Name": "[Table#8246]",
+                    "Value": {
+                      "Binary": [
+                        "IkdlbnVzIHNwZWNpZXMiLCJGYW1pbHkiLCJDb21tb24gbmFtZSIsIlBhcnQiLCJDb25jbiAocHBtKSIKIlRoeW11cyB2dWxhcmlzIiwiTGFtaWFjZWFlIiwiY29tbW9uIHRoeW1lIiwicGxhbnQiLCI4MzIwIgoiT3JpZ2FudW0gb25pdGVzIiwiTGFtaWFjZWFlIiwicG90IG1hcmpvcmFtIiwic2hvb3QiLCIwLTUyNSIKIlNhdHVyZWphIHRoeW1icmEiLCJMYW1pYWNlYWUiLCJnb2F0IG9yZWdhbm8iLCJzaG9vdCIsIjAtMTg1IgoiQ29yaWRvdGh5bXVzIGNhcGl0YXR1cyIsIkxhbWlhY2VhZSIsIlNwYW5pc2ggb3JlZ2FubyIsInNob290IiwiMC0xNTUiCiJPcmlnYW51bSB2dWxnYXJlIChzdWJzcC4gaGlydHVtKSIsIkxhbWlhY2VhZSIsIlR1cmtpc2gsIEdyZWVrLCB3aWxkIG9yZWdhbm8iLCJzaG9vdCIsIjAtOTAiCiJBZ2F0aG9zbWEgYmV0dWxpbmEiLCJSdXRhY2VhZSIsIkJ1Y2h1LCBIb25leSBCdWNodSwgTW91bnRhaW4gQnVjaHUiLCJMZWFmIiwibm90IHJlcG9ydGVkIgoiQmFyb3NtYSBiZXR1bGluYSIsIlJ1dGFjZWFlIiwiQnVjaHUiLCJMZWFmIiwibm90IHJlcG9ydGVkIgoiQ2FtZWxsaWEgc2luZW5zaXMiLCJUaGVhY2VhZSIsIlRlYSIsIkxlYWYiLCJub3QgcmVwb3J0ZWQiCiJDYXJpY2EgcGFwYXlhIiwiQ2FyaWFjZWFlIiwiUGFwYXlhIiwiRnJ1aXQiLCJub3QgcmVwb3J0ZWQiCiJDaXRydXMgYXVyYW50aXVtIiwiUnV0YWNlYWUiLCJCaXR0ZXIgT3JhbmdlLCBQZXRpdGdyYWluIiwiUGxhbnQiLCJub3QgcmVwb3J0ZWQiCiJQc29yYWxlYSBjb3J5bGlmb2xpYSIsIkZhYmFjZWFlIiwiQmFiY2hpLCBCbGFjayBEb3QsIE1hbGF5YSBUZWEiLCJTZWVkIiwibm90IHJlcG9ydGVkIgo="
+                      ],
+                      "MimeType": "text/csv"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Other Environmental Concentrations",
+                "Description": "Other environmental concentrations reported for this chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Knoeppel H, Schauenburg H; Environ Int 15: 413-8 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Knoeppel H, Schauenburg H; Environ Int 15: 413-8 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "4-Terpineol was detected in liquid floor wax at unreported concentrations(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-Terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US EPA; Chemical Data Reporting (CDR). Non-confidential 2012 Chemical Data Reporting information on chemical production and use in the United States. Available from, as of July 22, 2015: https://www.epa.gov/cdr/pubs/guidance/cdr_factsheets.html"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US EPA; Chemical Data Reporting (CDR). Non-confidential 2012 Chemical Data Reporting information on chemical production and use in the United States. Available from, as of July 22, 2015: https://www.epa.gov/cdr/pubs/guidance/cdr_factsheets.html"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "According to the 2012 TSCA Inventory Update Reporting data, one reporting facility estimates the number of persons reasonably likely to be exposed in the manufacturing, processing, or use of 4-terpineol in the United States may be 50-99 workers; the data may be greatly underestimated due to confidential business information (CBI) or unknown values(1).",
+                          "Markup": [
+                            {
+                              "Start": 22,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TSCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-110408"
+                            },
+                            {
+                              "Start": 191,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 31,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) NIOSH; NOES. National Occupational Exposure Survey conducted from 1981-1983. Estimated numbers of employees potentially exposed to specific agents by 2-digit standard industrial classification (SIC). Available from, as of July 22, 2015: https://www.cdc.gov/noes/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) NIOSH; NOES. National Occupational Exposure Survey conducted from 1981-1983. Estimated numbers of employees potentially exposed to specific agents by 2-digit standard industrial classification (SIC). Available from, as of July 22, 2015: https://www.cdc.gov/noes/"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NIOSH (NOES Survey 1981-1983) has statistically estimated that 1167 workers (51 of these are female) were potentially exposed to 4-terpineol in the US(1). Occupational exposure to 4-terpineol may occur through inhalation and dermal contact with this compound at workplaces where 4-terpineol is produced or used. Monitoring data indicate that the general population may be exposed to 4-terpineol via ingestion of food and beverages containing 4-terpineol(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 129,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 180,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 279,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 383,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            },
+                            {
+                              "Start": 442,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-terpineol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2724161"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Terpinene-4-ol$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Terpinene-4-ol$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134978014",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000562743",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19467999
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "9a86520c16b7a77a24a80c54b6966517",
+        "Name": "Terpinene-4-ol",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49737060
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID4044824",
+        "Name": "4-Methyl-1-(1-methylethyl)-3-cyclohexen-1-ol",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57015206
+      },
+      {
+        "ReferenceNumber": 31,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "8264",
+        "Name": "4-Terpineol",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/8264",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 5773
+      }
+    ]
+  }
+}

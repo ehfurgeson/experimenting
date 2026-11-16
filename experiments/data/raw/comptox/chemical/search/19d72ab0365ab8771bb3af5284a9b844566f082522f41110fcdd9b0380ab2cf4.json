@@ -1,0 +1,25 @@
+{
+  "search_term": "SMQUZDBALVYZAC-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:04.748319+00:00",
+  "url": "/chemical/search/equal/SMQUZDBALVYZAC-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1021792",
+        "dtxcid": "DTXCID001792",
+        "casrn": "90-02-8",
+        "preferredName": "Salicylaldehyde",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC=CC=C1C=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "SMQUZDBALVYZAC-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

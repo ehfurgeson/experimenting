@@ -1,0 +1,16 @@
+{
+  "query": "Trehalose",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Trehalose/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:06.556321+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 7427,
+          "SMILES": "C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O)O)O)O",
+          "InChIKey": "HDTRYLNUVZCQOY-LIZSDCNHSA-N"
+        }
+      ]
+    }
+  }
+}

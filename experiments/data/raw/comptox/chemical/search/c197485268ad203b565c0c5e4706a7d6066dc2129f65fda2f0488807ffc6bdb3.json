@@ -1,0 +1,25 @@
+{
+  "search_term": "WPYMKLBDIGXBTP-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:39.387858+00:00",
+  "url": "/chemical/search/equal/WPYMKLBDIGXBTP-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Benzoic acid",
+        "dtxsid": "DTXSID6020143",
+        "dtxcid": "DTXCID80143",
+        "casrn": "65-85-0",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "WPYMKLBDIGXBTP-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

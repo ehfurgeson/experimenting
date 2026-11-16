@@ -1,0 +1,11 @@
+{
+  "key": "lead:3-anhydro-ophiobolin A",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/3-anhydro-ophiobolin%20A/property/IsomericSMILES,InChIKey/JSON",
+  "kind": "pubchem_json",
+  "reference_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9157744/",
+  "retrieved_at": "2026-11-05T19:14:27.007099+00:00",
+  "status": 404,
+  "body": "{\n  \"Fault\": {\n    \"Code\": \"PUGREST.NotFound\",\n    \"Message\": \"No CID found\",\n    \"Details\": [\n      \"No CID found that matches the given name\"\n    ]\n  }\n}\n",
+  "error": null,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/3-anhydro-ophiobolin%20A/property/IsomericSMILES,InChIKey/JSON"
+}

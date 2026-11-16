@@ -1,0 +1,25 @@
+{
+  "search_term": "4-Thujanol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:17.890807+00:00",
+  "url": "/chemical/search/equal/4-Thujanol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID40862164",
+        "dtxcid": "DTXCID40810968",
+        "casrn": "546-79-2",
+        "preferredName": "Sabinene hydrate",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)C12CC1C(C)(O)CC2",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "4-Thujanol",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

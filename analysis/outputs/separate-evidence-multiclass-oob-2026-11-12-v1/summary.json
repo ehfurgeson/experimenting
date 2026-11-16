@@ -1,0 +1,24 @@
+[
+  {
+    "pathway": "A",
+    "n": 4234,
+    "class_counts": {
+      "0": 2167,
+      "1": 1193,
+      "2": 874
+    },
+    "oob_macro_f1": 0.48376746843139057,
+    "interpretation": "whole_cohort_OOB_not_scaffold_held_out"
+  },
+  {
+    "pathway": "B",
+    "n": 43128,
+    "class_counts": {
+      "1": 18496,
+      "0": 17198,
+      "2": 7434
+    },
+    "oob_macro_f1": 0.7292572942553913,
+    "interpretation": "whole_cohort_OOB_not_scaffold_held_out"
+  }
+]

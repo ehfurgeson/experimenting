@@ -1,0 +1,155 @@
+{
+  "source": "ChEMBL",
+  "retrieved_at": "2026-10-28T17:32:02.753607+00:00",
+  "requests": [
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/status.json",
+      "params": null
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/assay/CHEMBL3050580.json",
+      "params": null
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/document/CHEMBL3046106.json",
+      "params": null
+    },
+    {
+      "url": "https://www.ebi.ac.uk/chembl/api/data/activity.json",
+      "params": {
+        "assay_chembl_id": "CHEMBL3050580",
+        "limit": "100",
+        "offset": "0",
+        "order_by": "activity_id"
+      }
+    }
+  ],
+  "status": {
+    "activities": 24527044,
+    "chembl_db_version": "ChEMBL_37",
+    "chembl_release_date": "2026-05-01",
+    "compound_records": 3824604,
+    "disinct_compounds": 2921148,
+    "publications": 101100,
+    "status": "UP",
+    "targets": 18552
+  },
+  "assay": {
+    "aidx": "CLD0",
+    "assay_category": null,
+    "assay_cell_type": null,
+    "assay_chembl_id": "CHEMBL3050580",
+    "assay_classifications": [],
+    "assay_group": null,
+    "assay_organism": "Amaranthus retroflexus",
+    "assay_parameters": [],
+    "assay_strain": null,
+    "assay_subcellular_fraction": null,
+    "assay_tax_id": 124763,
+    "assay_test_type": null,
+    "assay_tissue": null,
+    "assay_type": "F",
+    "assay_type_description": "Functional",
+    "bao_format": "BAO_0000218",
+    "bao_label": "organism-based format",
+    "cell_chembl_id": null,
+    "confidence_description": "Target assigned is non-molecular",
+    "confidence_score": 1,
+    "description": "Herbicidal activity against Amaranthus retroflexus at 400 g/hm2 postemergent application after 2 weeks",
+    "document_chembl_id": "CHEMBL3046106",
+    "relationship_description": "Non-molecular target assigned",
+    "relationship_type": "N",
+    "src_assay_id": "503458",
+    "src_id": 1,
+    "target_chembl_id": "CHEMBL613800",
+    "tissue_chembl_id": null,
+    "variant_sequence": null
+  },
+  "document": {
+    "abstract": "A series of novel diphenyl ether derivatives containing unsaturated carboxylates were designed and synthesized. Their structures were identified by (1)H nuclear magnetic resonance and elemental analyses. The bioassays indicated that the compounds 5b and 5c exhibited good herbicidal activities against velvetleaf at a concentration of 30-40 g/hm(2). The relationship between structure and herbicidal activity was also discussed. Among unsaturated carboxylates group, butenoate is the most promising one. Amonst them, 4-ethoxy-4-oxobutenyl 5-(2-chloro-4-(trifluoromethyl)phenoxy)-2-nitrobenzoate 5b was identified as the most promising candidate due to its high protoporphyrinogen IX oxidase inhibition effect (pI(50) = 6.64) and good herbicidal activity against broadleaf weeds with selectivity to soybean and low toxicity to mammals.",
+    "authors": "Yu H, Yang H, Cui D, Lv L, Li B.",
+    "chembl_release": {
+      "chembl_release": "CHEMBL_19",
+      "creation_date": "2014-07-03"
+    },
+    "contact": null,
+    "doc_type": "PUBLICATION",
+    "document_chembl_id": "CHEMBL3046106",
+    "doi": "10.1021/jf2039444",
+    "doi_chembl": null,
+    "first_page": "11718",
+    "issue": "21",
+    "journal": "J Agric Food Chem",
+    "journal_full_title": "Journal of agricultural and food chemistry.",
+    "last_page": "11726",
+    "patent_id": null,
+    "pubmed_id": 21958315,
+    "src_id": 1,
+    "title": "Synthesis and herbicidal activity of diphenyl ether derivatives containing unsaturated carboxylates.",
+    "volume": "59",
+    "year": 2011
+  },
+  "activity_pages": [
+    {
+      "activities": [
+        {
+          "action_type": null,
+          "activity_comment": null,
+          "activity_id": 12340937,
+          "activity_properties": [],
+          "assay_chembl_id": "CHEMBL3050580",
+          "assay_description": "Herbicidal activity against Amaranthus retroflexus at 400 g/hm2 postemergent application after 2 weeks",
+          "assay_type": "F",
+          "assay_variant_accession": null,
+          "assay_variant_mutation": null,
+          "bao_endpoint": "BAO_0001103",
+          "bao_format": "BAO_0000218",
+          "bao_label": "organism-based format",
+          "canonical_smiles": "O=C(O)c1cc(Oc2ccc(C(F)(F)F)cc2Cl)ccc1[N+](=O)[O-]",
+          "data_validity_comment": null,
+          "data_validity_description": null,
+          "document_chembl_id": "CHEMBL3046106",
+          "document_journal": "J Agric Food Chem",
+          "document_year": 2011,
+          "ligand_efficiency": null,
+          "modality": null,
+          "molecule_chembl_id": "CHEMBL222440",
+          "molecule_pref_name": "ACIFLUORFEN",
+          "parent_molecule_chembl_id": "CHEMBL222440",
+          "pchembl_value": null,
+          "potential_duplicate": 0,
+          "qudt_units": "http://qudt.org/vocab/unit#Percent",
+          "record_id": 1783669,
+          "relation": "=",
+          "src_id": 1,
+          "standard_flag": 0,
+          "standard_relation": "=",
+          "standard_text_value": null,
+          "standard_type": "Activity",
+          "standard_units": "%",
+          "standard_upper_value": null,
+          "standard_value": "95.0",
+          "target_chembl_id": "CHEMBL613800",
+          "target_organism": "Amaranthus retroflexus",
+          "target_pref_name": "Amaranthus retroflexus",
+          "target_tax_id": "124763",
+          "text_value": null,
+          "toid": null,
+          "type": "Activity",
+          "units": "%",
+          "uo_units": "UO_0000187",
+          "upper_value": null,
+          "value": "95.0"
+        }
+      ],
+      "page_meta": {
+        "limit": 100,
+        "next": null,
+        "offset": 0,
+        "previous": null,
+        "total_count": 1
+      }
+    }
+  ],
+  "activity_count": 1
+}

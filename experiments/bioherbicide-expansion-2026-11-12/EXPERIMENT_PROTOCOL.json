@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-12",
+  "status": "AI experimental adoption authorized by user; not independent scientific review",
+  "frozen_reviewed_inputs_unchanged": true,
+  "assumptions": [
+    "Primary source table rows are provisional transcriptions, not new human-reviewed labels.",
+    "A unique PubChem name hit supplies only a provisional source-to-structure mapping; ambiguous hits remain excluded.",
+    "Unknown origin/activity never supplies a negative label.",
+    "No threshold or feature selection will use the experimental held-out scores.",
+    "Source-specific targets retain species, endpoint, dose basis, assessment time, controls and unresolved protocol issues."
+  ],
+  "source_specific_rules": {
+    "EXPERIMENT-AMBROSIA2019-LETTUCE-1MM-7D-ORDINAL-v1": {
+      "source": "10.3390/molecules24050835",
+      "scope": "Table 2 pure confertin and neoambrosin at 1000 micromolar; Lactuca sativa; seven-day ordinal germination/growth response",
+      "positive": "grade >=4", "low_response": "grade <=1", "otherwise": "unknown",
+      "controls": "solvent wells; exact vehicle and replication not stated in inspected section 3.7.1",
+      "selection": "retrospective assay-rule proposal; not preregistered before literature inspection"
+    },
+    "EXPERIMENT-NONENOLIDES2021-SONCHUS-2MGML-120H-v1": {
+      "source": "10.3390/jof7100829", "scope": "Table 2, source compounds 1-11; punctured Sonchus arvensis leaf discs; 10 microliters of 2 mg/mL; 120-hour necrotic lesion diameter",
+      "positive": "mean >=4 mm", "low_response": "mean <=0.5 mm", "otherwise": "unknown",
+      "controls": "5% ethanol vehicle; twelve discs per treatment; no equivalence inference",
+      "selection": "retrospective descriptive threshold; no transfer to lettuce or intact-leaf efficacy"
+    }
+  },
+  "pooled_sensitivity": {
+    "policy": "EXPERIMENT-HETEROGENEOUS-REPORTED-EXTREMES-v1",
+    "include": ["HUMAN-LI2006-AR-150G-POST-BOUNDS-v0.1", "HUMAN-HE2011-AR-1500G-POST-BANDS-v0.1", "EXPERIMENT-AMBROSIA2019-LETTUCE-1MM-7D-ORDINAL-v1"],
+    "target": "source-specific high versus low response under the parent policy; not a common biological activity estimand",
+    "purpose": "measure computational feasibility and publication/assay confounding under intentionally permissive experimental pooling",
+    "limitations": "Different species/stages/doses/endpoints/time; not an accepted activity model or evidence of safer herbicides.",
+    "validation": "Keep five-fold scaffold gates and fixed seed; no random-split rescue or threshold search. Also test publication transfer when both train and test classes exist.",
+    "models": "Fixed formula/descriptors/Morgan/combined PCA logistic; formula raw logistic and raw Morgan logistic/forest if the five-fold gate passes.",
+    "controls": "20 deterministic shuffled-label repetitions; leave-one-publication-out report; F1, precision, recall, balanced accuracy, AUROC and confusion counts; standardized formula weights; tree-specific OOB permutation is descriptive, not p-value."
+  }
+}

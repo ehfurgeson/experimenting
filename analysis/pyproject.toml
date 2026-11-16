@@ -1,0 +1,31 @@
+[project]
+name = "agrotox-analysis"
+version = "0.1.0"
+description = "Professor-facing exploration of agrochemical traits and endpoint evidence"
+requires-python = ">=3.12"
+dependencies = [
+    "agrotox",
+    "marimo>=0.19,<1",
+    "altair>=5.5,<7",
+    "vl-convert-python>=1.8,<2",
+    "rdkit>=2025.3,<2027",
+    "scikit-learn>=1.6,<2",
+    "numpy>=2,<3",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<10", "ruff>=0.8,<1"]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+agrotox = { path = "../pipeline", editable = true }
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint.per-file-ignores]
+# Marimo cells use display expressions and explicit returns in their source format.
+"professor_notebook.py" = ["B018", "PLR1711"]

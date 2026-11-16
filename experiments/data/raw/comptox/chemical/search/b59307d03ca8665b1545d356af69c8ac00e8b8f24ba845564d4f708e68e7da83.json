@@ -1,0 +1,25 @@
+{
+  "search_term": "GQNUDXCKVPLQBI-KIQVUASESA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:35.182331+00:00",
+  "url": "/chemical/search/equal/GQNUDXCKVPLQBI-KIQVUASESA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID50973710",
+        "dtxcid": "DTXCID701401157",
+        "casrn": "58139-23-4",
+        "preferredName": "Bis{[4-(hexopyranosyloxy)phenyl]methyl} 2-hydroxy-2-(2-methylpropyl)butanedioate",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@]1(CO)O[C@@]([H])(OC2=CC=C(COC(=O)C[C@](O)(CC(C)C)C(=O)OCC3=CC=C(O[C@]4([H])O[C@]([H])(CO)[C@@]([H])(O)[C@]([H])(O)[C@@]4([H])O)C=C3)C=C2)[C@]([H])(O)[C@@]([H])(O)[C@]1([H])O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "GQNUDXCKVPLQBI-KIQVUASESA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

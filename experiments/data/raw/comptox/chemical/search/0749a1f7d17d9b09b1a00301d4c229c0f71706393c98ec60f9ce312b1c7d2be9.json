@@ -1,0 +1,25 @@
+{
+  "search_term": "Terpinen-4-ol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:22.892005+00:00",
+  "url": "/chemical/search/equal/Terpinen-4-ol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID4044824",
+        "dtxcid": "DTXCID2024824",
+        "casrn": "562-74-3",
+        "preferredName": "4-Methyl-1-(1-methylethyl)-3-cyclohexen-1-ol",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)C1(O)CCC(C)=CC1",
+        "isMarkush": false,
+        "searchName": "Synonym from Valid Source",
+        "searchValue": "Terpinen-4-ol",
+        "rank": 11
+      }
+    ],
+    "suggestions": []
+  }
+}

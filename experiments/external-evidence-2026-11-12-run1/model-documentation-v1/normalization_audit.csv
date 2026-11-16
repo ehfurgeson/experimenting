@@ -1,0 +1,5 @@
+source,raw_field,raw_basis,analysis_basis,status,documentation,limitation
+NIH ICE,Response,mg/kg,log10(mg/kg),explicit_mathematical_transform,workbook Data Response_Unit and In Vivo Rat Acute Oral Toxicity fields,actual tested form and original-study lineage remain provisional
+OPERA CATMoS archive,CATMoS_LD50_pred,archive interpreted as log10(mg/kg),log10(mg/kg),provisional_archive_specific_contract,OPERA pinned README LD50 Log mg/kg and OPERA.m internal prediction then base10 exponentiation at lines8442 and8631-8634,current executable exports exponentiated doses under the same field name; do not apply this archive interpretation to new CLI CSV output
+CTX TEST,propValue,mol/kg or mol/L as delivered,unchanged,held_no_mass_conversion,raw CTX response propUnit and sourceName,API transform and queried-form molecular-weight basis require independent qualification
+Zenodo3300664,pLD50,unqualified pLD50,unchanged,held_no_normalization,author workbook and DOI metadata,scale and shared experimental-source lineage need original-method review

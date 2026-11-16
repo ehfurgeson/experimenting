@@ -1,0 +1,25 @@
+{
+  "search_term": "GHVNFZFCNZKVNT-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:19.479938+00:00",
+  "url": "/chemical/search/equal/GHVNFZFCNZKVNT-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9021554",
+        "dtxcid": "DTXCID201554",
+        "casrn": "334-48-5",
+        "preferredName": "Decanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "GHVNFZFCNZKVNT-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

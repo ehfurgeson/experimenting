@@ -1,0 +1,25 @@
+{
+  "search_term": "Amitrole",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:24.556949+00:00",
+  "url": "/chemical/search/equal/Amitrole",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0020076",
+        "dtxcid": "DTXCID9076",
+        "casrn": "61-82-5",
+        "preferredName": "Amitrole",
+        "hasStructureImage": 1,
+        "smiles": "NC1=NNC=N1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Amitrole",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "PMOWTIHVNWZYFI-AATRIKPKSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:44.830285+00:00",
+  "url": "/chemical/search/equal/PMOWTIHVNWZYFI-AATRIKPKSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "(2E)-3-(2-Hydroxyphenyl)-2-propenoic acid",
+        "dtxsid": "DTXSID10883240",
+        "dtxcid": "DTXCID80909123",
+        "casrn": "614-60-8",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)\\C=C\\C1=C(O)C=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "PMOWTIHVNWZYFI-AATRIKPKSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

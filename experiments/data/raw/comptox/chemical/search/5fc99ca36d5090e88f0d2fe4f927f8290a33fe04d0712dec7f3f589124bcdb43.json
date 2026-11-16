@@ -1,0 +1,25 @@
+{
+  "search_term": "1H-Indole-5-Carboxylic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:53.696623+00:00",
+  "url": "/chemical/search/equal/1H-Indole-5-Carboxylic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID80168218",
+        "dtxcid": "DTXCID5090709",
+        "casrn": "1670-81-1",
+        "preferredName": "Indole-5-carboxylic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CC2=C(NC=C2)C=C1",
+        "isMarkush": false,
+        "searchName": "Systematic Name",
+        "searchValue": "1H-Indole-5-carboxylic acid",
+        "rank": 12
+      }
+    ],
+    "suggestions": []
+  }
+}

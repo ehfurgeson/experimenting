@@ -1,0 +1,25 @@
+{
+  "search_term": "BJEPYKJPYRNKOW-REOHCLBHSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:33.883634+00:00",
+  "url": "/chemical/search/equal/BJEPYKJPYRNKOW-REOHCLBHSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID30273987",
+        "dtxcid": "DTXCID10819943",
+        "casrn": "97-67-6",
+        "preferredName": "(2S)-2-Hydroxybutanedioic acid",
+        "hasStructureImage": 1,
+        "smiles": "O[C@@H](CC(O)=O)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "BJEPYKJPYRNKOW-REOHCLBHSA-N",
+        "rank": 13,
+        "searchName": "InChIKey"
+      }
+    ],
+    "suggestions": []
+  }
+}

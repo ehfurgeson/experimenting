@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Tryptophan",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:49.047370+00:00",
+  "url": "/chemical/search/equal/L-Tryptophan",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5021419",
+        "dtxcid": "DTXCID801419",
+        "casrn": "73-22-3",
+        "preferredName": "L-Tryptophan",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CC1=CNC2=CC=CC=C12)C(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "L-Tryptophan",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

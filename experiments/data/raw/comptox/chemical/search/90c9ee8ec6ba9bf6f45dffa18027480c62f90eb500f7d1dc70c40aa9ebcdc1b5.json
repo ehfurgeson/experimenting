@@ -1,0 +1,25 @@
+{
+  "search_term": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:37.714686+00:00",
+  "url": "/chemical/search/equal/REFJWTPEDVJJIY-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Quercetin",
+        "dtxsid": "DTXSID4021218",
+        "dtxcid": "DTXCID001218",
+        "casrn": "117-39-5",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC2=C(C(O)=C1)C(=O)C(O)=C(O2)C1=CC(O)=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "REFJWTPEDVJJIY-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "query": "Lauric acid",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Lauric%20acid/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:10.877555+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 3893,
+          "SMILES": "CCCCCCCCCCCC(=O)O",
+          "InChIKey": "POULHZVOKOAJMA-UHFFFAOYSA-N"
+        }
+      ]
+    }
+  }
+}

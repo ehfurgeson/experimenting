@@ -1,0 +1,25 @@
+{
+  "search_term": "LBGPXIPGGRQBJW-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:26.549427+00:00",
+  "url": "/chemical/search/equal/LBGPXIPGGRQBJW-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Difenzoquat",
+        "dtxsid": "DTXSID6043965",
+        "dtxcid": "DTXCID4023965",
+        "casrn": "49866-87-7",
+        "hasStructureImage": 1,
+        "smiles": "CN1C(=CC(C2=CC=CC=C2)=[N+]1C)C1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "LBGPXIPGGRQBJW-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

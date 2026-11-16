@@ -1,0 +1,37 @@
+{
+  "search_term": "L-Isoleucine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:30.278709+00:00",
+  "url": "/chemical/search/equal/L-Isoleucine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1047441",
+        "dtxcid": "DTXCID9027441",
+        "casrn": "73-32-5",
+        "preferredName": "L-Isoleucine",
+        "hasStructureImage": 1,
+        "smiles": "CC[C@H](C)[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Isoleucine",
+        "rank": 9,
+        "searchName": "Approved Name"
+      },
+      {
+        "dtxsid": "DTXSID2046882",
+        "dtxcid": "DTXCID201323037",
+        "casrn": "443-79-8",
+        "preferredName": "DL-Isoleucine",
+        "hasStructureImage": 1,
+        "smiles": "CC[C@H](C)[C@H](N)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Isoleucine",
+        "rank": 12,
+        "searchName": "Systematic Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

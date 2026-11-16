@@ -1,0 +1,25 @@
+{
+  "search_term": "Indole-3-Carboxylic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:51.768855+00:00",
+  "url": "/chemical/search/equal/Indole-3-Carboxylic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID50227886",
+        "dtxcid": "DTXCID00150377",
+        "casrn": "771-50-6",
+        "preferredName": "Indole-3-carboxylic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CNC2=CC=CC=C12",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Indole-3-carboxylic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

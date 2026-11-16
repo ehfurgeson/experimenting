@@ -1,0 +1,3224 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 51556,
+    "RecordTitle": "Fomesafen",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=348",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fomesafen"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "Cancer Sites",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hepatic"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "USGS Health-Based Screening Levels for Evaluating Water-Quality",
+                "Description": "This section provides the USGS Health-Based Screening Levels for Evaluating Water-Quality data.",
+                "URL": "https://water.usgs.gov/water-resources/hbsl/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fomesafen"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "USGS Parameter Code",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "52654"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "Chemical Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pesticide"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "Chronic Noncancer HHBP (Human Health Benchmarks for Pesticides)[μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "60"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "Benchmark Remarks",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Listed as Fomesafen + sodium",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 22,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Sodium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Sodium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 54,
+                    "Name": "Reference",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Smith, C.D. and Nowell, L.H., 2024. Health-Based Screening Levels for evaluating water-quality data (3rd ed.). DOI:10.5066/F71C1TWP",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Cancer Sites",
+                "Description": "The site in which cancer develops due to exposure to this compound.  Cancers are casually referred to based on their primary sites (e.g., skin, lung, breasts, prostate, colon and rectum).",
+                "URL": "https://training.seer.cancer.gov/disease/categories/site.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hepatic"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135010139"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Slope Factor (CSFo)(mg/kg-day)^-1",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.19"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 48,
+                        "Name": "Oral Slope Factor Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "IRIS Archive"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document?D=EPA-HQ-OPP-2006-0239-0197",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Fomesafen + sodium"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "7000"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Children"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "60"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 14,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900060223,
+                              "Citation": "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat (male) oral 1860 mg/kg /Fomesafen-sodium/",
+                              "Markup": [
+                                {
+                                  "Start": 33,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen-sodium",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-9570991"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900060223,
+                              "Citation": "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat (female) oral 1500 mg/kg /Fomesafen-sodium/",
+                              "Markup": [
+                                {
+                                  "Start": 35,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen-sodium",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-9570991"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900060223,
+                              "Citation": "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rabbit dermal >780 mg/kg /Fomesafen-sodium/",
+                              "Markup": [
+                                {
+                                  "Start": 31,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen-sodium",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-9570991"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council.",
+                            "Matched": {
+                              "PCLID": 900060223,
+                              "Citation": "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 Rat (male) inhalation 4.97 mg/L /4 hr"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "For more Non-Human Toxicity Values (Complete) data for FOMESAFEN (7 total), please visit the HSDB record page.",
+                              "Markup": [
+                                {
+                                  "Start": 93,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6660#section=Non-Human-Toxicity-Values-(Complete)"
+                                },
+                                {
+                                  "Start": 55,
+                                  "Length": 9,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FOMESAFEN",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-51556"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Other Toxicity Values",
+                    "Description": "Other toxicity values that are less commonly used in toxicological studies.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 15,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^Other$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Hart SE et al; Journal of Production Agriculture 10 (1): 136-141 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Hart SE et al; Journal of Production Agriculture 10 (1): 136-141 (1997)",
+                        "Matched": {
+                          "PCLID": 714786605,
+                          "Citation": "Hart SE, Wax LM, Hager AG. Comparison of Total Postemergence Weed Control Programs in Soybean. Journal of Production Agricult. 1997 Jan;10(1):136–41. doi: 10.2134/jpa1997.0136.",
+                          "DOI": "10.2134/jpa1997.0136"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Field studies were conducted in 1994 and 1995 in central and southern Illinois to compare several total postemergence weed control programs in soybean (Glycine max (L.) Merr.). Herbicide programs evaluated were imazethapyr (an acetolactate synthase (ALS) inhibiting herbicide) applied alone or in combination with lactofen and two non-acetolactate synthase herbicide programs consisting of combinations of bentazon, acifluorfen, and sethoxydima and combinations of fomesafen, fluazifop, and fenoxyprop. These treatments were applied early postemergence (EPOST, V-1 soybean-first trifoliate) and postemergence (POST, V-2 soybean-second trifoliate). Non-acetolactate synthase herbicide programs generally provide more effective weed control postemergence, while weed control with imazethapyr tended to be greater early postemergence. Non-acetolactate synthase herbicide programs applied postemergence provided weed control levels that were equal to imazethapyr in three out of four experiments. In 1994 at Brownstown, broadleaf weed control was poor with non-acetolactate synthase herbicide programs when weed growth stages were larger and environmental conditions more extreme than other experiments. Adding lactofen to imazethapyr increased broadleaf weed control in some instances but decreased giant foxtail (Setaria faberil L.) control. Imazethapyr plus lactofen tended to produce the greatest degree of soybean injury.",
+                          "Markup": [
+                            {
+                              "Start": 152,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glycine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-750"
+                            },
+                            {
+                              "Start": 211,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 227,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetolactate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-79041"
+                            },
+                            {
+                              "Start": 314,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lactofen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-62276"
+                            },
+                            {
+                              "Start": 335,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetolactate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-79041"
+                            },
+                            {
+                              "Start": 406,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bentazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2328"
+                            },
+                            {
+                              "Start": 416,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acifluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-44073"
+                            },
+                            {
+                              "Start": 465,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 476,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluazifop",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91701"
+                            },
+                            {
+                              "Start": 652,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetolactate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-79041"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 836,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetolactate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-79041"
+                            },
+                            {
+                              "Start": 947,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1057,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetolactate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-79041"
+                            },
+                            {
+                              "Start": 1207,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lactofen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-62276"
+                            },
+                            {
+                              "Start": 1219,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1340,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 1357,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lactofen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-62276"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Wilcut JW et al; Weed Technology 11 (2): 221-226 (1997)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Wilcut JW et al; Weed Technology 11 (2): 221-226 (1997)",
+                        "Matched": {
+                          "PCLID": 900045881,
+                          "Citation": "Wilcut JW et al; Weed Technology 11 (2): 221-226 (1997)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Broadleaf weed and yellow nutsedge control with herbicide programs containing pendimethalin and combinations of fomesafen, fluometuron, and norflurazon applied alone or with POST-directed applications of MSMA or fluometuron plus MSMA was evaluated. Soil-applied herbicide combination containing formesafen controlled yellow nutsedge better than combinations of norflurazon and fluometuron but did not provide better entireleaf, ivyleaf, pitted, and tall morningglory or sicklepod control. Fluometuron plus MSMA controlled morningglories and sicklepod more effectively than MSMA. Seed cotton yield was greater in one of two years when fomesafen was applied and was associated with better yellow nutsedge control.",
+                          "Markup": [
+                            {
+                              "Start": 78,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/pendimethalin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-38479"
+                            },
+                            {
+                              "Start": 112,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 123,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluometuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16562"
+                            },
+                            {
+                              "Start": 140,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 204,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MSMA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            },
+                            {
+                              "Start": 212,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluometuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16562"
+                            },
+                            {
+                              "Start": 229,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MSMA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            },
+                            {
+                              "Start": 361,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/norflurazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-33775"
+                            },
+                            {
+                              "Start": 377,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluometuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16562"
+                            },
+                            {
+                              "Start": 489,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fluometuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16562"
+                            },
+                            {
+                              "Start": 506,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MSMA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            },
+                            {
+                              "Start": 573,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MSMA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23664719"
+                            },
+                            {
+                              "Start": 634,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Schmid W et al; Applied Plant Science 10 (1): 16-20 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schmid W et al; Applied Plant Science 10 (1): 16-20 (1996)",
+                        "Matched": {
+                          "PCLID": 900158706,
+                          "Citation": "Schmid W et al; Applied Plant Science 10 (1): 16-20 (1996)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The objective of on-farm herbicide screening experiment sin soybean was to assess the efficacy of new herbicides and herbicide combinations for weed control in two tillage systems in Lusaka Province, Zambia weed control treatments consisted of two control treatments (no-weeding and clean weeding with a hand hoe), two standard treatments (metribuzin + metolachlor and fomesafen + fluazifop-butyl) and seven test herbicides/herbicide combinations (oxadiazon, oxadiazon + metolachlor, imazethapyr, acifluorfen + fluazifop-butyl, bentazone + fluazifop-butyl, bentazone + fenoxaprop-ethyl and bentazone + acifluorfen). Loss of potential yield owing to uncontrolled weeds was 66% and 40% under conventional and minimum tillage, respectively. All herbicide treatments performed well wider conventional tillage, whereas none of the treatments was able to satisfactorily control weeds under minimum tillage, especially Euphorbia heterophylla and late weeds. Standard herbicide treatments performed well under both tillage systems.",
+                          "Markup": [
+                            {
+                              "Start": 340,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/metribuzin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30479"
+                            },
+                            {
+                              "Start": 353,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/metolachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4169"
+                            },
+                            {
+                              "Start": 369,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 381,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluazifop-butyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50897"
+                            },
+                            {
+                              "Start": 448,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxadiazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-29732"
+                            },
+                            {
+                              "Start": 459,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxadiazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-29732"
+                            },
+                            {
+                              "Start": 471,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/metolachlor",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4169"
+                            },
+                            {
+                              "Start": 484,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazethapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54740"
+                            },
+                            {
+                              "Start": 497,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acifluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-44073"
+                            },
+                            {
+                              "Start": 511,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluazifop-butyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50897"
+                            },
+                            {
+                              "Start": 528,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bentazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2328"
+                            },
+                            {
+                              "Start": 540,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluazifop-butyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50897"
+                            },
+                            {
+                              "Start": 557,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bentazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2328"
+                            },
+                            {
+                              "Start": 569,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fenoxaprop-ethyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-47938"
+                            },
+                            {
+                              "Start": 590,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bentazone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2328"
+                            },
+                            {
+                              "Start": 602,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acifluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-44073"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Vidrine PR et al; Weed Technology 9 (1): 68-72 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Vidrine PR et al; Weed Technology 9 (1): 68-72 (1995)",
+                        "Matched": {
+                          "PCLID": 906278256,
+                          "Citation": "Vidrine PR et al; Weed Technology 9 (1): 68-72 (1995)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Field studies were conducted to determine rhizomatous johnsongrass and barnyardgrass control with clethodim, quizalofop-P-ethyl, fluazifop-P, sethoxydim, fenoxaprop-ethyl, and quizalofop-P-tefuryl applied alone and with lactofen, imazaquin, chlorimuron, and fomesafen. Graminicides applied alone controlled johnsongrass and barnyardgrass 83 to 99%. Of the graminicides evaluated, clethodium was the most antagonistic of the broadleaf herbicides toward the activity of graminicides. Clethodim mixed with imazaquin reduced johnsongrass control as much as 64% and mixed with chlorimuron reduced barnyardgrass control as much as 52%. Quizalofop-P-tefuryl was least affected by broadleaf herbicides and fomesafen was least antagonistic in mixtures with graminicides.",
+                          "Markup": [
+                            {
+                              "Start": 98,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/clethodim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-136469009"
+                            },
+                            {
+                              "Start": 109,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quizalofop-P-ethyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1617113"
+                            },
+                            {
+                              "Start": 129,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fluazifop-P",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91733"
+                            },
+                            {
+                              "Start": 142,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sethoxydim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135491830"
+                            },
+                            {
+                              "Start": 154,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fenoxaprop-ethyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-47938"
+                            },
+                            {
+                              "Start": 176,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quizalofop-P-tefuryl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-14601092"
+                            },
+                            {
+                              "Start": 220,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lactofen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-62276"
+                            },
+                            {
+                              "Start": 230,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazaquin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54739"
+                            },
+                            {
+                              "Start": 241,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorimuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91762"
+                            },
+                            {
+                              "Start": 258,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 482,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Clethodim",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-136469009"
+                            },
+                            {
+                              "Start": 503,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazaquin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54739"
+                            },
+                            {
+                              "Start": 572,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/chlorimuron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-91762"
+                            },
+                            {
+                              "Start": 630,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quizalofop-P-tefuryl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-14601092"
+                            },
+                            {
+                              "Start": 698,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Interactions (Complete) data for FOMESAFEN (7 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 80,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6660#section=Interactions-(Complete)"
+                            },
+                            {
+                              "Start": 42,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FOMESAFEN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Immediate first aid: Ensure that adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR if necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on the left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 324,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 mL/kg up to 200 mL of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 216,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 468,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 637,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1",
+                        "Matched": {
+                          "PCLID": 900090294,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in severe respiratory distress. Positive-pressure ventilation techniques with a bag valve mask device may be beneficial. Consider drug therapy for pulmonary edema ... . Consider administering a beta agonist such as albuterol for severe bronchospasm ... . Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start IV administration of D5W /SRP: \"To keep open\", minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's if signs of hypovolemia are present. For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam or lorazepam ... . Use proparacaine hydrochloride to assist eye irrigation ... .  /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 378,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/albuterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2083"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 798,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.40 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.40 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900143566,
+                          "Citation": "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.40 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/GENOTOXICITY/ In a mammalian cell cytogenetics assay (chromosomal aberrations), human lymphocytes (obtained from one male and one female donor) in culture were exposed to fomesafen (96.7% a.i.) in dimethyl sulfoxide (DMSO) at concentrations of 0, 150, 500, and 1000 ug/ml in the absence of S9-mix and 75, 150, and 250 ug/mL in the presence of S9 mix for 3-3.5 hours and harvested 72 hours after the beginning of treatment. Two-hundred cells (100 per duplicate coded slide) were evaluated for metaphases with structural aberrations. The S9-fraction was obtained from Aroclor 1254 induced male Sprague Dawley rat liver. Fomesafen was tested at concentrations ranging from 150-1000 ug/mL (/without/ S9) and 75-250 ug/mL (+S9). A significant increase in chromosome fragments was observed in lymphocytes from donor 1 at 1000 ug/mL (/without/ S9). However, the clastogenic response is most likely secondary to cytotoxicity as the MI was reduced by 57% in these cells. In the repeat experiment (/without/ S9, donor 1), the MI decreased by 56% and clastogenicity was not observed. Proper experimental protocol was followed and the solvent and positive control values were appropriate. There was no evidence of chromosome aberrations induced over background.",
+                          "Markup": [
+                            {
+                              "Start": 172,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 198,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethyl%20sulfoxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-679"
+                            },
+                            {
+                              "Start": 218,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DMSO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-679"
+                            },
+                            {
+                              "Start": 567,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Aroclor%201254",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-40470"
+                            },
+                            {
+                              "Start": 619,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.41 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.41 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900033650,
+                          "Citation": "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.41 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/GENOTOXICITY/ In an in vitro mammalian cell cytogenetics assay (Chromosomal aberrations), human lymphocytes (obtained from 1 male donor) in culture were exposed to fomesafen (97.5% ai) in dimethyl sulfoxide (DMSO) at concentrations of 0, 10, 100, and 1000 ug/ml in the absence and presence of metabolic activation for 3 hours and harvested 26 hours after the beginning of treatment. One-hundred cells (duplicate slides) were evaluated for metaphases with structural aberrations. The S9-fraction was obtained from Aroclor 1254 induced male Sprague Dawley rat liver. Fomesafen was tested up to a cytotoxic concentration for this assay. Cytotoxicity was observed at 1000 ug/ml with and without S-9 mix. No statistically or biologically significant increases in chromosomal damage were observed at any of the dose levels either in the presence or absence of metabolic activation. The solvent and positive controls induced the appropriate response. There was no evidence of chromosome aberrations induced over background.",
+                          "Markup": [
+                            {
+                              "Start": 165,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 189,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethyl%20sulfoxide",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-679"
+                            },
+                            {
+                              "Start": 209,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DMSO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-679"
+                            },
+                            {
+                              "Start": 514,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Aroclor%201254",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-40470"
+                            },
+                            {
+                              "Start": 566,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.39-40 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.39-40 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900101315,
+                          "Citation": "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.39-40 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Fomesafen (94% ai) was administered to CD-1 mice (10/sex/dose) in the diet at doses of 0, 5, 15, 50, 150, 500, 1500, or 5000 ppm (equal to 0/0, 0.71/0.94, 2.13/2.87, 7.20/8.30, 20.7/27.1, 68.9/83.4, 209.1/246.8, or 917.2/1247.6 mg/kg/day (M/F)) for up to 28 days. Clinical signs consisting of emaciation were noted in two females in the high dose group (5000 ppm) and in one female in the 150 ppm dose group. Since there was no dose response, the effect was not considered treatment-related. Mortality was seen in one male at 15 ppm in week 2, one male at 50 ppm during week 4 and one female at 5000 ppm during week 4. Statistically significant decreased body weights and body weight gains were observed in high-dose animals only. Food efficiency was also decreased in high-dose animals only. Clinical chemistry parameters were not evaluated in this study. A slight decrease in erythrocytes, hemoglobin, mean corpuscular volume (MCV) and mean corpuscular hemoglobin (MCH) was observed in high-dose females, while decreased MCH and a slight increase in erythrocytes were seen in high-dose males. These changes in hematological parameters were indicative of slight anemia and were therefore regarded as toxicologically significant. Statistically significant increases in liver weights were observed in males at approximately 50 ppm and in females at approximately 150 ppm. Enlarged hepatocytes were also observed. However, since there were no corroborating adverse histopathological findings, these effects were considered adaptive changes. All high-dose animals exhibited bile duct hyperplasia. Small seminal vesicles were observed in 2/10 high dose males, while small uteri were observed in 4/10 females at 1500 ppm and in 9/10 high-dose females. Under the conditions of this study, the LOAEL was /SRP: 1500 ppm/ based on decreased body weights and body weight gains, decreased food efficiency, hematology (decreased erythrocyte count, hemoglobin, mean corpuscular volume, and mean corpuscular hemoglobin), bile duct hyperplasia, decreased uterine size in females, and decreased size of the seminal vesicles in males.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:8045477",
+                      "Krijt J et al; Food Chem Toxicol 32 (7): 641-50 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:8045477",
+                        "Matched": {
+                          "PCLID": 27311032,
+                          "Citation": "Krijt J, Vokurka M, Sanitrak J, Janousek V, van Holsteijn I, Blaauboer BJ. Effect of the protoporphyrinogen oxidase-inhibiting herbicide fomesafen on liver uroporphyrin and heptacarboxylic porphyrin in two mouse strains. Food Chem Toxicol. 1994 Jul;32(7):641–50. doi: 10.1016/0278-6915(94)90008-6. PMID: 8045477.",
+                          "PMID": 8045477,
+                          "DOI": "10.1016/0278-6915(94)90008-6"
+                        }
+                      },
+                      {
+                        "Citation": "Krijt J et al; Food Chem Toxicol 32 (7): 641-50 (1994)",
+                        "Matched": {
+                          "PCLID": 27311032,
+                          "Citation": "Krijt J, Vokurka M, Sanitrak J, Janousek V, van Holsteijn I, Blaauboer BJ. Effect of the protoporphyrinogen oxidase-inhibiting herbicide fomesafen on liver uroporphyrin and heptacarboxylic porphyrin in two mouse strains. Food Chem Toxicol. 1994 Jul;32(7):641–50. doi: 10.1016/0278-6915(94)90008-6. PMID: 8045477.",
+                          "PMID": 8045477,
+                          "DOI": "10.1016/0278-6915(94)90008-6"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Fomesafen caused liver accumulation of uroporphyrin and heptacarboxylic porphyrin when fed at 0.25% in the diet to male ICR mice for 5 months (fomesafen-treated mice: 52 nmol uroporphyrin, 21 nmol heptacarboxylic porphyrin/g liver; control mice: traces of uroporphyrin, heptacarboxylic porphyrin not detected). Uroporphyrinogen decarboxylase activity was depressed to about 25% of control values. Iron treatment accelerated the development of this porphyria cutanea tarda-like experimental porphyria both in ICR and C57B1/6J mice. In contrast to other uroporphyrinogen decarboxylase inhibitors, fomesafen treatment did not increase the cytochrome P450IA-related activities and the amount of P450IA2 protein was shown to be significantly decreased by Western immunoblotting. Fomesafen inhibits both the oxidation of protoporphyrinogen as well as the conversion of uroporphyrinogen to coproporphyrinogen. However, the accumulation of highly carboxylated porphyrins is evident only after prolonged treatment with high doses of the herbicide.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 199,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 453,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 651,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 830,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 871,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/protoporphyrinogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-121893"
+                            },
+                            {
+                              "Start": 939,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/coproporphyrinogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.32-3 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.32-3 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900090721,
+                          "Citation": "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.32-3 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In a 26-week oral toxicity study, fomesafen (97.5% ai) was administered to 6 Beagle dogs/sex/dose in gelatin capsules at dose levels of 0, 0.1, 1, or 25 mg/kg bw/day. There were no treatment-related effects on survival, clinical parameters, body weight, or food consumption. Mean hemoglobin concentrations and erythrocyte counts were slightly decreased in both sexes combined (6-10%), relative to controls, at 25 mg/kg from weeks 4-20. Mean hematocrit was also slightly decreased (6-9%), relative to controls, in both sexes combined at 25 mg/kg during the same period. At 25 mg/kg in both sexes combined, mean platelet counts increased by 10-23% from week 8-20, while from weeks 4-16 mean prothrombin time was increased only slightly (3-4%), relative to controls. Taken together, these results are suggestive of slight anemia at 25 mg/kg. Mean absolute and relative liver weights were increased in males by 10% and 13%, respectively, at 25 mg/kg. The slight increase in liver weights in males was regarded as non- adverse. The adaptive nature of the liver changes was also supported by a 19% (males) and 15% (females) increase in smooth endoplasmic reticulum (SER), indicative of increased protein synthesis. Mean plasma cholesterol levels were decreased by 31-40%, relative to controls, in both sexes combined from weeks 1-26, while mean plasma triglycerides were decreased by 45- 56% over the same period. A 3- and 2-fold increase, relative to controls, in the mean number of peroxisomes in centrilobular hepatocytes was also observed in males and females, respectively, at 25 mg/kg. Peroxisome proliferation is an adaptive response to hypolipidemic compounds. Changes in the \"tinctorial properties of hepatocytes\" was also observed in 4/6 males and 4/6 females at 25 mg/kg; these changes in staining reflect the observed changes at the organelle level, i.e., increase in peroxisome number and SER, and while treatment-related, are considered non-adverse. The LOAEL is 25 mg/kg bw/day, based on hematology (decreased hemoglobin and hematocrit concentrations and erythrocyte count and increased platelet count and prothrombin time). The NOAEL is 1 mg/kg bw/day.",
+                          "Markup": [
+                            {
+                              "Start": 90,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 1277,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cholesterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5997"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.32 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.32 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900071664,
+                          "Citation": "USEPA; Fomesafen Sodium: Human Health Risk Assessment. Document ID: EPA-HQ-OPP-2010-0122-0007. p.32 (February 19, 2010). Available from, as of June 2, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ In this subchronic toxicity study, Fomesafen (97.5% ai) was administered in the diet for 90 days to 20 Alderley Park rats/sex/dose at doses of 0, 1, 5, 100 or 1000 ppm (equivalent to 0, 0.1, 0.5, 10 and 100 mg/kg/day). Animals were observed daily for clinical signs of toxicity. Body weights and food consumption were determined initially and at 2-week intervals, thereafter. Hematology, clinical chemistry and urinalysis were conducted. At termination, animals were necropsied, organs weighed and representative tissues examined microscopically. Election microscopy was conducted on selected tissues. No mortality occurred. Animals in the 1000 ppm group gained less weight than the controls. Plasma alkaline phosphatase, alanine transaminase and aspartate transaminase were increased 169, 149 and 131%, respectively, in males in the 1000 ppm group. Liver weights were increased in male and females at 1000 ppm. Hyalinization of hepatocytes, increased eosinophilia and reduced basophilic granulation was observed at 100 and 1000 ppm. Electron microscopy revealed an increase in peroxisomes in centrilobular hepatocytes at 100 and 1000 ppm. The LOAEL is 100 ppm (10 mg/kg/day) based on hyalinization of hepatocytes, increased eosinophilia, reduced granulation, increased liver weights in males and females, and increases in plasma alkaline phosphatase, alanine transaminase and aspartate transaminase in males. The NOAEL is 5 ppm (0.5 mg/kg/day).",
+                          "Markup": [
+                            {
+                              "Start": 91,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5950"
+                            },
+                            {
+                              "Start": 803,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspartate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            },
+                            {
+                              "Start": 1408,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5950"
+                            },
+                            {
+                              "Start": 1433,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspartate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "multiple-CIDs"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for FOMESAFEN (11 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6660#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FOMESAFEN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 7
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council.",
+                        "Matched": {
+                          "PCLID": 900060223,
+                          "Citation": "MacBean C, ed. Fomesafen (72178-02-0). In: The e-Pesticide Manual, 15th Edition,  Version 5.0.1 (2010). Surrey UK, British Crop Protection Council."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50; Species: Anas platyrhynchos (Mallard duck) oral >5000 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/OPP, EFED; Pesticide Ecotoxicity Database (2000) as cited in the ECOTOX database. Available from, as of May 20, 2011: https://cfpub.epa.gov/ecotox/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/OPP, EFED; Pesticide Ecotoxicity Database (2000) as cited in the ECOTOX database. Available from, as of May 20, 2011: https://cfpub.epa.gov/ecotox/",
+                        "Matched": {
+                          "PCLID": 900156382,
+                          "Citation": "USEPA/OPP, EFED; Pesticide Ecotoxicity Database (2000) as cited in the ECOTOX database. Available from, as of May 20, 2011: https://cfpub.epa.gov/ecotox/"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: Anas platyrhynchos (Mallard Duck, age 11 days) diet >20000 ppm for 8 days"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/OPP, EFED; Pesticide Ecotoxicity Database (2000) as cited in the ECOTOX database. Available from, as of May 20, 2011: https://cfpub.epa.gov/ecotox/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/OPP, EFED; Pesticide Ecotoxicity Database (2000) as cited in the ECOTOX database. Available from, as of May 20, 2011: https://cfpub.epa.gov/ecotox/",
+                        "Matched": {
+                          "PCLID": 900156382,
+                          "Citation": "USEPA/OPP, EFED; Pesticide Ecotoxicity Database (2000) as cited in the ECOTOX database. Available from, as of May 20, 2011: https://cfpub.epa.gov/ecotox/"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: Colinus virginianus (Northern Bobwhite Quail, age 14 days) diet >20000 ppm for 8 days"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/OPP, EFED; Pesticide Ecotoxicity Database (2000) as cited in the ECOTOX database. Available from, as of May 20, 2011: https://cfpub.epa.gov/ecotox/"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/OPP, EFED; Pesticide Ecotoxicity Database (2000) as cited in the ECOTOX database. Available from, as of May 20, 2011: https://cfpub.epa.gov/ecotox/",
+                        "Matched": {
+                          "PCLID": 900156382,
+                          "Citation": "USEPA/OPP, EFED; Pesticide Ecotoxicity Database (2000) as cited in the ECOTOX database. Available from, as of May 20, 2011: https://cfpub.epa.gov/ecotox/"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50; Species: Apis mellifera (Honey Bee, worker) topical >100 ug/bee for 48 hr"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for FOMESAFEN (14 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 87,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6660#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FOMESAFEN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Pesticide Programs; Environmental Fate, Ecological Risk and Endangered Species Assessment in Support of the Registration Review of Fomesafen Sodium. p.34 Identification Number: EPA-HQ-OPP-2006-0293-0032 (December 2008). Available from, as of May 31, 2011: https://www.regulations.gov/#!home"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Pesticide Programs; Environmental Fate, Ecological Risk and Endangered Species Assessment in Support of the Registration Review of Fomesafen Sodium. p.34 Identification Number: EPA-HQ-OPP-2006-0293-0032 (December 2008). Available from, as of May 31, 2011: https://www.regulations.gov/#!home",
+                        "Matched": {
+                          "PCLID": 900137705,
+                          "Citation": "USEPA/Office of Pesticide Programs; Environmental Fate, Ecological Risk and Endangered Species Assessment in Support of the Registration Review of Fomesafen Sodium. p.34 Identification Number: EPA-HQ-OPP-2006-0293-0032 (December 2008). Available from, as of May 31, 2011: https://www.regulations.gov/#!home"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ ...Statistically significant increases in production of reactive oxygen species (ROS) in snails exposed to water concentrations of fomesafen > or =10 ug/L /were noted/. Cellular membrane permeability was increased at exposure concentrations of > or =10 ug/L. Increased cellular permeability may lead to higher percentages of apoptotic and necrotic cells in the population of circulating hemocytes in the snails, but these cells do not necessarily proceed to death. Responses vary across the time course of exposure (24-504 hours) with a lower response generally noted at 504 hours. It is unclear... whether the reduced response is due to a compensatory response by the cells, or overwhelming of cellular processes following extended exposure. At concentrations of < or =270 ug/L for durations < or =504 hours (21 days) there was no observable abnormal behavior, mortality, or reduction of hemocyte cell viability in the snails. It appears that fomesafen induces an immune response in freshwater snails at concentrations that may occur in the environment.",
+                          "Markup": [
+                            {
+                              "Start": 125,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 149,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:12206427",
+                      "Jumel A et al; Environ Toxicol Chem 21 (9): 1876-88 (2002)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:12206427",
+                        "Matched": {
+                          "PCLID": 11851150,
+                          "Citation": "Jumel A, Coutellec M, Cravedi J, Lagadic L. NONYLPHENOL POLYETHOXYLATE ADJUVANT MITIGATES THE REPRODUCTIVE TOXICITY OF FOMESAFEN ON THE FRESHWATER SNAIL LYMNAEA STAGNALIS IN OUTDOOR EXPERIMENTAL PONDS. Environ Toxicol Chem. 2002;21(9):1876. doi: 10.1897/1551-5028(2002)021<1876:npamtr>2.0.co;2.",
+                          "PMID": 12206427,
+                          "DOI": "10.1002/etc.5620210915"
+                        }
+                      },
+                      {
+                        "Citation": "Jumel A et al; Environ Toxicol Chem 21 (9): 1876-88 (2002)",
+                        "Matched": {
+                          "PCLID": 11851150,
+                          "Citation": "Jumel A, Coutellec M, Cravedi J, Lagadic L. NONYLPHENOL POLYETHOXYLATE ADJUVANT MITIGATES THE REPRODUCTIVE TOXICITY OF FOMESAFEN ON THE FRESHWATER SNAIL LYMNAEA STAGNALIS IN OUTDOOR EXPERIMENTAL PONDS. Environ Toxicol Chem. 2002;21(9):1876. doi: 10.1897/1551-5028(2002)021<1876:npamtr>2.0.co;2.",
+                          "PMID": 12206427,
+                          "DOI": "10.1002/etc.5620210915"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ The influence of nonylphenol polyethoxylates (NPEO), formulated as the adjuvant Agral 90, on the effects of the diphenyl ether herbicide fomesafen in the pond snail Lymnaea stagnalis was investigated, with particular attention to the reproductive performances and underlying energetic and hormonal processes. Separate short-term exposures to low concentrations of fomesafen and fomesafen-Agral mixture were performed in the laboratory. Outdoor experimental ponds (mesocosms) were used for long-term exposures to higher chemical concentrations. At the concentrations used in the studies, NPEO were known as nontoxic in L stagnalis. Fomesafen was mixed with the adjuvant in the 3:7 ratio recommended for agricultural uses (nominal herbicide concentrations of 22 and 40 ug/L in laboratory and mesocosm, respectively). In mesocosms, multiple application of fomesafen, leading to maximal herbicide concentrations of 60.33 +/- 2.68 ug/L in water, resulted in reduced number of egg masses and altered glycogen metabolism in contaminated snails. These changes, as well as affected steroid-like levels in fomesafen-exposed snails, support the hypothesis of impaired neuroendocrine functions. When Agral 90 was added to the herbicide, results obtained in mesocosms showed that the adjuvant softened the impact of fomesafen. In mesocosms treated with the fomesafen-Agral mixture, significantly lower herbicide levels were found in the water (30.33 +/- 14.91 ug/L at the end of the contamination period). Consequently, internal exposure of the snails to fomesafen was reduced when the herbicide was mixed with the adjuvant.",
+                          "Markup": [
+                            {
+                              "Start": 35,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nonylphenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-67296"
+                            },
+                            {
+                              "Start": 130,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diphenyl%20ether",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-7583"
+                            },
+                            {
+                              "Start": 155,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 382,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 396,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 649,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 871,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 952,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1012,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glycogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-439177"
+                            },
+                            {
+                              "Start": 1114,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 1321,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 1362,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 1442,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1560,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Russo J et al; Environ Pollut 146 (2): 420-7 (2007)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Russo J et al; Environ Pollut 146 (2): 420-7 (2007)",
+                        "Matched": {
+                          "PCLID": 900006724,
+                          "Citation": "Russo J et al; Environ Pollut 146 (2): 420-7 (2007)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ Responses of circulating hemocytes were studied in Lymnaea stagnalis exposed to 10, 30, 90, and 270 ug/L fomesafen for 24 and 504 hr. Flow cytometry was used to quantify fomesafen-induced production of reactive oxygen species (ROS), phagocytic activity on Escherichia coli, and oxidative burst when hemocytes were challenged by E. coli or phorbol 12-myristate-13-acetate (PMA). Lysosomal membrane damage was assessed, using the neutral-red retention time (NRRT) assay. Exposure to fomesafen for 24 h resulted in increase in ROS levels and decreases in phagocytosis and the oxidative burst in PMA-stimulated hemocytes. After 504 h, intracellular levels of ROS returned to normal, but phagocytosis of E. coli was still inhibited and the associated oxidative burst significantly reduced. After both durations of exposure, decreases of NRRT indicated that lysosome membrane fragility increased with fomesafen concentration.",
+                          "Markup": [
+                            {
+                              "Start": 123,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 188,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 357,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phorbol%2012-myristate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-107854"
+                            },
+                            {
+                              "Start": 499,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 913,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:16110989",
+                      "Caquet T et al; Environ Toxicol Chem 24 (5): 1116-24 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:16110989",
+                        "Matched": {
+                          "PCLID": 18669766,
+                          "Citation": "Caquet T, Deydier-Stephan L, Lacroix G, Le Rouzic B, Lescher-Moutoué F. Effects of fomesafen, alone and in combination with an adjuvant, on plankton communities in freshwater outdoor pond mesocosms. Environ Toxicol Chem. 2005 May;24(5):1116–24. doi: 10.1897/04-228r.1. PMID: 16110989.",
+                          "PMID": 16110989,
+                          "DOI": "10.1897/04-228r.1"
+                        }
+                      },
+                      {
+                        "Citation": "Caquet T et al; Environ Toxicol Chem 24 (5): 1116-24 (2005)",
+                        "Matched": {
+                          "PCLID": 18669766,
+                          "Citation": "Caquet T, Deydier-Stephan L, Lacroix G, Le Rouzic B, Lescher-Moutoué F. Effects of fomesafen, alone and in combination with an adjuvant, on plankton communities in freshwater outdoor pond mesocosms. Environ Toxicol Chem. 2005 May;24(5):1116–24. doi: 10.1897/04-228r.1. PMID: 16110989.",
+                          "PMID": 16110989,
+                          "DOI": "10.1897/04-228r.1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ Ecotoxicological effects of the diphenyl ether herbicide fomesafen, applied alone or in combination with the adjuvant Agral 90 (mixture of polyethoxylated derivatives of nonylphenol), were assessed on planktonic communities in 18-cu m outdoor mesocosms during a nine-month study. Four mesocosms were treated with fomesafen only (nominal concentration: 40 ug/L), four were treated with the mixture fomesafen-Agral 90 (nominal concentration: 40 ug/L and 90 ug/L, respectively), and four were kept as the controls. Five treatments were performed every three weeks from April 18, 2000. Mean (+/- standard error [SE]) values of fomesafen concentration in water of 62.5 (+/-5.3) and 19.4 (+/-7.6) ug/L were measured at the end of the treatment period in fomesafen- and mixture-treated mesocosms, respectively. Fomesafen, either alone or in mixture with Agral 90, had a significant positive effect on the abundance and biovolume of Cyanobacteria, Cryptophyceae, Dinophyceae, and Bacillariophyceae. Chlorophyceae were inhibited by the herbicide and laboratory toxicity tests confirmed that green algae were more sensitive toward fomesafen than other algal classes. A positive effect of treatments on phytoplankton taxonomic diversity also was observed, indicating that, like natural disturbances of intermediate strength, xenobiotics sometimes may enhance the diversity of algal communities. Fomesafen alone did not have any clear effect on zooplankton. Abundance of calanoid copepods was reduced significantly in the mixture-treated ponds, suggesting either a direct effect of the adjuvant and/or an enhancement of herbicide toxicity by Agral 90. The abundance of other zooplanktonic herbivorous groups increased due to a reduced competition for food for herbivorous species and a higher availability of preys for predators. No algal bloom was observed in the treated ponds, presumably because of grazing pressure and the low availability of nutrients.",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diphenyl%20ether",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-7583"
+                            },
+                            {
+                              "Start": 75,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 188,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nonylphenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-67296"
+                            },
+                            {
+                              "Start": 331,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 415,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 641,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 668,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 822,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 1139,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 1402,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Excerpts (Complete) data for FOMESAFEN (6 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 88,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6660#section=Ecotoxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 50,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/FOMESAFEN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "6.30e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "8.20e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.90e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.00e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "6.30e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.00e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 12,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.90e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.50e+04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5.80e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.00e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1.00e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 13,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fomesafen's production may result in its release to the environment through various waste streams; its use as a herbicide will result in its direct release to the environment. If released to air, a vapor pressure of <3.0X10-8 mm Hg at 20 °C indicates fomesafen will exist solely in the particulate phase in the atmosphere. Particulate-phase fomesafen will be removed from the atmosphere by wet or dry deposition. Fomesafen contains chromophores that absorb at wavelengths >290 nm and therefore may be susceptible to direct photolysis by sunlight. If released to soil, fomesafen is expected to have very high to low mobility based upon Koc values of 34 to 1200, depending on soil type. The pKa of fomesafen is 2.83, indicating that this compound will exist almost entirely in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts. Volatilization from moist soil is not expected because the acid exists as an anion and anions do not volatilize. Reported biodegradation half-lives for fomesafen of 6 to >12 months under aerobic conditions depending on soil type, and an anaerobic half-life of <3 weeks in soil indicating that biodegradation is an important environmental fate process. If released into water, fomesafen is expected to adsorb to suspended solids and sediment based upon the Koc values. Volatilization from water surfaces is not expected to be an important fate process based upon its pKa. A reported BCF of 6 in bluegill suggests bioconcentration in aquatic organisms is low. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions. Fomesafen will photodecompose readily under relatively low intensities of sunlight. Occupational exposure to fomesafen may occur through inhalation of spray mists or aerosols and dermal contact with this herbicide during or after its application or at workplaces where fomesafen is produced. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 568,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 696,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 882,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1083,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fomesafen's production may result in its release to the environment through various waste streams; its use as a herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)",
+                      "(3) Weber JB; Pestic Sci 39: 31-8 (1993)",
+                      "(4) Schuurmann G et al; Environ Sci Technol 40(2) 7005-11, 1-40 (2006)",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(6) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(3) Weber JB; Pestic Sci 39: 31-8 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Schuurmann G et al; Environ Sci Technol 40(2) 7005-11, 1-40 (2006)"
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(6) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), Koc values of 34 to 1200(2-4), indicate that fomesafen is expected to have very high to low mobility depending on the soil(SRC). The pKa of fomesafen is 2.83(2), indicating that this compound will exist almost entirely in anion form in the environment and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5). Volatilization of fomesafen from moist soil surfaces is not expected to be an important fate process(SRC) given its pKa. Fomesafen is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of <3.0X10-8 mm Hg at 20 °C(2). Fomesafen has reported biodegradation half-lives of 6 to >12 months under aerobic conditions depending on soil type, and an anaerobic half-life of <3 weeks in soil(6).",
+                          "Markup": [
+                            {
+                              "Start": 100,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 195,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 384,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 454,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 557,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)",
+                      "(3) Weber JB; Pestic Sci 39: 31-8 (1993)",
+                      "(4) Schuurmann G et al; Environ Sci Technol 40(2) 7005-11, 1-40 (2006)",
+                      "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(6) Jackson SH et al; J Agric Food Chem 57:958-67 (2009)",
+                      "(7) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)",
+                      "(8) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(3) Weber JB; Pestic Sci 39: 31-8 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Schuurmann G et al; Environ Sci Technol 40(2) 7005-11, 1-40 (2006)"
+                      },
+                      {
+                        "Citation": "(5) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(6) Jackson SH et al; J Agric Food Chem 57:958-67 (2009)"
+                      },
+                      {
+                        "Citation": "(7) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)"
+                      },
+                      {
+                        "Citation": "(8) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), Koc values of 34 to 1200(2-4), indicate that fomesafen is expected to adsorb to suspended solids and sediment(SRC). A pKa of 2.83(2) indicates fomesafen will exist almost entirely in the anion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process(SRC). According to a classification scheme(5), a BCF of 6 reported in bluegill(6), suggests bioconcentration in aquatic organisms is low(SRC). Fomesafen is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(7). Fomesafen may biodegrade in aquatic environments based on anaerobic soil studies reporting a half-life of <3 weeks(8). Fomesafen will photodecompose readily under relatively low intensities of sunlight(8).",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 194,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 306,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 512,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 666,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)",
+                      "(3) Weber JB; Pestic Sci 39: 31-8 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(3) Weber JB; Pestic Sci 39: 31-8 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), fomesafen, which has a vapor pressure of <3.0X10-8 mm Hg at 20 °C(2), is expected to exist solely in the particulate phase in the ambient atmosphere. Particulate-phase fomesafen may be removed from the air by wet or dry deposition(SRC). Fomesafen contains chromophores that absorb at wavelengths >290 nm(3) and therefore may be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: In laboratory soil studies under aerobic conditions, half-lives range from about 6 months to >12 months depending on soil type(1)."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: In soil, fomesafen is rapidly decomposed under anaerobic conditions, with a  half-life of <3 weeks(1).",
+                          "Markup": [
+                            {
+                              "Start": 20,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)",
+                      "(2) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)",
+                      "(3) Weber JB; Pestic Sci 39: 31-8 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)"
+                      },
+                      {
+                        "Citation": "(2) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)"
+                      },
+                      {
+                        "Citation": "(3) Weber JB; Pestic Sci 39: 31-8 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Fomesafen is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(1). Fomesafen will photodecompose readily under relatively low intensities of sunlight(2). Fomesafen contains chromophores that absorb at wavelengths >290 nm(3) and therefore may be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 154,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 241,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Jackson SH et al; J Agric Food Chem 57:958-67 (2009)",
+                      "(2) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Jackson SH et al; J Agric Food Chem 57:958-67 (2009)"
+                      },
+                      {
+                        "Citation": "(2) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A measured BCF of 6 was reported for fomesafen in bluegill (Lepomis macrochirus) which were exposed over a 28 day period(1). According to a classification scheme(2), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 37,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Weber JB; Pestic Sci 39: 31-8 (1993)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-3 (1990)",
+                      "(3) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)",
+                      "(4) Schuurmann G et al; Environ Sci Technol 40(2): 7005-11, 1-40 (2006)",
+                      "(5) Swann RL et al; Res Rev 85: 23 (1983)",
+                      "(6) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(7) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)",
+                      "(8) Weber JB et al; Chemosphere 55:157-66 (2004)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Weber JB; Pestic Sci 39: 31-8 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-3 (1990)"
+                      },
+                      {
+                        "Citation": "(3) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)"
+                      },
+                      {
+                        "Citation": "(4) Schuurmann G et al; Environ Sci Technol 40(2): 7005-11, 1-40 (2006)"
+                      },
+                      {
+                        "Citation": "(5) Swann RL et al; Res Rev 85: 23 (1983)"
+                      },
+                      {
+                        "Citation": "(6) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(7) Humburg NE; Herbicide Handbook of the Weed Science Society of America. 6th ed. Champaign, IL: Weed Science Society of America p. 143 (1989)"
+                      },
+                      {
+                        "Citation": "(8) Weber JB et al; Chemosphere 55:157-66 (2004)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Kom values of 86 and 700 were determined for fomesafen in Drummer silt loam and Norfolk sandy loam, respectively(1). These values correspond to Koc values of 150 and 1200, respectively(2). Koc values of 34 to 164(3) and 60(4) were also reported. According to a classification scheme(5), these Koc values suggest that fomesafen is expected to have very high to low mobility in soil(SRC). Sorption of fomesafen by both soils increased as pH decreased: on the Drummer soil sorption increased from 14% at pH 6.3 to 42% at pH 4.7 and 95% at pH 2.0; on the Norfolk soil, fomesafen sorption increased from 5% at pH 5.3 to 15% at pH 4.0 and 55% at pH 2.0(1). The pKa of fomesafen is 2.83(3), indicating that this compound will exist almost entirely in anion form in the environment (pH 5 to 9) and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(6). In laboratory soil studies, fomesafen was moderately mobile(7). Fomesafen had a mean reported Kd of 4.52 in 5 soil types(8).",
+                          "Markup": [
+                            {
+                              "Start": 45,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 317,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 399,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 565,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 662,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 863,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 943,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 979,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK; British Crop Protection Council. Fomesafen (72178-02-0) (2008-2010)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A pKa of 2.83(1) indicates fomesafen will exist almost entirely in the anion form at pH values of 5 to 9 and therefore volatilization from water and moist soil surfaces is not expected to be an important fate process(SRC). Fomesafen is not expected to volatilize from dry soil surfaces(SRC) based upon a vapor pressure of <3.0X10-8 mm Hg(1).",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 139,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 223,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to fomesafen may occur through inhalation of spray mists or aerosols and dermal contact with this herbicide during or after its application or at workplaces where fomesafen is produced. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            },
+                            {
+                              "Start": 185,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/fomesafen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-51556"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135010139",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0072178020",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19489459
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_348",
+        "Name": "Fomesafen",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=348",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895290
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID51556",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125559
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_342",
+        "Name": "Fomesafen",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2435952
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_342",
+        "Name": "Fomesafen",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8258746
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "a712782728f4092354a3be856f2ad2e4",
+        "Name": "Fomesafen + sodium",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667363
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID7024112",
+        "Name": "Fomesafen",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57027276
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "6660",
+        "Name": "FOMESAFEN",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6660",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4383
+      },
+      {
+        "ReferenceNumber": 48,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Fomesafen",
+        "Name": "Fomesafen",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401074
+      },
+      {
+        "ReferenceNumber": 54,
+        "SourceName": "USGS Health-Based Screening Levels for Evaluating Water-Quality Data",
+        "SourceID": "fcfa24eb613d001aab6c16e2ae9c2f0a",
+        "Name": "Fomesafen",
+        "Description": "The USGS Health-Based Screening Levels for Evaluating Water-Quality Data contains Health-Based Screening Levels (HBSLs) that are non-enforceable water-quality benchmarks that can be used to (1) supplement U.S. Environmental Protection Agency (USEPA) Maximum Contaminant Levels (MCLs) and Human Health Benchmarks for Pesticides (HHBPs), (2) determine whether contaminants found in surface-water or groundwater sources of drinking water may indicate a potential human-health concern, and (3) help prioritize monitoring efforts. HBSLs were developed by the U.S. Geological Survey (USGS).",
+        "URL": "https://water.usgs.gov/water-resources/hbsl/index.html",
+        "LicenseURL": "https://www.usgs.gov/legal",
+        "ANID": 39668077
+      }
+    ]
+  }
+}

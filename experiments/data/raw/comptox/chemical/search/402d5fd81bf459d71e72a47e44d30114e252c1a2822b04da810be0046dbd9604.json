@@ -1,0 +1,25 @@
+{
+  "search_term": "FTNJWQUOZFUQQJ-NDAWSKJSSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:30.223710+00:00",
+  "url": "/chemical/search/equal/FTNJWQUOZFUQQJ-NDAWSKJSSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID0037497",
+        "dtxcid": "DTXCID8017497",
+        "casrn": "11141-17-6",
+        "preferredName": "Azadirachtin",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@@]12OC=C[C@]1(O)[C@@H]1C[C@H](O2)[C@]2(O[C@@]12C)[C@]1(C)[C@H](O)[C@]2([H])OC[C@@]3([C@@H](C[C@H](OC(=O)C(\\C)=C\\C)[C@@]4(CO[C@](O)(C(=O)OC)[C@@]14[H])[C@@]23[H])OC(C)=O)C(=O)OC",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "FTNJWQUOZFUQQJ-NDAWSKJSSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

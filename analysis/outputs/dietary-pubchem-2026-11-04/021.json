@@ -1,0 +1,16 @@
+{
+  "query": "D-Fructose",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/D-Fructose/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:04.076367+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 2723872,
+          "SMILES": "C1[C@H]([C@H]([C@@H](C(O1)(CO)O)O)O)O",
+          "InChIKey": "LKDRXBCSQODPBY-VRPWFDPXSA-N"
+        }
+      ]
+    }
+  }
+}

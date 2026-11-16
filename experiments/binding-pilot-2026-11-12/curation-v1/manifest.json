@@ -1,0 +1,17 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/tentoxin_primary.html": "d94320ddff1913c59054225476118a36c74744e8dc2c743db1b7b5c0387fe75b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/sources/cornexistin_primary.html": "c4ae8a716a2a53a4d36806dfacf224f1b94e741fecc740a31b2c312c3fc74bc7",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/curate_contacts.py": "80ea112d61db4f0d34d286306d5944bda2977564383403366f13c34c6085b274"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/curation-v1/author_reported_contacts.csv": "81d1a687c852d9eff466ab08ed4299911778c7d0f6b7f634a446c6225a5214bb",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/curation-v1/wrong_cofactor_rejection.json": "29f0c46f4c8ef1c2e19c75cbac01a64fe0b7bf8fdc3633633e86da4c09a1a26b",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/curation-v1/wrong_cofactor_resource.json": "d2fca28a1448824f802c863e8c775708415fb9c7982c6ceb88d3e61e302b132f",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/binding-pilot-2026-11-12/curation-v1/reported_quantities.csv": "fa3faef9bcf43fddfb73702fac39de019ce42b39dfc1a03d9281738ad414fc0d"
+  },
+  "contacts": 15,
+  "quantities": 2,
+  "Kd_or_Ki_labels_added": 0,
+  "scope": "Manual AI transcription of primary author interpretations; no new geometric contact calculations; no re-mapping of residue numbers; no affinity or safety model."
+}

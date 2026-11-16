@@ -1,0 +1,2870 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 5280343,
+    "RecordTitle": "Quercetin",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 245,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin is a specific quinone reductase 2 (QR2) inhibitor, an enzyme (along with the human QR1 homolog) which catalyzes metabolism of toxic quinolines. Inhibition of QR2 in plasmodium may potentially cause lethal oxidative stress. The inhibition of antioxidant activity in plasmodium may contribute to killing the malaria causing parasites. ",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hepatotoxicity",
+                "Description": "This section provides a short description about the hepatotoxicity associated with this compound, the rate of serum enzyme elevations during use, and the frequency and character of the clinically apparent liver injury associated with the compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 59,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin supplements have not been linked serum aminotransferase elevations during therapy, although there have been few focused studies of its hepatic safety. Furthermore, there have been no published reports of clinically apparent liver injury attributable to quercetin. Indeed, many in vitro and in vivo studies have shown that quercetin protects against hepatic injury caused by drugs and toxins including acetaminophen and cancer chemotherapeutic agents. These hepatoprotective effects have not been demonstrated in prospective clinical trials in humans.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 263,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 332,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 411,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetaminophen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1983"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Likelihood score: E (unlikely cause of clinically apparent liver injury)."
+                        },
+                        {
+                          "String": "Other Names: Often a component in Bioflavonoid Extracts"
+                        },
+                        {
+                          "String": "Drug Class: Herbal and Dietary Supplements"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Evaluation: There is inadequate evidence in humans for the carcinogenicity of quercetin. There is limited evidence in experimental animals for the carcinogenicity of quercetin. Overall evaluation: Quercetin is not classifiable as to its carcinogenicity to humans (Group 3).",
+                          "Markup": [
+                            {
+                              "Start": 78,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 166,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 197,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "IARC Carcinogenic Agent",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "IARC Carcinogenic Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Group 3: Not classifiable as to its carcinogenicity to humans"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "IARC Monographs",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Volume Sup 7: Overall Evaluations of Carcinogenicity: An Updating of IARC Monographs Volumes 1 to 42, 1987; 440 pages; ISBN 92-832-1411-0 (out of print)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 12,
+                              "URL": "http://publications.iarc.who.int/139"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Volume 73: (1999) Some Chemicals that Cause Tumours of the Kidney or Urinary Bladder in Rodents and Some Other Substances",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "http://publications.iarc.who.int/91"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "Publication Year",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1999"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 51,
+                    "Name": "Evaluation Year",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1998"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 227,
+                    "Name": "Substance",
+                    "URL": "https://doi.org/10.22427/NTP-DATA-DTXSID4021218",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 227,
+                    "Name": "NTP Technical Report",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TR-409: Toxicology and Carcinogenesis Studies of Quercetin (CASRN 117-39-5) in F344 Rats (Feed Studies)  (1992 )",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 6,
+                              "URL": "https://ntp.niehs.nih.gov/go/tr409abs"
+                            },
+                            {
+                              "Start": 49,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 66,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/117-39-5",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 227,
+                    "Name": "Peer Review Date",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "03/12/91",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 8,
+                              "URL": "https://ntp.niehs.nih.gov/data/tr/400s/tr409levels"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 227,
+                    "Name": "Conclusion for Male Rat",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "  Some Evidence",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ntp/ntpse.png",
+                              "Type": "Icon",
+                              "Extra": "Some Evidence"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 227,
+                    "Name": "Conclusion for Female Rat",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "  No Evidence",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ntp/ntpne.png",
+                              "Type": "Icon",
+                              "Extra": "No Evidence"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 227,
+                    "Name": "Conclusion for Male Mice",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "  Chemical Not Tested in Species/Sex",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ntp/ntpnt.png",
+                              "Type": "Icon",
+                              "Extra": "Chemical Not Tested in Species/Sex"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 227,
+                    "Name": "Conclusion for Female Mice",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "  Chemical Not Tested in Species/Sex",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ntp/ntpnt.png",
+                              "Type": "Icon",
+                              "Extra": "Chemical Not Tested in Species/Sex"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 227,
+                    "Name": "Summary",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Under the conditions of these 2-year feed studies there was some evidence of carcinogenic activity of quercetin in male F344/N rats based on an increased incidence of renal tubule cell adenomas. There was no evidence of carcinogenic activity of quercetin in female F344/N rats receiving 1,000, 10,000 or 40,000 ppm.",
+                          "Markup": [
+                            {
+                              "Start": 102,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 245,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "The incidence of renal tubule hyperplasia and the severity of nephropathy were increased in exposed male rats."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 245,
+                    "ExtendedReference": [
+                      {
+                        "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php",
+                        "Matched": {
+                          "PCLID": 900177075,
+                          "Citation": "L135: International Agency for Research on Cancer (2014). IARC Monographs on the Evaluation of Carcinogenic Risks to Humans. http://monographs.iarc.fr/index.php"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3, not classifiable as to its carcinogenicity to humans. (L135)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135269910"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 38,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3127"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3127",
+                            "Matched": {
+                              "PCLID": 906281900,
+                              "Citation": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3127"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 161 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 38,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3127"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3127",
+                            "Matched": {
+                              "PCLID": 906281900,
+                              "Citation": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3127"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse iv 18 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 38,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                            "Matched": {
+                              "PCLID": 906616361,
+                              "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse oral 160 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 38,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                            "Matched": {
+                              "PCLID": 906616361,
+                              "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse sc 100 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 32,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 32,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 32,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Coates, P.M., Blackman, M.R., Cragg, G.M., Levine, M., Moss, J., White, J.D. (Ed), Encyclopedia of Dietary Supplements. Marcel Dekker, New York, NY, p. 580 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Coates, P.M., Blackman, M.R., Cragg, G.M., Levine, M., Moss, J., White, J.D. (Ed), Encyclopedia of Dietary Supplements. Marcel Dekker, New York, NY, p. 580 (2005)",
+                        "Matched": {
+                          "PCLID": 900144670,
+                          "Citation": "Coates, P.M., Blackman, M.R., Cragg, G.M., Levine, M., Moss, J., White, J.D. (Ed), Encyclopedia of Dietary Supplements. Marcel Dekker, New York, NY, p. 580 (2005)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In human myelogenous leukemia cells, quercetin was reported to arrest growth of the cell by an incr in the uptake of vincristine, a chemotherapeutic agent.",
+                          "Markup": [
+                            {
+                              "Start": 37,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 117,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/vincristine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5978"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.393 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.393 (2001)",
+                        "Matched": {
+                          "PCLID": 900148948,
+                          "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.393 (2001)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin binds, in vitro, to the DNA gyrase site in bacteria. Therefore, theoretically, it can serve as a competitive inhibitor to the quinolone antibiotics which also bind to this site ... Because of the theoretical risk of genotoxicity in normal tissues in those using cisplatin along with quercetin, those using cisplatin should avoid quercetin supplements ... Bromelain and papain are reported to incr absorption of quercetin.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 136,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6038"
+                            },
+                            {
+                              "Start": 272,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cisplatin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5702198"
+                            },
+                            {
+                              "Start": 293,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 316,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cisplatin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5702198"
+                            },
+                            {
+                              "Start": 339,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 421,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Thomson Healthcare. PDR for Herbal Medicines 4th Ed.   Thomson Health Care Inc.   Montvale, NJ. 2008, p. 1002"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Thomson Healthcare. PDR for Herbal Medicines 4th Ed.   Thomson Health Care Inc.   Montvale, NJ. 2008, p. 1002",
+                        "Matched": {
+                          "PCLID": 900152589,
+                          "Citation": "Thomson Healthcare. PDR for Herbal Medicines 4th Ed.   Thomson Health Care Inc.   Montvale, NJ. 2008, p. 1002"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin has a pro-oxidant effect and will incr the iron-dependent DNA damage induced by bleomycin. Quercetin may reduce iron to the ferrous state, which allows bleomycin to complex more readily with oxygen and produce more efficient DNA damage. A biphasic pro-oxidant effect with bleomycin has been demonstrated. At low concn incr DNA damage was noted, and at higher doses less DNA damage was noted.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 53,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 90,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bleomycin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5360373"
+                            },
+                            {
+                              "Start": 101,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 122,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Iron",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Iron"
+                            },
+                            {
+                              "Start": 134,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ferrous",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-27284"
+                            },
+                            {
+                              "Start": 162,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bleomycin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5360373"
+                            },
+                            {
+                              "Start": 201,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 282,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/bleomycin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5360373"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Thomson Healthcare. PDR for Herbal Medicines 4th Ed.   Thomson Health Care Inc.   Montvale, NJ. 2008, p. 1002"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Thomson Healthcare. PDR for Herbal Medicines 4th Ed.   Thomson Health Care Inc.   Montvale, NJ. 2008, p. 1002",
+                        "Matched": {
+                          "PCLID": 900152589,
+                          "Citation": "Thomson Healthcare. PDR for Herbal Medicines 4th Ed.   Thomson Health Care Inc.   Montvale, NJ. 2008, p. 1002"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Concomitant use may reduce cyclosporine /or floroquinolones/ effectiveness.",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cyclosporine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5284373"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Interactions (Complete) data for QUERCETIN (18 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3529#section=Interactions-(Complete)"
+                            },
+                            {
+                              "Start": 42,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/QUERCETIN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Immediate first aid: Ensure that adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR if necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on the left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 324,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160",
+                        "Matched": {
+                          "PCLID": 900124670,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if needed. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Monitor for pulmonary edema and treat if necessary ... . Monitor for shock and treat if necessary ... . Anticipate seizures and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 mL/kg up to 200 mL of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Cover skin burns with dry sterile dressings after decontamination ... . /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 216,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 468,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 637,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1",
+                        "Matched": {
+                          "PCLID": 900090294,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3Rd edition, Elsevier Mosby, St. Louis, MO 2005, p. 160-1"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in severe respiratory distress. Positive-pressure ventilation techniques with a bag valve mask device may be beneficial. Consider drug therapy for pulmonary edema ... . Consider administering a beta agonist such as albuterol for severe bronchospasm ... . Monitor cardiac rhythm and treat arrhythmias as necessary ... . Start IV administration of D5W /SRP: \"To keep open\", minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's if signs of hypovolemia are present. For hypotension with signs of hypovolemia, administer fluid cautiously. Watch for signs of fluid overload ... . Treat seizures with diazepam or lorazepam ... . Use proparacaine hydrochloride to assist eye irrigation ... .  /Poisons A and B/",
+                          "Markup": [
+                            {
+                              "Start": 378,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/albuterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2083"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 798,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.391 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.391 (2001)",
+                        "Matched": {
+                          "PCLID": 900006193,
+                          "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.391 (2001)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/HUMAN EXPOSURE STUDIES/ ... A double-blind, placebo-controlled study compared one gram daily of oral quercetin with placebo in 27 healthy subjects ... The study continued for 28 days, during which period subjects receiving quercetin achieved plasma quercetin level 23-fold higher than levels in those on placebo. The results showed no quercetin effect on serum total cholesterol, LDL-cholesterol, HDL-cholesterol or triglyceride levels. Nor was there any effect on other factors considered to be indicators of risk for cardiovascular/thrombogenic disease, including platelet aggregation, platelet thromboxane B2 production, blood pressure and resting heart rate. There was no effect on levels of (n-6) or (n-3) polyunsaturated fatty acids in serum or platelet phospholipids ...",
+                          "Markup": [
+                            {
+                              "Start": 102,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 224,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 250,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 336,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 368,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cholesterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5997"
+                            },
+                            {
+                              "Start": 385,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cholesterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5997"
+                            },
+                            {
+                              "Start": 402,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cholesterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5997"
+                            },
+                            {
+                              "Start": 598,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/thromboxane%20B2",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5283137"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.393 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.393 (2001)",
+                        "Matched": {
+                          "PCLID": 900148948,
+                          "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.393 (2001)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/HUMAN EXPOSURE STUDIES/ Intravenous admin of doses greater than 945 mg/sq m has been associated with nephrotoxicity."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.392 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.392 (2001)",
+                        "Matched": {
+                          "PCLID": 900033141,
+                          "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.392 (2001)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SIGNS AND SYMPTOMS/ Adverse effects reported with oral quercetin include gastrointestinal effects such as nausea, and rare reports of headache and mild tingling of the extremities ... Intravenous admin of quercetin has been associated with nausea, vomiting, diaphoresis, flushing and dyspnea.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 206,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ Quercetin was reported to have 1% of the estrogenic activity of estradiol in HeLa cells transfected with the human estrogen receptor and the pERE-TK-CAT reporter plasmid ...",
+                          "Markup": [
+                            {
+                              "Start": 33,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 97,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/estradiol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5757"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Human Toxicity Excerpts (Complete) data for QUERCETIN (13 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 92,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3529#section=Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 53,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/QUERCETIN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.392 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.392 (2001)",
+                        "Matched": {
+                          "PCLID": 900033141,
+                          "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.392 (2001)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ High-dose quercetin promoted mucus production and helped diminish the severity of gastric lesions in animals injured with abs ethanol. Thiobarbituric acid reactive substances in gastric mucosa, a measure of lipid peroxidation, was significantly decr by quercetin in ethanol-injured animals ...",
+                          "Markup": [
+                            {
+                              "Start": 47,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 163,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 172,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Thiobarbituric%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2723628"
+                            },
+                            {
+                              "Start": 290,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 303,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:17600547",
+                      "Zal F et al; Clin Exp Pharmacol Physiol 34(8):720-4 (2007)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:17600547",
+                        "Matched": {
+                          "PCLID": 2359054,
+                          "Citation": "Zal F, Mostafavi-Pour Z, Vessal M. Comparison of the effects of vitamin E and/or quercetin in attenuating chronic cyclosporine A-induced nephrotoxicity in male rats. Clin Exp Pharmacol Physiol. 2007 Aug;34(8):720–4. doi: 10.1111/j.1440-1681.2007.04623.x. PMID: 17600547.",
+                          "PMID": 17600547,
+                          "DOI": "10.1111/j.1440-1681.2007.04623.x"
+                        }
+                      },
+                      {
+                        "Citation": "Zal F et al; Clin Exp Pharmacol Physiol 34(8):720-4 (2007)",
+                        "Matched": {
+                          "PCLID": 2359054,
+                          "Citation": "Zal F, Mostafavi-Pour Z, Vessal M. Comparison of the effects of vitamin E and/or quercetin in attenuating chronic cyclosporine A-induced nephrotoxicity in male rats. Clin Exp Pharmacol Physiol. 2007 Aug;34(8):720–4. doi: 10.1111/j.1440-1681.2007.04623.x. PMID: 17600547.",
+                          "PMID": 17600547,
+                          "DOI": "10.1111/j.1440-1681.2007.04623.x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ ... /This/ study ... investigated the effects of vitamin E and/or quercetin (Q) on renal function, oxygen radical concentrations in the kidney and some anti-oxidant enzyme activities in rats treated with cyclosporine A (CsA). ... Groups of rats (270 +/- 15 g), on standard rat chow and water, received all their treatments by gavage for either 4 or 8 weeks. Control groups received either olive oil (0.5 mL) or 25% ethanol (0.5 mL) + olive oil (0.5 mL) per day as vehicle. All experimental groups received 25 mg CsA/kg per day in 0.5 mL olive oil. The vitamin E group received 100 mg vitamin E/kg per day in olive oil in addition to CsA treatment. The quercetin group received 15 mg of Q/kg per day in 0.5 mL of 25% ethanol in addition to CsA treatment. The vitamin E + quercetin group received the two anti-oxidants at the concentrations given in addition to CsA treatment. ... Quercetin, at a concentration less than one-quarter of vitamin E, was more efficient in lowering blood urea nitrogen, serum creatinine and kidney malondialdehyde in CsA-treated rats. However, neither of the two anti-oxidants was able to normalize these analytes to control values after either 4 or 8 weeks treatment. ... Quercetin (50 umol/kg per day) elevated all renal anti-oxidant enzyme activities to values observed in the negative controls. However, vitamin E (232 umol/kg per day) only normalized glutathione peroxidase activity at the end of either 4 or 8 weeks treatment. Combination treatment with the two anti-oxidants abolished all the ill-effects of CsA. ... Combination treatment with the two anti-oxidants of renal transplant patients receiving CsA may be beneficial in ameliorating the chronic nephrotoxic effects of the important immunosuppressive drug CsA.",
+                          "Markup": [
+                            {
+                              "Start": 122,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 155,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 260,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/cyclosporine%20A",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5284373"
+                            },
+                            {
+                              "Start": 342,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 471,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 708,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 772,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethanol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-702"
+                            },
+                            {
+                              "Start": 826,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 935,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1038,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/urea%20nitrogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31295"
+                            },
+                            {
+                              "Start": 1059,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/creatinine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-588"
+                            },
+                            {
+                              "Start": 1081,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/malondialdehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-10964"
+                            },
+                            {
+                              "Start": 1256,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1439,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutathione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Twenty-three male and 24 female strain A (A/JJms) mice, six to eight weeks old, were fed a diet containing 5% quercetin (purity, 99%) for 23 weeks, at which time the experiment was terminated. A control group of 21 males and 27 females was fed a basal diet only. No significant difference in the incidence or multiplicity of lung adenomas was seen in the two groups ...",
+                          "Markup": [
+                            {
+                              "Start": 168,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:7306940",
+                      "HIRONO I ET AL; CANCER LETT 13(1):15 (1981)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:7306940",
+                        "Matched": {
+                          "PCLID": 13780922,
+                          "Citation": "Hirono I, Ueno I, Hosaka S, Takanashi H, Matsushima T, Sugimura T, Natori S. Carcinogenicity examination of quercetin and rutin in ACI rats. Cancer Lett. 1981 Jun;13(1):15–21. doi: 10.1016/0304-3835(81)90081-1. PMID: 7306940.",
+                          "PMID": 7306940,
+                          "DOI": "10.1016/0304-3835(81)90081-1"
+                        }
+                      },
+                      {
+                        "Citation": "HIRONO I ET AL; CANCER LETT 13(1):15 (1981)",
+                        "Matched": {
+                          "PCLID": 900068017,
+                          "Citation": "HIRONO I ET AL; CANCER LETT 13(1):15 (1981)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Chronic Exposure or Carcinogenicity/ Rats were maintained on a diet containing 1% or 5% quercetin for 540 days, or 10% for 850 days. Most tumors found in experimental groups were also found in the control groups. There was no significant difference between the incidence of tumors in the experimental or control groups (p= 0.05). Quercetin was not carcinogenic to ACI rats.",
+                          "Markup": [
+                            {
+                              "Start": 109,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 351,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for QUERCETIN (51 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3529#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/QUERCETIN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ongoing Test Status",
+                "Description": "Toxicity test status of this chemical, performed by authoritative entities (e.g., government agencies).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "QC REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The following link will take the user to the National Toxicology Program (NTP) Test Agent Search Results page, which tabulates all of the \"Standard Toxicology & Carcinogenesis Studies\", \"Developmental Studies\", and \"Genetic Toxicity Studies\" performed with this chemical. Clicking on the \"Testing Status\" link will take the user to the status (i.e., in review, in progress, in preparation, on test, completed, etc.) and results of all the studies that the NTP has done on this chemical. [http://ntp-apps.niehs.nih.gov/ntp_tox/index.cfm?fuseaction=ntpsearch.searchresults&searchterm=117-39-5]",
+                          "Markup": [
+                            {
+                              "Start": 582,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/117-39-5",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "National Toxicology Program Studies",
+                "Description": "Reports from the National Toxicology Program, an interagency program supported by three government agencies (NIH, FDA, and CDC) within the Department of Health and Human Services.  This program plays a critical role in generating, interpreting, and sharing toxicological information about chemicals of public health concerns.",
+                "URL": "https://ntp.niehs.nih.gov/whoweare/about/index.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Toxicology & Carcinogenesis Studies of Quercetin in F344/N Rats (Feed Studies). Technical Report Series No. 409 (1992) NIH Publication No. 92-3140 U.S. Department of Health and Human Services, National Toxicology Program, National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Toxicology & Carcinogenesis Studies of Quercetin in F344/N Rats (Feed Studies). Technical Report Series No. 409 (1992) NIH Publication No. 92-3140 U.S. Department of Health and Human Services, National Toxicology Program, National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709",
+                        "Matched": {
+                          "PCLID": 900149294,
+                          "Citation": "Toxicology & Carcinogenesis Studies of Quercetin in F344/N Rats (Feed Studies). Technical Report Series No. 409 (1992) NIH Publication No. 92-3140 U.S. Department of Health and Human Services, National Toxicology Program, National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... The NTP 2-year studies were conducted by admin 0, 1,000,  10,000, or 40,000 ppm quercetin (>95% pure) in feed to groups of 50 male and female rats for 104 wk. Ten additional animals per dose group were evaluated at 6 and 15 mo ... Body weights of exposed male and female rats given 1,000 and 10,000 ppm were within 5% of controls throughout the studies. Reduced body weight gain in male and female rats receiving 40,000 ppm was observed by wk 15 and the final mean body weights were 87% of controls at wk 104. Survival and feed consumption were similar among exposed and control groups throughout the studies. The average amt of quercetin consumed per day by the 1,000, 10,000 and 40,000 ppm dose groups after wk 52 were 40, 400, and 1,900 mg/kg of body weight ... In male rats, the principal toxic effects associated with the dietary admin of quercetin for 2 yr were observed in the kidney. There were dose-related incr in the severity of chronic nephropathy (control, 2.7; low-dose, 2.7; mid-dose, 3.0; high-dose, 3.2) and a slight incr incidence in focal hyperplasia of the renal tubule epithelium (1/50; 2/50; 3/50; 4/50). Parathyroid hyperplasia, indicative of renal secondary hyperparathyroidism, also incr incidence in dosed male rats (1/43, 6/45, 6/43, 17/43). The evaluation of single sections from the left and right kidneys revealed renal tubule adenomas in 3 male rats and adenocarcinomas in another male rat receiving 40,000 ppm quercetin; none were seen in the controls. Examination of additional step sections of the male rat kidney identified additional hyperplasia and adenomas in all dose groups (hyperplasia: 2/50, 2/50, 6/50, 8/50; adenoma: 1/50, 2/50, 7/50, 6/50). The overall incidence of renal tubule adenoma or adenocarcinoma combined in male rats was 1/50 in controls and 9/50 in the high-dose group. There was a statistically significant, dose-related decr in the incidence of mammary gland fibro-adenomas in exposed female rats (29/50, 27/50, 16/50, 9/50), which may in part be attributed to lower body weight gains. There was a treatment-related accumulation of yellow-brown granular pigment adsorbed to or absorbed by the epithelial cells of the glandular stomach, ileum, jejunum, and, to a lesser extent, the duodenum and colon. The severity of the pigmentation in these tissues incr with incr length of exposure. There were no other lesions considered to be related to chemical admin ... Conclusions: Under the conditions of these 2 year feed studies there was some evidence of carcinogenic activity of quercetin in male F344/N rats based on an increased incidence of renal tubule cell adenomas. There was no evidence of carcinogenic activity of quercetin in female F344/N rats receiving 1,000, 10,000 or 40,000 ppm.",
+                          "Markup": [
+                            {
+                              "Start": 84,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 633,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 848,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1446,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 2538,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 2681,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Populations at Special Risk",
+                "Description": "People within the general population vary greatly in their sensitivity to chemical agents on an individual or mixture basis.  Some segments of the general population may be at greatest risk for adverse outcomes.  Well-known groups at special risk include children, women of childbearing age, the elderly and are also defined by nutritional status, occupations, contamination of local food supplies, gender and genetic inheritance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.392 (2001)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.392 (2001)",
+                        "Matched": {
+                          "PCLID": 900033141,
+                          "Citation": "Thomson Healthcare. PDR for Nutritional Supplements. Thomson Health Care Inc. Montvale, NJ. p.392 (2001)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Precautions: Because of lack of long-term safety data, quercetin should be avoided by pregnant women and nursing mothers.",
+                          "Markup": [
+                            {
+                              "Start": 55,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 246,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf",
+                        "Matched": {
+                          "PCLID": 906318723,
+                          "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^117-39-5$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin's production and use as an experimental antioxidant, cosmetic preservative, and natural dye may result in its limited release to the environment through various waste streams. Quercetin is a flavanoid widely distributed in plants. If released to air, an estimated vapor pressure of 2.8X10-14 mm Hg at 25 °C indicates quercetin will exist solely in the particulate phase in the atmosphere. Particulate-phase quercetin will be removed from the atmosphere by wet or dry deposition. Quercetin contains chromophores that absorb at wavelengths >290 nm and therefore is may be susceptible to direct photolysis by sunlight. If released to soil, quercetin is expected to have moderate mobility based upon an estimated Koc of 460. The estimated pKas of quercetin are 7.17, 8.26, 10.13, 12,30, and 13.11, indicating that this compound will exist partially in the anion form in the environment at neutral pH and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts. Volatilization from moist soil is not expected because it is an anion and anions do not volatilize. Quercetin's rapid degradation in soil suggests that biocegradation may be an important environmental fate process. If released into water, quercetin is not expected to adsorb to suspended solids and sediment based upon the estimated Koc. The estimated pKa values indicate quercetin will exist in the anion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process. An estimated BCF of 61 suggests the potential for bioconcentration in aquatic organisms is moderate. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions. Occupational exposure to quercetin may occur through inhalation and dermal contact with this compound at workplaces where quercetin is produced or used. Use data indicate that the general population may be exposed to quercetin via dermal contact with this compound or other consumer products containing quercetin. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 186,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 327,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 417,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 489,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 647,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 753,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 983,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1132,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1264,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1271,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1404,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1500,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1854,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1951,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 2046,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 2132,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) O'Neil MJ, ed; The Merck Index. 14th ed., Whitehouse Station, NJ:   Merck and Co., Inc., p. 1381 (2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) O'Neil MJ, ed; The Merck Index. 14th ed., Whitehouse Station, NJ:   Merck and Co., Inc., p. 1381 (2006)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin is the aglucon of quercitrin, of rutin, and other glycosides. It is widely distributed in the plant kingdom, especially in rinds and barks, in clover blossoms, and ragweed pollen and has been isolated from Rhododendron cinnabarinum Hook, Ericaceae(1)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 28,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercitrin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280459"
+                            },
+                            {
+                              "Start": 43,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/rutin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280805"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin is widely distributed in the plant kingdom, where it occurs as a condensation product (a glycoside) with sugars ... Plants /that/ contain these glycosides are: Allium ascalonicum; Allium cepa (onion); Allium porrum (leek); Anethum graveolens; Apium graveolens; Asperagus officinalis (asparagus); Brassica chinensis; Brassica napus; Brassica oleracae var. butrytis subvar. cymosa; Brassica oleraceae var. buttata; Brassica oleraceae var. captata; Brassica oleraceae var. gemmifera (plants of cabbage and mustard); Capsicum annuum (ornamental pepper); Cichorium endivia (endive); Citrus paradisi (grapefruit); Fragaria ananassa; Humulus lupulus; Latuca sativa (lettuce); Malus pumila (apple); Malus silvestris; Mangifera indica (mango); Petroselinum crispum; Prunus armeniaca; Prunus avium; Prunus domestica (European plum); Raphanus sativus (radish); Rheum spp; Ribes L.; Ribes nigrum (blackcurrant); Ribes grossularia; Rubus L.; Rubus ideaus; Rumex acetosa; Sambuccus nigra (elder); Solanum tuberosum (potato); Solanum lycopersicum; Spinacea oleraceae (spinach); Vaccinium macrocarpum ... Quercetin has been isolated from grapes, Vitis vinifera (1.4 mg/kg, fresh fruit), from leaves of the 'huckleberry', Vaccinium myrtillus (11 g/kg, dry weight, for quercetin and its glucosides), and from the leaves of Rhododendron cinnabarinum Hook. ... China tea, Camellia sinensis, has been reported to contain relatively large amounts of triglycosides of quercetin ... The total concentration of kaempferol and quercetin glycosides in tea (unspecified variety) is >10,000 mg/kg. ... This compound occurs in bracken fern (Pteridium aquilinum) ... .",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1099,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1261,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1455,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 1496,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kaempferol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280863"
+                            },
+                            {
+                              "Start": 1511,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Wishart DS et al; DrugBank: a comprehensive resource for in silico drug discovery and exploration. Nucleic Acids Res. 2006 1;34. Available from the database query page at https://redpoll.pharmacy.ualberta.ca/drugbank/ as of Feb 15, 2008.",
+                      "(2) Rieger MM; Kirk-Othmer Encyclopedia of Chemical Technology. (2001). NY, NY: John Wiley & Sons; Cosmetics. Online Posting Date: Dec 4, 2000.",
+                      "(3) Cofrancesco AJ; Kirk-Othmer Encyclopedia of Chemical Technology. (2001). NY, NY: John Wiley & Sons; Dyes, Natural. Online Posting Date: Dec 4, 2000."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Wishart DS et al; DrugBank: a comprehensive resource for in silico drug discovery and exploration. Nucleic Acids Res. 2006 1;34. Available from the database query page at https://redpoll.pharmacy.ualberta.ca/drugbank/ as of Feb 15, 2008."
+                      },
+                      {
+                        "Citation": "(2) Rieger MM; Kirk-Othmer Encyclopedia of Chemical Technology. (2001). NY, NY: John Wiley & Sons; Cosmetics. Online Posting Date: Dec 4, 2000."
+                      },
+                      {
+                        "Citation": "(3) Cofrancesco AJ; Kirk-Othmer Encyclopedia of Chemical Technology. (2001). NY, NY: John Wiley & Sons; Dyes, Natural. Online Posting Date: Dec 4, 2000."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin's production and use as an experimental antioxidant dietary supplement(1), cosmetic preservative(2), and natural dye(3) may result in its release to the environment through various waste streams(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Seidell A; Solubilities of Organic Compounds. NY,NY: d. Van Norstrand Co., Inc. (1941)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990)",
+                      "(4) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Feb 14, 2008.",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(6) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)",
+                      "(7) Lewis JA, Papvizas GC; Can J Microbiol 15: 527-33 (1969)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Seidell A; Solubilities of Organic Compounds. NY,NY: d. Van Norstrand Co., Inc. (1941)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990)"
+                      },
+                      {
+                        "Citation": "(4) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Feb 14, 2008."
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(6) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      },
+                      {
+                        "Citation": "(7) Lewis JA, Papvizas GC; Can J Microbiol 15: 527-33 (1969)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 460(SRC), determined from a water solubility of 60 mg/L(2) and a regression-derived equation(3), indicates that quercetin is expected to have moderate mobility in soil(SRC). The estimated pKas of quercetin are 7.17, 8.26, 10.13, 12,30, and 13.11(4), indicating that this compound will partially exist in the anion form in the environment at neutral pH and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5). Volatilization of quercetin from moist soil surfaces is not expected to be an important fate process because it is an anion and anions do not volatilize(SRC). Quercetin is not expected to volatilize from dry soil surfaces(SRC) based upon an estimated vapor pressure of 2.8X10-14 mm Hg(SRC), determined from a fragment constant method(6). Quercetin's rapid degradation in soil(7) suggests that biodegradation may be an important environmental fate process(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 109,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 193,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 277,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 510,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 580,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 721,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 900,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Seidell A; Solubilities of Organic Compounds. NY,NY: d. Van Norstrand Co., Inc. (1941)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5, 5-5, 15-1 to 15-29 (1990)",
+                      "(4) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Feb 14, 2008.",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds, Boca Raton, FL: Lewis Publ (2000)",
+                      "(6) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(7) Lewis JA, Papvizas GC; Can J Microbiol 15: 527-33 (1969)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Seidell A; Solubilities of Organic Compounds. NY,NY: d. Van Norstrand Co., Inc. (1941)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5, 5-5, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Feb 14, 2008."
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds, Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(6) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(7) Lewis JA, Papvizas GC; Can J Microbiol 15: 527-33 (1969)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 460(SRC), determined from a water solubility of 60 mg/L(2) and a regression-derived equation(3), indicates that quercetin is not expected to adsorb to suspended solids and sediment(SRC). The estimated pKas of 7.17, 8.26, 10.13, 12,30, and 13.11(4) indicate quercetin will exist partially in the anion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process(5). According to a classification scheme(6), an estimated BCF of 61(SRC), from its water solubility(2) and a regression-derived equation(3), suggests the potential for bioconcentration in aquatic organisms is moderate(SRC). Quercetin's rapid degradation in soil(7) suggests that biodegradation may be an important environmental fate process in water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 105,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 189,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 334,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 440,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 586,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 727,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 847,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), quercetin, which has an estimated vapor pressure of 2.8X10-14 mm Hg at 25 °C(SRC), determined from a fragment constant method(2), is expected to exist solely in the particulate phase in the ambient atmosphere. Particulate-phase quercetin may be removed from the air by wet or dry deposition(SRC). Quercetin contains chromophores that absorb at wavelengths >290 nm(4) and therefore may be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 352,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 421,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:5798512",
+                      "(1) Lewis JA, Papvizas GC; Can J Microbiol 15: 527-33 (1969)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:5798512",
+                        "Matched": {
+                          "PCLID": 13743518,
+                          "Citation": "Lewis JA, Papavizas GC. Survival of root-infecting fungi in soil. 13. Decomposition of flavonoids and other phenolics in soil and their effects on Fusarium root rot of bean. Can J Microbiol. 1969 Jun;15(6):527–33. doi: 10.1139/m69-091. PMID: 5798512.",
+                          "PMID": 5798512,
+                          "DOI": "10.1139/m69-091"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Lewis JA, Papvizas GC; Can J Microbiol 15: 527-33 (1969)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Quercetin, along with rutin and two of their decomposition products phloroglucinol and protocatechuic acid, were rapidly degraded in soil as indicated by less than 10% of their phenolic nuclei being detected in soil and 27-57% of their structural carbons remaining in soil after 9 weeks incubation(1).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 31,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/rutin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280805"
+                            },
+                            {
+                              "Start": 77,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phloroglucinol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-359"
+                            },
+                            {
+                              "Start": 96,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/protocatechuic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-72"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:1575499",
+                      "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC195363",
+                      "(1) Allard AS et al; Appl Environ Microbiol 58: 961-8 (1992)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:1575499",
+                        "Matched": {
+                          "PCLID": 11636370,
+                          "Citation": "Allard AS, Hynning PA, Remberger M, Neilson AH. Role of sulfate concentration in dechlorination of 3,4,5-trichlorocatechol by stable enrichment cultures grown with coumarin and flavanone glycones and aglycones. Appl Environ Microbiol. 1992 Mar;58(3):961–8. doi: 10.1128/aem.58.3.961-968.1992.",
+                          "PMID": 1575499,
+                          "PMCID": "PMC195363",
+                          "DOI": "10.1128/aem.58.3.961-968.1992"
+                        }
+                      },
+                      {
+                        "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC195363",
+                        "Matched": {
+                          "PCLID": 900020233,
+                          "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC195363"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Allard AS et al; Appl Environ Microbiol 58: 961-8 (1992)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: Approximately 2% of microorganisms isolated from a sandy soil that were sensitive to cadmium and zinc were able to grow on quercetin(1). Zinc-resistant microorganisms were not able to utilize this compound(1).",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Cadmium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Cadmium"
+                            },
+                            {
+                              "Start": 108,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Zinc",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Zinc"
+                            },
+                            {
+                              "Start": 134,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 148,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Zinc",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Zinc"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(1). Quercetin contains chromophores that absorb at wavelengths >290 nm(1) and therefore may be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 154,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Seidell A; Solubilities of Organic Compounds. NY,NY: d. Van Norstrand Co., Inc. (1941)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-5 (1990)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Seidell A; Solubilities of Organic Compounds. NY,NY: d. Van Norstrand Co., Inc. (1941)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-5 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 61 was calculated in fish for quercetin(SRC), using a water solubility of 60 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is moderate(SRC), provided the compound is not metabolized by the organism(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 74,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Seidell A; Solubilities of Organic Compounds. NY,NY: d. Van Norstrand Co., Inc. (1941)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(4) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Feb 14, 2008.",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Seidell A; Solubilities of Organic Compounds. NY,NY: d. Van Norstrand Co., Inc. (1941)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(4) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Feb 14, 2008."
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of quercetin is estimated as 460(SRC), using a water solubility of 60 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that quercetin is expected to have moderate mobility in soil. The estimated pKas of quercetin are 7.17, 8.26, 10.13, 12,30, and 13.11(4), indicating that this compound will partially exist in the anion form in the environment at neutral pH and anions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(5).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 55,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 204,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 283,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 516,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Feb 14, 2008.",
+                      "(2) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(3) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Feb 14, 2008."
+                      },
+                      {
+                        "Citation": "(2) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The estimated pKas of 7.17, 8.26, 10.13, 12,30, and 13.11(1) indicate quercetin will partially exist anion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process(2). Volatilization of quercetin from moist soil surfaces is not expected to be an important fate process because it is an anion and anions do not volatilize(SRC). Quercetin is not expected to volatilize from dry soil surfaces(SRC) based upon an estimated vapor pressure of 2.8X10-14 mm Hg(SRC), determined from a fragment constant method(3).",
+                          "Markup": [
+                            {
+                              "Start": 70,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 169,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 254,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 395,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Plant Concentrations",
+                "Description": "Concentrations of this compound in plants.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The concentration in onions varies widely depending on the type of onion. Those with colored skins ... contain 25,000-65,000 mg/kg quercetin mainly as the aglycone; however, onions with white skins have only traces of flavonols, e.g., 10 mg/kg quercetin in dry skins. The quercetin concentration decreases from the outer to inner scales, with the highest levels in the outer epidermis ...",
+                          "Markup": [
+                            {
+                              "Start": 131,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 244,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 272,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Adapted from Table 1 & 2"
+                        },
+                        {
+                          "String": "Table: CONCENTRATION OF QUERCETIN AS ITS GLYCOSIDE IN PLANTS [Table#4628]",
+                          "Markup": [
+                            {
+                              "Start": 61,
+                              "Length": 12,
+                              "Type": "Inline Table",
+                              "Extra": "[Table#4628]"
+                            },
+                            {
+                              "Start": 24,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/QUERCETIN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 38,
+                    "Name": "[Table#4628]",
+                    "Value": {
+                      "Binary": [
+                        "IlBsYW50IiwiUGFydHMgb2YgUGxhbnQiLCJDb25jZW50cmF0aW9uIChtZy9rZykiCiJBcHBsZSIsIlNraW4gJmFtcDsgUGVlbCIsIjU4IHRvIDI2MyIKIlBlYXIiLCJTa2luICZhbXA7IFBlZWwiLCIyOCIKIlF1aW5jZSIsIlNraW4gJmFtcDsgUGVlbCIsIjE4MCIKIkJlbGwgcGVwcGVyIiwiU2tpbiAmYW1wOyBQZWVsIiwiNjMiCiJQb3RhdG8iLCJTa2luICZhbXA7IFBlZWwiLCI0NyIKIlBvdGF0byIsIkxlYXZlcyIsIjc3MCB0byAxMDAwIgoiQnJ1c3NlbHMgc3Byb3V0IiwiTGVhdmVzIiwiNTAiCiJCcnVzc2VscyBzcHJvdXQiLCJTcHJvdXQiLCIyNSIKIkNhaWxpZmxvd2VyIiwiTGVhdmVzIiwiMzAiCiJLb2hscmFiaSAob2VwbiBhaXIpIiwiTGVhdmVzIiwiMjUiCiJLYWxlIChvcGVuIGFpcikiLCJMZWF2ZXMiLCI1MCIKIkthbGUgKGdyZWVuaG91c2UpIiwiTGVhdmVzIiwiMzUiCiJSYWRpc2giLCJMZWF2ZXMiLCIwIHRvIDM1IgoiUnV0YWJhZ2EiLCJMZWF2ZXMiLCI0MCIKIkhvcnNlcmFkaXNoIiwiTGVhdmVzIiwiNTAiCiJTY29yem9uZXJhIChzYWxzaWZ5KSIsIkxlYXZlcyIsIjIzMCIKIlRvbWF0byAob3BlbiBhaXIpIiwiTGVhdmVzIiwiNDIwIgoiVG9tYXRvIChncmVlbmhvdXNlKSIsIkxlYXZlcyIsIjE1NSIKIlBlYSIsIkxlYXZlcyIsIjE1ODAgdG8gMTU5MCIKIlBlYSIsIlBvZCB3aXRob3V0IHNlZWRzIiwiMTI1IHRvIDEzMCIKIkJyb2FkIGJlYW4iLCJMZWF2ZXMiLCIxMzQwIgoiQnJvYWQgYmVhbiIsIlBvZHMgd2l0aG91dCBzZWVkcyIsIjM2IgoiQnJvYWQgYmVhbiIsIlBvZCIsIjE5Igo="
+                      ],
+                      "MimeType": "text/csv"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Other Environmental Concentrations",
+                "Description": "Other environmental concentrations reported for this chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Dement J; Patty's Toxicology. (2007). NY, NY: John Wiley & Sons, Inc. Wood Dust. On-line posting date: Apr 16, 2001.",
+                      "(2) Tso TC; Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (2008). NY, NY: John Wiley & Sons; Tobacco. Online Posting Date: Jun 15, 2000.",
+                      "(3) Balentine DA et al; Kirk-Othmer Encyclopedia of Chemical Technology. (2001). NY, NY: John Wiley & Sons; Tea. Online Posting Date: Feb 16, 2007."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Dement J; Patty's Toxicology. (2007). NY, NY: John Wiley & Sons, Inc. Wood Dust. On-line posting date: Apr 16, 2001."
+                      },
+                      {
+                        "Citation": "(2) Tso TC; Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (2008). NY, NY: John Wiley & Sons; Tobacco. Online Posting Date: Jun 15, 2000."
+                      },
+                      {
+                        "Citation": "(3) Balentine DA et al; Kirk-Othmer Encyclopedia of Chemical Technology. (2001). NY, NY: John Wiley & Sons; Tea. Online Posting Date: Feb 16, 2007."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quercetin is a flavanoid component of hardwood wood dust(1). It is found in leaf tobacco(2) and tea leaves(3).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 38,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to quercetin may occur through inhalation and dermal contact with this compound at workplaces where quercetin is produced or used. Use data indicate that the general population may be exposed to quercetin via dermal contact with this compound or other consumer products containing quercetin. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 122,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 217,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            },
+                            {
+                              "Start": 303,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quercetin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5280343"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135269910",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000117395",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19571041
+      },
+      {
+        "ReferenceNumber": 32,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID4021218",
+        "Name": "Quercetin",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57014186
+      },
+      {
+        "ReferenceNumber": 38,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "3529",
+        "Name": "QUERCETIN",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3529",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 2653
+      },
+      {
+        "ReferenceNumber": 51,
+        "SourceName": "International Agency for Research on Cancer (IARC)",
+        "SourceID": "3229547029",
+        "Name": "Quercetin",
+        "Description": "",
+        "URL": "https://monographs.iarc.who.int/list-of-classifications",
+        "LicenseNote": "Materials made available by IARC/WHO enjoy copyright protection under the Berne Convention for the Protection of Literature and Artistic Works, under other international conventions, and under national laws on copyright and neighbouring rights. IARC exercises copyright over its Materials to make sure that they are used in accordance with the Agency's principles. All rights are reserved.",
+        "LicenseURL": "https://publications.iarc.who.int/Terms-Of-Use",
+        "ANID": 39310656
+      },
+      {
+        "ReferenceNumber": 227,
+        "SourceName": "NTP Technical Reports",
+        "SourceID": "821406339",
+        "Name": "Quercetin",
+        "Description": "The NTP technical reports provide the long-term NTP toxicology and carcinogenicity studies that usually involve exposing laboratory animals (rats and mice) to a substance for a period of two years. These studies are designed and conducted to characterize and evaluate the toxicologic potential, including carcinogenic activity, of selected substances. Substances selected for NTP toxicology and carcinogenesis studies are chosen primarily on the basis of human exposure, level of production, and chemical structure. Substance selection is not an indicator of a substance's carcinogenic potential.",
+        "URL": "https://ntp.niehs.nih.gov/data/tr",
+        "LicenseURL": "https://ntp.niehs.nih.gov/support/policies",
+        "ANID": 45735664
+      },
+      {
+        "ReferenceNumber": 245,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4758",
+        "Name": "Quercetin",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4758",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443851
+      },
+      {
+        "ReferenceNumber": 59,
+        "SourceName": "LiverTox",
+        "SourceID": "Quercetin",
+        "Name": "Quercetin",
+        "Description": "LIVERTOX provides up-to-date, accurate, and easily accessed information on the diagnosis, cause, frequency, patterns, and management of liver injury attributable to prescription and nonprescription medications, herbals and dietary supplements.",
+        "URL": "https://www.ncbi.nlm.nih.gov/books/n/livertox/Quercetin/",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 8958876
+      },
+      {
+        "ReferenceNumber": 246,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "110065874",
+        "Name": "Quercetine",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49292616
+      }
+    ]
+  }
+}

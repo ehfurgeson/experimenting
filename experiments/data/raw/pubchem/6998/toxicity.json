@@ -1,0 +1,2293 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 6998,
+    "RecordTitle": "Salicylaldehyde",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "IDENTIFICATION AND USE: Salicylaldehyde is a liquid. It is used in analytical chemistry, perfumery (violet), synthesis of coumarin, as an auxiliary fumigant, and flavoring. HUMAN STUDIES: An elk researcher who had handled leaves from various trees presented with eczema of the hands, face, flexures, trunk and extremities. Patch testing showed sensitivity to salicyl alcohol, salicylaldehyde, balsam of Peru (Myroxylon pereirae resin), aspen wood dust and an extract prepared from the bark of aspen (Populus tremula). Besides salicyl alcohol, salicylaldehyde is also recommended to be used to screen for contact allergy to aspen. Both of these chemicals should be tested in forest workers in areas where aspen is growing. ANIMAL STUDIES: Salicylaldehyde fed to male rats for 10 days or more caused an increase in the number and size of hepatic and renal microbodies and caused fibrillar material to appear. The drug did not cause fibrillar material to appear in hepatic microbodies of mice or microbodies of transplantable rat hepatomas. Salicylaldehyde evoked a hypocalcemia in rats and mice. Salicylaldehyde and its acetyl derivatives are all less potent analgesics and antinflammatory agents in rodents than salicylic acid and aspirin.",
+                          "Markup": [
+                            {
+                              "Start": 24,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 122,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/coumarin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-323"
+                            },
+                            {
+                              "Start": 359,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicyl%20alcohol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5146"
+                            },
+                            {
+                              "Start": 376,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 526,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicyl%20alcohol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5146"
+                            },
+                            {
+                              "Start": 543,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 738,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 1038,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 1094,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 1211,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-338"
+                            },
+                            {
+                              "Start": 1230,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspirin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2244"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 131,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 59,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Skin Sensitizer - An agent that can induce an allergic reaction in the skin."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 37,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134970618"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 60,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1043"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1043",
+                            "Matched": {
+                              "PCLID": 900007324,
+                              "Citation": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1043"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat oral 520 mg/kg (from table)"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 60,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3178"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3178",
+                            "Matched": {
+                              "PCLID": 900024903,
+                              "Citation": "Lewis, R.J. Sr. (ed) Sax's Dangerous Properties of Industrial Materials. 11th Edition. Wiley-Interscience, Wiley & Sons, Inc. Hoboken, NJ. 2004., p. 3178"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat skin 600 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 60,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1043"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1043",
+                            "Matched": {
+                              "PCLID": 900007324,
+                              "Citation": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1043"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat sc 900 mg/kg (from table)"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 60,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1043"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1043",
+                            "Matched": {
+                              "PCLID": 900007324,
+                              "Citation": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1043"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Mouse oral 504 mg/kg (from table)"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 60,
+                        "Description": "PEER REVIEWED",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "For more Non-Human Toxicity Values (Complete) data for 2-Hydroxybenzaldehyde (6 total), please visit the HSDB record page.",
+                              "Markup": [
+                                {
+                                  "Start": 105,
+                                  "Length": 16,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/721#section=Non-Human-Toxicity-Values-(Complete)"
+                                },
+                                {
+                                  "Start": 55,
+                                  "Length": 21,
+                                  "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                                  "Type": "PubChem Internal Link",
+                                  "Extra": "CID-87173979"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 51,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 51,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 51,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 51,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 266"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 266",
+                        "Matched": {
+                          "PCLID": 906283330,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 266"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Immediate first aid: Ensure adequate decontamination has been carried out. If patient is not breathing, start artificial respiration, preferably with a demand-valve resuscitator, bag-valve-mask device, or pocket mask, as trained. Perform CPR if necessary. Immediately flush contaminated eyes with gently flowing water. Do not induce vomiting. If vomiting occurs, lean patient forward or place on left side (head-down position, if possible) to maintain an open airway and prevent aspiration. Keep patient quiet and maintain normal body temperature. Obtain medical attention. /Aldehydes and Related Compounds/",
+                          "Markup": [
+                            {
+                              "Start": 319,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 266"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 266",
+                        "Matched": {
+                          "PCLID": 906283330,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 266"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Basic Treatment: Establish a patent airway (oropharyngeal or nasopharyngeal airway, if needed). Suction if necessary. Watch for signs of respiratory insufficiency and assist ventilations if necessary. Aggressive airway management may be necessary. Administer oxygen by nonrebreather mask at 10 to 15 L/min. Anticipate seizures and treat if necessary ... . Monitor for shock and treat if necessary ... . Monitor for pulmonary edema and treat if necessary ... . For eye contamination, flush eyes immediately with water. Irrigate each eye continuously with 0.9% saline (NS) during transport ... . Do not use emetics. For ingestion, rinse mouth and administer 5 mL/kg up to 200 mL of water for dilution if the patient can swallow, has a strong gag reflex, and does not drool ... . Administer activated charcoal ... . /Aldehydes and Related Compounds/",
+                          "Markup": [
+                            {
+                              "Start": 266,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Oxygen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Oxygen"
+                            },
+                            {
+                              "Start": 518,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 687,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 805,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 267"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 267",
+                        "Matched": {
+                          "PCLID": 900013859,
+                          "Citation": "Currance, P.L. Clements, B., Bronstein, A.C. (Eds).; Emergency Care For Hazardous Materials Exposure. 3rd revised edition, Elsevier Mosby, St. Louis, MO 2007, p. 267"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SRP:/ Advanced treatment: Consider orotracheal or nasotracheal intubation for airway control in the patient who is unconscious, has severe pulmonary edema, or is in respiratory distress. Intubation should be considered at the first sign of upper airway obstruction caused by edema. Positive-pressure ventilation techniques with a bag-valve-mask device may be beneficial. Consider drug therapy for pulmonary edema ... . Considering administering a beta agonist such as albuterol for severe bronchospasm ... . Start IV administration of D5W TKO /SRP: \"To keep open\", minimal flow rate/. Use 0.9% saline (NS) or lactated Ringer's (LR) if signs of hypovolemia are present. For hypotension with signs of hypovolemia, administer fluid cautiously. Consider vasopressors if patient is hypotensive with a normal fluid volume. Watch for signs of fluid overload.  ... . Treat seizures with diazepam (Valium) or lorazepam (Ativan) ... Use proparacaine hydrochloride to assist eye irrigation ... . /Aldehydes and Related Compounds/",
+                          "Markup": [
+                            {
+                              "Start": 469,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/albuterol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2083"
+                            },
+                            {
+                              "Start": 880,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 890,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Valium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3016"
+                            },
+                            {
+                              "Start": 901,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/lorazepam",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 912,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ativan",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3958"
+                            },
+                            {
+                              "Start": 928,
+                              "Length": 26,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/proparacaine%20hydrochloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-517321"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:15725287",
+                      "Aalto-Korte K et al; Contact Dermatitis 52 (2): 93-5 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:15725287",
+                        "Matched": {
+                          "PCLID": 20694271,
+                          "Citation": "Aalto-Korte K, Välimaa J, Henriks-Eckerman ML, Jolanki R. Allergic contact dermatitis from salicyl alcohol and salicylaldehyde in aspen bark (Populus tremula). Contact Dermatitis. 2005 Feb;52(2):93–5. doi: 10.1111/j.0105-1873.2005.00506.x. PMID: 15725287.",
+                          "PMID": 15725287,
+                          "DOI": "10.1111/j.0105-1873.2005.00506.x"
+                        }
+                      },
+                      {
+                        "Citation": "Aalto-Korte K et al; Contact Dermatitis 52 (2): 93-5 (2005)",
+                        "Matched": {
+                          "PCLID": 20694271,
+                          "Citation": "Aalto-Korte K, Välimaa J, Henriks-Eckerman ML, Jolanki R. Allergic contact dermatitis from salicyl alcohol and salicylaldehyde in aspen bark (Populus tremula). Contact Dermatitis. 2005 Feb;52(2):93–5. doi: 10.1111/j.0105-1873.2005.00506.x. PMID: 15725287.",
+                          "PMID": 15725287,
+                          "DOI": "10.1111/j.0105-1873.2005.00506.x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/CASE REPORTS/ Salicyl alcohol or 2-methylolphenol is a well-known allergen in phenol-formaldehyde resins and a strong sensitizer in guinea pigs. There is 1 previous report of allergic contact dermatitis from salicyl alcohol in aspen bark. We describe a second case with concomitant allergy to salicylaldehyde. An elk researcher who had handled leaves from various trees presented with eczema of the hands, face, flexures, trunk and extremities. Patch testing showed sensitivity to salicyl alcohol, salicylaldehyde, balsam of Peru (Myroxylon pereirae resin), aspen wood dust and an extract prepared from the bark of aspen (Populus tremula). Weaker reactions were observed to bark extracts of rowan (Sorbus aucuparia), tea-leaved willow (Salix phylicifolia) and goat willow (Salix caprea). We analyzed salicyl alcohol and salicylaldehyde in the bark extracts and found the 2 chemicals in equal amounts, about 0.9 ug/mg in aspen bark and in lower concentrations in rowan and the willows. We did not find either of the chemicals in the test substance of balsam of Peru (Myroxylon pereirae). Besides salicyl alcohol, salicylaldehyde is also recommended to be used to screen for contact allergy to aspen. Both of these chemicals should be tested in forest workers in areas where aspen is growing.",
+                          "Markup": [
+                            {
+                              "Start": 15,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Salicyl%20alcohol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5146"
+                            },
+                            {
+                              "Start": 34,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-methylolphenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5146"
+                            },
+                            {
+                              "Start": 209,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicyl%20alcohol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5146"
+                            },
+                            {
+                              "Start": 294,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 482,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicyl%20alcohol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5146"
+                            },
+                            {
+                              "Start": 499,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 801,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicyl%20alcohol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5146"
+                            },
+                            {
+                              "Start": 821,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 1096,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicyl%20alcohol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5146"
+                            },
+                            {
+                              "Start": 1113,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1056"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1056",
+                        "Matched": {
+                          "PCLID": 906282064,
+                          "Citation": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1056"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Salicylaldehyde fed to male rats for 10 days or more caused an increase in the number and size of hepatic and renal microbodies and caused fibrillar material to appear. The drug did not cause fibrillar material to appear in hepatic microbodies of mice or microbodies of transplantable rat hepatomas.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:7163628",
+                      "Saito H et al; Res Commun Chem Pathol Pharmacol 38 (2): 209-20 (1982)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:7163628",
+                        "Matched": {
+                          "PCLID": 13113524,
+                          "Citation": "Saito H, Yokoyama A, Takeno S, Sakai T, Ueno K, Masumura H, Kitagawa H. Fetal toxicity and hypocalcemia induced by acetylsalicylic acid analogues. Res Commun Chem Pathol Pharmacol. 1982 Nov;38(2):209–20. PMID: 7163628.",
+                          "PMID": 7163628
+                        }
+                      },
+                      {
+                        "Citation": "Saito H et al; Res Commun Chem Pathol Pharmacol 38 (2): 209-20 (1982)",
+                        "Matched": {
+                          "PCLID": 13113524,
+                          "Citation": "Saito H, Yokoyama A, Takeno S, Sakai T, Ueno K, Masumura H, Kitagawa H. Fetal toxicity and hypocalcemia induced by acetylsalicylic acid analogues. Res Commun Chem Pathol Pharmacol. 1982 Nov;38(2):209–20. PMID: 7163628.",
+                          "PMID": 7163628
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Developmental or Reproductive Toxicity/ In the present study, we investigated a correlation of fetotoxicity induced by salicylic acid (SA) analogues to their hypocalcemic effect. Among of SA analogues, acetylsalicylic acid, salicylaldehyde, salicyl-alcohol, methyl salicylate and SA evoked a hypocalcemia in rats and mice but the other analogues had no effect by their single administration. The additional administration of dihydroxybenzoic acids elicited the hypocalcemia following the fetal toxicities induced by SA analogues paralleled to that of their hypocalcemic effect. A hypocalcemic effect was induced only by the benzoic acids with hydroxy group existing in ortho-position.",
+                          "Markup": [
+                            {
+                              "Start": 140,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-338"
+                            },
+                            {
+                              "Start": 223,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetylsalicylic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2244"
+                            },
+                            {
+                              "Start": 245,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 262,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylalcohol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5146"
+                            },
+                            {
+                              "Start": 279,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methyl%20salicylate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4133"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1056"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1056",
+                        "Matched": {
+                          "PCLID": 906282064,
+                          "Citation": "Bingham, E.; Cohrssen, B.; Powell, C.H.; Patty's Toxicology Volumes 1-9 5th ed. John Wiley & Sons. New York, N.Y. (2001)., p. V5 1056"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/OTHER TOXICITY INFORMATION/ Salicylaldehyde and its acetyl derivatives are all less potent analgesics and antinflammatory agents in rodents than salicylic acid and aspirin.",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 146,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-338"
+                            },
+                            {
+                              "Start": 165,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/aspirin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-2244"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ongoing Test Status",
+                "Description": "Toxicity test status of this chemical, performed by authoritative entities (e.g., government agencies).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EPA has released the Interactive Chemical Safety for Sustainability (iCSS) Dashboard. The iCSS Dashboard provides an interactive tool to explore rapid, automated (or in vitro high-throughput) chemical screening data generated by the Toxicity Forecaster (ToxCast) project and the federal Toxicity Testing in the 21st century (Tox21) collaboration. /The title compound was tested by ToxCast and/or Tox21 assays/[USEPA; ICSS Dashboard Application; Available from, as of November 16, 2017: http://actor.epa.gov/dashboard/]"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017",
+                        "Matched": {
+                          "PCLID": 900073521,
+                          "Citation": "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static, 24 °C, pH 8.0-9.3; Concentration: 12000 ug/L for 48 hr; Effect: population, decreased biomass /formulation/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017",
+                        "Matched": {
+                          "PCLID": 900073521,
+                          "Citation": "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static, 24 °C, pH 8.0-9.3; Concentration: 11000 ug/L for 72 hr; Effect: population, decreased biomass /formulation/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017",
+                        "Matched": {
+                          "PCLID": 900073521,
+                          "Citation": "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static, 24 °C, pH 8.0-9.3; Concentration: 12000 ug/L for 96 hr; Effect: population, decreased biomass /formulation/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017",
+                        "Matched": {
+                          "PCLID": 900073521,
+                          "Citation": "Kuhn R, Pattard M; Water Res 24 (1): 31-38 (1990) as cited in the ECOTOX database. Available from, as of November 15, 2017"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "EC50; Species: Scenedesmus subspicatus (Green Algae) exponential growth phase; Conditions: freshwater, static, 24 °C, pH 8.0-9.3; Concentration: 22000 ug/L for 72 hr; Effect: decreased population /formulation/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for 2-Hydroxybenzaldehyde (18 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 99,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/721#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 132,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf",
+                      "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf",
+                        "Matched": {
+                          "PCLID": 906318723,
+                          "Citation": "Schafer, E. W.,  Jr., W. A. Bowles Jr., and J. Hurlbut. 1983. The  acute oral toxicity and repellency and hazard potential of 998 chemicals to  one or more species of wild and domestic birds. Archives of Environmental  Contamination and Toxicology 12:355-382. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/Q_schafer832.pdf"
+                        }
+                      },
+                      {
+                        "Citation": "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf",
+                        "Matched": {
+                          "PCLID": 906318732,
+                          "Citation": "Schafer, E. W.,  Jr., and W. A. Bowles Jr. 2004. Toxicity, Repellency of Phytotoxicity  of 979 Chemicals to Birds, Mammals and Plants. Research Report No.  04-01. National Wildlife Research Center, Fort Collins, Colorado. 118 pp. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/U_schafer041_2004.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^90-02-8$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-Hydroxybenzaldehyde's production and use as an intermediate for dyes, pharmaceuticals, plastics, photographic chemicals, agricultural chemicals, medicinal chemicals and electroplating chemicals, and as a flavor ingredient in foods, beverages, and tobacco products may result in its release to the environment through various waste streams; its use in perfumes and in  fumigants will result in its direct release to the environment. 2-Hydroxybenzaldehyde has been identified as a constituent of tobacco smoke, tobacco, and tobacco substitute smoke. 2-Hydroxybenzaldehyde has been identified as a constituent in the tissues and essential oils of several plant species. If released to air, a vapor pressure of 5.93X10-1 mm Hg at 25 °C indicates 2-hydroxybenzaldehyde will exist solely as a vapor in the atmosphere. Vapor-phase 2-hydroxybenzaldehyde will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 14 hours. 2-Hydroxybenzaldehyde contains chromophores that absorb at wavelengths >290 nm and, therefore, may be susceptible to direct photolysis by sunlight. If released to soil, 2-hydroxybenzaldehyde is expected to have high mobility based upon an estimated Koc of 73. Volatilization from moist soil surfaces is expected to be an important fate process based upon an estimated Henry's Law constant of 5.6X10-6 atm-cu m/mole. 2-Hydroxybenzaldehyde has a vapor pressure of 5.93X10-1 mm Hg and exists as a liquid under environmental conditions; therefore, 2-hydroxybenzaldehyde may volatilize from dry soil. Utilizing an inherent biodegradation test complete degradation was observed indicating that biodegradation is an important environmental fate process in soil and water. If released into water, 2-hydroxybenzaldehyde is not expected to adsorb to suspended solids and sediment based upon the estimated Koc. Volatilization from water surfaces is expected to be an important fate process based upon this compound's estimated Henry's Law constant. Estimated volatilization half-lives for a model river and model lake are 5 and 57 days, respectively. An estimated BCF of 7 suggests the potential for bioconcentration in aquatic organisms is low. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions (pH 5 to 9). Occupational exposure to 2-hydroxybenzaldehyde may occur through inhalation and dermal contact with this compound at workplaces where 2-hydroxybenzaldehyde is produced or used. Monitoring data indicate that the general population may be exposed to 2-hydroxybenzaldehyde via inhalation of ambient air, inhalation of tobacco smoke, inhalation of wood smoke, ingestion of plants or food products containing 2-hydroxybenzaldehyde, and dermal contact with plants and plant oils and consumer products containing 2-hydroxybenzaldehyde. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 434,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 550,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 744,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 826,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 925,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 1012,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 1181,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 1428,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 1556,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 1770,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1794,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1801,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 1932,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2448,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 2557,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 2671,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 2827,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 2929,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Salicylaldehyde. Available from, as of October 11, 2017: https://phytochem.nal.usda.gov/phytochem/search",
+                      "(2) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 1818 (2010)",
+                      "(3) Bruhne F, Wright E; Benzaldehyde. Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2017). New York, NY: John Wiley & Sons. Online Posting Date: 15 Oct 2011."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Salicylaldehyde. Available from, as of October 11, 2017: https://phytochem.nal.usda.gov/phytochem/search"
+                      },
+                      {
+                        "Citation": "(2) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 1818 (2010)"
+                      },
+                      {
+                        "Citation": "(3) Bruhne F, Wright E; Benzaldehyde. Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2017). New York, NY: John Wiley & Sons. Online Posting Date: 15 Oct 2011."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-Hydroxybenzaldehyde has been identified as a constituent in various tissues and essential oils of several plant species(1). 2-Hydroxybenzaldehyde occurs in the flowers of Spirea ulmaria and in the essential oils of several plants of the genus Spirea, in the roots of Crepis foetida, in the fruits of Pinus avium, in the rind of Rauqolfia caffra, in the leaves of Ceanothus velutinus and in the essential oil of Cinnamonum cassia and tobacco leaves. 2-Hydroxybenzaldehyde has also been reported in pennyroyal, cinnamon bark, cassia leaf, cassia oil, pepperment oil, and mastic gum oil(2,3).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 126,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 451,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bruhne F, Wright E; Benzaldehyde. Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2017). New York, NY: John Wiley & Sons. Online Posting Date: 15 Oct 2011.",
+                      "(2) Borchers MT; Aldehydes and Acetals. Patty's Toxicology. 6th ed. (1999-2017). New York, NY: John Wiley & Sons, Inc. On-line Posting Date: 17 Aug 2012",
+                      "(3) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 1818 (2010)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bruhne F, Wright E; Benzaldehyde. Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (1999-2017). New York, NY: John Wiley & Sons. Online Posting Date: 15 Oct 2011."
+                      },
+                      {
+                        "Citation": "(2) Borchers MT; Aldehydes and Acetals. Patty's Toxicology. 6th ed. (1999-2017). New York, NY: John Wiley & Sons, Inc. On-line Posting Date: 17 Aug 2012"
+                      },
+                      {
+                        "Citation": "(3) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 1818 (2010)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-Hydroxybenzaldehyde's production and use as an intermediate for dyes, pharmaceuticals, plastics, photographic chemicals, agricultural chemicals, medicinal chemicals and electroplating chemicals, and as a flavor ingredient in foods, beverages, and tobacco products(1-3) may result in its release to the environment through various waste streams; its use in perfumes, fumigants(2) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)",
+                      "(3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools",
+                      "(4) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)",
+                      "(5) Yalkowsky SH, et al; Handbook of Aqueous Solubility Data. 2nd ed., Boca Raton, FL: CRC Press p. 371 (2010)",
+                      "(6) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 12, 2017: https://www.safe.nite.go.jp/english/db.html"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)"
+                      },
+                      {
+                        "Citation": "(3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools"
+                      },
+                      {
+                        "Citation": "(4) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)"
+                      },
+                      {
+                        "Citation": "(5) Yalkowsky SH, et al; Handbook of Aqueous Solubility Data. 2nd ed., Boca Raton, FL: CRC Press p. 371 (2010)"
+                      },
+                      {
+                        "Citation": "(6) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 12, 2017: https://www.safe.nite.go.jp/english/db.html"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 73(SRC), determined from a log Kow of 1.81(2) and a regression-derived equation(3), indicates that 2-hydroxybenzaldehyde is expected to have high mobility in soil(SRC). Volatilization of 2-hydroxybenzaldehyde from moist soil surfaces is expected to be an important fate process(SRC) given an estimated Henry's Law constant of 5.6X10-6 atm-cu m/mole(SRC) derived from its vapor pressure, 5.93X10-1 mm Hg(4), and water solubility, 1.7X10+4 mg/L(5). 2-Hydroxybenzaldehyde has a vapor pressure close to one and exists as a liquid under environmental conditions; therefore, 2-hydroxybenzaldehyde may volatilize from dry soil(SRC). Utilizing an inherent biodegradation test complete degradation was observed indicating that biodegradation is an important environmental fate process in soil(6).",
+                          "Markup": [
+                            {
+                              "Start": 180,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 268,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 492,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 528,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 650,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)",
+                      "(3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools",
+                      "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)",
+                      "(5) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)",
+                      "(6) Yalkowsky SH, et al; Handbook of Aqueous Solubility Data. 2nd ed., Boca Raton, FL: CRC Press p. 371 (2010)",
+                      "(7) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(8) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(9) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 12, 2017: https://www.safe.nite.go.jp/english/db.html"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)"
+                      },
+                      {
+                        "Citation": "(3) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(5) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)"
+                      },
+                      {
+                        "Citation": "(6) Yalkowsky SH, et al; Handbook of Aqueous Solubility Data. 2nd ed., Boca Raton, FL: CRC Press p. 371 (2010)"
+                      },
+                      {
+                        "Citation": "(7) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(8) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(9) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 12, 2017: https://www.safe.nite.go.jp/english/db.html"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 73(SRC), determined from a log Kow of 1.81(2) and a regression-derived equation(3), indicates that 2-hydroxybenzaldehydeis not expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is expected(4) based upon an estimated Henry's Law constant of 5.6X10-6 atm-cu m/mole(SRC) derived from its vapor pressure, 5.93X10-1 mm Hg(5), and water solubility, 1.7X10+4 mg/L(6). Using this Henry's Law constant and an estimation method(7), volatilization half-lives for a model river and model lake are 5 and 57 days, respectively(SRC). According to a classification scheme(8), an estimated BCF of 7(SRC), from its log Kow(2) and a regression-derived equation(3), suggests the potential for bioconcentration in aquatic organisms is low(SRC). Utilizing an inherent biodegradation test complete degradation was observed indicating that biodegradation is likely an important environmental fate process in water(9).",
+                          "Markup": [
+                            {
+                              "Start": 282,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 445,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1004,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), 2-hydroxybenzaldehyde, which has a vapor pressure of 5.93X10-1 mm Hg at 25 °C(2), is expected to exist solely as a vapor in the ambient atmosphere. Vapor-phase 2-hydroxybenzaldehyde is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 14 hours(SRC), calculated from its rate constant of 2.8X10-11 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(3). 2-Hydroxybenzaldehyde contains chromophores that absorb at wavelengths >290 nm(4) and, therefore, may be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 284,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 378,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 612,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 12, 2017: https://www.safe.nite.go.jp/english/db.html"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) NITE; Chemical Risk Information Platform (CHRIP). Biodegradation and Bioconcentration. Tokyo, Japan: Natl Inst Tech Eval. Available from, as of Oct 12, 2017: https://www.safe.nite.go.jp/english/db.html"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: 2-Hydroxybenzaldehyde, present at 30 mg/L, reached 2% of its theoretical BOD in 4 weeks using an activated sludge inoculum at 100 mg/L in the Japanese MITI test; the test substance formed salicylic acid, 100% by HPLC(1). In an inherent degradation test 2-hydroxybenzaldehyde was confirmed to be biodegradable, proliferation in the sludge was observed, and neither salicylaldehyde nor salycylic acid remained(1).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 197,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-338"
+                            },
+                            {
+                              "Start": 262,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 373,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools",
+                      "(2) Buxton GV et al; J Phys Chem Ref Data 17: 513-882 p. 750 (1988)",
+                      "(3) Mill T et al; Science 207: 886-887 (1980)",
+                      "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12, 8-13 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools"
+                      },
+                      {
+                        "Citation": "(2) Buxton GV et al; J Phys Chem Ref Data 17: 513-882 p. 750 (1988)"
+                      },
+                      {
+                        "Citation": "(3) Mill T et al; Science 207: 886-887 (1980)"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12, 8-13 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of 2-hydroxybenzaldehyde with photochemically-produced hydroxyl radicals has been estimated as 2.80X10-11 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 14 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). The rate constant for the estimated OH radical reaction of 2-hydroxybenzaldehyde with hydroxyl radicals in aqueous solutions at pH 9 is 8.6X10+9 L/mol-sec(2); this corresponds to an aquatic half-life of approximately 90 at an aquatic concentration of 1X10-17 hydroxyl radicals per liter(3). 2-Hydroxybenzaldehyde is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(4). 2-Hydroxybenzaldehyde contains chromophores that absorb at wavelengths >290 nm(4) and, therefore, may be susceptible to direct photolysis by sunlight(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 102,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 331,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 422,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 449,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 622,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 654,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 820,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 7 was calculated in fish for 2-hydroxybenzaldehyde(SRC), using a log Kow of 1.81(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 49,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)",
+                      "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hansch C et al; Exploring QSAR. Hydrophobic, Electronic, and Steric Constants. ACS Prof Ref Book. Heller SR, consult. ed., Washington, DC: Amer Chem Soc p. 29 (1995)"
+                      },
+                      {
+                        "Citation": "(2) US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of Oct 12, 2017: https://www2.epa.gov/tsca-screening-tools"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of 2-hydroxybenzaldehyde is estimated as 73(SRC), using a log Kow of 1.81(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that 2-hydroxybenzaldehyde is expected to have high mobility in soil.",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 203,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)",
+                      "(2) Yalkowsky SH, et al; Handbook of Aqueous Solubility Data. 2nd ed., Boca Raton, FL: CRC Press p. 371 (2010)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Daubert TE, Danner RP; Physical and Thermodynamic Properties of Pure Chemicals Data Compilation. Washington, DC: Taylor and Francis (1989)"
+                      },
+                      {
+                        "Citation": "(2) Yalkowsky SH, et al; Handbook of Aqueous Solubility Data. 2nd ed., Boca Raton, FL: CRC Press p. 371 (2010)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for 2-hydroxybenzaldehyde is estimated as 5.6X10-6 atm-cu m/mole(SRC) derived from its vapor pressure, 5.93X10-1 mm Hg(1), and water solubility, 1.7X10+4 mg/L(2). This Henry's Law constant indicates that salicylaldehyde is expected to volatilize from water surfaces(3). Based on this Henry's Law constant, the volatilization half-life from a model river (1 m deep, flowing 1 m/sec, wind velocity of 3 m/sec)(3) is estimated as 5 days(SRC). The volatilization half-life from a model lake (1 m deep, flowing 0.05 m/sec, wind velocity of 0.5 m/sec)(3) is estimated as 57 days(SRC). 2-Hydroxybenzaldehyde's estimated Henry's Law constant indicates that volatilization from moist soil surfaces may occur(SRC). The potential for volatilization of salicylaldehyde from dry soil surfaces may exist(SRC) based upon a vapor pressure close to one and the compound exists as an odorous liquid under environmental conditions.",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 152,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 229,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 276,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 604,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 766,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Effluent Concentrations",
+                "Description": "Concentration of this compound in effluent.  Effluent is wastewater (treated or untreated) discharged into surface waters from a treatment plant, sewer, or industrial outfall. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Seizinger DE, Dimitriades B; J Air Poll Cont Assoc 22:47-51 (1972)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Seizinger DE, Dimitriades B; J Air Poll Cont Assoc 22:47-51 (1972)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-Hydroxybenzaldehyde was detected, but not quantified, in exhaust samples from 9 test fuels employed in an automobile under simulated city driving conditions(1).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Sediment/Soil Concentrations",
+                "Description": "Concentrations of this compound in sediment/soil. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bandowe BAM, Wilcke W; J Enviro Qual 39: 1349-1358 (2010)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bandowe BAM, Wilcke W; J Enviro Qual 39: 1349-1358 (2010)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SEDIMENT: 2-Hydroxybenzaldehyde was detected in Manaus, Mainz, and Berlin, Germany soils at concentrations of 6.2, 9.7, 41 ng/g, respectively; soils were collected from the Terra Firme of the Amazon basin in Brazil, sampling dates not reported(1).",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Atmospheric Concentrations",
+                "Description": "Concentrations of this compound in the atmosphere. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Ochs SdM et al; Atmos Environ 45: 5183-5190 (2011)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Ochs SdM et al; Atmos Environ 45: 5183-5190 (2011)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "URBAN/SUBURBAN: 2-Hydroxybenzaldehyde was detected in atmospheric samples collected from Niteroi City, RJ, Brazil, between January 9th and 14th, 2010, with a reported mean and maximum of 3.73 and 7.64 ug/m cu, respectively(1).",
+                          "Markup": [
+                            {
+                              "Start": 16,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Food Survey Values",
+                "Description": "Information on the amount or concentration of this compound in food, reported from various data sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 1818 (2010)",
+                      "(2) Coleman EC et al; J Agric Food Chem 29: 42-8 (1981)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Burdock GA, ed; Fenaroli's Handbook of Flavor Ingredients. 6th ed., Boca Raton, FL: CRC Press p. 1818 (2010)"
+                      },
+                      {
+                        "Citation": "(2) Coleman EC et al; J Agric Food Chem 29: 42-8 (1981)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-Hydroxybenzaldehyde has been reported in grapes, tomato, baked potato, parmesan cheese, butter, milk powder, roasted chicken, beer, rum, Japanese whiskey, sherry, coffee, tea, soybean, mushroom, buckwheat, Bourbon vanilla, Chinese quince, Muscat grape, and vanilla(1). 2-Hydroxybenzaldehyde has been identified, but not quantified, as a volatile constituent of baked potatoes(2).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 271,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Plant Concentrations",
+                "Description": "Concentrations of this compound in plants.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Salicylaldehyde. Available from, as of Oct 11, 2017: https://phytochem.nal.usda.gov/phytochem/search"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US Dept Agric; US Dept Agric, Agric Res Service. 1992-2016. Dr. Duke's Phytochemical and Ethnobotanical Databases. Salicylaldehyde. Available from, as of Oct 11, 2017: https://phytochem.nal.usda.gov/phytochem/search"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-Hydroxybenzaldehyde detections in plants(1).[Table#2034]",
+                          "Markup": [
+                            {
+                              "Start": 46,
+                              "Length": 12,
+                              "Type": "Inline Table",
+                              "Extra": "[Table#2034]"
+                            },
+                            {
+                              "Start": 0,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Name": "[Table#2034]",
+                    "Value": {
+                      "Binary": [
+                        "IkdlbnVzIHNwZWNpZXMiLCJGYW1pbHkiLCJDb21tb24gbmFtZSIsIlBhcnQiLCJDb25jbiAocHBtKSIKIkZpbGlwZW5kdWxhIHVsbWFyaWEiLCJSb3NhY2VhZSIsIlF1ZWVuIG9mIHRoZSBNZWFkb3c7IE1lYWRvd3N3ZWV0IiwiRXNzZW50aWFsIG9pbCIsIjc1MCwwMDAiCiJGaWxpcGVuZHVsYSB1bG1hcmlhIiwiUm9zYWNlYWUiLCJRdWVlbiBvZiB0aGUgTWVhZG93OyBNZWFkb3dzd2VldCIsIkZsb3dlciBFc3NlbnQuIE9pbCIsIjc0OCwwMDAiCiJBc3BhbGF0aHVzIGxpbmVhcmlzIiwiRmFiYWNlYWUiLCJSZWQgQnVzaCBUZWEsIFJvb2lib3MsIEthZmZyZWUgVGVhIiwiTGVhZiBFc3NlbnQuIE9pbCIsIjEwMDAiCiJUYWdldGVzIG1pbnV0YSIsIkFzdGVyYWNlYWUiLCJTdGlua2luZyBSb2dlciwgRHdhcmYgTWFyaWdvbGQsIFdpbGQgTWFyaWdvbGQsIEF6dGVjIG1hcmlnb2xkLCBNZXhpY2FuIE1hcmlnb2xkLCBNdXN0ZXIgSm9obiBIZW5yeSIsIlBsYW50IiwiMzk1IgoiQ2FtZWxsaWEgc2luZW5zaXMiLCJUaGVhY2VhZSIsIlRlYSIsIkxlYWYiLCJub3QgcmVwb3J0ZWQiCiJNZW50aGEgcHVsZWdpdW0iLCJMYW1pYWNlYWUiLCJFdXJvcGVhbiBQZW5ueXJveWFsIiwiRXNzZW50aWFsIE9pbCIsIm5vdCByZXBvcnRlZCIKIkx5Y29wZXJzaWNvbiBlc2N1bGVudHVtIiwiU29sYW5hY2VhZSIsIlRvbWF0byIsIkZydWl0Iiwibm90IHJlcG9ydGVkIgoiVGFnZXRlcyBtaW51dGEiLCJBc3RlcmFjZWFlIiwiU3RpbmtpbmcgUm9nZXIiLCJFc3NlbnRpYWwgT2lsIiwibm90IHJlcG9ydGVkIgoiTmljb3RpYW5hIHRhYmFjdW0iLCJTb2xhbmFjZWFlIiwiVG9iYWNjbyIsIkxlYWYiLCJOb3QgcmVwb3J0ZWQiCiJGaWxpcGVuZHVsYSB1bG1hcmlhIiwiUm9zYWNlYWUiLCJRdWVlbiBvZiB0aGUgTWVhZG93OyBNZWFkb3dzd2VldCIsIkZsb3dlciIsIm5vdCByZXBvcnRlZCIKIkZhZ29weXJ1bSBlc2N1bGVudHVtIiwiUG9seWdvbmFjZWFlIiwiQnVja3doZWF0IiwiU2VlZCIsIm5vdCByZXBvcnRlZCIK"
+                      ],
+                      "MimeType": "text/csv"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Other Environmental Concentrations",
+                "Description": "Other environmental concentrations reported for this chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Jordan TB, Seen AJ; Enviro Sci Tech 39: 3601-3610 (2005)",
+                      "(2) McKenzie LM et al; Environ Sci Technol 29: 2047-54 (1995)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Jordan TB, Seen AJ; Enviro Sci Tech 39: 3601-3610 (2005)"
+                      },
+                      {
+                        "Citation": "(2) McKenzie LM et al; Environ Sci Technol 29: 2047-54 (1995)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-Hydroxybenzaldehyde was detected in the vapor phase, but not the particulate phase, at concentrations ranging from 14.4 - 161 mg/kg dry wood burned of volatile emissions from 2 types of wood heaters burning White gum (Eucalyptus viminalis) firewood(1). A mean emission factor of 2-hydroxybenzaldehyde in smoldering smoke from wood was reported as 0.015 g/kg; it was not detected in smoke from flaming wood(2). Emissions collected from burning ponderosa pine wood, from northwestern Montana, contained mean emission factors for 2-hydroxybenzaldehyde, in the smoldering smoke of its needles, litter, and duff, of 0.016, 0.019, and 0.01 g/kg, respectively(2). 2-Hydroxybenzaldehyde was not detected in smoldering smoke or self-sustained smoldering smoke from bark, or the self-sustained smoldering smoke from litter, duff, or humus fires(2).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 281,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 529,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 659,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Rogge WF et al; Environ Sci Technol 27: 1892-1904 (1993)",
+                      "(2) Rodgman A, Perfetti TA; The Chemical Components of Tobacco and Tobacco Smoke. Boca Raton, FL: CRC Press p. 260 (2009)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Rogge WF et al; Environ Sci Technol 27: 1892-1904 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Rodgman A, Perfetti TA; The Chemical Components of Tobacco and Tobacco Smoke. Boca Raton, FL: CRC Press p. 260 (2009)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "2-Hydroxybenzaldehyde was detected in dust from fine particulate organometallic brake lining wear at a concentration of 4.7 ug/g of particle sample; it was not detected in fine particulate paved road dust nor in particulate tire wear debris(1). 2-Hydroxybenzaldehyde has been identified as a constituent of tobacco smoke, tobacco, and tobacco substitute smoke(2).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 245,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-Hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) US EPA; Chemical Data Reporting (CDR). Non-confidential 2016 Chemical Data Reporting information on chemical production and use in the United States. Available from, as of Oct 12, 2017: https://java.epa.gov/chemview"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) US EPA; Chemical Data Reporting (CDR). Non-confidential 2016 Chemical Data Reporting information on chemical production and use in the United States. Available from, as of Oct 12, 2017: https://java.epa.gov/chemview"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "According to the 2016 TSCA Inventory Update Reporting data, 1 reporting facility, operating fewer than 10 sites, estimate the number of persons reasonably likely to be exposed during the manufacturing, processing, or use of 2-hydroxybenzaldehyde in the United States is fewer than 10 workers per plant; the data may be greatly underestimated due to confidential business information (CBI) or unknown values(1).",
+                          "Markup": [
+                            {
+                              "Start": 22,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TSCA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-110408"
+                            },
+                            {
+                              "Start": 224,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) CDC; International Chemical Safety Cards (ICSC) 2012. Atlanta, GA: Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health (NIOSH). Ed Info Div. Available from, as of October 12, 2017: https://web.archive.org/web/20110717195709/https://www.cdc.gov:80/noes/noes1/agtindex.html"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) CDC; International Chemical Safety Cards (ICSC) 2012. Atlanta, GA: Centers for Disease Prevention & Control. National Institute for Occupational Safety & Health (NIOSH). Ed Info Div. Available from, as of October 12, 2017: https://web.archive.org/web/20110717195709/https://www.cdc.gov:80/noes/noes1/agtindex.html"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "NIOSH (NOES Survey 1981-1983) has statistically estimated that 4,597 workers (234 of these are female) were potentially exposed to 2-hydroxybenzaldehyde in the US(1). Occupational exposure to 2-hydroxybenzaldehyde may occur through inhalation and dermal contact with this compound at workplaces where salicylaldehyde is produced or used. Monitoring data indicate that the general population may be exposed to 2-hydroxybenzaldehyde via inhalation of ambient air, inhalation of tobacco smoke, inhalation of wood smoke, ingestion of plants or food products containing 2-hydroxybenzaldehyde, and dermal contact with plants and plant oils and consumer products containing 2-hydroxybenzaldehyde(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 131,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 192,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 301,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/salicylaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6998"
+                            },
+                            {
+                              "Start": 409,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 565,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            },
+                            {
+                              "Start": 667,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 60,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Henriks-Eckerman ML et al; Am Ind Hyg Assoc J 51: 241-4 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Henriks-Eckerman ML et al; Am Ind Hyg Assoc J 51: 241-4 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Workers involved in welding or straightening painted steel, and individuals near this activity, may potentially be exposed to 2-hydroxybenzaldehyde; this chemical was identified as degradation product and in the emissions (2 mg/cu m) from heated steel ship plates coated with the shop primer PVB (polyvinylbutyral)(1).",
+                          "Markup": [
+                            {
+                              "Start": 126,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2-hydroxybenzaldehyde",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-87173979"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 45,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Salicylaldehyde$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 45,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Salicylaldehyde$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 45,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Salicylaldehyde$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 45,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Salicylaldehyde$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 37,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134970618",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0000090028",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19462799
+      },
+      {
+        "ReferenceNumber": 45,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "24bda365f55f97be81b23be21a10d907",
+        "Name": "Salicylaldehyde",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49733216
+      },
+      {
+        "ReferenceNumber": 51,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID1021792",
+        "Name": "Salicylaldehyde",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57001772
+      },
+      {
+        "ReferenceNumber": 59,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz6989",
+        "Name": "Salicylaldehyde",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17280223
+      },
+      {
+        "ReferenceNumber": 60,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "721",
+        "Name": "2-Hydroxybenzaldehyde",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/721",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 650
+      },
+      {
+        "ReferenceNumber": 132,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "2991825578",
+        "Name": "Salicylaldehyde",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49292060
+      },
+      {
+        "ReferenceNumber": 131,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4892",
+        "Name": "2-Hydroxybenzaldehyde",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4892",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443981
+      }
+    ]
+  }
+}

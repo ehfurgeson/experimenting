@@ -1,0 +1,25 @@
+{
+  "search_term": "Lauric acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:22.406100+00:00",
+  "url": "/chemical/search/equal/Lauric acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5021590",
+        "dtxcid": "DTXCID801590",
+        "casrn": "143-07-7",
+        "preferredName": "Dodecanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "Lauric acid",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

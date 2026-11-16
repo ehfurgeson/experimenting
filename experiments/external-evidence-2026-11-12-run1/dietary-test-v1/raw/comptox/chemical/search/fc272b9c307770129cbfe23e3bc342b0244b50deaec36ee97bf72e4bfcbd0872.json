@@ -1,0 +1,25 @@
+{
+  "search_term": "XUJNEKJLAYXESH-REOHCLBHSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:20.094424+00:00",
+  "url": "/chemical/search/equal/XUJNEKJLAYXESH-REOHCLBHSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8022876",
+        "dtxcid": "DTXCID302876",
+        "casrn": "52-90-4",
+        "preferredName": "L-Cysteine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CS)C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "XUJNEKJLAYXESH-REOHCLBHSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

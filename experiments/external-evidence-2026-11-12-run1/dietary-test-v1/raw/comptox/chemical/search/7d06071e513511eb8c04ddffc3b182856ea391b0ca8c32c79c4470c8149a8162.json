@@ -1,0 +1,25 @@
+{
+  "search_term": "Erythritol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:15.404990+00:00",
+  "url": "/chemical/search/equal/Erythritol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID6043919",
+        "dtxcid": "DTXCID301784628",
+        "casrn": "149-32-6",
+        "preferredName": "Erythritol",
+        "hasStructureImage": 1,
+        "smiles": "OC[C@H](O)[C@H](O)CO",
+        "isMarkush": false,
+        "searchValue": "Erythritol",
+        "rank": 9,
+        "searchName": "Approved Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

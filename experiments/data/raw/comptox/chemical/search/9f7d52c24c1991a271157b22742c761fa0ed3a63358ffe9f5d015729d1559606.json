@@ -1,0 +1,25 @@
+{
+  "search_term": "Phenylacetic Acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:59.378618+00:00",
+  "url": "/chemical/search/equal/Phenylacetic Acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Phenylacetic acid",
+        "dtxsid": "DTXSID2021656",
+        "dtxcid": "DTXCID201656",
+        "casrn": "103-82-2",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)CC1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Phenylacetic acid",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

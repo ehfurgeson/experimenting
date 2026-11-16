@@ -1,0 +1,16 @@
+{
+  "query": "Xylitol",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Xylitol/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:07.755724+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 6912,
+          "SMILES": "C([C@H](C([C@H](CO)O)O)O)O",
+          "InChIKey": "HEBKCHPVOIAQTA-NGQZWQHPSA-N"
+        }
+      ]
+    }
+  }
+}

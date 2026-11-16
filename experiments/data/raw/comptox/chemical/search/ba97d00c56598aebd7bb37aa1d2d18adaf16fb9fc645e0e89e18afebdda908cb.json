@@ -1,0 +1,25 @@
+{
+  "search_term": "BVWTXUYLKBHMOX-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:07.424493+00:00",
+  "url": "/chemical/search/equal/BVWTXUYLKBHMOX-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5074345",
+        "dtxcid": "DTXCID6039631",
+        "casrn": "3943-74-6",
+        "preferredName": "Benzoic acid, 4-hydroxy-3-methoxy-, methyl ester",
+        "hasStructureImage": 1,
+        "smiles": "COC(=O)C1=CC(OC)=C(O)C=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "BVWTXUYLKBHMOX-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "ZQPPMHVWECSIRJ-KTKRTIGZSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:29.891288+00:00",
+  "url": "/chemical/search/equal/ZQPPMHVWECSIRJ-KTKRTIGZSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1025809",
+        "dtxcid": "DTXCID705809",
+        "casrn": "112-80-1",
+        "preferredName": "Oleic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCC\\C=C/CCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "ZQPPMHVWECSIRJ-KTKRTIGZSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Glyphosate",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:50.353221+00:00",
+  "url": "/chemical/search/equal/Glyphosate",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID1024122",
+        "dtxcid": "DTXCID004122",
+        "casrn": "1071-83-6",
+        "preferredName": "Glyphosate",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)CNCP(O)(O)=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Glyphosate",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

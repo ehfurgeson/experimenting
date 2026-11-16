@@ -1,0 +1,25 @@
+{
+  "search_term": "WBYWAXJHAXSJNI-VOTSOKGWSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:41.288203+00:00",
+  "url": "/chemical/search/equal/WBYWAXJHAXSJNI-VOTSOKGWSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5022489",
+        "dtxcid": "DTXCID002489",
+        "casrn": "140-10-3",
+        "preferredName": "E-Cinnamic acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)\\C=C\\C1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "WBYWAXJHAXSJNI-VOTSOKGWSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

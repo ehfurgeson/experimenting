@@ -1,0 +1,25 @@
+{
+  "search_term": "Resorcinol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:06.223969+00:00",
+  "url": "/chemical/search/equal/Resorcinol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID2021238",
+        "dtxcid": "DTXCID601238",
+        "casrn": "108-46-3",
+        "preferredName": "Resorcinol",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC(O)=CC=C1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Resorcinol",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

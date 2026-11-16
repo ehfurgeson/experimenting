@@ -1,0 +1,50 @@
+{
+  "input_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/data/compound_traits.parquet": "b7603ce28182ca93650074e40bf6c573af971a06daa7e67c7d9a87e9bda1c90e",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/data/epa_hazard.parquet": "564ddbf15b7067c07f36f57574142982b1cc4569d17f02bc9704e132a3ac5971",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/experiments/data/epa_identity_crosswalk.parquet": "15c8d82d9665b9909407248a8ac188b23c251d32443a5d27b1148236142c8333"
+  },
+  "code_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/labels.py": "de58a73de3beac73a2a3eb81f2f636706814fc63d4acd470e4e9d88acbc0e6c1",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/weekly_toxicity.py": "e5a305e86dba1d5b73aa0595f46fdd58c8625af495cda3a0f1444ab278898ca4"
+  },
+  "lock_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/pyproject.toml": "8d0d5cad3db1174acb1fea6d429b233b330fc0efc64182cf057db836538f1725",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/uv.lock": "efa1ee5ff52cc4b637d002806b831cd771aaa3b11b60ec4fa2482b326d05869f"
+  },
+  "output_hashes": {
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/compounds.csv": "ab49bc5b1278893f088037cfcf4b82173a8b10afcf5534a091a6586e17f416e8",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/evidence.csv": "bfb78da0e17e039ea7044a5ad1ba19cd4d43a6cfc54145d8fa7ba52d99a6a553",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/groups.csv": "3a06e8c598facb84f47e16f29626f9a236d8ca0c2ba4f6cd162867c2fca63620",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/inventory.csv": "90f520770b23293fc0a9d937a62ccb0c5960bed9589cfcb36911d1903b477606",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/ld50_bins.svg": "cdb38d1b7be11253c60d32d75c5c2f1714394d7e1913c73e1b2d73723467bde9",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/ld50_distribution.html": "76b94300b7a006c29cf37057d4ad9df404cc3e936296a4c606b14ba4a46451dc",
+    "/Users/ehfurgeson/Documents/GitHub/agrochem-toxicity/analysis/outputs/weekly-toxicity-2026-11-10/ld50_distribution.svg": "59df1a4e0b2fe9b4f68d74d38932242637ff58ea9b88197183db08ce8de5b45a"
+  },
+  "policy": {
+    "endpoint": "acute rat oral LD50",
+    "unit": "mg/kg",
+    "cutoffs": [
+      1080.0,
+      3400.0
+    ],
+    "quantile_method": "linear",
+    "collapsed_cutoffs": false,
+    "bin_status": "available",
+    "lower_ld50": "greater toxicity",
+    "deduplication": "same reference, compound, context, qualifier and value; missing references only exact same-source records",
+    "limits": "Purposive cached selection, not population discovery. Compound medians summarize retained acute contexts, not a pooled risk estimate. Potential study duplicates with different references remain unresolved."
+  },
+  "counts": {
+    "inventory": 88,
+    "evidence": 5814,
+    "compounds": 49,
+    "groups": 6
+  },
+  "record_status": {
+    "excluded": 5746,
+    "exact": 43,
+    "censored": 25
+  },
+  "outside_selection": 0
+}

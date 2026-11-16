@@ -1,0 +1,25 @@
+{
+  "search_term": "Citric acid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:32.608425+00:00",
+  "url": "/chemical/search/equal/Citric acid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID3020332",
+        "dtxcid": "DTXCID50332",
+        "casrn": "77-92-9",
+        "preferredName": "Citric acid",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)CC(O)(CC(O)=O)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "Citric acid",
+        "rank": 9,
+        "searchName": "Approved Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Glufosinate-Ammonium",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:20.261869+00:00",
+  "url": "/chemical/search/equal/Glufosinate-Ammonium",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Glufosinate-ammonium",
+        "dtxsid": "DTXSID1024120",
+        "dtxcid": "DTXCID204120",
+        "casrn": "77182-82-2",
+        "hasStructureImage": 1,
+        "smiles": "[NH4+].CP(O)(=O)CCC(N)C([O-])=O",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Glufosinate-ammonium",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

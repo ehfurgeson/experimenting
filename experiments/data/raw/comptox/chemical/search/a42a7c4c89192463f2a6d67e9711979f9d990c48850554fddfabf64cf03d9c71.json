@@ -1,0 +1,25 @@
+{
+  "search_term": "GNHDVXLWBQYPJE-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:55.925462+00:00",
+  "url": "/chemical/search/equal/GNHDVXLWBQYPJE-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Saflufenacil",
+        "dtxsid": "DTXSID9058072",
+        "dtxcid": "DTXCID5031840",
+        "casrn": "372137-35-4",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)N(C)S(=O)(=O)NC(=O)C1=CC(N2C(=O)C=C(N(C)C2=O)C(F)(F)F)=C(F)C=C1Cl",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "GNHDVXLWBQYPJE-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

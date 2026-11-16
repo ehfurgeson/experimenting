@@ -1,0 +1,25 @@
+{
+  "search_term": "JLIDBLDQVAYHNE-YKALOCIXSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:36:29.886684+00:00",
+  "url": "/chemical/search/equal/JLIDBLDQVAYHNE-YKALOCIXSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "(+)-(S)-Abscisic acid",
+        "dtxsid": "DTXSID0036766",
+        "dtxcid": "DTXCID8016766",
+        "casrn": "21293-29-8",
+        "hasStructureImage": 1,
+        "smiles": "C\\C(\\C=C\\[C@@]1(O)C(C)=CC(=O)CC1(C)C)=C\\C(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "JLIDBLDQVAYHNE-YKALOCIXSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "file": "ice-index.html",
+    "url": "https://ice.ntp.niehs.nih.gov/downloads/DataonICE/",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:32:36.381776+00:00",
+    "sha256": "d58863660cc5aef025e2f623d21184a6d40e281fb6797e93f5035f575796067f",
+    "bytes": 8733,
+    "last_modified": null,
+    "content_type": "text/html;charset=ISO-8859-1"
+  },
+  {
+    "file": "ice-datasets.html",
+    "url": "https://ice.ntp.niehs.nih.gov/DATASETDESCRIPTION",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:32:36.571065+00:00",
+    "sha256": "e945788e89dd32f1fc274880a5539370f1a9e94a96e2b3946484d68b25f287f8",
+    "bytes": 2135,
+    "last_modified": null,
+    "content_type": "text/html;charset=utf-8"
+  },
+  {
+    "file": "ice-acute-oral.xlsx",
+    "url": "https://ice.ntp.niehs.nih.gov/downloads/DataonICE/acute_oral.xlsx",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:32:38.813300+00:00",
+    "sha256": "8eb81395116624208ee38cdde79097f5b5785c96f133d8fd4350febbdce50b1e",
+    "bytes": 2927630,
+    "last_modified": "Fri, 18 Jul 2025 12:29:14 GMT",
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  {
+    "file": "ice-acute-oral-summary.xlsx",
+    "url": "https://ice.ntp.niehs.nih.gov/downloads/DataonICE/Acute_Oral_Toxicity.xlsx",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:32:40.193786+00:00",
+    "sha256": "8b4ff1bd84780e92250dd10330378ba8d5cd86820a148afc41fa3af172b3f9cb",
+    "bytes": 1619415,
+    "last_modified": "Fri, 18 Jul 2025 12:29:14 GMT",
+    "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  {
+    "file": "OPERA_Data.zip",
+    "url": "https://raw.githubusercontent.com/kmansouri/OPERA/01b07c769dd86eadb71843e057783a64a364c885/OPERA_Data.zip",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:07.839228+00:00",
+    "sha256": "9dc5d6387201df0f66e9472b034aeaa09ef7a47f705b9b5f50d7c9af8a1aadc3",
+    "bytes": 78722022,
+    "last_modified": null,
+    "content_type": "application/zip"
+  },
+  {
+    "file": "opera-readme.md",
+    "url": "https://raw.githubusercontent.com/kmansouri/OPERA/01b07c769dd86eadb71843e057783a64a364c885/README.md",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:08.104096+00:00",
+    "sha256": "efa96836c3975f7ce59dd5d7b61ffc4ec155e030e13ab6c38cd9a3aab909e355",
+    "bytes": 4085,
+    "last_modified": null,
+    "content_type": "text/plain; charset=utf-8"
+  },
+  {
+    "file": "vega.html",
+    "url": "https://www.vegahub.eu/portfolio-item/vega-qsar/",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:10.126413+00:00",
+    "sha256": "42eb8535db4644e20f35f9128e9b0a0b948810d01d0a851234622ec744e58111",
+    "bytes": 179115,
+    "last_modified": null,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "genra.html",
+    "url": "https://www.epa.gov/comptox-tools/generalized-read-across-genra",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:11.016677+00:00",
+    "sha256": "a1862d6694a1c7fae0bb1292578acf676098c7d61b8c8c498a59c80417c5e968",
+    "bytes": 71645,
+    "last_modified": "Thu, 12 Nov 2026 18:33:10 GMT",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "test.html",
+    "url": "https://www.epa.gov/comptox-tools/toxicity-estimation-software-tool-test",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:11.722203+00:00",
+    "sha256": "21a1d53dff3fdd2aa0fab68ec7323cc7ce926db3f84a6557e70e8df00364f32f",
+    "bytes": 81574,
+    "last_modified": "Thu, 12 Nov 2026 18:33:11 GMT",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "zenodo.json",
+    "url": "https://zenodo.org/api/records/3300664",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:12.162718+00:00",
+    "sha256": "fc136671207935f11268a020e98fbf4b92472f59556303975a0003de7e1ac708",
+    "bytes": 6767,
+    "last_modified": null,
+    "content_type": "application/json"
+  },
+  {
+    "file": "zenodo-ld50.xlsx",
+    "url": "https://zenodo.org/api/records/3300664/files/LD50_PublicCollectedData.xlsx/content",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:49.321192+00:00",
+    "sha256": "9dcf212d924308f78af864aa691171a09c7b26279dabcf8c9ce69492ec5e42c7",
+    "bytes": 712288
+  },
+  {
+    "file": "catmos-article.xml",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8253053/?report=xml",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:49.698733+00:00",
+    "sha256": "e138517b3fd4f2e8edf8de83e8aa6a96c872596ba3c3bc8666314bc96a2d29ff",
+    "bytes": 234557
+  },
+  {
+    "file": "opera-releases.json",
+    "url": "https://api.github.com/repos/kmansouri/OPERA/releases/latest",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:49.914726+00:00",
+    "sha256": "072bb7cbef989f04682ff50759b4f073cc43cf76fc1c68c3cd210ac67d9e66ec",
+    "bytes": 21966
+  },
+  {
+    "file": "ice-acute.html",
+    "url": "https://ice.ntp.niehs.nih.gov/AcuteTox",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:50.098056+00:00",
+    "sha256": "e945788e89dd32f1fc274880a5539370f1a9e94a96e2b3946484d68b25f287f8",
+    "bytes": 2135
+  },
+  {
+    "file": "test-record-sample.json",
+    "url": "https://raw.githubusercontent.com/USEPA/test-app/906979cb203f4c73fa385f23b58265f896249bb3/src/test/resources/aa-res.json",
+    "status": 200,
+    "retrieved_at": "2026-11-12T18:33:50.433733+00:00",
+    "sha256": "4d3337c9f79166ab12280e5ffa6023d3d04307840b3869a38a8240c4c99b77e1",
+    "bytes": 2281944
+  }
+]

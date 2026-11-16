@@ -1,0 +1,2716 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 39327,
+    "RecordTitle": "Oxyfluorfen",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "EPA IRIS Information",
+                "Description": "This section provides basic toxicity information from the EPA Integrated Risk Information System (IRIS).",
+                "URL": "https://www.epa.gov/iris",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Substance",
+                    "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=84",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Oxyfluorfen"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Critical Effect Systems",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hepatic"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "Reference Dose (RfD), chronic",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "3 x 10 ^-3 mg/kg-day"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "USGS Health-Based Screening Levels for Evaluating Water-Quality",
+                "Description": "This section provides the USGS Health-Based Screening Levels for Evaluating Water-Quality data.",
+                "URL": "https://water.usgs.gov/water-resources/hbsl/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "Chemical",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Oxyfluorfen"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "USGS Parameter Code",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "65093"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "Chemical Classes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Pesticide"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "Chronic Noncancer HHBP (Human Health Benchmarks for Pesticides)[μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "200"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "Carcinogenic HHBP [μg/L]",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "0.404−40.4"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 65,
+                    "Name": "Reference",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Smith, C.D. and Nowell, L.H., 2024. Health-Based Screening Levels for evaluating water-quality data (3rd ed.). DOI:10.5066/F71C1TWP",
+                          "Markup": [
+                            {
+                              "Start": 81,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 63,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Target Organs",
+                "Description": "Organs that are affected by exposure to this chemical. Information in this section reflects human data unless otherwise noted.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Name": "",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Hepatic"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 27,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational hepatotoxin - Secondary hepatotoxins: the potential for toxic effect in the occupational setting is based on cases of poisoning by human ingestion or animal experimentation."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135000601"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 55,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 55,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 55,
+                        "Name": "Oral Slope Factor (CSFo)(mg/kg-day)^-1",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0732"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 55,
+                        "Name": "Oral Slope Factor Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document?D=EPA-HQ-OPP-2014-0778-0025",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Oxyfluorfen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.04"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "200"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Cancer Quantification c (Q1) Values (CSF) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0732"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Carcinogenic HHBP (E-6 to E-4 ) [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.404-40.4"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 21,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 27,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) >3,710 mg/m3/4H"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Screening Level",
+                    "Description": "Screening levels are health- or environment-based threshold values used to identify chemical concentrations or doses that may warrant additional evaluation or risk assessment. Examples include Ecological Screening Levels (ESLs), Soil Screening Levels (SSLs), Health-Based Screening Levels (HBSLs), and Maximum Contaminant Levels (MCLs) for drinking water.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^SL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Military Exposure Guidelines (MEGs)",
+                    "Description": "Military Exposure Guidelines (MEGs) are established by the Department of Defense (DoD) to evaluate and manage chemical and environmental health risks during deployments. MEGs help determine how chemical exposures in air, water, and soil could impact a service member's health and mission readiness",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 22,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^MEG$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.27. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.27. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm",
+                        "Matched": {
+                          "PCLID": 900115525,
+                          "Citation": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.27. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/CASE REPORTS/ A total of 66 incidents connected with oxyfluorfen were reported in the OPP Incident Data System (IDS) from 1994 to 2000. Most of these incidents involved irritant effects to the eyes, skin and occasionally respiratory passages. There were 25 cases reported in the California Pesticide Illness Surveillance Program and the majority of these cases involved minor symptoms of systemic illness such as headache, dizziness and nausea. During one of these incidents, nine of 15 field workers developed symptoms while transplanting cauliflower plants in a field that was sprayed about 30 minutes earlier. The reentry interval required on the label was 24 hours. These illnesses included symptoms of chemical conjunctivitis, eye irritation, tingling and itching of the skin, nausea, dizziness, headache, and vomiting.",
+                          "Markup": [
+                            {
+                              "Start": 54,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "PMID:9051416"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9051416",
+                        "Matched": {
+                          "PCLID": 12460608,
+                          "Citation": "Rio B, Parent-Massin D, Lautraite S, Hoellinger H. Effects of a diphenyl-ether herbicide, oxyfluorfen, on human BFU-E/CFU-E development and haemoglobin synthesis. Hum Exp Toxicol. 1997 Feb;16(2):115–22. doi: 10.1177/096032719701600207. PMID: 9051416.",
+                          "PMID": 9051416,
+                          "DOI": "10.1177/096032719701600207"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ ... Human erythroblastic progenitors (BFU-E/CFU-E: Burst Forming Unit-Erythroid and Colony Forming Unit-Erythroid) were exposed to oxyfluorfen, a diphenyl-ether herbicide in the presence of erythropoietin, and the hematoxicity evaluated in vitro by scoring the development of BFU-E/CFU-E colonies after 7 and 14 days of culture. The toxic effect on differentiation has been evaluated using four criteria: morphology, total protein, total porphyrin, and hemoglobin content. The study of BFU-E/CFU-E proliferation and differentiation showed a cytotoxic effect of oxyfluorfen only at very high concentrations. In contrast, hemoglobin synthesis can be inhibited by concentration of oxyfluorfen (10-4 M) that have no adverse effect on cellular proliferation.[Rio B et al; Hum Exp Toxicol 16 (2): 115-22 (1997)]",
+                          "Markup": [
+                            {
+                              "Start": 164,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 179,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/diphenylether",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-7583"
+                            },
+                            {
+                              "Start": 471,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/porphyrin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-66868"
+                            },
+                            {
+                              "Start": 594,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 711,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.7-10. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.7-10. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm",
+                        "Matched": {
+                          "PCLID": 906290136,
+                          "Citation": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.7-10. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Acute Exposure/ Oxyfluorfen is of low acute toxicity and is in toxicity category IV for acute oral, dermal, and inhalation toxicity. It is a slight eye and dermal irritant and is not a dermal sensitizer.",
+                          "Markup": [
+                            {
+                              "Start": 37,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.7-10. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.7-10. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm",
+                        "Matched": {
+                          "PCLID": 906290136,
+                          "Citation": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.7-10. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /In a/ dermal, intermediate term 90 day mouse study /oxyfluorfen/ dose: LOAEL = 32 mg/kg/day. Liver toxicity and anemia seen at the LOAEL of 32 mg/kg/day. Uncertainty factor = 300 /from table/",
+                          "Markup": [
+                            {
+                              "Start": 109,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Reference": [
+                      "PMID:9431441"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9431441",
+                        "Matched": {
+                          "PCLID": 20575339,
+                          "Citation": "Krijt J, Stranska P, Maruna P, Vokurka M, Sanitrak J. Herbicide-induced experimental variegate prophyria in mice: tissue porphyrinogen accumulation and response to porphyrogenic drugs. Can. J. Physiol. Pharmacol. 1997;75(10-11):1181–96. doi: 10.1139/cjpp-75-10-11-1181.",
+                          "PMID": 9431441,
+                          "DOI": "10.1139/cjpp-75-10-11-1181"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ Administration of ... oxyfluorfen (1,000 ppm in the diet) to male BALB/c mice for 9 days resulted in experimental porphyria, resembling the acute phase of human variegate porphyria. Urinary concentrations of 5-aminolevulinic acid and porphobilinogen reached 1500 and 3000 mumol/L, respectively. /Oxyfluorfen/ caused a decrease of protoporphyrinogen oxidase activity in liver and kidney. Brain protoporphyrinogen oxidase activity was not altered. Liver and kidney porphyrin content increased to 11 and 17 nmol/g, respectively (control mice, 2 nmol/g). Over 50% of liver and kidney porphyrins were in the reduced (porphyrinogen) form. ... Mice treated with 125 ppm of oxadiazon in the diet for 9 days excreted moderately elevated levels of porphobilinogen in urine (control mice, less than 50 umol/L; treated mice, 330 umol/L). Administration of phenobarbital or phenytoin (single injections on days 7, 8, and 9) increased the urinary porphobilinogen concentration to 3,500 umol/L. This response to porphyrogenic drugs resembles the response observed in human acute porphyrias.[Krijt J et al; Can J Physiol Pharmacol 75 (10-11): 1181-7 (1997)]",
+                          "Markup": [
+                            {
+                              "Start": 78,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 264,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/5-aminolevulinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-137"
+                            },
+                            {
+                              "Start": 290,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/porphobilinogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1021"
+                            },
+                            {
+                              "Start": 352,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 386,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/protoporphyrinogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-121893"
+                            },
+                            {
+                              "Start": 449,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/protoporphyrinogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-121893"
+                            },
+                            {
+                              "Start": 519,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/porphyrin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-66868"
+                            },
+                            {
+                              "Start": 722,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxadiazon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-29732"
+                            },
+                            {
+                              "Start": 794,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/porphobilinogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1021"
+                            },
+                            {
+                              "Start": 900,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenobarbital",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4763"
+                            },
+                            {
+                              "Start": 917,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/phenytoin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1775"
+                            },
+                            {
+                              "Start": 989,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/porphobilinogen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1021"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.7-10. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.7-10. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm",
+                        "Matched": {
+                          "PCLID": 906290136,
+                          "Citation": "USEPA/Office of Pesticide Programs; Reregistration Eligibility Decision for Oxyfluorfen p.7-10. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Subchronic or Prechronic Exposure/ /In an/ inhalation, intermediate term 90 mouse study /oxyfluorfen was given at/ dose: LOAEL = 32 mg/kg/day. Liver toxicity and anemia seen at the LOAEL of 32 mg/kg/day. Uncertainty factor = 300 /from table/",
+                          "Markup": [
+                            {
+                              "Start": 110,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for OXYFLUOROFEN (20 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 99,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7507#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/OXYFLUOROFEN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 93
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of December 21, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of December 21, 2006",
+                        "Matched": {
+                          "PCLID": 906276688,
+                          "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of December 21, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: Anas platyrhynchos (Mallard duck, age 5-7 days) diet >4000 ppm/8 days"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of December 21, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of December 21, 2006",
+                        "Matched": {
+                          "PCLID": 906276688,
+                          "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of December 21, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: Colinus virginianus (Northern bobwhite, juvenile) diet 390 ppm/8 days"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of December 21, 2006"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of December 21, 2006",
+                        "Matched": {
+                          "PCLID": 906276688,
+                          "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of December 21, 2006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LD50; Species: Colinus virginianus (Northern bobwhite) oral >5000 mg/kg"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of January 29, 2007"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of January 29, 2007",
+                        "Matched": {
+                          "PCLID": 906290290,
+                          "Citation": "USEPA, Office of Pesticide Programs; Pesticide Ecotoxicity Database (2000) on 2-Chloro-1-(3-ethoxy-4-nitrophenoxy)-4-(trifluoromethyl)benzene (42874-03-3). Available from, as of January 29, 2007"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50; Species: Ictalurus punctatus (Channel catfish, juvenile); Conditions: freshwater; flow through; Concentration: 400 ug/L for 96 hr (95% confidence interval: 360-450 ug/L) /74% purity/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Ecotoxicity Values (Complete) data for OXYFLUOROFEN (7 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 89,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7507#section=Ecotoxicity-Values-(Complete)"
+                            },
+                            {
+                              "Start": 48,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/OXYFLUOROFEN",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Excerpts",
+                "Description": "Excerpts about ecotoxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:12046652",
+                      "Hassanein HJ; Environ Sci Health A Tox Hazard Subst Environ Eng 37 (4): 521-7 (2002)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:12046652",
+                        "Matched": {
+                          "PCLID": 21287181,
+                          "Citation": "Hassanein HMA. TOXICOLOGICAL EFFECTS OF THE HERBICIDE OXYFLUORFEN ON ACETYLCHOLINESTERASE IN TWO FISH SPECIES:<i>OREOCHROMIS NILOTICUS</i>AND<i>GAMBUSIA AFFINIS</i>. Journal of Environmental Science and Health, Part A. 2002 May 14;37(4):521–7. doi: 10.1081/ese-120003233.",
+                          "PMID": 12046652,
+                          "DOI": "10.1081/ese-120003233"
+                        }
+                      },
+                      {
+                        "Citation": "Hassanein HJ; Environ Sci Health A Tox Hazard Subst Environ Eng 37 (4): 521-7 (2002)",
+                        "Matched": {
+                          "PCLID": 21287181,
+                          "Citation": "Hassanein HMA. TOXICOLOGICAL EFFECTS OF THE HERBICIDE OXYFLUORFEN ON ACETYLCHOLINESTERASE IN TWO FISH SPECIES:<i>OREOCHROMIS NILOTICUS</i>AND<i>GAMBUSIA AFFINIS</i>. Journal of Environmental Science and Health, Part A. 2002 May 14;37(4):521–7. doi: 10.1081/ese-120003233.",
+                          "PMID": 12046652,
+                          "DOI": "10.1081/ese-120003233"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ The alterations of the AChE activity in the brains of two fresh water fishes; Oreochromis niloticus and Gambusia affinis were measured after exposure to acute, sub-acute and chronic concentrations from the widely used herbicide; oxyfluorfen. Bioassays were conducted under controlled laboratory conditions. The used concentrations were acute: LC50 for 6 days, sub-acute 1/3 LC50 for 15 days and chronic 1/10 LC50 for 30 days. The obtained results showed marked inhibitory effects of the herbicide on the activity of AChE in both fishes. However, these effects were more pronounced in O. niloticus where the decline in the enzyme activity ranged from 19.7 to 81.28% while in case of G. affinis it ranged from 5.7 to 36.7%. These findings demonstrate that G. affinis is most tolerant to oxyfluorfen toxicity compared with O. niloticus.",
+                          "Markup": [
+                            {
+                              "Start": 82,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 247,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 803,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:10341045",
+                      "Hassanein HM et al; Arch Environ Contam Toxicol 37 (1): 78-84 (1999)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:10341045",
+                        "Matched": {
+                          "PCLID": 13834022,
+                          "Citation": "M. A. Hassanein *,  , M. A. B H, Soliman FM, Abdel-Rehim SA, Müller WEG, Schröder HC. Induction of Hsp70 by the Herbicide Oxyfluorfen (Goal) in the Egyptian Nile Fish, Oreochromis niloticus. Archives of Environmental Contamination and Toxicology. 1999 Jul 01;37(1):78–84. doi: 10.1007/s002449900492.",
+                          "PMID": 10341045,
+                          "DOI": "10.1007/s002449900492"
+                        }
+                      },
+                      {
+                        "Citation": "Hassanein HM et al; Arch Environ Contam Toxicol 37 (1): 78-84 (1999)",
+                        "Matched": {
+                          "PCLID": 13834022,
+                          "Citation": "M. A. Hassanein *,  , M. A. B H, Soliman FM, Abdel-Rehim SA, Müller WEG, Schröder HC. Induction of Hsp70 by the Herbicide Oxyfluorfen (Goal) in the Egyptian Nile Fish, Oreochromis niloticus. Archives of Environmental Contamination and Toxicology. 1999 Jul 01;37(1):78–84. doi: 10.1007/s002449900492.",
+                          "PMID": 10341045,
+                          "DOI": "10.1007/s002449900492"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ This paper deals with the expression of the biomarker hsp70 in the liver and kidney of the freshwater fish Oreochromis niloticus following exposure to the herbicide oxyfluorfen (Goal). Fishes were exposed to three concentrations, the 96-hr LC50 (3 mg/L), the 96-hr (1/2) LC50 (1.5 mg/L), and the 96-hr (1/4) LC50 (0.75 mg/L) of oxyfluorfen for 6, 15, and 24 days, respectively, and samples were taken at three different time periods for each concentration. The livers responded to the herbicide by an induction of the expression of both the constitutive (hsp75; Mr 75 kDa) and the inducible (hsp73; Mr 73 kDa) hsp70 proteins. In kidney, the herbicide induced a time-dependent increase in the expression of the constitutive hsp70 (hsp75) as well, but the inducible hsp70 (hsp73) required much longer incubation periods to reach maximal levels (15 and 24 days).",
+                          "Markup": [
+                            {
+                              "Start": 183,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 346,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:14708660",
+                      "Geoffroy L et al; Arch Environ Contam Toxicol 45 (4): 445-52 (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:14708660",
+                        "Matched": {
+                          "PCLID": 962590,
+                          "Citation": "Geoffroy L, Dewez D, Vernet G, Popovic R. Oxyfluorfen Toxic Effect on S. obliquus Evaluated by Different Photosynthetic and Enzymatic Biomarkers. Archives of Environmental Contamination and Toxicology. 2003 Dec 01;45(4):445–52. doi: 10.1007/s00244-003-2217-4.",
+                          "PMID": 14708660,
+                          "DOI": "10.1007/s00244-003-2217-4"
+                        }
+                      },
+                      {
+                        "Citation": "Geoffroy L et al; Arch Environ Contam Toxicol 45 (4): 445-52 (2003)",
+                        "Matched": {
+                          "PCLID": 962590,
+                          "Citation": "Geoffroy L, Dewez D, Vernet G, Popovic R. Oxyfluorfen Toxic Effect on S. obliquus Evaluated by Different Photosynthetic and Enzymatic Biomarkers. Archives of Environmental Contamination and Toxicology. 2003 Dec 01;45(4):445–52. doi: 10.1007/s00244-003-2217-4.",
+                          "PMID": 14708660,
+                          "DOI": "10.1007/s00244-003-2217-4"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/AQUATIC SPECIES/ The effect of oxyfluorfen was investigated when alga Scenedesmus obliquus has been exposed to different concentrations (7.5, 15, and 22.5 ug/L at 12, 24, and 48 hours of exposure. Toxicity test was done by using 13 biomarkers concerning growth rate, chlorophyll content and indicators of photosynthetic and antioxidant enzyme activities. The change of the 13 parameters showed a great variation of sensitivity indicating differences in parameters' suitability to be used as biomarkers when alga culture was exposed to oxyfluorfen toxicity. The order of sensitivity between those biomarkers was: Antenna size (ABS/RC) > Chlorophyll content > Catalase (CAT) > Operational PSII quantum yield (phiS(PSII)) > Glutathione S-transferase (GST) > Functional plastoquinone pool (Q(PQ)) > Glutathione reductase (GR) > Growth rate > Nonphotochemical quenching (QN) > Proton gradient quenching (Q(Emax)) > Ascorbate peroxidase (APX) > Photochemical quenching (Q(p)) > Maximum PSII quantum yield (Phi(PSII)).",
+                          "Markup": [
+                            {
+                              "Start": 32,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 536,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 722,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glutathione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            },
+                            {
+                              "Start": 767,
+                              "Length": 13,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/plastoquinone",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5375177"
+                            },
+                            {
+                              "Start": 796,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glutathione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            },
+                            {
+                              "Start": 911,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ascorbate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54679076"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "USEPA/Office of Pesticide Programs; Interim Reregistration Eligibility Decision for Oxyfluorfen p.36-7. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA/Office of Pesticide Programs; Interim Reregistration Eligibility Decision for Oxyfluorfen p.36-7. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm",
+                        "Matched": {
+                          "PCLID": 900092250,
+                          "Citation": "USEPA/Office of Pesticide Programs; Interim Reregistration Eligibility Decision for Oxyfluorfen p.36-7. EPA738-R-02-014 (October 2002) Available from, as of February 20th, 2007: https://www.epa.gov/pesticides/reregistration/status.htm"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ACCIDENTAL POISONINGS/ On August 22, 2000, Fifteen Mile Creek near the Dalles Dam in Oregon was the site of an oxyfluorfen spill. A truck carrying formulated oxyfluorfen (Goal 2XL) crashed on a bridge spilling approximately 20,000 gallons of herbicide into the creek yards from where the creek enters the Columbia River. Two weeks after the spill, samples of filtered and unfiltered water near the spill site contained an average of 32 :g/L and 340 :g/L, respectively. This spill was estimated to cause a 35% decrease in the numbers of adult chinook salmon and a 26% decrease in the numbers of steelhead passing over the Dalles Dam the day immediately following the spill, relative to the day prior to the spill. The spill was also reported to kill thousands of young lampreys.",
+                          "Markup": [
+                            {
+                              "Start": 112,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 159,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 384,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Screening Levels for Chemical Contaminants",
+                "Description": "The US EPA Regional Screening Levels (RSLs) provided comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). Data in this section refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06.",
+                "URL": "https://www.epa.gov/risk/regional-screening-levels-rsls",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 0.1 or Cancer Risk Level 1E-06",
+                    "Description": "The data in the table refers to the most protective concentration between a target hazard quotient level = 0.1 or target cancer risk level = 1E-06",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "7.40e+00"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.10e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5.40e-01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Risk-based SSL (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.30e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Oral Slope Factor (mg/kg-day)-1",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "7.32e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.00e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 19,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "US EPA Regional Removal Management Levels for Chemical Contaminants",
+                "Description": "Data from the Regional Removal Management Levels (RMLs) are chemical-specific concentrations for individual contaminants in tap water and soil that may be used to support the decision for EPA to undertake a removal action. This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                "URL": "https://www.epa.gov/risk/regional-removal-management-levels-rmls-users-guide",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "Subsections",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Section": [
+                  {
+                    "TOCHeading": "Hazard Quotient Level 3 or Cancer Risk Level 1E-04",
+                    "Description": "This section contains calculated RMLs corresponding to either a 1E-4 risk level for carcinogens or a Hazard Quotient (HQ) of 3 for non-carcinogens.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Resident Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "7.40e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Industrial Soil (mg/kg)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3.10e+03"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Tapwater (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "5.40e+01"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "MCL (ug/L)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "2.00e+02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Oral Slope Factor (mg/kg-day)-1",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "7.32e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Chronic Oral Reference Dose (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "4.00e-02"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Volatile",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Volatile"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Mutagen",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Mutagen"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Fraction of Contaminant Absorbed in Gastrointestinal Tract ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 20,
+                        "Name": "Fraction of Contaminant Absorbed Dermally from Soil ",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Oxyfluorfen's production may result in its release to the environment through various waste streams; its use as an herbicide will result in its direct release to the environment. If released to air, a vapor pressure of 2.0X10-7 mm Hg at 25 °C indicates oxyfluorfen will exist in both the vapor and particulate phases in the atmosphere. Vapor-phase oxyfluorfen will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 33 hours. Particulate-phase oxyfluorfen will be removed from the atmosphere by wet or dry deposition. If released to soil, oxyfluorfen is expected to have no mobility based upon an estimated Koc of 8900. Volatilization from moist soil surfaces is not expected to be an important fate process based upon an estimated Henry's Law constant of 8.2X10-7 atm-cu m/mole. A half-life of 7 days in estuarine sediment indicates that biodegadation may be an important environmental fate. If released into water, oxyfluorfen is expected to adsorb to suspended solids and sediment based upon the estimated Koc. Oxyfluorfen had a biodegradation half-life of 27.5 days in estuarine water and 17 days in estuarine sediment. Volatilization from water surfaces is not expected to be an important fate process based upon this compound's estimated Henry's Law constant. An estimated BCF of 880 suggests the potential for bioconcentration in aquatic organisms is high. Oxyfluorfen showed no significant hydrolysis in 28 days at pH 5-9 (25 °C). Occupational exposure to oxyfluorfen may occur through inhalation and dermal contact with this compound at workplaces where oxyfluorfen is produced or used. The general population may be exposed to oxyfluorfen via dermal contact with spray drift in immediate areas of application. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 253,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 348,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 437,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 542,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 637,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 1008,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1015,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 1112,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 1181,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1242,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1462,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 1562,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 1661,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 1735,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) USEPA; Reregistration Eligibility Decisions (REDs) Database on Oxyfluorfen (42874-0303). USEPA 738-R-02-014, October, 2002. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Jan 24, 2007."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) USEPA; Reregistration Eligibility Decisions (REDs) Database on Oxyfluorfen (42874-0303). USEPA 738-R-02-014, October, 2002. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Jan 24, 2007."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Oxyfluorfen's production may result in its release to the environment through various waste streams; its use as an herbicide(1) will result in its direct release to the environment(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Nandihalli UB et al; J Agric Food Chem  41: 582-7 (1993)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(4) Wauchope RD et al; Rev Environ Contam Toxicol 123:1-164 (1991)",
+                      "(5) Tomlin C; The Pesticide Manual, 10th ed Crop Protection Publications (1994)",
+                      "(6) Walker WW et al; Chemosphere 17: 2255-70 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Nandihalli UB et al; J Agric Food Chem  41: 582-7 (1993)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Wauchope RD et al; Rev Environ Contam Toxicol 123:1-164 (1991)"
+                      },
+                      {
+                        "Citation": "(5) Tomlin C; The Pesticide Manual, 10th ed Crop Protection Publications (1994)"
+                      },
+                      {
+                        "Citation": "(6) Walker WW et al; Chemosphere 17: 2255-70 (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 8900(SRC), determined from a log Kow of 4.73(2) and a regression-derived equation(3), indicates that oxyfluorfen is expected to be immobile in soil(SRC). Volatilization of oxyfluorfen from moist soil surfaces is not expected to be an important fate process(SRC) given an estimated Henry's Law constant of 8.2X10-7 atm-cu m/mole(SRC), derived from its vapor pressure, 2.0X10-7 mm Hg(4), and water solubility, 0.116 mg/L(5). Oxyfluorfen is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(4). A half-life of 7 days in estuarine sediment(6) indicates that biodegadation may be an important environmental fate process in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 182,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 253,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 471,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 504,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Nandihalli UB et al; J Agric Food Chem  41: 582-7 (1993)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)",
+                      "(4) Wauchope RD et al; Rev Environ Contam Toxicol 123:1-164 (1991)",
+                      "(5) Tomlin C; The Pesticide Manual, 10th ed Crop Protection Publications (1994)",
+                      "(6) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(7) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(8) Walker WW et al; Chemosphere 17: 2255-70 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Nandihalli UB et al; J Agric Food Chem  41: 582-7 (1993)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9, 15-1 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Wauchope RD et al; Rev Environ Contam Toxicol 123:1-164 (1991)"
+                      },
+                      {
+                        "Citation": "(5) Tomlin C; The Pesticide Manual, 10th ed Crop Protection Publications (1994)"
+                      },
+                      {
+                        "Citation": "(6) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(7) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(8) Walker WW et al; Chemosphere 17: 2255-70 (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 8900(SRC), determined from a log Kow of 4.73(2) and a regression-derived equation(3), indicates that oxyfluorfen is expected to adsorb to suspended solids and sediment(SRC). Volatilization from water surfaces is not expected(3) based upon an estimated Henry's Law constant of 8.2X10-7 atm-cu m/mole(SRC),  derived from its vapor pressure, 2.0X10-7 mm Hg(4), and water solubility, 0.116 mg/L(5). According to a classification scheme(6), an estimated BCF of 880(SRC), from its log Kow of 4.73(2) and a regression-derived equation(7), suggests the potential for bioconcentration in aquatic organisms is high(SRC). A half-life of 7 days in estuarine sediment(8) indicates that biodegadation may be an important environmental fate process in water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 178,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 271,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 439,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 814,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Wauchope RD et al; Rev Environ Contam Toxicol 123:1-164 (1991)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Wauchope RD et al; Rev Environ Contam Toxicol 123:1-164 (1991)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), oxyfluorfen, which has a vapor pressure of 2.0X10-7 mm Hg at 25 °C(2), will exist in both the vapor and particulate phases in the ambient atmosphere. Vapor-phase oxyfluorfen is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 33 hours(SRC), calculated from its rate constant of 1.2X10-11 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(3). Particulate-phase oxyfluorfen may be removed from the air by wet or dry deposition(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 286,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 370,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 622,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Cripe CR, Pritchard PH; in Aquatic Toxicol Risk Assess. Landis WG, van der Schalie, WH, eds. Baltimore, MD: ASTM STP 1096. 13: 29-47 (1990)",
+                      "(2) Walker WW et al; Chemosphere 17: 2255-70 (1988)",
+                      "(3) Das AC et al; Chemosphere 53: 217-221 (2003)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Cripe CR, Pritchard PH; in Aquatic Toxicol Risk Assess. Landis WG, van der Schalie, WH, eds. Baltimore, MD: ASTM STP 1096. 13: 29-47 (1990)"
+                      },
+                      {
+                        "Citation": "(2) Walker WW et al; Chemosphere 17: 2255-70 (1988)"
+                      },
+                      {
+                        "Citation": "(3) Das AC et al; Chemosphere 53: 217-221 (2003)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Oxyfluorfen biodegradation rate constant in non-sterile sediment was much greater (p=0.01) than sterile sediment rate constant(1). Biodegradation half-lives were given for oxyfluorfen in non-sterile estuarine sediment as 17 days and non-sterile estuarine water as 27.5 days(2). In a field study, oxyfluorfen had a half-life of 12 days in soil (20.7% sand, 32.8% silt, 46.5% clay, 7.1 pH, 5.84 g/kg organic content) with an application rate of 0.12 kg ai/ha(3).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 181,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 264,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 305,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:12107696",
+                      "(1) Chakraborty SK et al; Bull Environ Contam Toxicol 69: 203-9 (2002)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:12107696",
+                        "Matched": {
+                          "PCLID": 17248952,
+                          "Citation": "Chakraborty SK, Bhattacharyya A, Chowdhury A. Degradation of Oxyfluorfen by Azotobacter chroococcum (Beijerink). Bulletin of Environmental Contamination and Toxicology. 2002 Aug 01;69(2):203–9. doi: 10.1007/s00128-002-0048-z.",
+                          "PMID": 12107696,
+                          "DOI": "10.1007/s00128-002-0048-z"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Chakraborty SK et al; Bull Environ Contam Toxicol 69: 203-9 (2002)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Oxyfluorfen was >60% biodegraded in 7 days when incubated at 28 °C using Azotobacter chroococcum, a soil borne bacteria(1).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Scrano L et al; J Environ Qual 33:605-11 (2004)",
+                      "(3) Tomlin CDS, ed. Oxyfluorfen (42874-03-3). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council.",
+                      "(4) USEPA; Reregistration Eligibility Decisions (REDs) Database on Oxyfluorfen (42874-03-3). USEPA 738-R-02-014, October, 2002. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Jan 24, 2007."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Scrano L et al; J Environ Qual 33:605-11 (2004)"
+                      },
+                      {
+                        "Citation": "(3) Tomlin CDS, ed. Oxyfluorfen (42874-03-3). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                      },
+                      {
+                        "Citation": "(4) USEPA; Reregistration Eligibility Decisions (REDs) Database on Oxyfluorfen (42874-03-3). USEPA 738-R-02-014, October, 2002. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Jan 24, 2007."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of oxyfluorfen with photochemically-produced hydroxyl radicals has been estimated as 1.2X10-11 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 33 hours at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). Oxyfluorfen was shown to have photochemical half-lives of 3.3 and 6.9 hours in Preveza (45% sand, 22% silt 33% clay, 0.9% organic matter, 7.0 pH) and Nea Malgara soil (31% sand, 50% silt 19% clay, 2.3% organic matter, 7.1 pH), respectively(2). Oxyfluorfen decomposed rapidly by UV irradiation; DT50 3 days at room temperature and was stable up to 50 °C(3). Oxyfluorfen is stable to hydrolysis(4); the chemical showed no significant hydrolysis in 28 days at pH 5-9 (25 °C)(3).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 92,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 320,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 352,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 596,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 709,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Nandihalli UB et al; J Agric Food Chem  41: 582-7 (1993)",
+                      "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Nandihalli UB et al; J Agric Food Chem  41: 582-7 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Toxicol Chem 18: 664-72 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 880 was calculated in fish for oxyfluorfen(SRC), using a log Kow of 4.73(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is high, provided the compound is not metabolized by the organism(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 51,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Nandihalli UB et al; J Agric Food Chem  41: 582-7 (1993)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(4) Yen J-H et al; Ecotoxicol Environ SAF 54:151-6 (2003)",
+                      "(5) Ying GG, Williams B; J Environ Sci Health Part B 35:121-41 (2000)",
+                      "(6) Milanova S, Grigorov P; Weed Res 36:31-6 (1996)",
+                      "(7) Futch SH, Singh M; Bull Environ Contam Toxicol 62:520-9 (1999)",
+                      "(8) Frank R et al; Bull Environ Contam Toxicol 46:485-91 (1991)",
+                      "(9) USEPA; Reregistration Eligibility Decisions (REDs) Database on Oxyfluorfen (42874-0303). USEPA 738-R-02-014, October, 2002. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Jan 24, 2007.",
+                      "(10) Plimmer JR et al; Kirk-Othmer Encyclopedia of Chemical Technology. (2005). NY, NY: John Wiley & Sons; Herbicides. Online Posting Date: Sept 17, 2004."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Nandihalli UB et al; J Agric Food Chem  41: 582-7 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(4) Yen J-H et al; Ecotoxicol Environ SAF 54:151-6 (2003)"
+                      },
+                      {
+                        "Citation": "(5) Ying GG, Williams B; J Environ Sci Health Part B 35:121-41 (2000)"
+                      },
+                      {
+                        "Citation": "(6) Milanova S, Grigorov P; Weed Res 36:31-6 (1996)"
+                      },
+                      {
+                        "Citation": "(7) Futch SH, Singh M; Bull Environ Contam Toxicol 62:520-9 (1999)"
+                      },
+                      {
+                        "Citation": "(8) Frank R et al; Bull Environ Contam Toxicol 46:485-91 (1991)"
+                      },
+                      {
+                        "Citation": "(9) USEPA; Reregistration Eligibility Decisions (REDs) Database on Oxyfluorfen (42874-0303). USEPA 738-R-02-014, October, 2002. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Jan 24, 2007."
+                      },
+                      {
+                        "Citation": "(10) Plimmer JR et al; Kirk-Othmer Encyclopedia of Chemical Technology. (2005). NY, NY: John Wiley & Sons; Herbicides. Online Posting Date: Sept 17, 2004."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of oxyfluorfen is estimated as 8900(SRC), using a log Kow of 4.73(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that oxyfluorfen is expected to be immobile in soil(SRC). Oxyfluorfen is strongly absorbed to organic soils and only minimally leached(10). Oxyfluorfen had reported Kd values of 52-755 and 111-829 at 25 and 37 °C, respectively in 6 different soils with moisture contents of 30-90%(4). Oxyfluorfen stayed in the top 0-10 cm of soil 28 days after application(5). Oxyfluorfen remained in the top 0-5 cm in a 1992 and 1993 study with an application rate of 1.2 kg ai/ha(6). Oxyfluorfen penetrated to 5.41-8.89 cm with 3.2-12.8 cm of rain and had a half-life in the soil of 35 days(7). Soil half-lives of 30-103 days were calculated for oxyfluorfen at different application rates and rainfall amounts(8). Oxyfluorfen has been noted as persistent and immobile in soil(9).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 195,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 248,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 330,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 475,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 551,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 660,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 822,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 890,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Wauchope RD et al; Rev Environ Contam Toxicol 123: 1-164 (1991)",
+                      "(2) Tomlin C; The Pesticide Manual, 10th ed Crop Protection Publications (1994)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Wauchope RD et al; Rev Environ Contam Toxicol 123: 1-164 (1991)"
+                      },
+                      {
+                        "Citation": "(2) Tomlin C; The Pesticide Manual, 10th ed Crop Protection Publications (1994)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 15-1 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for oxyfluorfen is estimated as 8.2X10-7 atm-cu m/mole(SRC) derived from its vapor pressure, 2.0X10-7 mm Hg(1), and water solubility, 0.116 mg/L(2). This Henry's Law constant indicates that oxyfluorfen is expected to be essentially nonvolatile from water surfaces(3). Oxyfluorfen is not expected to volatilize from dry soil surfaces(SRC) based upon its vapor pressure(1).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 141,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 215,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 274,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 293,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Briggs JA et al; J Environ Qual 27:814-20 (1998)",
+                      "(2) Griffini O et al; Bull Environ Contam Toxicol 59: 202-9 (1997)",
+                      "(3) Keese RJ et al; J Environ Qual 23: 320-4 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Briggs JA et al; J Environ Qual 27:814-20 (1998)"
+                      },
+                      {
+                        "Citation": "(2) Griffini O et al; Bull Environ Contam Toxicol 59: 202-9 (1997)"
+                      },
+                      {
+                        "Citation": "(3) Keese RJ et al; J Environ Qual 23: 320-4 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATERS: Oxyfluorfen was detected at the highest concentration of 0.04 ug/mL in retention basins at container nurseries in South Carolina(1). Oxyfluorfen was not detected in 36, 48, and 32 samples from the Arno River, Italy in 1992, 1993, and 1994, respectively(2). Oxyfluorfen was detected in 2 of 51 samples from the Arno River, Italy in 1995(2). Oxyfluorfen concentration maximum of 0.147 mg/L occurred 1 day after treatment in run off from a container nursery in South Carolina with an application rate of 2.2 kg ai/ha(3).",
+                          "Markup": [
+                            {
+                              "Start": 16,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 149,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 273,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 356,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Sediment/Soil Concentrations",
+                "Description": "Concentrations of this compound in sediment/soil. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Keese RJ et al; J Environ Qual 23: 320-4 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Keese RJ et al; J Environ Qual 23: 320-4 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SEDIMENT: Oxyfluorfen sediment concentrations reached a maximum 3 days after treatment at 0.35 mg/kg in a runoff water containment pond(1).",
+                          "Markup": [
+                            {
+                              "Start": 10,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 113,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Food Survey Values",
+                "Description": "Information on the amount or concentration of this compound in food, reported from various data sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Schattenberg HJ III, HSU JP; J AOAC Int 75: 925-33 (1992)",
+                      "(2) Sheridan RS, Meola JR; J AOAC Internat 82: 982-90 (1999)",
+                      "(3) Roy RR et al; J AOAC Int 78: 930-40 (1995)",
+                      "(4) Ying G, Williams B; Agric Ecosyst Environ 78: 283-9 (2000)",
+                      "(5) Frank R et al; Bull Environ Contam Toxicol 46: 485-91 (1991)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Schattenberg HJ III, HSU JP; J AOAC Int 75: 925-33 (1992)"
+                      },
+                      {
+                        "Citation": "(2) Sheridan RS, Meola JR; J AOAC Internat 82: 982-90 (1999)"
+                      },
+                      {
+                        "Citation": "(3) Roy RR et al; J AOAC Int 78: 930-40 (1995)"
+                      },
+                      {
+                        "Citation": "(4) Ying G, Williams B; Agric Ecosyst Environ 78: 283-9 (2000)"
+                      },
+                      {
+                        "Citation": "(5) Frank R et al; Bull Environ Contam Toxicol 46: 485-91 (1991)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Oxyfluorfen was not detected in apples, broccoli, cabbage, carrots, celery, cucumbers, grapefruit, grapes, greens, lemons, lettuce, limes, melons, mushrooms, nectarines, onions, oranges, peppers, plums, potatoes, radishes, squash, turnips(1). Oxyfluorfen was not detected in green beans or sweet potatoes(2). Oxyfluorfen was not detected in peaches, spinach, or strawberries(1-2). Oxyfluorfen was not detected in pears or tomatoes(1-3). Oxyfluorfen was not detected on grapes 4 days after application(4). Oxyfluorfen concentrations of onions were <0.05 mg/kg 4-11 days after applications of 60-240 g/h in test conducted 1985-88(5).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 243,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 309,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 381,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 437,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 505,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 28,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Lavy TL et al; Arch Environ Contam Toxicol 24: 123-44 (1993)",
+                      "(2) USEPA; Reregistration Eligibility Decisions (REDs) Database on Oxyfluorfen (42874-0303). USEPA 738-R-02-014, October, 2002. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Jan 24, 2007."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Lavy TL et al; Arch Environ Contam Toxicol 24: 123-44 (1993)"
+                      },
+                      {
+                        "Citation": "(2) USEPA; Reregistration Eligibility Decisions (REDs) Database on Oxyfluorfen (42874-0303). USEPA 738-R-02-014, October, 2002. Available from the Database Query page at https://www.epa.gov/pesticides/reregistration/status.htm as of Jan 24, 2007."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to oxyfluorfen may occur through inhalation and dermal contact with this compound at workplaces where oxyfluorfen is produced or used(SRC). Oxyfluorfen was detected on greenhouse herbicide applicators, weeders and scouts(1). There is application concern due to spray-drift of oxyfluorfen(2). The general population may be exposed to oxyfluorfen via dermal contact with spray drift in immediate areas following application(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 124,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 162,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 298,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            },
+                            {
+                              "Start": 355,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/oxyfluorfen",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39327"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Oxyfluorfen$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Oxyfluorfen$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Oxyfluorfen$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 14,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Oxyfluorfen$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135000601",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0042874033",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19482115
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "ab2c427e82260a8b79b49ff9a9dca5db",
+        "Name": "Oxyfluorfen",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49737718
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EPA Integrated Risk Information System (IRIS)",
+        "SourceID": "iris_84",
+        "Name": "Oxyfluorfen",
+        "Description": "IRIS assessments provide the toxicity values for health effects resulting from chronic exposure to chemicals.",
+        "URL": "https://iris.epa.gov/ChemicalLanding/&substance_nmbr=84",
+        "LicenseURL": "https://www.epa.gov/web-policies-and-procedures/epa-disclaimers#copyright",
+        "ANID": 38895423
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID39327",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125458
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rsl01_548",
+        "Name": "Oxyfluorfen",
+        "Description": "The Regional Screening Levels are the source of environmental screening levels for Superfund sites in all the EPA regions. The RSL tables provide comparison values for residential and commercial/industrial exposures to soil, air, and tapwater (drinking water). The RSLs are risk-based screening levels, calculated using the latest toxicity values, default exposure assumptions and physical and chemical properties. Values in this table are based on Hazard Quotient Level 0.1. https://www.epa.gov/risk/regional-screening-levels-rsls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2436154
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "EPA Regional Screening Levels for Chemical Contaminants at Superfund Sites",
+        "SourceID": "rml3_547",
+        "Name": "Oxyfluorfen",
+        "Description": "The Regional Removal Management Levels (RMLs) presented here are chemical-specific concentrations for individual contaminants in tap water, air, and soil. Values in this table are based on Hazard Quotient Level 3. https://www.epa.gov/risk/regional-removal-management-levels-chemicals-rmls",
+        "URL": "https://epa-prgs.ornl.gov/cgi-bin/chemicals/csl_search?tool=rml",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 8258951
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "e8fecc6f022968fb5f28d930e1bd2f50",
+        "Name": "Oxyfluorfen",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667454
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID7024241",
+        "Name": "Oxyfluorfen",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 57027293
+      },
+      {
+        "ReferenceNumber": 27,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz6490",
+        "Name": "Oxyfluorofen",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17279954
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7507",
+        "Name": "OXYFLUOROFEN",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7507",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 5067
+      },
+      {
+        "ReferenceNumber": 55,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Oxyfluorfen",
+        "Name": "Oxyfluorfen",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45401612
+      },
+      {
+        "ReferenceNumber": 63,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D3896",
+        "Name": "Oxyfluorfen",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D3896",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443329
+      },
+      {
+        "ReferenceNumber": 65,
+        "SourceName": "USGS Health-Based Screening Levels for Evaluating Water-Quality Data",
+        "SourceID": "b0d6b44a4b95c023f5ca4e72d0ad9c01",
+        "Name": "Oxyfluorfen",
+        "Description": "The USGS Health-Based Screening Levels for Evaluating Water-Quality Data contains Health-Based Screening Levels (HBSLs) that are non-enforceable water-quality benchmarks that can be used to (1) supplement U.S. Environmental Protection Agency (USEPA) Maximum Contaminant Levels (MCLs) and Human Health Benchmarks for Pesticides (HHBPs), (2) determine whether contaminants found in surface-water or groundwater sources of drinking water may indicate a potential human-health concern, and (3) help prioritize monitoring efforts. HBSLs were developed by the U.S. Geological Survey (USGS).",
+        "URL": "https://water.usgs.gov/water-resources/hbsl/index.html",
+        "LicenseURL": "https://www.usgs.gov/legal",
+        "ANID": 39668253
+      }
+    ]
+  }
+}

@@ -1,0 +1,773 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 30185,
+    "RecordTitle": "Solanine",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Toxicity Summary",
+                "Description": "Summary of the toxicity of this compound, provided by the Hazardous Substances Data Bank (HSDB) and other sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "pmid:6338654"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "pmid:6338654",
+                        "Matched": {
+                          "PCLID": 906421213,
+                          "Citation": "pmid:6338654"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Solanine is a glycoalkaloid that accumulates under certain conditions in potato plant, sprouts and tuber in levels which, if ingested, may cause poisoning in humans and farm animals. Ingested solanine is less toxic than the parenterally administered compound, probably because of its poor absorption, rapid excretion and hydrolysis to less toxic solanine in stomach. Solanine poisoning may cause a gastrointestinal, nervous and exanthematous syndrome severe enough to be fatal.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            },
+                            {
+                              "Start": 192,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            },
+                            {
+                              "Start": 346,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            },
+                            {
+                              "Start": 367,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "doi:10.2903/j.efsa.2020.6222"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "doi:10.2903/j.efsa.2020.6222",
+                        "Matched": {
+                          "PCLID": 9531694,
+                          "Citation": "EFSA Panel on Contaminants in the Food Chain (CONTAM), Schrenk D, Bignami M, Bodin L, Chipman JK, Del Mazo J, Hogstrand C, Hoogenboom LR, Leblanc JC, Nebbia CS, Nielsen E, Ntzani E, Petersen A, Sand S, Schwerdtle T, Vleminckx C, Wallace H, Brimer L, Cottrill B, Dusemund B, Mulder P, Vollmer G, Binaglia M, Ramos Bordajandi L, Riolo F, Roldán-Torres R, Grasl-Kraupp B. Risk assessment of glycoalkaloids in feed and food, in particular in potatoes and potato-derived products. EFSA J. 2020 Aug;18(8):e06222. PMID: 32788943; PMCID: PMC7417869.",
+                          "PMID": 32788943,
+                          "PMCID": "PMC10464718",
+                          "DOI": "10.2903/j.efsa.2020.5991"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The European Commission asked EFSA for a scientific opinion on the risks for animal and human health related to the presence of glycoalkaloids (GAs) in feed and food. Their risk assessment covers edible parts of potato plants and other food plants containing GAs, in particular, tomato and aubergine. The acute toxic effects of potato GAs (α-solanine and α-chaconine) in humans include gastrointestinal symptoms such as nausea, vomiting and diarrhoea. In humans, no evidence of health problems associated with repeated or long-term intake of GAs via potatoes has been identified. For tomato and aubergine GAs, the risk to human health could not be characterised due to the lack of occurrence data and the limited toxicity data. For horses, farm and companion animals, no risk characterisation for potato GAs could be performed due to insufficient data on occurrence in feed and on potential adverse effects of GAs in these species."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 18,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Solanum glycoalkaloids can inhibit cholinesterase, disrupt cell membranes, and be teratogenic (cause birth defects). One study suggests that the toxic mechanism of solanine is caused by the chemical's interaction with mitochondrial membranes. Experiments show that solanine exposure opens the potassium channels of mitochondria, decreasing their membrane potential. This in turn leads to Ca2+ being transported from the mitochondria into the cytoplasm, and it is this increased concentration of Ca2+ in the cytoplasm that triggers cell damage and apoptosis. (Wikipedia)",
+                          "Markup": [
+                            {
+                              "Start": 164,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            },
+                            {
+                              "Start": 265,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            },
+                            {
+                              "Start": 293,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Potassium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Potassium"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 18,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Neurotoxin - Other CNS neurotoxin"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=134995801"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "KIRK D, MITTWOCH U; CHANGES IN THE MITOTIC CYCLE INDUCED BY ALPHA-SOLANINE; HUMANGENETIK 26(2) 105 (1975)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "KIRK D, MITTWOCH U; CHANGES IN THE MITOTIC CYCLE INDUCED BY ALPHA-SOLANINE; HUMANGENETIK 26(2) 105 (1975)",
+                        "Matched": {
+                          "PCLID": 900143826,
+                          "Citation": "KIRK D, MITTWOCH U; CHANGES IN THE MITOTIC CYCLE INDUCED BY ALPHA-SOLANINE; HUMANGENETIK 26(2) 105 (1975)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LOW CONCN OF ALPHA-SOLANINE STIMULATED THE GROWTH OF CULTURED HUMAN FIBROBLASTS, WHILE HIGHER CONCN (GREATER THAN 30 MUG/ML) HAD A MARKEDLY INHIBITORY EFFECT. AUTORADIOGRAPHIC STUDIES INDICATED THAT THE STIMULATION OF CELL GROWTH WAS DUE TO A SHORTENING OF THE G1 PHASE. FEULGEN MICRODENSITOMETRY OF CELLS TREATED WITH HIGH DOSES OF ALPHA-SOLANINE REVEALED AN ABNORMAL ACCUM OF CELLS IN G2. BY VIRTUE OF EITHER ITS STIMULATORY OR ITS INHIBITORY EFFECT ON CELL GROWTH, ALPHA-SOLANINE COULD ACT AS A HUMAN TERATOGEN.",
+                          "Markup": [
+                            {
+                              "Start": 13,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ALPHA-SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9549171"
+                            },
+                            {
+                              "Start": 333,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ALPHA-SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9549171"
+                            },
+                            {
+                              "Start": 468,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ALPHA-SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9549171"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gosselin, R.E., H.C. Hodge, R.P. Smith, and M.N. Gleason. Clinical Toxicology of Commercial Products. 4th ed. Baltimore: Williams and Wilkins, 1976., p. II-163"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gosselin, R.E., H.C. Hodge, R.P. Smith, and M.N. Gleason. Clinical Toxicology of Commercial Products. 4th ed. Baltimore: Williams and Wilkins, 1976., p. II-163",
+                        "Matched": {
+                          "PCLID": 906286163,
+                          "Citation": "Gosselin, R.E., H.C. Hodge, R.P. Smith, and M.N. Gleason. Clinical Toxicology of Commercial Products. 4th ed. Baltimore: Williams and Wilkins, 1976., p. II-163"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "FATAL POISONING HAS BEEN DESCRIBED FROM THE INGESTION OF SPROUTING POTATOES, BUT THE USUAL CONCN IN POTATOES (LESS THAN 0.01%) HAS NO TOXIC SIGNIFICANCE."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "pmid:504549"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "pmid:504549",
+                        "Matched": {
+                          "PCLID": 906421201,
+                          "Citation": "pmid:504549"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Seventy-eight schoolboys became ill after eating potato at lunch, and seventeen required admission to hospital. The gastrointestinal, circulatory, neurological and dermatological findings and the results of laboratory investigations were consistent with solanine poisoning. Junior boys and all the monitors were affected; however, no senior boys or staff were affected. This pattern was compatible with the consumption of a relatively small number of toxic potatoes believed to have come from a single bag. The amount of solanine in potato waste recovered after the meal was excessive as assessed by its anticholinesterase activity. The amount of alpha-solanine and alpha-chaconine in the flesh and peel of potatoes from another bag known to have been left from the previous school term was high. The narrow margin between the solanidine content for normal and toxic potatoes might esult from an excessive synthesis by the latter of additional related steroids that might enhance the toxicity of solanidine.",
+                          "Markup": [
+                            {
+                              "Start": 254,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            },
+                            {
+                              "Start": 521,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            },
+                            {
+                              "Start": 647,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alpha-solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9549171"
+                            },
+                            {
+                              "Start": 666,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alpha-chaconine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-442971"
+                            },
+                            {
+                              "Start": 827,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/solanidine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-65727"
+                            },
+                            {
+                              "Start": 996,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/solanidine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-65727"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "doi:10.4103/jfmpc.jfmpc_1159_21"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "doi:10.4103/jfmpc.jfmpc_1159_21",
+                        "Matched": {
+                          "PCLID": 34965447,
+                          "Citation": "Al Masaoud FS, Alharbi A, Behir MM, Siddiqui AF, Al-Murayeh LM, Al Dail A, Siddiqui R. A challenging case of suspected solanine toxicity in an eleven-year-old Saudi boy. J Family Med Prim Care. 2022 Jul;11(7):4039–41. PMID: 36387661; PMCID: PMC9648270.",
+                          "PMID": 36387661,
+                          "PMCID": "PMC9648270",
+                          "DOI": "10.4103/jfmpc.jfmpc_1159_21"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Acute solanine poisoning can happen from ingesting green or sprouted potatoes. The toxicity of Gas (glycoalkaloids) in humans causes mainly gastrointestinal disturbances such as vomiting, diarrhea, and abdominal pain. However, at higher doses, the toxicity of Gas in humans produces more severe symptoms, including fever, rapid pulse, low blood pressure, rapid respiration, and neurological disorders. Although potatoes are widely consumed, toxicity from consuming them is relatively rare. In a suspected case of poisoning by raw potato ingestion in an 11-year-old Saudi boy who recovered completely, the cardiovascular complications were managed conservatively in a pediatric ICU, and the diagnosis was made based on history and clinical presentation.",
+                          "Markup": [
+                            {
+                              "Start": 6,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253",
+                        "Matched": {
+                          "PCLID": 900049786,
+                          "Citation": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SOLANINE/...EXERTS A DIRECT IRRITANT EFFECT ON THE MUCOUS MEMBRANES OF THE ALIMENTARY TRACT AND, ON ABSORPTION INTO THE BLOOD STREAM, BRINGS ABOUT HEMOLYSIS OF THE RED CELLS. IT ALSO PRODUCES CENTRAL NERVOUS SYSTEM STIMULATION FOLLOWED BY DEPRESSION, DEPRESSION OF THE RESP AND MOTOR CENTERS AND, IN LARGE DOSES, CARDIAC ARREST.",
+                          "Markup": [
+                            {
+                              "Start": 1,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253",
+                        "Matched": {
+                          "PCLID": 900049786,
+                          "Citation": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "...TYPES OF POISONING FROM INGESTION OF POTATOES: 1) A NERVOUS FORM IN WHICH SIGNS OF STUPOR AND DEPRESSION PREDOMINATE; THIS IS USUALLY SEEN TOGETHER WITH 2) THE GASTRIC TYPE, CHARACTERIZED BY SALIVATION, VOMITING, DIARRHEA AND OTHER SIGNS OF GI IRRITATION; AND 3) AN EXANTHEMATOUS FORM, ASSOC WITH ULCERATIVE STOMATITIS, CONJUNCTIVITIS, DIARRHEA AND A VESICULAR AND SCURFY ECZEMA OF THE LEGS."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253",
+                        "Matched": {
+                          "PCLID": 900049786,
+                          "Citation": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "IN HORSES, CATTLE, PIGS AND POULTRY, THE NERVOUS TYPE /OF POISONING FROM INGESTION OF POTATOES/ APPEARS TO PREDOMINATE; DULLNESS, PROSTRATION AND TOTAL INDIFFERENCE TO THE ENVIRONMENT BEING THE MOST COMMON SIGNS."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Shepard, T. H. Catalog of Teratogenic Agents. 3rd ed. Baltimore, MD.: Johns Hopkins University Press, 1980., p. 301"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Shepard, T. H. Catalog of Teratogenic Agents. 3rd ed. Baltimore, MD.: Johns Hopkins University Press, 1980., p. 301",
+                        "Matched": {
+                          "PCLID": 900042865,
+                          "Citation": "Shepard, T. H. Catalog of Teratogenic Agents. 3rd ed. Baltimore, MD.: Johns Hopkins University Press, 1980., p. 301"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SOLANINE...HAS BEEN TESTED FOR TERATOGENICITY IN CHICK EMBRYOS... TEN TO 25 MG WAS ADMIN ON THE 4TH DAY OF INCUBATION TO THE CHICK AND NO INCR IN CONGENITAL MALFORMATIONS WAS FOUND. ...RATS /WERE FED/ A DIET CONTAINING 10 PERCENT POTATO SPROUTS FROM THE TIME PREGNANCY WAS INDICATED BY INCR WT GAIN. NO DEFECTS WERE DETECTED BUT THE PUPS DIED BEFORE WEANING. ...FOUND NO CONGENITAL DEFECTS IN RATS AFTER THEY ADMIN UP TO 25 MG PER KG ON DAYS 8 THROUGH 11 /OF PREGNANCY/.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for SOLANINE (6 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 94,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3539#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Natural Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the natural sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "The Merck Index. 9th ed. Rahway, New Jersey: Merck & Co., Inc., 1976., p. 1123"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "The Merck Index. 9th ed. Rahway, New Jersey: Merck & Co., Inc., 1976., p. 1123",
+                        "Matched": {
+                          "PCLID": 900133561,
+                          "Citation": "The Merck Index. 9th ed. Rahway, New Jersey: Merck & Co., Inc., 1976., p. 1123"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "FROM SOLANUM SPECIES, ESP FROM S TUBEROSUM L (POTATO), S NIGRUM L (WOODY NIGHTSHADE), AND LYCOPERSICON ESCULENTUM MILL, SOLANACEAE (TOMATO). FRESH POTATO SPROUTS CONTAIN ABOUT 0.04%."
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 11,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253",
+                        "Matched": {
+                          "PCLID": 900049786,
+                          "Citation": "Clarke, M. L., D. G. Harvey and D. J. Humphreys. Veterinary Toxicology. 2nd ed. London: Bailliere Tindall, 1981., p. 253"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "THE TUBER OF THE POTATO IS THE COMMONEST SOURCE OF POISONING FROM SOLANINE IN FARM ANIMALS IN BRITAIN, AND PIGS ARE THE ANIMALS USUALLY AFFECTED, BUT THE FEEDING OF GREEN POTATO HAULMS HAS CAUSED GREAT LOSSES IN EUROPE. POTATOES WHEN EXPOSED TO LIGHT BECOME GREEN: DURING THE PROCESS LARGE QUANTITIES OF SOLANINE ARE FORMED AND RENDER THE GREEN PARTS EXTREMELY POISONOUS. UNRIPE AND OLD, ROTTEN OR SPROUTING TUBERS WHICH HAVE BEEN KEPT FOR A LONG TIME ARE ALSO DANGEROUS. THE ALKALOID IS PRESENT IN THE GREATEST CONCN IN THE \"EYES\", SKIN AND THE YOUNG GREEN SPROUTS.",
+                          "Markup": [
+                            {
+                              "Start": 66,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            },
+                            {
+                              "Start": 304,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-30185"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "doi:10.1007/s00128-009-9698-4"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "doi:10.1007/s00128-009-9698-4",
+                        "Matched": {
+                          "PCLID": 18710598,
+                          "Citation": "Jensen PH, Jacobsen OS, Henriksen T, Strobel BW, Hansen HCB. Degradation of the Potato Glycoalkaloids – α-Solanine and α-Chaconine in Groundwater. Bulletin of Environmental Contamination and Toxicology. 2009 Mar 17;82(6):668–72. doi: 10.1007/s00128-009-9698-4.",
+                          "PMID": 19290452,
+                          "DOI": "10.1007/s00128-009-9698-4"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Alpha-chaconine and alpha-solanine are potato glycoalkaloids are produced in high amounts in potato plants from where release to soil takes place. Degradation of the compounds in groundwater was primarily microbial and the glycoalkaloids were degraded within 21-42 days.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Alpha-chaconine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-442971"
+                            },
+                            {
+                              "Start": 20,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/alpha-solanine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9549171"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Plant Concentrations",
+                "Description": "Concentrations of this compound in plants.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 11,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "BUSHWAY RJ ET AL; ALPHA-CHACONINE AND ALPHA-SOLANINE CONTENT OF POTATO PEELS AND POTATO PEEL PRODUCTS; J FOOD SCI 48(1) 84 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "BUSHWAY RJ ET AL; ALPHA-CHACONINE AND ALPHA-SOLANINE CONTENT OF POTATO PEELS AND POTATO PEEL PRODUCTS; J FOOD SCI 48(1) 84 (1983)",
+                        "Matched": {
+                          "PCLID": 900022702,
+                          "Citation": "BUSHWAY RJ ET AL; ALPHA-CHACONINE AND ALPHA-SOLANINE CONTENT OF POTATO PEELS AND POTATO PEEL PRODUCTS; J FOOD SCI 48(1) 84 (1983)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SAMPLES OF RAW AND COOKED POTATO PEELS FROM COMMERCIAL POTATO VARIETIES WERE ANALYZED FOR THEIR ALPHA-SOLANINE CONTENT BY HIGH-PERFORMANCE LIQUID CHROMATOGRAPHY (HPLC). RAW PEELS CONTAINED 0.5-50.16 MG/100 G PEEL (WET WT) OF ALPHA-SOLANINE. RAW FLESH FROM THE SAME POTATOES CONTAINED 0.01-2.18 MG/100 G FLESH (WET WT) OF ALPHA-SOLANINE. FRIED PEELS CONTAINED MORE ALPHA-SOLANINE (1.09-72.09 MG/100 G).",
+                          "Markup": [
+                            {
+                              "Start": 96,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ALPHA-SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9549171"
+                            },
+                            {
+                              "Start": 225,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ALPHA-SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9549171"
+                            },
+                            {
+                              "Start": 321,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ALPHA-SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9549171"
+                            },
+                            {
+                              "Start": 364,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ALPHA-SOLANINE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9549171"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Substance Characterization",
+                "Description": "The substance chemical and structure information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Reference": [
+                      "pmid:32788943"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "pmid:32788943",
+                        "Matched": {
+                          "PCLID": 906423261,
+                          "Citation": "pmid:32788943"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "OpenFoodTox Output ID 3680"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_134995801",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0020562021",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19479303
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz7185",
+        "Name": "Solanine",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17280339
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "3539",
+        "Name": "SOLANINE",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/3539",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 2663
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "Pertti (Bert) Hakkinen's Toxicology and Other Annotations",
+        "SourceID": "0dd73b66f0a386c83813925fd6073c6b",
+        "Name": "Solanine",
+        "Description": "Pertti (Bert) Hakkinen's Toxicology and Other Annotations provide expert-curated annotations from the published literature.",
+        "ANID": 49550083
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D4042",
+        "Name": "alpha-Solanine",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D4042",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443442
+      }
+    ]
+  }
+}

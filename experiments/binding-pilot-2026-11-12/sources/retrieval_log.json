@@ -1,0 +1,122 @@
+[
+  {
+    "file": "1KMH_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/1KMH",
+    "status": 200,
+    "bytes": 15980,
+    "sha256": "3437008c65c9522490b50aa367eff272fb6ebf58684bdb3330cd42c2cfc063a9",
+    "retrieved_at": "2026-11-12T07:19:14.409294+00:00"
+  },
+  {
+    "file": "1KMH_polymer_1.json",
+    "url": "https://data.rcsb.org/rest/v1/core/polymer_entity/1KMH/1",
+    "status": 200,
+    "bytes": 29513,
+    "sha256": "23835e1fbca03bcc36ac4584475dbf3da39bd468820e667f73e31f1b0d8bacb4",
+    "retrieved_at": "2026-11-12T07:19:14.898960+00:00"
+  },
+  {
+    "file": "1KMH_polymer_2.json",
+    "url": "https://data.rcsb.org/rest/v1/core/polymer_entity/1KMH/2",
+    "status": 200,
+    "bytes": 29322,
+    "sha256": "b2b2dc63650271e4c80d6a6257cda0d6ce7b3deb4fa4fc045ac0a02b8a0a237f",
+    "retrieved_at": "2026-11-12T07:19:15.393245+00:00"
+  },
+  {
+    "file": "1KMH_nonpolymer_3.json",
+    "url": "https://data.rcsb.org/rest/v1/core/nonpolymer_entity/1KMH/3",
+    "status": 200,
+    "bytes": 395,
+    "sha256": "928796b17258eed3107d726e1bab4063dd86ac9e5d6ac3c1f68864fb13fb2ea3",
+    "retrieved_at": "2026-11-12T07:19:15.895379+00:00"
+  },
+  {
+    "file": "8CI0_entry.json",
+    "url": "https://data.rcsb.org/rest/v1/core/entry/8CI0",
+    "status": 200,
+    "bytes": 15953,
+    "sha256": "852c068ac5f1f4eb04b0898feb7298acd8d2745bea9064ea0c82d650f72fb880",
+    "retrieved_at": "2026-11-12T07:19:16.390595+00:00"
+  },
+  {
+    "file": "8CI0_polymer_1.json",
+    "url": "https://data.rcsb.org/rest/v1/core/polymer_entity/8CI0/1",
+    "status": 200,
+    "bytes": 33099,
+    "sha256": "73a71ef1784e85812ab9cd1d45e8f080adaaaae1782e15aa1722b6dbc32e7ad7",
+    "retrieved_at": "2026-11-12T07:19:16.880036+00:00"
+  },
+  {
+    "file": "8CI0_nonpolymer_2.json",
+    "url": "https://data.rcsb.org/rest/v1/core/nonpolymer_entity/8CI0/2",
+    "status": 200,
+    "bytes": 424,
+    "sha256": "35492d26dd354ea72d264c41e2e5f866e5807f36d9b03cafbf10151b616c9435",
+    "retrieved_at": "2026-11-12T07:19:17.372214+00:00"
+  },
+  {
+    "file": "8CI0_nonpolymer_3.json",
+    "url": "https://data.rcsb.org/rest/v1/core/nonpolymer_entity/8CI0/3",
+    "status": 200,
+    "bytes": 1009,
+    "sha256": "a6924abafbe15ebcc781fa8e6154940a494daeb044ab13850acc994f8c6aa8ef",
+    "retrieved_at": "2026-11-12T07:19:17.858084+00:00"
+  },
+  {
+    "file": "8CI0_nonpolymer_4.json",
+    "url": "https://data.rcsb.org/rest/v1/core/nonpolymer_entity/8CI0/4",
+    "status": 200,
+    "bytes": 1201,
+    "sha256": "7dbcf8f1a5da0bf802dd6c9d82765eaf7dbe5f9aa18db013786c571d6b6141d5",
+    "retrieved_at": "2026-11-12T07:19:18.347938+00:00"
+  },
+  {
+    "file": "8CI0_nonpolymer_5.json",
+    "url": "https://data.rcsb.org/rest/v1/core/nonpolymer_entity/8CI0/5",
+    "status": 200,
+    "bytes": 603,
+    "sha256": "0015f7e3642ee595e371bc333a676a50eee8377bc2019cd83708130b7d34dc3e",
+    "retrieved_at": "2026-11-12T07:19:18.822274+00:00"
+  },
+  {
+    "file": "TTX_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/TTX",
+    "status": 200,
+    "bytes": 4399,
+    "sha256": "97f04f0e10d865a3bafd70c1d089b7c6b42910f9727575ff22c78b9fcf4959bd",
+    "retrieved_at": "2026-11-12T07:19:19.319623+00:00"
+  },
+  {
+    "file": "8EL_chemcomp.json",
+    "url": "https://data.rcsb.org/rest/v1/core/chemcomp/8EL",
+    "status": 200,
+    "bytes": 3394,
+    "sha256": "888d82616e82c3399eb961727976cb8e42a09efa6218bb55b6af7575529489ff",
+    "retrieved_at": "2026-11-12T07:19:19.809978+00:00"
+  },
+  {
+    "file": "tentoxin_pubchem.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/tentoxin/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "bytes": 279,
+    "sha256": "6d01c20c0003be25a23fafbce5fb19a9d8cabc44f9e74b52ddfb9835d63d6290",
+    "retrieved_at": "2026-11-12T07:19:20.503406+00:00"
+  },
+  {
+    "file": "cornexistin_pubchem.json",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/cornexistin/property/IsomericSMILES,InChIKey,MolecularFormula/JSON",
+    "status": 200,
+    "bytes": 266,
+    "sha256": "cb4e150b5199b37b9b7b27b58ddc18d3ee5e55b0b4867eb6838bfd8385a97455",
+    "retrieved_at": "2026-11-12T07:19:21.095264+00:00"
+  },
+  {
+    "file": "tentoxin_primary.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC122546/",
+    "status": 200,
+    "bytes": 147800,
+    "sha256": "d94320ddff1913c59054225476118a36c74744e8dc2c743db1b7b5c0387fe75b",
+    "retrieved_at": "2026-11-12T07:19:21.748415+00:00"
+  }
+]

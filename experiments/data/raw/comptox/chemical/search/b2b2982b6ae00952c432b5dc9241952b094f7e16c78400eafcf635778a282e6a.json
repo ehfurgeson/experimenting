@@ -1,0 +1,25 @@
+{
+  "search_term": "Beflubutamid",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:18.234342+00:00",
+  "url": "/chemical/search/equal/Beflubutamid",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID7057941",
+        "dtxcid": "DTXCID1031709",
+        "casrn": "113614-08-7",
+        "preferredName": "2-[4-Fluoro-3-(trifluoromethyl)phenoxy]-N-(phenylmethyl)butanamide",
+        "hasStructureImage": 1,
+        "smiles": "CCC(OC1=CC(=C(F)C=C1)C(F)(F)F)C(=O)NCC1=CC=CC=C1",
+        "isMarkush": false,
+        "searchName": "Expert Validated Synonym",
+        "searchValue": "Beflubutamid",
+        "rank": 10
+      }
+    ],
+    "suggestions": []
+  }
+}

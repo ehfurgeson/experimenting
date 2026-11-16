@@ -1,0 +1,25 @@
+{
+  "search_term": "QCDYQQDYXPDABM-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:06.488185+00:00",
+  "url": "/chemical/search/equal/QCDYQQDYXPDABM-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID9048354",
+        "dtxcid": "DTXCID0028329",
+        "casrn": "108-73-6",
+        "preferredName": "1,3,5-Trihydroxybenzene",
+        "hasStructureImage": 1,
+        "smiles": "OC1=CC(O)=CC(O)=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "QCDYQQDYXPDABM-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

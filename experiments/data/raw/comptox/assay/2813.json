@@ -1,0 +1,102 @@
+{
+  "aeid": 2813,
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:29:08.571238+00:00",
+  "url": "/bioactivity/assay/search/by-aeid/2813",
+  "status": 200,
+  "response": {
+    "aeid": 2813,
+    "assayList": [
+      {
+        "name": "Immunosuppression",
+        "description": "Assays associated with markers of immunosuppression, see 10.14573/altex.2203041"
+      }
+    ],
+    "assayName": "BSK_BT",
+    "assayComponentName": "BSK_BT_sIgG",
+    "assayComponentEndpointName": "BSK_BT_sIgG",
+    "assayComponentEndpointDesc": "Data from the assay component BSK_BT_sIgG was analyzed at the endpoint, BSK_BT_sIgG, in the positive analysis fitting direction relative to DMSO as the negative control and baseline of activity. Using a type of cytokine quantitation reporter, gain or loss-of-signal activity can be used to understand protein changes. To generalize the intended target to other relatable targets, this assay endpoint is annotated to the 'immunoglobulin' intended target family, where the subfamily is 'IgG'.",
+    "assayFunctionType": "signaling",
+    "normalizedDataType": "log10_fold_induction",
+    "burstAssay": 0,
+    "keyPositiveControl": "colchicine",
+    "signalDirection": "bidirectional",
+    "intendedTargetType": "protein",
+    "intendedTargetTypeSub": "protein-specified",
+    "intendedTargetFamily": "immunoglobulin",
+    "intendedTargetFamilySub": "IgG",
+    "cellViabilityAssay": 0,
+    "acid": 1070,
+    "assayComponentDesc": "BSK_BT_sIgG is an assay component measured in the BSK_BT assay. It measures secreted IgG related to regulation of gene expression using ELISA technology.",
+    "assayComponentTargetDesc": "Secreted IgG (sIgG) is produced by B cells and is the main type of antibody found in blood and extracellular fluid that mediates the immune response against pathogens. sIgG is categorized as an immunomodulatory-related activity in the BT system modeling T cell dependent B cell activation.",
+    "parameterReadoutType": "single",
+    "assayDesignType": "binding reporter",
+    "assayDesignTypeSub": "immunoassay: elisa",
+    "biologicalProcessTarget": "regulation of gene expression",
+    "detectionTechnologyType": "fluorescence",
+    "detectionTechnologyTypeSub": "fluorescence intensity",
+    "detectionTechnology": "ELISA",
+    "keyAssayReagentType": "antibody",
+    "keyAssayReagent": "secreted IgG",
+    "technologicalTargetType": "protein",
+    "technologicalTargetTypeSub": "protein-specified",
+    "aid": 433,
+    "assayDesc": "BSK_BT is a cell-based, multiplexed-readout assay that uses BÂ cellÂ andÂ peripheralÂ bloodÂ mononuclearÂ cells, a human vascular primaryÂ cellÂ co-culture, with measurements taken at 24 hours after chemical dosing in a microplate:Â 96-well plate.",
+    "timepointHr": 24.0,
+    "organismId": 9606,
+    "organism": "human",
+    "tissue": "vascular",
+    "cellFormat": "primary cell co-culture",
+    "cellFreeComponentSource": "NA",
+    "cellShortName": "B and peripheral blood mononuclear cells",
+    "cellGrowthMode": "suspension",
+    "assayFootprint": "microplate: 96-well plate",
+    "assayFormatType": "cell-based",
+    "assayFormatTypeSub": "cell-based format",
+    "contentReadoutType": "multiplexed",
+    "dilutionSolvent": "DMSO",
+    "dilutionSolventPercentMax": 0.2,
+    "asid": 4,
+    "assaySourceName": "BSK",
+    "assaySourceLongName": "Bioseek",
+    "assaySourceDesc": "Bioseek is a division of DiscoveRx Corporation and developed the BioMAP system providing uniquely informative biological activity profiles in complex human primary cell systems.",
+    "gene": [
+      {
+        "geneId": null,
+        "geneName": "immunoglobulin heavy constant gamma 1 (G1m marker)",
+        "description": null,
+        "geneSymbol": null,
+        "organismId": null,
+        "trackStatus": null,
+        "entrezGeneId": 3500,
+        "officialSymbol": "IGHG1",
+        "officialFullName": "immunoglobulin heavy constant gamma 1 (G1m marker)",
+        "uniprotAccessionNumber": null
+      }
+    ],
+    "citations": [
+      {
+        "doi": "10.3389/fdata.2019.00047",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33693370/",
+        "pmid": 33693370,
+        "title": "Human Cell-Based in vitro Phenotypic Profiling for Drug Safety-Related Attrition",
+        "author": "Berg EL",
+        "citation": "Berg EL. Human Cell-Based in vitro Phenotypic Profiling for Drug Safety-Related Attrition. Front Big Data. 2019 Dec 11;2:47. doi: 10.3389/fdata.2019.00047. PMID: 33693370; PMCID: PMC7931891.",
+        "otherId": "NA",
+        "citationId": 287,
+        "otherSource": "NA"
+      },
+      {
+        "doi": "NA",
+        "url": "http://www.ncbi.nlm.nih.gov/pubmed/15357924",
+        "pmid": 15357924,
+        "title": "Rapid structure-activity and selectivity analysis of kinase inhibitors by BioMAP analysis in complex human primary cell-based models",
+        "author": "Kunkel EJ, Plavec I, Nguyen D, Melrose J, Rosler ES, Kao LT, Wang Y, Hytopoulos E, Bishop AC, Bateman R, Shokat KM, Butcher EC, Berg EL",
+        "citation": "Kunkel EJ, Plavec I, Nguyen D, Melrose J, Rosler ES, Kao LT, Wang Y, Hytopoulos E, Bishop AC, Bateman R, Shokat KM, Butcher EC, Berg EL. Rapid structure-activity and selectivity analysis of kinase inhibitors by BioMAP analysis in complex human primary cell-based models. Assay Drug Dev Technol. 2004 Aug;2(4):431-41. PubMed PMID: 15357924.",
+        "otherId": "NA",
+        "citationId": 229,
+        "otherSource": "NA"
+      }
+    ]
+  }
+}

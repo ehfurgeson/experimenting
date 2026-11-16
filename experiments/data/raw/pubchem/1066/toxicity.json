@@ -1,0 +1,2276 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 1066,
+    "RecordTitle": "Quinolinic Acid",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Interactions",
+                "Description": "Interactions of this compound with other chemicals, according to the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:15380627",
+                      "Perez-Severiano F et al; Neurochem Int 45 (8): 1175-83 (2004)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:15380627",
+                        "Matched": {
+                          "PCLID": 11897502,
+                          "Citation": "Pérez-Severiano F, Rodríguez-Pérez M, Pedraza-Chaverrí J, Maldonado PD, Medina-Campos ON, Ortíz-Plata A, Sánchez-García A, Villeda-Hernández J, Galván-Arzate S, Aguilera P, Santamaría A. S-Allylcysteine, a garlic-derived antioxidant, ameliorates quinolinic acid-induced neurotoxicity and oxidative damage in rats. Neurochem Int. 2004 Dec;45(8):1175–83. doi: 10.1016/j.neuint.2004.06.008. PMID: 15380627.",
+                          "PMID": 15380627,
+                          "DOI": "10.1016/j.neuint.2004.06.008"
+                        }
+                      },
+                      {
+                        "Citation": "Perez-Severiano F et al; Neurochem Int 45 (8): 1175-83 (2004)",
+                        "Matched": {
+                          "PCLID": 900015044,
+                          "Citation": "Perez-Severiano F et al; Neurochem Int 45 (8): 1175-83 (2004)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "...This work ... investigated the effect of a garlic-derived compound and well-characterized free radical scavenger, S-allylcysteine, on quinolinic acid-induced striatal neurotoxicity and oxidative damage. For this purpose, rats were administered S-allylcysteine (150, 300 or 450 mg/kg, i.p.) 30 min before a single striatal infusion of 1 uL of quinolinic acid (240 nmol). The lower dose (150 mg/kg) of S-allylcysteine resulted effective to prevent only the quinolinate-induced lipid peroxidation (P < 0.05), whereas the systemic administration of 300 mg/kg of this compound to rats decreased effectively the quinolinic acid-induced oxidative injury measured as striatal reactive oxygen species formation (P < 0.01) and lipid peroxidation (P < 0.05). S-Allylcysteine (300 mg/kg) also prevented the striatal decrease of copper/zinc-superoxide dismutase activity (P < 0.05) produced by quinolinate. In addition, S-allylcysteine, at the same dose tested, was able to reduce the quinolinic acid-induced neurotoxicity evaluated as circling behavior (P < 0.01) and striatal morphologic alterations. In summary, S-allylcysteine ameliorates the in vivo quinolinate striatal toxicity by a mechanism related to its ability to: (a) scavenge free radicals; (b) decrease oxidative stress; and (c) preserve the striatal activity of Cu,Zn-superoxide dismutase (Cu,Zn-SOD). This antioxidant effect seems to be responsible for the preservation of the morphological and functional integrity of the striatum.",
+                          "Markup": [
+                            {
+                              "Start": 117,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/S-allylcysteine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9793905"
+                            },
+                            {
+                              "Start": 137,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 247,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/S-allylcysteine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9793905"
+                            },
+                            {
+                              "Start": 345,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 403,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/S-allylcysteine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-9793905"
+                            },
+                            {
+                              "Start": 458,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:16150107",
+                      "Vega-Naredo I et al; J Pineal Res 39 (3): 266-75 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:16150107",
+                        "Matched": {
+                          "PCLID": 30157095,
+                          "Citation": "Vega‐Naredo I, Poeggeler B, Sierra‐Sánchez V, Caballero B, Tomás‐Zapico C, Álvarez‐García O, Tolivia D, Rodríguez‐Colunga MJ, Coto‐Montes A. Melatonin neutralizes neurotoxicity induced by quinolinic acid in brain tissue culture. Journal of Pineal Research. 2005 Jun 02;39(3):266–75. doi: 10.1111/j.1600-079x.2005.00243.x.",
+                          "PMID": 16150107,
+                          "DOI": "10.1111/j.1600-079x.2005.00243.x"
+                        }
+                      },
+                      {
+                        "Citation": "Vega-Naredo I et al; J Pineal Res 39 (3): 266-75 (2005)",
+                        "Matched": {
+                          "PCLID": 30157095,
+                          "Citation": "Vega‐Naredo I, Poeggeler B, Sierra‐Sánchez V, Caballero B, Tomás‐Zapico C, Álvarez‐García O, Tolivia D, Rodríguez‐Colunga MJ, Coto‐Montes A. Melatonin neutralizes neurotoxicity induced by quinolinic acid in brain tissue culture. Journal of Pineal Research. 2005 Jun 02;39(3):266–75. doi: 10.1111/j.1600-079x.2005.00243.x.",
+                          "PMID": 16150107,
+                          "DOI": "10.1111/j.1600-079x.2005.00243.x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... Oxidative damage to biomolecules was followed by measuring lipid peroxidation and protein carbonyl formation in rat brain tissue culture over a period of 24 hr of exposure to /quinolinic acid/ at a concentration of 0.5 millimeters. Quinolinic acid enhanced lipid peroxidation in an early stage of tissue culture, and protein carbonyl at a later stage. ... Melatonin, an antioxidant and neuroprotective agent with multiple actions as a radical scavenger and signaling molecule, completely prevented these prooxidant actions of quinolinic acid at a concentration of 1 millimeters. Morphological lesions and neurotoxicity induced by quinolinic acid were evaluated by light microscopy. Quinolinic acid produced extensive apoptosis/necrosis which was significantly attenuated by melatonin. Cotreatment with melatonin exerted a profound protective effect antagonizing the neurotoxicity induced by quinolinic acid. Glutathione reductase and catalase activities were increased by quinolinic acid and these effects were antagonized by melatonin. Furthermore, melatonin induced superoxide dismutase activity. Quinolinic acid and melatonin acted independently and by different mechanisms in modulating antioxidant enzyme activities.",
+                          "Markup": [
+                            {
+                              "Start": 180,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 236,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 360,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Melatonin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-896"
+                            },
+                            {
+                              "Start": 530,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 634,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 686,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 778,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/melatonin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-896"
+                            },
+                            {
+                              "Start": 806,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/melatonin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-896"
+                            },
+                            {
+                              "Start": 895,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 912,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Glutathione",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-124886"
+                            },
+                            {
+                              "Start": 976,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1030,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/melatonin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-896"
+                            },
+                            {
+                              "Start": 1054,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/melatonin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-896"
+                            },
+                            {
+                              "Start": 1103,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1123,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/melatonin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-896"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:9704893",
+                      "Southgate GS et al; J Chem Neuroanat 14 (3-4): 151-6 (1998)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9704893",
+                        "Matched": {
+                          "PCLID": 25347103,
+                          "Citation": "Southgate GS, Daya S, Potgieter B. Melatonin plays a protective role in quinolinic acid-induced neurotoxicity in the rat hippocampus. Journal of Chemical Neuroanatomy. 1998 Jun;14(3-4):151–6. doi: 10.1016/s0891-0618(98)00026-x.",
+                          "PMID": 9704893,
+                          "DOI": "10.1016/s0891-0618(98)00026-x"
+                        }
+                      },
+                      {
+                        "Citation": "Southgate GS et al; J Chem Neuroanat 14 (3-4): 151-6 (1998)",
+                        "Matched": {
+                          "PCLID": 25347103,
+                          "Citation": "Southgate GS, Daya S, Potgieter B. Melatonin plays a protective role in quinolinic acid-induced neurotoxicity in the rat hippocampus. Journal of Chemical Neuroanatomy. 1998 Jun;14(3-4):151–6. doi: 10.1016/s0891-0618(98)00026-x.",
+                          "PMID": 9704893,
+                          "DOI": "10.1016/s0891-0618(98)00026-x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The neuroprotective effect of melatonin against the quinolinic acid-induced degeneration of rat hippocampal neurons was investigated. Three groups of rats were given intrahippocampal injections of either; saline, quinolinic acid or ip injections of melatonin prior to and after being injected with quinolinic acid. On the fifth day after the intrahippocampal injections the brains were removed and the hippocampi either sectioned and stained for microscopic examination or used in glutamate receptor binding studies. The results show that melatonin protects hippocampal neurons from quinolinic acid-induced neurodegeneration and partially prevents the decrease in glutamate receptor numbers caused by quinolinic acid. Thus, melatonin has the potential to reduce hippocampal neuronal damage induced by neurotoxins such as quinolinic acid.  PMID:9704893",
+                          "Markup": [
+                            {
+                              "Start": 30,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/melatonin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-896"
+                            },
+                            {
+                              "Start": 52,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 213,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 249,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/melatonin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-896"
+                            },
+                            {
+                              "Start": 298,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 481,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-14598502"
+                            },
+                            {
+                              "Start": 539,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/melatonin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-896"
+                            },
+                            {
+                              "Start": 583,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 664,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/glutamate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-14598502"
+                            },
+                            {
+                              "Start": 701,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 724,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/melatonin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-896"
+                            },
+                            {
+                              "Start": 821,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:15663890",
+                      "Cao Y et al; Acta Pharmacol Sin 26 (2): 150-4 (2005)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:15663890",
+                        "Matched": {
+                          "PCLID": 3705137,
+                          "Citation": "Cao Y, Gu ZL, Lin F, Han R, Qin ZH. Caspase-1 inhibitor Ac-YVAD-CHO attenuates quinolinic acid-induced increases in p53 and apoptosis in rat striatum. Acta Pharmacol Sin. 2005 Feb;26(2):150–4. doi: 10.1111/j.1745-7254.2005.00525.x. PMID: 15663890.",
+                          "PMID": 15663890,
+                          "DOI": "10.1111/j.1745-7254.2005.00525.x"
+                        }
+                      },
+                      {
+                        "Citation": "Cao Y et al; Acta Pharmacol Sin 26 (2): 150-4 (2005)",
+                        "Matched": {
+                          "PCLID": 3705137,
+                          "Citation": "Cao Y, Gu ZL, Lin F, Han R, Qin ZH. Caspase-1 inhibitor Ac-YVAD-CHO attenuates quinolinic acid-induced increases in p53 and apoptosis in rat striatum. Acta Pharmacol Sin. 2005 Feb;26(2):150–4. doi: 10.1111/j.1745-7254.2005.00525.x. PMID: 15663890.",
+                          "PMID": 15663890,
+                          "DOI": "10.1111/j.1745-7254.2005.00525.x"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "To study the effects of the caspase-1 inhibitor Ac-YVAD-CHO on quinolinic acid (QA)-induced apoptosis ... rats were pre-treated with intrastriatal infusion of Ac-YVAD-CHO (2-8 ug) before intrastriatal injection of QA (60 nmol). Striatal total proteins, genomic DNA, and nuclear proteins were isolated. The effects of Ac-YVAD-CHO on QA-induced caspase-1 activity, internucleosomal DNA fragmentation, IkappaB-alpha degradation, NF-kappaB, and AP-1 activation, and increases in p53 protein levels were measured with enzyme assays, agarose gel electrophoresis, electrophoresis mobility shift assays, and Western blot analysis. ... Pretreatment with Ac-YVAD-CHO inhibited QA-induced internucleosomal DNA fragmentation. Ac-YVAD-CHO inhibited QA-induced increases in caspase-1 activity and p53 protein levels, but had no effect on QA-induced IkappaB-alpha degradation, NF-kappaB or AP-1 activation. /The authors concluded that/ caspase-1 is involved in QA-induced p53 upregulation but not IkappaB-alpha degradation. Inhibition of caspase-1 attenuates QA-induced apoptosis in rat striatum.",
+                          "Markup": [
+                            {
+                              "Start": 48,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ac-YVAD-CHO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5311139"
+                            },
+                            {
+                              "Start": 63,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 159,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ac-YVAD-CHO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5311139"
+                            },
+                            {
+                              "Start": 317,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ac-YVAD-CHO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5311139"
+                            },
+                            {
+                              "Start": 645,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ac-YVAD-CHO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5311139"
+                            },
+                            {
+                              "Start": 714,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Ac-YVAD-CHO",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5311139"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Interactions (Complete) data for QUINOLINIC ACID (31 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 87,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7511#section=Interactions-(Complete)"
+                            },
+                            {
+                              "Start": 42,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/QUINOLINIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:8724297",
+                      "Vogelgesang SA et al; J Rheumatol 23 (5): 850-5 (1996)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:8724297",
+                        "Matched": {
+                          "PCLID": 30704689,
+                          "Citation": "Vogelgesang SA, Heyes MP, West SG, Salazar AM, Sfikakis PP, Lipnick RN, Klipple GL, Tsokos GC. Quinolinic acid in patients with systemic lupus erythematosus and neuropsychiatric manifestations. J Rheumatol. 1996 May;23(5):850–5. PMID: 8724297.",
+                          "PMID": 8724297
+                        }
+                      },
+                      {
+                        "Citation": "Vogelgesang SA et al; J Rheumatol 23 (5): 850-5 (1996)",
+                        "Matched": {
+                          "PCLID": 900109972,
+                          "Citation": "Vogelgesang SA et al; J Rheumatol 23 (5): 850-5 (1996)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SURVEILLANCE/ ... To evaluate the relationship between quinolinic acid, a neuroactive metabolite of L-tryptophan, and neuropsychiatric manifestations of systemic lupus erythematosus. ... 40 specimens of cerebrospinal fluid were obtained from 39 patients with systemic lupus erythematosus who were evaluated for 40 episodes of neuropsychiatric dysfunction. The diagnosis of the neuropsychiatric dysfunction was determined clinically. Cerebrospinal fluid and serum specimens were analyzed for levels of quinolinic acid without knowledge of the clinical diagnosis. ... Neuropsychiatric dysfunction attributed to systemic lupus erythematosus was confirmed in 30 patient-episodes (Group 1), whereas in the other 10 (Group 2) other etiologies were felt to explain their CNS dysfunction. The median levels of cerebrospinal fluid quinolinic acid for Group 1 (232.5 nmol/L) were significantly higher than those for Group 2 (median 38.2 nmol/L) (p < 0.014). Cerebrospinal fluid and serum quinolinic acid levels correlated significantly (p < 0.003) but there was no correlation between cerebrospinal fluid quinolinic acid and cerebrospinal fluid protein concentrations or white blood cell counts.",
+                          "Markup": [
+                            {
+                              "Start": 56,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 101,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-tryptophan",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6305"
+                            },
+                            {
+                              "Start": 502,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 823,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Reference": [
+                      "PMID:8583213"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:8583213",
+                        "Matched": {
+                          "PCLID": 25979430,
+                          "Citation": "Heyes MP, Saito K, Milstien S, Schiff SJ. Quinolinic acid in tumors, hemorrhage and bacterial infections of the central nervous system in children. Journal of the Neurological Sciences. 1995 Nov;133(1-2):112–8. doi: 10.1016/0022-510x(95)00164-w.",
+                          "PMID": 8583213,
+                          "DOI": "10.1016/0022-510x(95)00164-w"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/SURVEILLANCE/  ... Quinolinic acid is a neurotoxic metabolite of the kynurenine pathway that accumulates within the central nervous system following immune activation. The present study determined whether the levels of quinolinic acid are increased in the cerebrospinal fluid of children with infections of the CNS, hydrocephalus, tumors or hemorrhage. Extremely high quinolinic acid concentrations were found in patients with bacterial infections or the CNS, despite treatment with antimicrobial agents. CSF quinolinic acid levels were also elevated to a lesser degree in patients with hydrocephalus or tumors. CSF L-kynurenine levels increased in parallel to the accumulations in quinolinic acid, which is consistent with increased activity of the first enzyme of the kynurenine pathway, indoleamine-2,3-dioxygenase. The CSF levels of neopterin, a marker of immune and macrophage activation, were also increase in patients with infections. The cytokines tumor necrosis factor-alpha and interleukin-6 were also detected in some patients' samples, and were highest in patients with infection. These results suggest that quinolinic acid is a sensitive marker of the presence of immune activation within the CNS. Further studies of quinolinic acid as a potential contributor to neurologic dysfunction and neurodegeneration in children with CNS inflammation are warranted.[Heyes MP et al; J Neurol Sci 133 (1-2): (1995)]",
+                          "Markup": [
+                            {
+                              "Start": 20,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 70,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 220,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 369,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 510,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 617,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 683,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 771,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 791,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/indoleamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-122074"
+                            },
+                            {
+                              "Start": 838,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/neopterin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-135398721"
+                            },
+                            {
+                              "Start": 1121,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1231,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Reference": [
+                      "PMID:9291104",
+                      "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1218677"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9291104",
+                        "Matched": {
+                          "PCLID": 23986556,
+                          "Citation": "Heyes MP, Chen CY, Major EO, Saito K. Different kynurenine pathway enzymes limit quinolinic acid formation by various human cell types. Biochem J. 1997 Sep 01;326 ( Pt 2)():351–6. PMID: 9291104; PMCID: PMC1218677.",
+                          "PMID": 9291104,
+                          "PMCID": "PMC1218677",
+                          "DOI": "10.1042/bj3260351"
+                        }
+                      },
+                      {
+                        "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1218677",
+                        "Matched": {
+                          "PCLID": 906288626,
+                          "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1218677"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/ Substantial increases in the tryptophan-kynurenine pathway metabolites, l-kynurenine and the neurotoxin quinolinic acid, occur in human brain, blood and systemic tissues during immune activation. Studies in vitro have shown that not all human cells are capable of synthesizing quinolinate. To investigate further the mechanisms that limit l-kynurenine and quinolinate production, the activities of kynurenine pathway enzymes and the ability of different human cells to convert pathway intermediates into quinolinate were compared. Stimulation with interferon gamma substantially increased indoleamine 2,3-dioxygenase activity and L-kynurenine production in primary peripheral blood macrophages and fetal brains (astrocytes and neurons), as well as cell lines derived from macrophage/monocytes (THP-1), U373MG astrocytoma, SKHEP1 liver and lung (MRC-9). High activities of kynurenine 3-hydroxylase, kynureninase or 3-hydroxyanthranilate 3,4-dioxygenase were found in interferon-gamma-stimulated macrophages, THP-1 cells and SKHEP1 cells, and these cells made large amounts of quinolinate when supplied with L-tryptophan, L-kynurenine, 3-hydroxykynurenine or 3-hydroxyanthranilate. Quinolinate production by human fetal brain cultures and U373MG cells was restricted by the low activities of kynurenine 3-hydroxylase, kynureninase and 3-hydroxyanthranilate 3,4-dioxygenase, and only small amounts of quinolinate were synthesized when cultures were supplied with L-tryptophan or 3-hydroxyanthranilate. In MRC-9 cells, quinolinate was produced only from 3-hydroxykynurenine and 3-hydroxyanthranilate, consistent with their low kynurenine 3-hydroxylase activity. The results are consistent with the notion that indoleamine 2,3-dioxygenase is an important regulatory enzyme in the production of L-kynurenine and quinolinate. Kynurenine 3-hydroxylase and, in some cells, kynureninase and 3-hydroxyanthranilate 3,4-dioxygenase are important determinants of whether a cell can make quinolinate.[Heyes MP et al; Biochem J 326 (Pt 2): 351-6 (1997)]",
+                          "Markup": [
+                            {
+                              "Start": 62,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tryptophan",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6305"
+                            },
+                            {
+                              "Start": 73,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 105,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/l-kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 137,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 310,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 372,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/l-kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 389,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 431,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 537,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 622,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/indoleamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-122074"
+                            },
+                            {
+                              "Start": 663,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 905,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 947,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-hydroxyanthranilate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-86"
+                            },
+                            {
+                              "Start": 1108,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1139,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-tryptophan",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6305"
+                            },
+                            {
+                              "Start": 1153,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 1167,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-hydroxykynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-89"
+                            },
+                            {
+                              "Start": 1190,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-hydroxyanthranilate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-86"
+                            },
+                            {
+                              "Start": 1213,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1323,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 1366,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-hydroxyanthranilate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-86"
+                            },
+                            {
+                              "Start": 1431,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1493,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-tryptophan",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6305"
+                            },
+                            {
+                              "Start": 1509,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-hydroxyanthranilate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-86"
+                            },
+                            {
+                              "Start": 1548,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1583,
+                              "Length": 19,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-hydroxykynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-89"
+                            },
+                            {
+                              "Start": 1607,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-hydroxyanthranilate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-86"
+                            },
+                            {
+                              "Start": 1656,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 1739,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/indoleamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-122074"
+                            },
+                            {
+                              "Start": 1822,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 1839,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1852,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 1914,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/3-hydroxyanthranilate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-86"
+                            },
+                            {
+                              "Start": 2006,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Reference": [
+                      "PMID:9520164"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:9520164",
+                        "Matched": {
+                          "PCLID": 187628,
+                          "Citation": "Kerr SJ, Armati PJ, Guillemin GJ, Brew BJ. Chronic exposure of human neurons to quinolinic acid results in neuronal changes consistent with AIDS dementia complex. AIDS. 1998 Mar 05;12(4):355–63. doi: 10.1097/00002030-199804000-00003. PMID: 9520164.",
+                          "PMID": 9520164,
+                          "DOI": "10.1097/00002030-199804000-00003"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/ALTERNATIVE and IN VITRO TESTS/  ... Human fetal brain 14-16 weeks post-menses was cultured in medium with no detectable levels of quinolinic acid. After 4 weeks, 350 or 1200 nmol/L quinolinic acid was added to the feeding medium for a further 5 weeks. Neurotoxicity was evaluated using immunohistochemistry, transmission and scanning electron microscopy, and image analysis.... A total of 1200 nmol/L quinolinic acid caused altered cell associations, a decrease in cell density and decreased microtubule-associated protein (MAP)-2 immunoreactivity compared with cultures exposed to 350 nmol/L quinolinic acid or controls. Image analysis of neurons in randomly selected fields revealed significantly swollen cells (P < 0.0001) compared with those treated with 350 nmol/L quinolinic acid or controls. Dendritic varicosities and discontinuous microtubular arrays were present in neurons exposed to both quinolinic acid concentrations, but not in control cultures....  This study is the first to assess quinolinic acid levels in the experimental medium, and demonstrates that chronic exposure of human neurons to concentrations of quinolinic acid equivalent to those in the CSF of patients with AIDS dementia complex (ADC) leads to alterations in dendritic ultrastructure and MAP-2 immunoreactivity, which is consistent with ADC pathology.[Kerr SJ et al; Aids 12 (4): 355-63 (1998)]",
+                          "Markup": [
+                            {
+                              "Start": 132,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 183,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 403,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 595,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Human Toxicity Excerpts (Complete) data for QUINOLINIC ACID (10 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 98,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7511#section=Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 53,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/QUINOLINIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Reference": [
+                      "PMID:8432351"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:8432351",
+                        "Matched": {
+                          "PCLID": 836800,
+                          "Citation": "Ferrante RJ, Kowall NW, Cipolloni PB, Storey E, Beal MF. Excitotoxin lesions in primates as a model for Huntington's disease: histopathologic and neurochemical characterization. Exp Neurol. 1993 Jan;119(1):46–71. doi: 10.1006/exnr.1993.1006. PMID: 8432351.",
+                          "PMID": 8432351,
+                          "DOI": "10.1006/exnr.1993.1006"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Neurotoxicity/ Excitotoxin lesions induced by quinolinic acid were made unilaterally in the caudate nucleus and putamen of 12 rhesus monkeys. Both acute (2-3 weeks) and chronic (4-6 months) effects were evaluated. Excitotoxin striatal lesions were characterized by a central zone of intense astrogliosis and marked neuronal depletion, which was surrounded by a transition zone in which there was partial neuronal sparing throughout the entire lesioned side. Immunocytochemical and enzyme histochemical markers for both large and medium-sized aspiny- and spiny-striatal neurons clearly demonstrated a selective pattern of neuronal vulnerability to the excitotoxic effects of quinolinic acid within lesioned striata. Medium-sized spiny neurons containing calbindin Dk28, enkephalin, and substance P were disproportionately lost, while aspiny neuronal subpopulations containing NADPH diaphorase (NADPH-d) and choline acetyltransferase activity (ChAT) were relatively spared. Combined labeling by NADPH-d enzyme histochemistry and Nissl staining, as well as NADPH-d histochemistry and calbindin Dk28 immunocytochemistry, demonstrated significant increases in the ratio of aspiny to spiny neurons within the lesioned striata. Neurochemical measurements confirmed a loss of GABA and substance P-like immunoreactivity yet no significant depletion of somatostatin-like immunoreactivity, neuropeptide Y-like immunoreactivity, or ChAT were seen. The striatal patch-matrix pattern persisted, as demonstrated by acetylcholinesterase activity. The pattern was altered, however, in the chronic animals, such that the matrix zone was significantly reduced, while the total area of patches remained within normal limits. Ultrastructural analysis confirmed axon sparing lesions with neuronal loss and astrogliosis. Pretreatment of 3 monkeys with MK-801, a noncompetitive N-methyl-D-aspartate (NMDA) antagonist, blocked striatal quinolinic acid neurotoxicity. The present results provide an experimental primate model which closely resembles the neuropathologic and neurochemical features of Huntington's disease. These findings further strengthen the possibility that an NMDA receptor-mediated excitotoxic process plays a role in the pathogenesis of this disorder.[Ferrante RJ et al; Exp Neurol 119 (1): 46-71 (1993)]",
+                          "Markup": [
+                            {
+                              "Start": 67,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 695,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 806,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/substance%20P",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-36511"
+                            },
+                            {
+                              "Start": 896,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NADPH",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5884"
+                            },
+                            {
+                              "Start": 914,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NADPH-d",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-57369863"
+                            },
+                            {
+                              "Start": 927,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/choline",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-305"
+                            },
+                            {
+                              "Start": 1014,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NADPH-d",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-57369863"
+                            },
+                            {
+                              "Start": 1075,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NADPH-d",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-57369863"
+                            },
+                            {
+                              "Start": 1289,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/GABA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-119"
+                            },
+                            {
+                              "Start": 1298,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/substance%20P",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-36511"
+                            },
+                            {
+                              "Start": 1364,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/somatostatin",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16129706"
+                            },
+                            {
+                              "Start": 1400,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/neuropeptide-Y",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-16132350"
+                            },
+                            {
+                              "Start": 1850,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MK-801",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6420042"
+                            },
+                            {
+                              "Start": 1875,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/N-methyl-D-aspartate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-22880"
+                            },
+                            {
+                              "Start": 1897,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NMDA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-22880"
+                            },
+                            {
+                              "Start": 1932,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 2175,
+                              "Length": 4,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/NMDA",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-22880"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Reference": [
+                      "PMID:1838394"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:1838394",
+                        "Matched": {
+                          "PCLID": 3438089,
+                          "Citation": "Yamada K, Nabeshima T, Kameyama T. Impairment of active avoidance response in rats with continuous infusion of quinolinic acid into the lateral ventricle. J Pharmacobiodyn. 1991 Jun;14(6):351–5. doi: 10.1248/bpb1978.14.351. PMID: 1838394.",
+                          "PMID": 1838394,
+                          "DOI": "10.1248/bpb1978.14.351"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Neurotoxicity/ Continuous infusion of quinolinic acid  at low doses into the lateral ventricle has been previously shown to cause a reduction of the hippocampal and cortical ChAT activities in rats although GAD activities were unchanged. In the present study, we have studied behavioral changes in rats with continuous infusion of QA in an active avoidance task. Acquisition of active avoidance was significantly impaired in rats with QA infusion compared to control. These results suggest that continuous infusion of QA is a useful technique for the study of chronic neurodegenerative diseases associated with memory impairment.[Yamada K et al; J Pharmacobiodyn 14 (6): 351-5 (1991)]",
+                          "Markup": [
+                            {
+                              "Start": 59,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Reference": [
+                      "PMID:1535532"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:1535532",
+                        "Matched": {
+                          "PCLID": 12313480,
+                          "Citation": "Heyes MP, Jordan EK, Lee K, Saito K, Frank JA, Snoy PJ, Markey SP, Gravell M. Relationship of neurologic status in macaques infected with the simian immunodeficiency virus to cerebrospinal fluid quinolinic acid and kynurenic acid. Brain Res. 1992 Jan 20;570(1-2):237–50. doi: 10.1016/0006-8993(92)90587-y. PMID: 1535532.",
+                          "PMID": 1535532,
+                          "DOI": "10.1016/0006-8993(92)90587-y"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Neurotoxicity/ ... In the present studies, cerebrospinal fluid quinolinic acid concentrations increased within 2 weeks following infection of 11 rhesus macaques (Macaca mulatta) with a neurotropic sooty mangabey isolate of the simian immunodeficiency virus (SIVsm) and were sustained to greater than 2 standard deviations above uninfected control macaques. Highest cerebrospinal fluid quinolinic acid concentrations (up to 400-fold above pre-inoculation levels) were observed in 6 SIVsm-infected macaques with motor and behavioral abnormalities during life, brain atrophy on MRI scan and inflammatory lesions within the brain and meninges. Four of the 6 neurologic macaques deteriorated rapidly within 12 weeks after inoculation and had substantially larger increases in cerebrospinal fluid quinolinic acid levels than 2 other neurologic macaques and 5 macaques without neurologic signs which survived for longer than 37 weeks. Increases in serum quinolinic acid and cerebrospinal fluid kynurenic acid also occurred but generally to a lesser degree than the increases in cerebrospinal fluid quinolinic acid. In some animals, increases in serum L-kynurenine concentrations and reductions in cerebrospinal fluid and serum L-tryptophan occurred and were consistent with activation of indoleamine-2, 3-dioxygenase, the first enzyme of the kynurenine pathway in extrahepatic tissues. cerebrospinal fluid quinolinic acid exceeded serum quinolinic acid in 8.8% of samples from macaques with neurologic signs, supporting increased quinolinic acid synthesis within the central nervous system. Production of [13C6]quinolinic acid was demonstrated in one SIVsm-infected macaque and one uninfected control macaque following an intracisternal injection of [13C6]L-tryptophan and suggests that L-tryptophan is a substrate for quinolinic acid synthesis within the nervous system or meninges, although the cellular localization of quinolinic acid synthesis remain to be determined.[Jordan EK et al; Brain Res 570 (1-2): 237-50 (1992)]",
+                          "Markup": [
+                            {
+                              "Start": 84,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 406,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 812,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 968,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1008,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kynurenic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-3845"
+                            },
+                            {
+                              "Start": 1112,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1165,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 1241,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-tryptophan",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6305"
+                            },
+                            {
+                              "Start": 1302,
+                              "Length": 11,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/indoleamine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-122074"
+                            },
+                            {
+                              "Start": 1356,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/kynurenine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-161166"
+                            },
+                            {
+                              "Start": 1420,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1451,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1544,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1801,
+                              "Length": 12,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/L-tryptophan",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6305"
+                            },
+                            {
+                              "Start": 1833,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1936,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Reference": [
+                      "PMID:10411943",
+                      "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC17584"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:10411943",
+                        "Matched": {
+                          "PCLID": 9124012,
+                          "Citation": "Hansson O, Petersén Å, Leist M, Nicotera P, Castilho RF, Brundin P. Transgenic mice expressing a Huntington’s disease mutation are resistant to quinolinic acid-induced striatal excitotoxicity. Proc. Natl. Acad. Sci. U.S.A. 1999 Jul 20;96(15):8727–32. doi: 10.1073/pnas.96.15.8727.",
+                          "PMID": 10411943,
+                          "PMCID": "PMC17584",
+                          "DOI": "10.1073/pnas.96.15.8727"
+                        }
+                      },
+                      {
+                        "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC17584",
+                        "Matched": {
+                          "PCLID": 900001292,
+                          "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC17584"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "/LABORATORY ANIMALS: Neurotoxicity/ Huntington's disease is a hereditary neurodegenerative disorder presenting with chorea, dementia, and extensive striatal neuronal death. ... Transgenic Huntington's disease mice expressing exon 1 of a human Huntington's disease gene with an expanded number of CAG repeats (line R6/1) are strongly protected from acute striatal excitotoxic lesions. Intrastriatal infusions of the N-methyl-D-aspartate receptor agonist quinolinic acid caused massive striatal neuronal death in wild-type mice, but no damage in transgenic Huntington's disease littermates. The remarkable neuroprotection in transgenic Huntington's disease mice occurred at a stage when they had not developed any neurological symptoms caused by the mutant Huntington's disease gene. At this stage there was no change in the number of striatal neurons and astrocytes in untreated R6/1 mice, although the striatal volume was decreased by 17%. Moreover, transgenic Huntington's disease mice had normal striatal levels of N-methyl-D-aspartate receptors, calbindin D28k (calcium buffer), superoxide dismutase activity (antioxidant enzyme), Bcl-2 (anti-apoptotic protein), heat shock protein 70 (stress-induced anti-apoptotic protein), and citrate synthase activity (mitochondrial enzyme). /THe authors/ propose that the presence of exon 1 of the mutant Huntington's disease gene induces profound changes in striatal neurons that render these cells resistant to excessive N-methyl-D-aspartate receptor activation.[Hansson O et al; Proc Natl Acad Sci USA 96 (15): 8727-32 (1999)]",
+                          "Markup": [
+                            {
+                              "Start": 415,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/N-methyl-D-aspartate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-22880"
+                            },
+                            {
+                              "Start": 453,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1017,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/N-methyl-D-aspartate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-22880"
+                            },
+                            {
+                              "Start": 1065,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Calcium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Calcium"
+                            },
+                            {
+                              "Start": 1233,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/citrate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-31348"
+                            },
+                            {
+                              "Start": 1465,
+                              "Length": 20,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/N-methyl-D-aspartate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-22880"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Non-Human Toxicity Excerpts (Complete) data for QUINOLINIC ACID (17 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 102,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7511#section=Non-Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 57,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/QUINOLINIC%20ACID",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 130,
+                    "Name": "USDA APHIS Chemical Effects",
+                    "Reference": [
+                      "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf",
+                        "Matched": {
+                          "PCLID": 906318726,
+                          "Citation": "Schafer, E. W., Jr., and W. A. Bowles Jr. 1985. Acute  oral toxicity and repellency of 933 chemicals to house and deer mice.  Archives of Environmental Contamination and Toxicology 14:111-129. https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/S_schafer851.pdf"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "ExternalTableName": "collection=usda_chemeffect&query_type=synonym&query='^89-00-9$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quinolinic acid's production and use in the production of the herbicide imazapyr and as an intermediate in the production of nicotinic acid may result in its release to the environment through various waste streams. If released to air, an estimated vapor pressure of 6.1X10-6 mm Hg at 25 °C indicates quinolinic acid will exist in both the vapor and particulate phases in the atmosphere. Vapor-phase quinolinic acid will be degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals; the half-life for this reaction in air is estimated to be 15 days. Particulate-phase quinolinic acid will be removed from the atmosphere by wet or dry deposition. Quinolinic acid does contain chromophores that absorb at wavelengths >290 nm and therefore may be susceptible to direct photolysis by sunlight. If released to soil, quinolinic acid is expected to have very high mobility based upon an estimated Koc of 26. A pKa1 of 2.43 and pKa2 of 5.48 indicate that this compound will primarily exist as a zwitterion in the environment and ions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts. Quinolinic acid was 100% removed from soil after 8 days with 0.3% attributed to absorption and volatilization, respectively, suggesting that biodegradation is an important environmental fate process in soil. If released into water, quinolinic acid is not expected to adsorb to suspended solids and sediment based upon the estimated Koc. The pKa1 and pKa2 values of 2.43 and 5.48, respectively, indicate quinolinic acid will exist almost entirely in the ion form at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process. An estimated BCF of 3 suggests the potential for bioconcentration in aquatic organisms is low. Hydrolysis is not expected to be an important environmental fate process since this compound lacks functional groups that hydrolyze under environmental conditions. Occupational exposure to quinolinic acid may occur through inhalation and dermal contact with this compound at workplaces where quinolinic acid is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 72,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54738"
+                            },
+                            {
+                              "Start": 125,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nicotinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-938"
+                            },
+                            {
+                              "Start": 301,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 400,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 493,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 597,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 675,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 840,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1121,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 1170,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1395,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 1402,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1573,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 1689,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 2037,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 2140,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Collin G, Hoeke H; Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (2005). NY, NY: John Wiley & Sons; Quinoline and Isoquinoline. Online Posting Date: Jun 15, 2000."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Collin G, Hoeke H; Ullmann's Encyclopedia of Industrial Chemistry. 7th ed. (2005). NY, NY: John Wiley & Sons; Quinoline and Isoquinoline. Online Posting Date: Jun 15, 2000."
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Quinolinic acid's production and use in the production of the herbicide imazapyr and as an intermediate in the production of nicotinic acid(1) may result in its release to the environment through various waste streams(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 72,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/imazapyr",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-54738"
+                            },
+                            {
+                              "Start": 125,
+                              "Length": 14,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/nicotinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-938"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 357 (2003)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990)",
+                      "(4) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser: Suppl 1972. Buttersworth, London. (1972)",
+                      "(5) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Jan 29, 2007.",
+                      "(6) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)",
+                      "(7) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)",
+                      "(8) Sims GK, Sommers LE; Environ Toxicol Chem 5: 503-9 (1986)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 357 (2003)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser: Suppl 1972. Buttersworth, London. (1972)"
+                      },
+                      {
+                        "Citation": "(5) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Jan 29, 2007."
+                      },
+                      {
+                        "Citation": "(6) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(7) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      },
+                      {
+                        "Citation": "(8) Sims GK, Sommers LE; Environ Toxicol Chem 5: 503-9 (1986)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Based on a classification scheme(1), an estimated Koc value of 26(SRC), determined from a water solubility of 1.1X10+4 mg/L(2) and a regression-derived equation(3), indicates that quinolinic acid is expected to have very high mobility in soil(SRC). A pKa1 of 2.43(4) and pKa2 of 5.48(5) indicate that this compound will primarily exist as a zwitterion in the environment and ions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(6). Quinolinic acid is not expected to volatilize from dry soil surfaces(SRC) based upon an estimated vapor pressure of 6.1X10-6 mm Hg(SRC), determined from a fragment constant method(7). Quinolinic acid was 100% removed from soil after 8 days with 0.3% attributed to absorption and volatilization, respectively(8), suggesting that biodegradation is an important environmental fate process in soil(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 108,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 198,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 464,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            },
+                            {
+                              "Start": 516,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 700,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 357 (2003)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5, 5-5 (1990)",
+                      "(4) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser: Suppl 1972. Buttersworth, London. (1972)",
+                      "(5) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Jan 29, 2007.",
+                      "(6) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds, Boca Raton, FL: Lewis Publ (2000)",
+                      "(7) Franke C et al; Chemosphere 29: 1501-14 (1994)",
+                      "(8) Sims GK, Sommers LE; Environ Toxicol Chem 5: 503-9 (1986)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 357 (2003)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5, 5-5 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser: Suppl 1972. Buttersworth, London. (1972)"
+                      },
+                      {
+                        "Citation": "(5) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Jan 29, 2007."
+                      },
+                      {
+                        "Citation": "(6) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds, Boca Raton, FL: Lewis Publ (2000)"
+                      },
+                      {
+                        "Citation": "(7) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      },
+                      {
+                        "Citation": "(8) Sims GK, Sommers LE; Environ Toxicol Chem 5: 503-9 (1986)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Based on a classification scheme(1), an estimated Koc value of 26(SRC), determined from a water solubility of 1.10X10+4 mg/L(2) and a regression-derived equation(3), indicates that quinolinic acid is not expected to adsorb to suspended solids and sediment(SRC). A pKa1 of 2.43(4) and pKa2 of 5.48(5) indicate quinolinic acid will exist as a zwitterion at pH values of 5 to 9 and therefore volatilization from water surfaces is not expected to be an important fate process(6). According to a classification scheme(7), an estimated BCF of 3(SRC), from its water solubility(2) and a regression-derived equation(3), suggests the potential for bioconcentration in aquatic organisms is low(SRC). Quinolinic acid was 100% removed from soil after 8 days(8), suggesting that biodegradation is an important environmental fate process in water(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 104,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 195,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 323,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 423,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 568,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 704,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 841,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)",
+                      "(2) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Bidleman TF; Environ Sci Technol 22: 361-367 (1988)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(4) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 8-12 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: According to a model of gas/particle partitioning of semivolatile organic compounds in the atmosphere(1), quinolinic acid, which has an estimated vapor pressure of 6.1X10-6 mm Hg at 25 °C(SRC), determined from a fragment constant method(2), will exist in both the vapor and particulate phases in the ambient atmosphere. Vapor-phase quinolinic acid is degraded in the atmosphere by reaction with photochemically-produced hydroxyl radicals(SRC); the half-life for this reaction in air is estimated to be 15 days(SRC), calculated from its rate constant of 1.1X10-12 cu cm/molecule-sec at 25 °C(SRC) that was derived using a structure estimation method(3). Quinolinic acid contains chromophores that absorb at wavelengths >290 nm and therefore may be susceptible to direct photolysis by sunlight(4).",
+                          "Markup": [
+                            {
+                              "Start": 124,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 350,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 438,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 671,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Naik MN et al; Soil Biol Biochem 4: 313-23 (1972)",
+                      "(2) Sims GK, Sommers LE; Environ Toxicol Chem 5: 503-9 (1986)",
+                      "(3) Sims GK, Sommers LE; J Environ Qual 14: 580-4 (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Naik MN et al; Soil Biol Biochem 4: 313-23 (1972)"
+                      },
+                      {
+                        "Citation": "(2) Sims GK, Sommers LE; Environ Toxicol Chem 5: 503-9 (1986)"
+                      },
+                      {
+                        "Citation": "(3) Sims GK, Sommers LE; J Environ Qual 14: 580-4 (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AEROBIC: Quinolinic acid, at a concn of 1 milli-Mole solution, underwent 100% biodegradation in 4 to 8 days when incubated in a 5 mL soil suspension consisting of 0.5% fertile garden soil, mineral salts, and maintained at pH 7(1). Quinolinic acid, starting concn of 54 ppm, was 100% degraded in 28 days using a soil inoculum at pH 7.0 and fortified with a basal salts medium(2). It was noted that 0.3% was sorbed by soil and less than 1% was lost due to volatilization(2). Using a Finecastle silt loam (Aeric Ochraqualfs) quinolinic acid, starting conc of 334 ppm, was 35.1, 96.2, 99.5 and 100% degraded after 1, 2, 4, and 8 days, respectively; samples were maintained at pH 6.7 and 25 °C with 11.3% loss from sterile control after 7 days due to volatilization noted(3).",
+                          "Markup": [
+                            {
+                              "Start": 9,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 231,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 522,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Naik MN et al; Soil Biol Biochem 4: 313-23 (1972)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Naik MN et al; Soil Biol Biochem 4: 313-23 (1972)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ANAEROBIC: Quinolinic acid, at a concn of a 1 milli-Mole solution, underwent 100% biodegradation in 16 to 32 days when incubated in a 5 mL soil suspension consisting of 0.5% fertile garden soil, mineral salts, and maintained at pH 7(1).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-99 (1993)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 7-4, 7-5, 8-12 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of quinolinic acid with photochemically-produced hydroxyl radicals has been estimated as 1.1X10-12 cu cm/molecule-sec at 25 °C(SRC) using a structure estimation method(1). This corresponds to an atmospheric half-life of about 15 days at an atmospheric concentration of 5X10+5 hydroxyl radicals per cu cm(1). Quinolinic acid is not expected to undergo hydrolysis in the environment due to the lack of functional groups that hydrolyze under environmental conditions(2). Quinolinic acid does contain chromophores that absorb at wavelengths >290 nm and therefore may be susceptible to direct photolysis by sunlight(2).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 96,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 323,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 355,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 515,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 357 (2003)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-5 (1990)",
+                      "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 357 (2003)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 5-5 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Franke C et al; Chemosphere 29: 1501-14 (1994)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "An estimated BCF of 3 was calculated in fish for quinolinic acid(SRC), using a water solubility of 1.1X10+4 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this BCF suggests the potential for bioconcentration in aquatic organisms is low(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 49,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 79,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 357 (2003)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990)",
+                      "(3) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(4) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser: Suppl 1972. Buttersworth, London. (1972)",
+                      "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Yalkowsky SH, He Y, eds; Handbook of aqueous solubility data. Boca Raton, FL: CRC Press p. 357 (2003)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington, DC: Amer Chem Soc pp. 4-5 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(4) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser: Suppl 1972. Buttersworth, London. (1972)"
+                      },
+                      {
+                        "Citation": "(5) Doucette WJ; pp. 141-188 in Handbook of Property Estimation Methods for Chemicals. Boethling RS, Mackay D, eds. Boca Raton, FL: Lewis Publ (2000)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Koc of quinolinic acid is estimated as 26(SRC), using a water solubility of 1.1X10+4 mg/L(1) and a regression-derived equation(2). According to a classification scheme(3), this estimated Koc value suggests that quinolinic acid is expected to have very high mobility in soil. A pKa1 of  2.43(4) and a pka2 of 5.48(5) indicates that this compound will primarily exist as a zwitterion in the environment and ions generally do not adsorb more strongly to soils containing organic carbon and clay than their neutral counterparts(6).",
+                          "Markup": [
+                            {
+                              "Start": 11,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 60,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 215,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 480,
+                              "Length": 6,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Carbon",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Carbon"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser: Suppl 1972. Buttersworth, London. (1972)",
+                      "(2) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Jan 29, 2007.",
+                      "(3) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Perrin DD; Dissociation constants of organic bases in aqueous solution. IUPAC Chem Data Ser: Suppl 1972. Buttersworth, London. (1972)"
+                      },
+                      {
+                        "Citation": "(2) SPARC; pKa/property server. Ver 3. Jan, 2006. Available at https://ibmlc2.chem.uga.edu/sparc/ as of Jan 29, 2007."
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ; p. 31 in Environmental Exposure From Chemicals Vol I, Neely WB, Blau GE, eds, Boca Raton, FL: CRC Press (1985)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A pKa1 of 2.43(1) and a pKa2 of 5.48(2) indicate quinolinic acid will exist as a zwitterion at pH values of 5 to 9 and therefore volatilization from soil or water surfaces is not expected to be an important fate process. Quinolinic acid is not expected to volatilize from dry soil surfaces(SRC) based upon an estimated vapor pressure of 6.1X10-6 mm Hg(SRC), determined from a fragment constant method(3).",
+                          "Markup": [
+                            {
+                              "Start": 49,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 157,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 221,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 29,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Occupational exposure to quinolinic acid may occur through inhalation and dermal contact with this compound at workplaces where quinolinic acid is produced or used. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 25,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            },
+                            {
+                              "Start": 128,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/quinolinic%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1066"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "7511",
+        "Name": "QUINOLINIC ACID",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/7511",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 5071
+      },
+      {
+        "ReferenceNumber": 130,
+        "SourceName": "USDA APHIS Chemical Effects Database",
+        "SourceID": "1861580467",
+        "Name": "Quinolinic acid",
+        "Description": "The USDA APHIS Chemical Effects Database contains bioassay records and data for chemicals analyzed and evaluated for repellency, toxicity, reproductive inhibition, and immobilization. For more information please vist  https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/ and https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxic_glossary.html",
+        "URL": "https://www.aphis.usda.gov/ws/nwrc/chem-effects-db/nwrcToxicology_Browse.html",
+        "LicenseURL": "https://www.aphis.usda.gov/freedom-information-act",
+        "ANID": 49292907
+      }
+    ]
+  }
+}

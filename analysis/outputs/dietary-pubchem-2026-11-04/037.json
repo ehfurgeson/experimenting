@@ -1,0 +1,16 @@
+{
+  "query": "Oleic acid",
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Oleic%20acid/property/IsomericSMILES,InChIKey/JSON",
+  "retrieved_at": "2026-11-04T21:08:15.123584+00:00",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 445639,
+          "SMILES": "CCCCCCCC/C=C\\CCCCCCCC(=O)O",
+          "InChIKey": "ZQPPMHVWECSIRJ-KTKRTIGZSA-N"
+        }
+      ]
+    }
+  }
+}

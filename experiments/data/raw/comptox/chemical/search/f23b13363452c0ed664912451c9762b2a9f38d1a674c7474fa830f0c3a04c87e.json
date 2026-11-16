@@ -1,0 +1,25 @@
+{
+  "search_term": "XDDAORKBJWWYJS-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:49.788957+00:00",
+  "url": "/chemical/search/equal/XDDAORKBJWWYJS-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Glyphosate",
+        "dtxsid": "DTXSID1024122",
+        "dtxcid": "DTXCID004122",
+        "casrn": "1071-83-6",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)CNCP(O)(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "XDDAORKBJWWYJS-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

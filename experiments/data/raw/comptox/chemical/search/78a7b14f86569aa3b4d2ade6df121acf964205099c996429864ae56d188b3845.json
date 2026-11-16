@@ -1,0 +1,25 @@
+{
+  "search_term": "DANYIYRPLHHOCZ-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:32.588700+00:00",
+  "url": "/chemical/search/equal/DANYIYRPLHHOCZ-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID00197383",
+        "dtxcid": "DTXCID10119874",
+        "casrn": "480-44-4",
+        "preferredName": "Acacetin",
+        "hasStructureImage": 1,
+        "smiles": "COC1=CC=C(C=C1)C1=CC(=O)C2=C(O)C=C(O)C=C2O1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "DANYIYRPLHHOCZ-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

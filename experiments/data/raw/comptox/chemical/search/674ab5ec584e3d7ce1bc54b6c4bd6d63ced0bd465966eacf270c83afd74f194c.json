@@ -1,0 +1,25 @@
+{
+  "search_term": "LNTHITQWFMADLM-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:51.390283+00:00",
+  "url": "/chemical/search/equal/LNTHITQWFMADLM-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Gallic acid",
+        "dtxsid": "DTXSID0020650",
+        "dtxcid": "DTXCID60650",
+        "casrn": "149-91-7",
+        "hasStructureImage": 1,
+        "smiles": "OC(=O)C1=CC(O)=C(O)C(O)=C1",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "LNTHITQWFMADLM-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

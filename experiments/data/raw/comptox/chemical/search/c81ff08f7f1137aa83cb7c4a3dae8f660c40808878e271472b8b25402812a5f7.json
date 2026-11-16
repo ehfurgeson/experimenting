@@ -1,0 +1,25 @@
+{
+  "search_term": "Isoxaflutole",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:34:23.747807+00:00",
+  "url": "/chemical/search/equal/Isoxaflutole",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID5034723",
+        "dtxcid": "DTXCID3014723",
+        "casrn": "141112-29-0",
+        "preferredName": "Isoxaflutole",
+        "hasStructureImage": 1,
+        "smiles": "CS(=O)(=O)C1=C(C=CC(=C1)C(F)(F)F)C(=O)C1=C(ON=C1)C1CC1",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Isoxaflutole",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

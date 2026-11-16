@@ -1,0 +1,25 @@
+{
+  "search_term": "VTNQPKFIQCLBDU-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:57.628665+00:00",
+  "url": "/chemical/search/equal/VTNQPKFIQCLBDU-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8023848",
+        "dtxcid": "DTXCID303848",
+        "casrn": "34256-82-1",
+        "preferredName": "Acetochlor",
+        "hasStructureImage": 1,
+        "smiles": "CCOCN(C(=O)CCl)C1=C(CC)C=CC=C1C",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "VTNQPKFIQCLBDU-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

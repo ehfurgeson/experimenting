@@ -1,0 +1,25 @@
+{
+  "search_term": "L-Cysteine",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:45:20.732131+00:00",
+  "url": "/chemical/search/equal/L-Cysteine",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8022876",
+        "dtxcid": "DTXCID302876",
+        "casrn": "52-90-4",
+        "preferredName": "L-Cysteine",
+        "hasStructureImage": 1,
+        "smiles": "N[C@@H](CS)C(O)=O",
+        "isMarkush": false,
+        "searchValue": "L-Cysteine",
+        "rank": 9,
+        "searchName": "Approved Name"
+      }
+    ],
+    "suggestions": []
+  }
+}

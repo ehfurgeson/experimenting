@@ -1,0 +1,2237 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 39985,
+    "RecordTitle": "Diclofop-methyl",
+    "Section": [
+      {
+        "TOCHeading": "Toxicity",
+        "Description": "Toxicity information related to this compound, including routes of exposure, related symptoms, acute and chronic effects, and numerical measures of toxicity.",
+        "Section": [
+          {
+            "TOCHeading": "Toxicological Information",
+            "Description": "This section provides toxicological and health effects information for the chemical.  It includes the likely routes of exposure (inhalation, ingestion, skin and eye contact), and the delayed, immediate, or chronic effects/symptoms from short- and long-term exposure, and the numerical measures of toxicity [e.g., acute toxicity estimates such as the LD50 (median lethal dose, the estimated amount of a chemical expected to kill 50% of test animals in a single dose)].  This section also includes information on whether the chemical is considered as a potential carcinogen according to authoritative sources such as the National Toxicology Program (NTP) Report on Carcinogens and the International agency for Research on Cancer (IARC) Monographs.",
+            "Section": [
+              {
+                "TOCHeading": "Evidence for Carcinogenicity",
+                "Description": "Evidence that this chemical does or may cause cancer.  The information here is collected from various sources by the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "QC REVIEWED",
+                    "Reference": [
+                      "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)",
+                        "Matched": {
+                          "PCLID": 900094589,
+                          "Citation": "USEPA Office of Pesticide Programs, Health Effects Division, Science Information Management Branch: \"Chemicals Evaluated for Carcinogenic Potential\" (April 2006)"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Cancer Classification: Likely to be Carcinogenic to Humans"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Classification of carcinogenicity: 1) evidence in humans: limited; Overall summary evaluation of carcinogenic risk to humans is Group 2B: The agent is possibly carcinogenic to humans. /Chlorophenoxy herbicides; From table/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Carcinogen Classification",
+                "Description": "This section provides the International Agency for Research on Cancer (IARC) Carcinogenic Classification and related monograph links.  In the IARC Carcinogenic classification, chemicals are categorized into four groups: Group 1 (carcinogenic to humans), Group 2A (probably carcinogenic to humans), Group 2B (possibly carcinogenic to humans), and Group 3 (not classifiable as to its carcinogenicity to humans).",
+                "URL": "https://monographs.iarc.who.int/agents-classified-by-the-iarc/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  }
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 42,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "No indication of carcinogenicity to humans (not listed by IARC)."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Toxicity Link",
+                "Description": "This section provides the link to the aquatic acute toxicity test results, available at the Acute Toxicity Database at the U.S. Geological Survey (USGS) Columbia Environmental Research Center (CERC).",
+                "URL": "https://www.cerc.usgs.gov/data/acute/acute.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 45,
+                    "URL": "https://www.cerc.usgs.gov/data/acute/qryboth.asp?Chemical=DICLOFOP%20METHYL",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical: DICLOFOP METHYL"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Adverse Effects",
+                "Description": "An adverse effect is an undesired harmful effect resulting from a medical treatment or other intervention.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 21,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Skin Sensitizer - An agent that can induce an allergic reaction in the skin."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Acute Effects",
+                "Description": "The results from acute animal tests and/or acute human studies are presented in this section. Acute animal studies consist of LD50 and LC50 tests, which present the median lethal dose (or concentration) to the animals. Acute human studies usually consist of case reports from accidental poisonings or industrial accidents. These case reports often help to define the levels at which acute toxic effects are seen in humans.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "ExternalTableName": "collection=chemidplus&query_type=sid&query=135001555"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Toxicity Data and Values",
+                "Description": "This section provides numeric toxicity data and values for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                "Section": [
+                  {
+                    "TOCHeading": "Acceptable Daily Intakes",
+                    "Description": "An estimate of the amount of a chemical in food or drinking water that can be consumed daily over a lifetime without presenting an appreciable risk to health. It is usually expressed as milligrams of the substance per kilogram of body weight per day and applies to chemicals such as food additives, pesticide residues and veterinary drugs.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "USEPA/OPP; Health Effects Div RfD/ADI Tracking Report p.21 (8/26/91)"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "USEPA/OPP; Health Effects Div RfD/ADI Tracking Report p.21 (8/26/91)",
+                            "Matched": {
+                              "PCLID": 900149933,
+                              "Citation": "USEPA/OPP; Health Effects Div RfD/ADI Tracking Report p.21 (8/26/91)"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP RfD= 0.002 mg/kg."
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "RAIS Toxicity Values",
+                    "Description": "This section provides the Chemical toxicity information from the Risk Assessment Information System.",
+                    "URL": "https://rais.ornl.gov/",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 35,
+                        "Name": "Oral Acute Reference Dose (RfDoa)(mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 35,
+                        "Name": "Oral Acute Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 35,
+                        "Name": "Oral Chronic Reference Dose (RfDoc) (mg/kg-day)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0023"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 35,
+                        "Name": "Oral Chronic Reference Dose Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 35,
+                        "Name": "Oral Slope Factor (CSFo)(mg/kg-day)^-1",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0736"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 35,
+                        "Name": "Oral Slope Factor Reference",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "OPP"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "EPA Human Health Benchmarks for Pesticides",
+                    "Description": "This section provides the EPA human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+                    "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+                    "DisplayControls": {
+                      "CreateTable": {
+                        "FromInformationIn": "ThisSection",
+                        "NumberOfColumns": 2,
+                        "ColumnContents": [
+                          "Name",
+                          "Value"
+                        ]
+                      }
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chemical Substance",
+                        "URL": "https://www.regulations.gov/document/EPA-HQ-OPP-2014-0577-0003",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Diclofop-methyl"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Acute or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.1"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Acute or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "3000"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Acute HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Females 13-49 yrs"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic or One Day PAD (RfD) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0023"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic or One Day HHBPs [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "14"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Chronic HHBP Sensitive Lifestage/Population",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "General Population"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Cancer Quantification c (Q1) Values (CSF) [mg/kg/day]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.0736"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Carcinogenic HHBP (E-6 to E-4 ) [ppb]",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "0.402-40.2"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 16,
+                        "Name": "Reference (PDF)",
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "Human Health Benchmarks for Pesticides - 2021 Update",
+                              "Markup": [
+                                {
+                                  "Start": 0,
+                                  "Length": 52,
+                                  "URL": "https://www.epa.gov/system/files/documents/2021-07/hh-benchmarks-factsheet-2021.pdf"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^HHBP$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Toxicity Data",
+                    "Description": "Numeric toxicity data for this compound, collected from multiple sources (including the NCI Investigational Drugs and Haz-Map).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 21,
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LC50 (rat) = 8,300 mg/m3/4h"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Non-Human Toxicity Values",
+                    "Description": "Quantitative non-human toxicity values (e.g., lethal dose) for this compound.  The data shown here are mostly for lab animals (e.g., rat, mouse, guinea pig, and rabbit).",
+                    "DisplayControls": {
+                      "ShowAtMost": 3
+                    },
+                    "Information": [
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 272"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 272",
+                            "Matched": {
+                              "PCLID": 906273122,
+                              "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 272"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat percutaneous >5000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 200"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 200",
+                            "Matched": {
+                              "PCLID": 900151665,
+                              "Citation": "Spencer, E. Y. Guide to the Chemicals Used in Crop Protection. 7th ed. Publication 1093. Research Institute, Agriculture Canada, Ottawa, Canada: Information Canada, 1982., p. 200"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat female dermal >5000 mg/kg"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ReferenceNumber": 23,
+                        "Description": "PEER REVIEWED",
+                        "Reference": [
+                          "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-341"
+                        ],
+                        "ExtendedReference": [
+                          {
+                            "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-341",
+                            "Matched": {
+                              "PCLID": 900066747,
+                              "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-341"
+                            }
+                          }
+                        ],
+                        "Value": {
+                          "StringWithMarkup": [
+                            {
+                              "String": "LD50 Rat acute oral 580 mg/kg"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Concentration",
+                    "Description": "Lethal concentration is the estimated concentration of a chemical expected to cause death in a test subject. It is usually expressed as the median lethal concentration (LC50), which is the estimated concentration of a chemical expected to cause death in 50% of the test subjects. There are also other measures such as LC0 (no deaths) and LC100 (all deaths).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Lethal Dose",
+                    "Description": "Lethal dose values describe the amount of a chemical expected to cause death in test subjects under specified exposure conditions. These values are commonly expressed as dose-based toxicity endpoints such as the median lethal dose (LD50), which represents the estimated dose expected to cause death in 50% of the test subjects. Other endpoints include LD0 (no observed deaths) and LD100 (death in all test subjects).",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^LD$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Concentration",
+                    "Description": "Effect concentration values describe the concentration of a chemical associated with observed biological or toxicological effects in test subjects. These concentration-based endpoints include Lowest Observed Effect Concentration (LOEC), No Observed Effect Concentration (NOEC), Lowest Observed Adverse Effect Concentration (LOAEC), and No Observed Adverse Effect Concentration (NOAEC), which represent concentrations associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EC$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Effect Level",
+                    "Description": "Effect level values describe the dose or exposure level of a chemical associated with observed biological or toxicological effects in test subjects. These dose-based endpoints include Low Effect Level (LEL), No Effect Level (NEL), Lowest Observed Effect Level (LOEL), No Observed Effect Level (NOEL), Lowest Observed Adverse Effect Level (LOAEL), and No Observed Adverse Effect Level (NOAEL), which represent exposure levels associated with observed or unobserved effects or adverse effects under specified exposure conditions.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^EL$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Reference and Risk Values",
+                    "Description": "Reference and risk values are derived toxicity benchmarks used to evaluate potential human health risks associated with chemical exposure. These values are typically developed from experimental toxicity data together with uncertainty or safety factors. Examples include Reference Dose (RfD), Reference Concentration (RfC), Derived No-Effect Level (DNEL), and other health-based guidance or risk assessment values.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^RRV$"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "TOCHeading": "Other Toxicity Values",
+                    "Description": "Other toxicity values that are less commonly used in toxicological studies.",
+                    "Information": [
+                      {
+                        "ReferenceNumber": 17,
+                        "Value": {
+                          "ExternalTableName": "collection=toxvaldb&kind=^Other$"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Antidote and Emergency Treatment",
+                "Description": "Information on antidote and emergency treatment when exposed to this chemical.  The information here is from the Hazardous Substances Data Bank (HSDB).",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/source/11933",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Morgan DP; Recognition and Management of Pesticide Poisonings. 4th ed. p.66 EPA 540/9-88-001. Washington, DC: U.S. Government Printing Office, March 1989"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Morgan DP; Recognition and Management of Pesticide Poisonings. 4th ed. p.66 EPA 540/9-88-001. Washington, DC: U.S. Government Printing Office, March 1989",
+                        "Matched": {
+                          "PCLID": 900099535,
+                          "Citation": "Morgan DP; Recognition and Management of Pesticide Poisonings. 4th ed. p.66 EPA 540/9-88-001. Washington, DC: U.S. Government Printing Office, March 1989"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Bath and shampoo with soap and water to remove chemicals from skin and hair. Obtain medical treatment if irritation persists. Individuals with chronic skin disease or known sensitivity to these herbicides should either avoid using them or take strict precautions to avoid contact (respirator, gloves, etc). Flush contaminating chemicals from eyes with copious amounts of clean water for 10-15 minutes. If irritation persists, obtain medical treatment. /Chlorophenoxy cmpd/",
+                          "Markup": [
+                            {
+                              "Start": 31,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 377,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Morgan DP; Recognition and Management of Pesticide Poisonings. 4th ed. p.66 EPA 540/9-88-001. Washington, DC: U.S. Government Printing Office, March 1989"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Morgan DP; Recognition and Management of Pesticide Poisonings. 4th ed. p.66 EPA 540/9-88-001. Washington, DC: U.S. Government Printing Office, March 1989",
+                        "Matched": {
+                          "PCLID": 900099535,
+                          "Citation": "Morgan DP; Recognition and Management of Pesticide Poisonings. 4th ed. p.66 EPA 540/9-88-001. Washington, DC: U.S. Government Printing Office, March 1989"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "If any symptoms of illness occur during or following inhalation of spray, remove victim from contact with the material for at least 2-3 days. Allow subsequent contact with chlorophenoxy compounds only if effective respiratory protection is practiced. /Chlorophenoxy cmpd/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Morgan DP; Recognition and Management of Pesticide Poisonings. 4th ed. p.66-67 EPA 540/9-88-001. Washington, DC: U.S. Government Printing Office, March 1989"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Morgan DP; Recognition and Management of Pesticide Poisonings. 4th ed. p.66-67 EPA 540/9-88-001. Washington, DC: U.S. Government Printing Office, March 1989",
+                        "Matched": {
+                          "PCLID": 900144635,
+                          "Citation": "Morgan DP; Recognition and Management of Pesticide Poisonings. 4th ed. p.66-67 EPA 540/9-88-001. Washington, DC: U.S. Government Printing Office, March 1989"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "If substantial amounts of chlorophenoxy compounds have been ingested, spontaneous emesis may occur. If vigorous emesis has not occurred, measures should be taken to empty the stomach and limit GI absorption by gastric intubation, aspiration, and lavage, following placement of a cuffed endotracheal tube. Repeated administration of charcoal at half or more the original dosage every 2-4 hr may be beneficial. If gastric aspiration and lavage is not performed due to delay in treatment, and if the patient is fully alert, administer charcoal and laxative orally. Administer iv fluids to accelerate excretion of the chlorophenoxy compound, and to limit concentration of the toxicant in the kidney. A urine flow of 4-6 ml/min is desirable. Iv saline/dextrose has sufficed to rescue comatose patients who drank 2,4-D and mecoprop several hours before hospital admission. Caution: Monitor urine protein and cells, BUN, serum creatinine, serum electrolytes, and fluid intake/output carefully to insure that renal function remains unimpaired and that fluid overload dose not occur. Forced alkaline diuresis has been used successfully in management of suicidal ingestions of chlorophenoxy compounds. Alkalinizing the urine by including sodium bicarbonate (44-88 mEq/l) in the iv solution apparently accelerates excretion of 2,4-D dramatically and mecoprop excretion substantially. Urine pH should be maintained in the 7.5-8.8 range. Include potassium chloride as needed to offset increased potassium losses: add 20-40 mEq of potassium chloride to each liter of iv solution. Monitor serum electrolytes carefully. There may possible be some hazard to the kidneys when urine concentrations of toxicant are very high, so integrity of renal function and fluid balance should be monitored carefully as the chlorophenoxy compound is excreted. Hemodialysis is not likely to be of significant benefit in poisonings by chlorophenoxy compounds because of the extensive protein binding of these chemicals. Follow-up clinical examination should include electromyographic and nerve conduction studies to detect any neuropathic changes and neuromuscular junction defects. /Chlorophenoxy cmpd/",
+                          "Markup": [
+                            {
+                              "Start": 332,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 532,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/charcoal",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5462310"
+                            },
+                            {
+                              "Start": 747,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dextrose",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-5793"
+                            },
+                            {
+                              "Start": 807,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2%2C4-D",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1486"
+                            },
+                            {
+                              "Start": 817,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/mecoprop",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-7153"
+                            },
+                            {
+                              "Start": 920,
+                              "Length": 10,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/creatinine",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-588"
+                            },
+                            {
+                              "Start": 1228,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20bicarbonate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-516892"
+                            },
+                            {
+                              "Start": 1316,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2%2C4-D",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-1486"
+                            },
+                            {
+                              "Start": 1339,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/mecoprop",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-7153"
+                            },
+                            {
+                              "Start": 1433,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/potassium%20chloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4873"
+                            },
+                            {
+                              "Start": 1482,
+                              "Length": 9,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Potassium",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Potassium"
+                            },
+                            {
+                              "Start": 1517,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/potassium%20chloride",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-4873"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Medical Surveillance",
+                "Description": "Medical surveillance information for this compound.  Medical surveillance is the systematic assessment of employees exposed or potentially exposed to occupational hazards. This assessment monitors individuals for adverse health effects and determines the effectiveness of exposure prevention strategies.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Because dermal absorption is an important route of exposure to chlorophenoxy herbicides, biological monitoring is useful in estimating the absorbed dose. Urine concn provide the most accurate estimate of body burden; because of slow absorption, it is best to collect samples after a few days of exposure. /Chlorophenoxy herbicides/"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Human Toxicity Excerpts",
+                "Description": "Excerpts about human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:3456061",
+                      "Wiklund K, Holm LE; JNCI 76 (2): 229 (1986)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:3456061",
+                        "Matched": {
+                          "PCLID": 16404203,
+                          "Citation": "Wiklund K, Holm LE. Soft tissue sarcoma risk in Swedish agricultural and forestry workers. J Natl Cancer Inst. 1986 Feb;76(2):229–34. PMID: 3456061.",
+                          "PMID": 3456061
+                        }
+                      },
+                      {
+                        "Citation": "Wiklund K, Holm LE; JNCI 76 (2): 229 (1986)",
+                        "Matched": {
+                          "PCLID": 16404203,
+                          "Citation": "Wiklund K, Holm LE. Soft tissue sarcoma risk in Swedish agricultural and forestry workers. J Natl Cancer Inst. 1986 Feb;76(2):229–34. PMID: 3456061.",
+                          "PMID": 3456061
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The risk of soft tissue sarcoma following possible exposure to phenoxy acid herbicides was studied in 354,620 Swedish men, who were employed in agriculture or forestry according to a national census in 1960. This cohort was further divided into six subcohorts, on assumed exposure to phenoxy acid herbicides. The reference cohort encompassed 1,725,845 Swedish men employed in other industries. All persons were followed up in the cancer environment register during the period 1961-79. A total of 331 cases of soft tissue sarcomas was observed in the study cohort and there were 1,508 cases in the reference group (relative risk 0.9; 95% confidence interval, 0.8-1.0). No subcohort of agricultural or forestry workers showed any significantly increased relative risk, nor was there any significant difference in relative risk between the subcohorts. Despite the greatly increased use of phenoxy acid herbicides from 1947 to 1970, no time related increase in the relative risk of soft tissue sarcoma was found in the total cohort or in any of the subcohorts. /Phenoxy acid herbicides/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:444410",
+                      "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2009993",
+                      "Hardell L, Sandstrom A; Br J Cancer 39 (6): 711-7 (1979)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:444410",
+                        "Matched": {
+                          "PCLID": 16347393,
+                          "Citation": "Hardell L, Sandström A. Case-control study: Soft-tissue sarcomas and exposure to phenoxyacetic acids or chlorophenols. British Journal of Cancer. 1979 Jun;39(6):711–7. doi: 10.1038/bjc.1979.125.",
+                          "PMID": 444410,
+                          "PMCID": "PMC2009993",
+                          "DOI": "10.1038/bjc.1979.125"
+                        }
+                      },
+                      {
+                        "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2009993",
+                        "Matched": {
+                          "PCLID": 906288905,
+                          "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2009993"
+                        }
+                      },
+                      {
+                        "Citation": "Hardell L, Sandstrom A; Br J Cancer 39 (6): 711-7 (1979)",
+                        "Matched": {
+                          "PCLID": 16347393,
+                          "Citation": "Hardell L, Sandström A. Case-control study: Soft-tissue sarcomas and exposure to phenoxyacetic acids or chlorophenols. British Journal of Cancer. 1979 Jun;39(6):711–7. doi: 10.1038/bjc.1979.125.",
+                          "PMID": 444410,
+                          "PMCID": "PMC2009993",
+                          "DOI": "10.1038/bjc.1979.125"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In 1977, a number of patients with soft tissue sarcomas and previous exposure to phenoxyacetic acids were described. Following from these observations, a matched case-control study was made. The results showed that exposure to phenoxyacetic acids or chlorophenols gave an approximately six-fold increase in the risk factor for this type of tumor. It was not possible to determine, however, whether the carcinogenic effect was exerted by these compounds or by impurities such as chlorinated dibenzodioxins and dibenzofurans that in almost all cases were part of the commercial preparations. /Phenoxyacetic acids and chlorophenols/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:7470379",
+                      "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2010513",
+                      "Hardell L et al; Br J Cancer 43: 169 (1981)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:7470379",
+                        "Matched": {
+                          "PCLID": 21224295,
+                          "Citation": "Hardell L, Eriksson M, Lenner P, Lundgren E. Malignant lymphoma and exposure to chemicals, especially organic solvents, chlorophenols and phenoxy acids: a case-control study. British Journal of Cancer. 1981 Feb;43(2):169–76. doi: 10.1038/bjc.1981.25.",
+                          "PMID": 7470379,
+                          "PMCID": "PMC2010513",
+                          "DOI": "10.1038/bjc.1981.25"
+                        }
+                      },
+                      {
+                        "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2010513",
+                        "Matched": {
+                          "PCLID": 900070752,
+                          "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2010513"
+                        }
+                      },
+                      {
+                        "Citation": "Hardell L et al; Br J Cancer 43: 169 (1981)",
+                        "Matched": {
+                          "PCLID": 21224295,
+                          "Citation": "Hardell L, Eriksson M, Lenner P, Lundgren E. Malignant lymphoma and exposure to chemicals, especially organic solvents, chlorophenols and phenoxy acids: a case-control study. British Journal of Cancer. 1981 Feb;43(2):169–76. doi: 10.1038/bjc.1981.25.",
+                          "PMID": 7470379,
+                          "PMCID": "PMC2010513",
+                          "DOI": "10.1038/bjc.1981.25"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A number of men with malignant lymphoma of the histiocytic type and previous exposure to phenoxy acids or chlorophenols were observed and reported in 1979. A matched case-control study has therefore been performed with cases of malignant lymphoma (Hodgkin's disease and non-Hodgkin's lymphoma). This included 169 cases and 338 controls. The results indicate that exposure to phenoxy acids, chlorophenols, and organic solvents may be a causative factor for malignant lymphoma. Combined exposure of these chemicals seemed to increase the risk. Exposure to various other agents was not obviously different in cases and in controls. /Phenoxy acids and chlorophenols/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:3753879",
+                      "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1007611",
+                      "Pearce NE et al; Br J Ind Med 43: 75-83 (1986)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:3753879",
+                        "Matched": {
+                          "PCLID": 14376266,
+                          "Citation": "Pearce NE, Smith AH, Howard JK, Sheppard RA, Giles HJ, Teague CA. Non-Hodgkin's lymphoma and exposure to phenoxyherbicides, chlorophenols, fencing work, and meat works employment: a case-control study. Occupational and Environmental Medicine. 1986 Feb 01;43(2):75–83. doi: 10.1136/oem.43.2.75.",
+                          "PMID": 3753879,
+                          "PMCID": "PMC1007611",
+                          "DOI": "10.1136/oem.43.2.75"
+                        }
+                      },
+                      {
+                        "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1007611",
+                        "Matched": {
+                          "PCLID": 906284445,
+                          "Citation": "Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1007611"
+                        }
+                      },
+                      {
+                        "Citation": "Pearce NE et al; Br J Ind Med 43: 75-83 (1986)",
+                        "Matched": {
+                          "PCLID": 14376266,
+                          "Citation": "Pearce NE, Smith AH, Howard JK, Sheppard RA, Giles HJ, Teague CA. Non-Hodgkin's lymphoma and exposure to phenoxyherbicides, chlorophenols, fencing work, and meat works employment: a case-control study. Occupational and Environmental Medicine. 1986 Feb 01;43(2):75–83. doi: 10.1136/oem.43.2.75.",
+                          "PMID": 3753879,
+                          "PMCID": "PMC1007611",
+                          "DOI": "10.1136/oem.43.2.75"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "A previous case-control study which used the occupational information available on the New Zealand Cancer Registry found that agricultural workers were at increased risk of developing non-Hodgkin's lymphoma. The findings are now presented for the second phase of the study which entailed interviewing 83 cases of non-Hodgkin's lymphoma registered under code 202 of the International Classification of Diseases together with 168 controls with other types of cancer and 228 general population controls. The findings for the two control groups were similar, and there were no significant differences between cases and controls regarding potential exposure to phenoxyherbicides (odds ratio= 1.4, 90% confidence limits 0.7-2.5, p= 0.26) or chlorophenols (odds ratio= 1.3, 90% confidence limits 0.6-2.7, p= 0.39). The odds ratio for fencing work, necessitating exposure to several potential risk factors including arsenic and sodium pentachlorophenate was 2.0 (90% confidence limits 1.3-3.0, p= 0.01). The odds ratio for employment in a meat works, necessitating potential exposure to 2,4,6-trichlorophenol and zoonotic viruses, was 1.8 (90% confidence limits 1.1-3.1, p= 0.04). There was a significant statistical interaction between the risks associated with these two activities, the odds ratio for involvement in both activities compared with involvement in neither being 5.7 (90% confidence limits 2.3-14.3, p= 0.03). /Phenoxyherbicides, chlorophenols, arsenic, and sodium pentachlorophenate/",
+                          "Markup": [
+                            {
+                              "Start": 908,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 920,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20pentachlorophenate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23663539"
+                            },
+                            {
+                              "Start": 1079,
+                              "Length": 21,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/2%2C4%2C6-trichlorophenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-6914"
+                            },
+                            {
+                              "Start": 1452,
+                              "Length": 7,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/element/Arsenic",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "Element-Arsenic"
+                            },
+                            {
+                              "Start": 1465,
+                              "Length": 25,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sodium%20pentachlorophenate",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-23663539"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "For more Human Toxicity Excerpts (Complete) data for DICHLORFOP-METHYL (14 total), please visit the HSDB record page.",
+                          "Markup": [
+                            {
+                              "Start": 100,
+                              "Length": 16,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6607#section=Human-Toxicity-Excerpts-(Complete)"
+                            },
+                            {
+                              "Start": 53,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DICHLORFOP-METHYL",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Non-Human Toxicity Excerpts",
+                "Description": "Excerpts about non-human toxicity of this compound, extracted from authoritative documents, such as journal articles, government reports, and reference books.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-341"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-341",
+                        "Matched": {
+                          "PCLID": 900066747,
+                          "Citation": "Gosselin, R.E., R.P. Smith, H.C. Hodge. Clinical Toxicology of Commercial Products. 5th ed. Baltimore: Williams and Wilkins, 1984., p. II-341"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Toxic doses produced vomiting in dogs which was life-saving. Not irritating to skin. Formulated product produced corneal opacities and conjunctival irritation in rabbits."
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Ecological Information",
+            "Description": "This section provides information to evaluate the environmental impact of the chemical if it were released to the environment. The information may include data from toxicity tests performed on aquatic and/or terrestrial organisms, where available (e.g., acute or chronic aquatic toxicity data for fish, algae, and crustaceans; toxicity data on birds, bees, and plants).  This section also includes information on whether there is a potential for the chemical to persist or degrade in the environment either through biodegradation or other processes (such as oxidation or hydrolysis) as well as the concentration or amount of the chemical found in the environment (e.g., in plants, animals as well as in the atmosphere or water).",
+            "Section": [
+              {
+                "TOCHeading": "EPA Ecotoxicity",
+                "Description": "Ecotoxicity data from the Environmental Protection Agency (EPA) Office of Pesticide Programs (OPP) Pesticide Ecotoxicity Database.",
+                "URL": "https://ecotox.ipmcenters.org/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 15,
+                    "Name": "Pesticide Ecotoxicity Data from EPA",
+                    "Value": {
+                      "ExternalTableName": "epapest",
+                      "ExternalTableNumRows": 61
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Ecotoxicity Values",
+                "Description": "Quantitative toxicity values (e.g., EC50 and LC50) for various aquatic and/or terrestrial organisms in the ecosystem.",
+                "DisplayControls": {
+                  "ShowAtMost": 3
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 272"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 272",
+                        "Matched": {
+                          "PCLID": 906273122,
+                          "Citation": "Worthing, C.R. and S.B. Walker (eds.). The Pesticide Manual - A World Compendium. 8th ed. Thornton Heath, UK: The British Crop Protection Council, 1987., p. 272"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Rainbow trout 0.35 mg/l/96 hr /Conditions of bioassay not specified/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Budavari, S. (ed.). The Merck Index - Encyclopedia of Chemicals, Drugs and Biologicals. Rahway, NJ: Merck and Co., Inc., 1989., p. 486"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Budavari, S. (ed.). The Merck Index - Encyclopedia of Chemicals, Drugs and Biologicals. Rahway, NJ: Merck and Co., Inc., 1989., p. 486",
+                        "Matched": {
+                          "PCLID": 906286854,
+                          "Citation": "Budavari, S. (ed.). The Merck Index - Encyclopedia of Chemicals, Drugs and Biologicals. Rahway, NJ: Merck and Co., Inc., 1989., p. 486"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "LC50 Coturnix >5000 ppm/5 days"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate/Exposure Summary",
+                "Description": "This section summarizes the environmental fate/exposure of this chemical, including the natural and artificial sources of the chemical as a pollutant, its environmental fate, biodegradation, abiotic degradation, bioconcentration, etc.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dichlorfop-methyl's use as a herbicide will result in its release to the environment through various herbicidal applications. Dichlorfop-methyl has been detected in a Canadian river following a major high water event. If released to soil, dichlorfop-methyl is expected to be slightly mobile to immobile. Several studies have shown that dichlorfop-methyl undergoes rapid microbial hydrolysis in soil to dichlorfop acid, which is fairly stable. If released to water, dichlorfop-methyl will be essentially non-volatile. Dichlorfop-methyl has aqueous base-catalyzed half-lives of 6.3 days at pH 9, 63 days at pH of 8, and 1.7 years at pH of 7. Dichlorfop-methyl will undergo moderate bioconcentration in aquatic organisms and adsorption to sediment will be possible due to high Koc values (2400 to 16,000). If released to the atmosphere, dichlorfop-methyl will exist in the vapor and particulate phases. In the vapor phase, it will degrade in the atmosphere by reaction with photochemically produced hydroxyl radicals with an estimated half-life of 21 hours. Physical removal from air can occur through wet and dry deposition. Exposure to dichlorfop-methyl can occur through dermal contact, inhalation, and ingestion. (SRC)",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 126,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 205,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 239,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 336,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 402,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-38687"
+                            },
+                            {
+                              "Start": 458,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 465,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 517,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 640,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 834,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 996,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 1135,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Artificial Pollution Sources",
+                "Description": "Pollutants are emitted from a range of natural and man-made (artificial) sources.  This section provides information on the artificial sources of the compound as a pollutant.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meister RT et al; Farm Chemicals Handbook 1991 Willoughby, OH: Meister Publ Co. p. c165 (1991)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meister RT et al; Farm Chemicals Handbook 1991 Willoughby, OH: Meister Publ Co. p. c165 (1991)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Dichlorfop-methyl's use as a herbicide(1) will result in its release to the environment through various herbicidal applications(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Fate",
+                "Description": "Environmental fate describes where this chemical goes when it gets out into the environment and how it might be chemically transformed in that process.  This section may provide information on multiple types of environmental fates of the chemical (e.g., aquatic fate, terrestrial fate, and atmospheric fate).   ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Swann RL et al; Res Rev 85: 17-28 (1983)",
+                      "(2) Meylan WM et al; Environ Sci Technol 28: 459-65 (1992)",
+                      "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(4) Lohninger H; Chemosphere 29: 611-26 (1994)",
+                      "(5) Pusino A, Gessa C; Pestic Sci 30: 211-16 (1990)",
+                      "(6) Smith AE J Agric Food Chem 27: 1145-48 (1979)",
+                      "(7) Gaynor JD; Soil Biol Biochem 24: 29-32 (1992)",
+                      "(8) Alexander M; Science 211: 132-8 (1981)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      },
+                      {
+                        "Citation": "(2) Meylan WM et al; Environ Sci Technol 28: 459-65 (1992)"
+                      },
+                      {
+                        "Citation": "(3) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(4) Lohninger H; Chemosphere 29: 611-26 (1994)"
+                      },
+                      {
+                        "Citation": "(5) Pusino A, Gessa C; Pestic Sci 30: 211-16 (1990)"
+                      },
+                      {
+                        "Citation": "(6) Smith AE J Agric Food Chem 27: 1145-48 (1979)"
+                      },
+                      {
+                        "Citation": "(7) Gaynor JD; Soil Biol Biochem 24: 29-32 (1992)"
+                      },
+                      {
+                        "Citation": "(8) Alexander M; Science 211: 132-8 (1981)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: In soil, dichlorfop-methyl will be slightly mobile to immobile(1) based on experimental and estimated Koc values ranging from 2400 to 16,000(2-4). Hydrolysis follows the adsorption of dichlorfop-methyl onto clays(5). After application onto sandy loam plots in May (1.25 kg/ha), only 15% of the applied dichlorfop-methyl was solvent recoverable by October and 37% was associated with the soil in a bound form(6). It has been shown that dichlorfop-methyl undergoes rapid hydrolysis by microorganisms through carboxylation and ether cleavage(7,8). In moist soil, hydrolysis of the ester to the corresponding acid, dichlorfop, is rapid and complete within 9 days(5).",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 202,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 320,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 453,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Smith AE et al; J Environ Qual 15: 234-38 (1986)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Smith AE et al; J Environ Qual 15: 234-38 (1986)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TERRESTRIAL FATE: Following spray application on a wheat field, air samples taken at six different heights above the crop canopy during the first 7 days did not show measurable levels of dichlorfop-methyl, thus indicating minimal losses due to volatilization(1). Analysis of the soil showed that the ester was rapidly hydrolyzed to dichlorfop acid which then underwent decomposition(1). After 126 days, approximately 20% of the initial amount applied could still be recovered from the soil as dichlorfop acid(1). Approximately 27% of the dichlorfop-methyl applied was intercepted by the wheat canopy(1). It was assumed that the remaining 73% had infiltrated down to the soil under the crop canopy(1). There was a rapid decline in the total dichlorfop in the crop canopy so that 5 days after application 5% of the initial amount of dichlorfop applied remained, most being in the form of dichlorfop acid. After 32 days, dissipation of dichlorfop from the crop was essentially complete(1). No dichlorfop acid residues were observed in the mature grain or straw at harvest 88 days after application(1).",
+                          "Markup": [
+                            {
+                              "Start": 187,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 332,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-38687"
+                            },
+                            {
+                              "Start": 493,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-38687"
+                            },
+                            {
+                              "Start": 538,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 886,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-38687"
+                            },
+                            {
+                              "Start": 990,
+                              "Length": 15,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop%20acid",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-38687"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods Washington DC: Amer Chem Soc p.4-9 and 15-15 to 15-29 (1990)",
+                      "(3) USEPA; PCGEMS Graphical Exposure Modeling System. PCHYDRO (1991)",
+                      "(4) Meylan WM et al; Environ Sci Technol 28: 459-65 (1992)",
+                      "(5) Lohninger H; Chemosphere 29: 611-26 (1994)",
+                      "(6) Walker WW et al; Chemosphere 17: 2255-70 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods Washington DC: Amer Chem Soc p.4-9 and 15-15 to 15-29 (1990)"
+                      },
+                      {
+                        "Citation": "(3) USEPA; PCGEMS Graphical Exposure Modeling System. PCHYDRO (1991)"
+                      },
+                      {
+                        "Citation": "(4) Meylan WM et al; Environ Sci Technol 28: 459-65 (1992)"
+                      },
+                      {
+                        "Citation": "(5) Lohninger H; Chemosphere 29: 611-26 (1994)"
+                      },
+                      {
+                        "Citation": "(6) Walker WW et al; Chemosphere 17: 2255-70 (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "AQUATIC FATE: Dichlorfop-methyl will be essentially non-volatile from water based upon an estimated Henry's Law constant of 3.8X10-8 atm-cu m/mol(1,2,SRC). Dichlorfop-methyl has aqueous base-catalyzed half-lives of 6.3 days at pH 9, 63 days at pH of 8, and 1.7 years at pH of 7(3,SRC). Dichlorfop-methyl is expected to have moderate bioconcentration(SRC). Adsorption to sediment may be possible based on high Koc values of 2400 to 16,000(2,4,5,SRC). Dichlorfop-methyl biodegrades faster in the presence of sediment than with water(6).",
+                          "Markup": [
+                            {
+                              "Start": 14,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 70,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 156,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 286,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 450,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 525,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Hartley D, Kidd H (eds); Agrochemicals Handbook 2nd ed Lechworth, Herts, England: The Royal Society of Chemistry (1987)",
+                      "(2) Bidleman TF; Environ Sci Technol 22: 361-7 (1988)",
+                      "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-9(1993)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Hartley D, Kidd H (eds); Agrochemicals Handbook 2nd ed Lechworth, Herts, England: The Royal Society of Chemistry (1987)"
+                      },
+                      {
+                        "Citation": "(2) Bidleman TF; Environ Sci Technol 22: 361-7 (1988)"
+                      },
+                      {
+                        "Citation": "(3) Meylan WM, Howard PH; Chemosphere 26: 2293-9(1993)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "ATMOSPHERIC FATE: Based on an experimental vapor pressure of approximately 2.5X10-7 mm Hg at 20 °C(1), dichlorfop-methyl will exist in the vapor and particulate phases in the ambient atmosphere(2). In the vapor phase, it will degrade in the atmosphere by reaction with photochemically produced hydroxyl radicals with an estimated half-life of 21 hrs(3). Physical removal of particulate dichlorfop-methyl from air is likely to occur through wet and dry deposition(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 103,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 294,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 386,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Biodegradation",
+                "Description": "This section provides information on environmental biodegradation for this compound. Biodegradation is the breakdown of organic matter by microorganisms, such as bacteria and fungi.  An important measure of biodegradability of wastewater is the biochemical oxygen demand (BOD), which is the amount of dissolved oxygen (DO) needed (i.e. demanded) by aerobic biological organisms to break down organic material present in a given water sample at certain temperature over a specific time period. ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Gaynor JD; Soil Biol Biochem 24: 29-32 (1992)",
+                      "(2) Alexander M; Science 211: 132-8 (1981)",
+                      "(3) Martens R; Pestic Sci 9: 127-34 (1978)",
+                      "(4) Smith AE; J Agric Food Chem 25: 893-98 (1977)",
+                      "(5) Walker WW et al; Chemosphere 17: 2255-70 (1988)",
+                      "(6) Wink O, Luley U; Pestic Sci 22: 31-40 (1988)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Gaynor JD; Soil Biol Biochem 24: 29-32 (1992)"
+                      },
+                      {
+                        "Citation": "(2) Alexander M; Science 211: 132-8 (1981)"
+                      },
+                      {
+                        "Citation": "(3) Martens R; Pestic Sci 9: 127-34 (1978)"
+                      },
+                      {
+                        "Citation": "(4) Smith AE; J Agric Food Chem 25: 893-98 (1977)"
+                      },
+                      {
+                        "Citation": "(5) Walker WW et al; Chemosphere 17: 2255-70 (1988)"
+                      },
+                      {
+                        "Citation": "(6) Wink O, Luley U; Pestic Sci 22: 31-40 (1988)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In soil, the rate of hydrolysis of dichlorfop-methyl followed the order pH 6.4>7.5>5.5(1). Dichlorfop-methyl appears to be hydrolyzed in soil by hydrolase enzymes associated with viable microorganisms(1). As established in model ecosystems or by direct measurements of soils or waters, dichlorfop-methyl undergoes decarboxylation and ether cleavage reactions in biological systems(2). Dichlorfop-methyl undergoes rapid microbial hydrolysis of the ester bond(3). Dichlorfop, the corresponding acid, was formed and was extensively degraded under aerobic conditions, the final product being CO2(3). Under anaerobic conditions, the degradation proceeded to a small extent, at most, where 3% of the applied radioactivity is accounted for by the degradation product 4-(2,4-dichlorophenoxy)phenol(3). No other metabolite, including CO2 was observed implying a lack of any further degradation(3). In a degradation study of dichlorfop-methyl in moist non-sterile heavy clay, silty clay, and sandy loam soils, an initial and rapid hydrolysis to the corresponding acid was followed by a much slower hydrolytic process so that traces of the ester could still be seen after 10 weeks(4). Dichlorfop-methyl showed significantly more degradation in the presence of nonsterile sediment than in the presence of sterile sediment(5). It also biodegraded faster in the presence of sediment than in water alone(5). No racemization of the ester takes place upon hydrolysis in soil, but inversion of configuration of the hydrolysis products is observed (the S-configuration showed a higher inversion tendency than the R-configuration)(6).",
+                          "Markup": [
+                            {
+                              "Start": 35,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 91,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 286,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 385,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 760,
+                              "Length": 29,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/4-%282%2C4-dichlorophenoxy%29phenol",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-94509"
+                            },
+                            {
+                              "Start": 915,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 1174,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 1377,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Abiotic Degradation",
+                "Description": "Abiotic degradation is a process by which a chemical substance is broken down into smaller molecules by non-biotic means (e.g., hydrolysis, photolysis, and oxidation).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "Nat'l Research Council Canada; Phenoxyherbicides p.45 (1978) NRCC No. 16075"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "Nat'l Research Council Canada; Phenoxyherbicides p.45 (1978) NRCC No. 16075",
+                        "Matched": {
+                          "PCLID": 900051168,
+                          "Citation": "Nat'l Research Council Canada; Phenoxyherbicides p.45 (1978) NRCC No. 16075"
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Sunlight falling on the earth's surface is composed of wavelengths greater than about 280 nm ... phenoxy herbicides have an ultraviolet absorption maxima in water in the 280-290 nm range, they ... can absorb radiation and be photochemically degraded. /Phenoxy herbicides/",
+                          "Markup": [
+                            {
+                              "Start": 157,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-9 (1993)",
+                      "(2) USEPA; PCGEMS Graphical Exposure Modeling System. PCHYDRO (1991)",
+                      "(3) Pusino A, Gessa C; Pestic Sci 30: 211-16 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howard PH; Chemosphere 26: 2293-9 (1993)"
+                      },
+                      {
+                        "Citation": "(2) USEPA; PCGEMS Graphical Exposure Modeling System. PCHYDRO (1991)"
+                      },
+                      {
+                        "Citation": "(3) Pusino A, Gessa C; Pestic Sci 30: 211-16 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The rate constant for the vapor-phase reaction of dichlorfop-methyl with photochemically produced hydroxyl radicals has been estimated to be approximately 18X10-12 cu cm/molecule-sec at 25 °C which corresponds to an atmospheric half-life of about 21 hours at an atmospheric concn of 5X10+5 hydroxyl radicals per cu cm(1,SRC). Dichlorfop-methyl has an aqueous base-catalyzed rate constant of 0.13 l/mol-sec which corresponds to half-lives of 6.3 days at pH 9, 63 days at pH of 8, and 1.7 years at pH of 7(2,SRC). Degradation of dichlorfop-methyl in hydroalcoholic solution is catalyzed by clays and involves a solvotic process which proceeds through a nucleophilic substitution at the carboxyl group and cleavage of the ester bond(3).",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 98,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 290,
+                              "Length": 8,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-157350"
+                            },
+                            {
+                              "Start": 326,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 527,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Bioconcentration",
+                "Description": "This section provides information on environmental bioconcentration for this compound.  Bioconcentration is the accumulation of a chemical in or on an organism when the source of chemical is solely water. Bioconcentration is a term that was created for use in the field of aquatic toxicology. Bioconcentration can also be defined as the process by which a chemical concentration in an aquatic organism exceeds that in water as a result of exposure to a waterborne chemical.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Budavari S et al; The Merck Index - Encyclopedia of Chemicals, Drugs, and Biologicals Rahway, NJ: Merck and Co Inc 11th ed p. 486 (1989)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-10 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Budavari S et al; The Merck Index - Encyclopedia of Chemicals, Drugs, and Biologicals Rahway, NJ: Merck and Co Inc 11th ed p. 486 (1989)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 5-10 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Based upon an experimental water solubility of 3 mg/l(1), the BCF of dichlorfop-methyl can be estimated to be approximately 300 from a regression-derived equation(2). This estimated BCF value suggests moderate bioconcentration in aquatic organisms(SRC).",
+                          "Markup": [
+                            {
+                              "Start": 27,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 69,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Soil Adsorption/Mobility",
+                "Description": "Sorption to soils and sediments is an important factor on the transport and fate of organic contaminants in the environment.  The soil/water adsorption coefficient, also known as solid-water distribution coefficient (Kd), measures the amount of chemical substance adsorbed onto soil per amount of water.  Since adsorption occurs predominantly by partition into the soil organic matter, it is more useful to normalize the Kd value to the organic carbon content of a soil and express the distribution coefficient in Koc (organic carbon normalized distribution coefficient).  The greater the Kd (or Koc) value, the less likely a chemical will leach or contribute to runoff.  A very high value means it is strongly adsorbed onto soil and organic matter and does not move throughout the soil.",
+                "URL": "https://my.ucanr.edu/repository/fileAccessPublic.cfm?fn=ca2702p8-64013.pdf",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM et al; Environ Sci Technol 28: 459-65(1992)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990)",
+                      "(3) Budavari S; The Merck Index - Encyclopedia of Chemicals, Drugs, and Biologicals Rahway, NJ: Merck and Co Inc 11th ed p. 486 (1989)",
+                      "(4) Lohninger H; Chemosphere 29: 611-26 (1994)",
+                      "(5) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM et al; Environ Sci Technol 28: 459-65(1992)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods. Washington DC: Amer Chem Soc pp. 4-9 (1990)"
+                      },
+                      {
+                        "Citation": "(3) Budavari S; The Merck Index - Encyclopedia of Chemicals, Drugs, and Biologicals Rahway, NJ: Merck and Co Inc 11th ed p. 486 (1989)"
+                      },
+                      {
+                        "Citation": "(4) Lohninger H; Chemosphere 29: 611-26 (1994)"
+                      },
+                      {
+                        "Citation": "(5) Swann RL et al; Res Rev 85: 17-28 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Using a structure estimation method based on molecular connectivity indexes, the Koc for dichlorfop-methyl can be estimated to be about 4000(1). The Koc for dichlorfop-methyl can be estimated to be about 2400 based on an estimated water solubility of 3 mg/L(3) and a regression derived equation(2). Koc for dichlorfop-methyl has also been determined to be 16,000(4). According to a suggested classification scheme(5), these estimated and experimental Koc values suggest that dichlorfop-methyl will be slightly mobile to immobile in soil.",
+                          "Markup": [
+                            {
+                              "Start": 89,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 157,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 231,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 307,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 475,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Volatilization from Water/Soil",
+                "Description": "Volatilization of chemicals from water/soil is the transfer of the chemical as a gas through the water-air or soil-air interface under environmental conditions",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Meylan WM, Howrd PH; Environ Toxicol Chem 10: 1283-93 (1991)",
+                      "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods Washington DC: Amer Chem Soc p.15-15 to 15-29 (1990)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Meylan WM, Howrd PH; Environ Toxicol Chem 10: 1283-93 (1991)"
+                      },
+                      {
+                        "Citation": "(2) Lyman WJ et al; Handbook of Chemical Property Estimation Methods Washington DC: Amer Chem Soc p.15-15 to 15-29 (1990)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "The Henry's Law constant for dichlorfop-methyl has been estimated to be 3.8X10-8 atm-cu m/mole using a structure estimation method(1). This value of Henry's Law constant indicates that dichlorfop-methyl is essentially non-volatile from water(2).",
+                          "Markup": [
+                            {
+                              "Start": 29,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 185,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 236,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Environmental Water Concentrations",
+                "Description": "Concentrations of this chemical in water in various stages of hydrologic cycle (e.g., drinking water, ground water, surface water, and rain/snow).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "PMID:3655185",
+                      "(1) Muir DCG, Grift NP; J Environ Sci Health B22: 259-84 (1987)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "PMID:3655185",
+                        "Matched": {
+                          "PCLID": 25217704,
+                          "Citation": "Muir DC, Grift NP. Herbicide levels in rivers draining two prairie agricultural watersheds (1984). J Environ Sci Health B. 1987 Jun;22(3):259–84. doi: 10.1080/03601238709372557. PMID: 3655185.",
+                          "PMID": 3655185,
+                          "DOI": "10.1080/03601238709372557"
+                        }
+                      },
+                      {
+                        "Citation": "(1) Muir DCG, Grift NP; J Environ Sci Health B22: 259-84 (1987)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "SURFACE WATER: In 1984, dichlorfop-methyl was detected in the Turtle River (Canada) at 476 ng/l following a major high water event in late June but was undetectable (<12 ng/l) at other sampling times(1).",
+                          "Markup": [
+                            {
+                              "Start": 8,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/WATER",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            },
+                            {
+                              "Start": 24,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            },
+                            {
+                              "Start": 119,
+                              "Length": 5,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-962"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Food Survey Values",
+                "Description": "Information on the amount or concentration of this compound in food, reported from various data sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Frank R et al; Bull Environ Contam Toxicol 39: 272-79 (1987)",
+                      "(2) Frank R et al; J Assoc Off Anal Chem 70: 1081-86 (1987)",
+                      "(3) Schattenberg HJ III, Hsu JP; J AOAC Interntl 75: 925-33 (1992)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Frank R et al; Bull Environ Contam Toxicol 39: 272-79 (1987)"
+                      },
+                      {
+                        "Citation": "(2) Frank R et al; J Assoc Off Anal Chem 70: 1081-86 (1987)"
+                      },
+                      {
+                        "Citation": "(3) Schattenberg HJ III, Hsu JP; J AOAC Interntl 75: 925-33 (1992)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "In three studies (1980-84, 1980-85, and 1989-91) dichlorfop-methyl (detection limit 0.1 ppm) was not found in the fruits and vegetables examined from the United States and Ontario, Canada(1-3).",
+                          "Markup": [
+                            {
+                              "Start": 49,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Probable Routes of Human Exposure",
+                "Description": "Potential way(s) in which people may come into contact with a hazardous chemical.  Examples of common exposure routes are inhalation, ingestion, skin/eye contact.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work).",
+                        "Matched": {
+                          "PCLID": 906616361,
+                          "Citation": "IARC. Monographs on the Evaluation of the Carcinogenic Risk  of Chemicals to Humans. Geneva: World Health Organization,  International Agency for Research on Cancer, 1972-PRESENT.  (Multivolume work)."
+                        }
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "... Occupational exposure to chlorophenoxy herbicides ... is known to have occurred during their production, formulation, application & disposal. /Chlorophenoxy herbicides/"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 23,
+                    "Description": "PEER REVIEWED",
+                    "Reference": [
+                      "(1) Parmeggiani L; Encycl Occup Health and Safety 3rd ed Geneva, Switzerland: International Labour Office p. 1034-1041 (1983)"
+                    ],
+                    "ExtendedReference": [
+                      {
+                        "Citation": "(1) Parmeggiani L; Encycl Occup Health and Safety 3rd ed Geneva, Switzerland: International Labour Office p. 1034-1041 (1983)"
+                      }
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Herbicides, such as dichlorfop-methyl, can be absorbed into the body by three routes: dermal contact, inhalation, and ingestion(1).",
+                          "Markup": [
+                            {
+                              "Start": 20,
+                              "Length": 17,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dichlorfop-methyl",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-39985"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EFSA OpenFoodTox",
+            "Description": "Openfoodtox is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+            "URL": "http://www.efsa.europa.eu/en/data/chemical-hazards-data",
+            "Section": [
+              {
+                "TOCHeading": "EFSA Outputs",
+                "Description": "EFSA publications and DOI for the given substance.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_output&query_type=synonym&query='^Diclofop-methyl$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Points",
+                "Description": "EFSA Hazard Characterization: Reference Points information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_point&query_type=synonym&query='^Diclofop-methyl$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Hazard Characterization: Reference Values",
+                "Description": "EFSA Hazard Characterization: Reference Values information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_val&query_type=synonym&query='^Diclofop-methyl$'"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EFSA Genotoxicity",
+                "Description": "EFSA Genotoxicity information.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 12,
+                    "Value": {
+                      "ExternalTableName": "collection=efsa_gtox&query_type=synonym&query='^Diclofop-methyl$'"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "ChemIDplus",
+        "SourceID": "r_135001555",
+        "Description": "The toxicity data was from the legacy RTECS data set in ChemIDplus.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/?source=chemidplus&sourceid=0051338273",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 19482844
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "EFSA OpenFoodTox",
+        "SourceID": "eae314dbb7aab096d758767cbce1e47a",
+        "Name": "Diclofop-methyl",
+        "Description": "The European Food Safety Authority EFSA's chemical hazards database, the OpenFoodTox, is a compilation of chemical and toxicological information on chemicals assessed by EFSA since its creation and included in already published scientific opinions.",
+        "LicenseURL": "https://www.efsa.europa.eu/en/legalnotice",
+        "ANID": 49735920
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "EPA Pesticide Ecotoxicity Database",
+        "SourceID": "CID39985",
+        "Description": "The EPA Pesticide Ecotoxicity Database, updated by the Ecological Fate and Effects Division of the EPA Office of Pesticide Programs, contains all EPA reviewed ecotoxicity endpoints for pesticides registered or previously registered in the U.S. Toxicity data.",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 2125464
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "EPA Safe Drinking Water Act (SDWA)",
+        "SourceID": "131256cd8ac4bba49e3bdf8a608a441f",
+        "Name": "Diclofop-methyl",
+        "Description": "This table provides the EPA 2021 Human health benchmarks non-enforceable drinking water levels related to adverse health effects from drinking water exposure to contaminants that have no drinking water standards or health advisories.",
+        "URL": "https://www.epa.gov/sdwa/2021-human-health-benchmarks-pesticides",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 39667272
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "EPA Toxicity Values Database (ToxValDB)",
+        "SourceID": "Compound::DTXSID0032605",
+        "Name": "(+-)-Diclofop-methyl",
+        "Description": "The US EPA Toxicity Values Database (ToxValDB) is a large compilation of in vivo toxicology data and risk assessment values.",
+        "LicenseNote": "As part of EPA's commitment to share data, all of the computational toxicology data is publicly available for anyone to access and use. EPA's computational toxicology data is considered \"open data\", and thus all of the data below are free of all copyright restrictions, and fully and freely available for both non-commercial and commercial use.",
+        "LicenseURL": "https://www.epa.gov/comptox-tools/downloadable-computational-toxicology-data",
+        "ANID": 56998254
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+        "SourceID": "hz4766",
+        "Name": "Dichlofop-methyl",
+        "Description": "Haz-Map® is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents.",
+        "LicenseNote": "Copyright (c) 2026 Haz-Map(R). All rights reserved.\nUnless otherwise indicated, all materials from Haz-Map are copyrighted by Haz-Map(R). No part of these materials, either text or image may be used for any purpose other than for personal use. Therefore, reproduction, modification, storage in a retrieval system or retransmission, in any form or by any means, electronic, mechanical or otherwise, for reasons other than personal use, is strictly prohibited without prior written permission.",
+        "ANID": 17279206
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "Hazardous Substances Data Bank (HSDB)",
+        "SourceID": "6607",
+        "Name": "DICHLORFOP-METHYL",
+        "Description": "The Hazardous Substances Data Bank (HSDB) is a toxicology database that focuses on the toxicology of potentially hazardous chemicals. It provides information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, regulatory requirements, nanomaterials, and related areas. The information in HSDB has been assessed by a Scientific Review Panel.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/source/hsdb/6607",
+        "LicenseURL": "https://www.nlm.nih.gov/web_policies.html",
+        "IsToxnet": true,
+        "ANID": 4361
+      },
+      {
+        "ReferenceNumber": 35,
+        "SourceName": "Risk Assessment Information System (RAIS)",
+        "SourceID": "rais_Diclofop-methyl",
+        "Name": "Diclofop-methyl",
+        "Description": "The Risk Assessment Information System (RAIS) disseminates risk tools and supplies information for risk assessment activities. Taking advantage of searchable and executable databases, menu-driven queries, and data downloads using the latest Web technologies, the RAIS offers essential tools and information for the risk assessment process.",
+        "URL": "https://rais.ornl.gov/cgi-bin/tools/TOX_search",
+        "LicenseNote": "This work has been sponsored by the U.S. Department of Energy (DOE), Office of Environmental Management, Oak Ridge Operations (ORO) Office through a joint collaboration between United Cleanup Oak Ridge LLC (UCOR), Oak Ridge National Laboratory (ORNL), and The University of Tennessee, Ecology and Evolutionary Biology, The Institute for Environmental Modeling (TIEM). All rights reserved.",
+        "LicenseURL": "https://rais.ornl.gov/",
+        "ANID": 45400758
+      },
+      {
+        "ReferenceNumber": 42,
+        "SourceName": "Toxin and Toxin Target Database (T3DB)",
+        "SourceID": "Compound::T3D3824",
+        "Name": "Diclofop-methyl",
+        "Description": "The Toxin and Toxin Target Database (T3DB), or, soon to be referred as, the Toxic Exposome Database, is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information.",
+        "URL": "http://www.t3db.ca/toxins/T3D3824",
+        "LicenseNote": "T3DB is offered to the public as a freely available resource. Use and re-distribution of the data, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (T3DB) and the original publication.",
+        "LicenseURL": "https://t3db.ca/downloads",
+        "ANID": 20443259
+      },
+      {
+        "ReferenceNumber": 45,
+        "SourceName": "USGS Columbia Environmental Research Center",
+        "SourceID": "D0190",
+        "Name": "DICLOFOP METHYL",
+        "Description": "The Acute Toxicity Database at the USGS Columbia Environmental Research Center (CERC) provides the results from aquatic acute toxicity tests.",
+        "URL": "https://www.cerc.usgs.gov/data/acute/qrychemdesc.asp?Chemical=D0190",
+        "LicenseURL": "https://www.usgs.gov/foia",
+        "ANID": 2284325
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "QIQXTHQIDYTFRH-UHFFFAOYSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-11-12T18:46:27.816947+00:00",
+  "url": "/chemical/search/equal/QIQXTHQIDYTFRH-UHFFFAOYSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "dtxsid": "DTXSID8021642",
+        "dtxcid": "DTXCID301642",
+        "casrn": "57-11-4",
+        "preferredName": "1-Octadecanoic acid",
+        "hasStructureImage": 1,
+        "smiles": "CCCCCCCCCCCCCCCCCC(O)=O",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "QIQXTHQIDYTFRH-UHFFFAOYSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}

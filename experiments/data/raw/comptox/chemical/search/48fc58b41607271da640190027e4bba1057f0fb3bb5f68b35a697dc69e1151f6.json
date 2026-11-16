@@ -1,0 +1,37 @@
+{
+  "search_term": "Borneol",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:10.664339+00:00",
+  "url": "/chemical/search/equal/Borneol",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "endo-Borneol",
+        "dtxsid": "DTXSID3052143",
+        "dtxcid": "DTXCID3032387",
+        "casrn": "507-70-0",
+        "hasStructureImage": 1,
+        "smiles": "CC1(C)[C@@H]2CC[C@@]1(C)[C@@H](O)C2",
+        "isMarkush": false,
+        "searchName": "Synonym from Valid Source",
+        "searchValue": "BORNEOL",
+        "rank": 11
+      },
+      {
+        "preferredName": "[(1S)-endo]-(-)-Borneol",
+        "dtxsid": "DTXSID3022035",
+        "dtxcid": "DTXCID102035",
+        "casrn": "464-45-9",
+        "hasStructureImage": 1,
+        "smiles": "[H][C@]12CC[C@](C)([C@H](O)C1)C2(C)C",
+        "isMarkush": false,
+        "searchName": "Synonym",
+        "searchValue": "Borneol",
+        "rank": 15
+      }
+    ],
+    "suggestions": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "search_term": "Saflufenacil",
+  "search_basis": "name",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:33:56.498678+00:00",
+  "url": "/chemical/search/equal/Saflufenacil",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Saflufenacil",
+        "dtxsid": "DTXSID9058072",
+        "dtxcid": "DTXCID5031840",
+        "casrn": "372137-35-4",
+        "hasStructureImage": 1,
+        "smiles": "CC(C)N(C)S(=O)(=O)NC(=O)C1=CC(N2C(=O)C=C(N(C)C2=O)C(F)(F)F)=C(F)C=C1Cl",
+        "isMarkush": false,
+        "searchName": "Approved Name",
+        "searchValue": "Saflufenacil",
+        "rank": 9
+      }
+    ],
+    "suggestions": []
+  }
+}

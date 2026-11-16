@@ -1,0 +1,25 @@
+{
+  "search_term": "JXRNMQDTJAQLAQ-UTZXOHNXSA-N",
+  "search_basis": "inchikey",
+  "provider": "EPA CompTox",
+  "retrieved_at": "2026-10-21T13:35:39.338007+00:00",
+  "url": "/chemical/search/equal/JXRNMQDTJAQLAQ-UTZXOHNXSA-N",
+  "status": 200,
+  "response": {
+    "candidates": [
+      {
+        "preferredName": "Aplotaxene",
+        "dtxsid": "DTXSID801318527",
+        "dtxcid": "DTXCID701748335",
+        "casrn": "10482-53-8",
+        "hasStructureImage": 1,
+        "smiles": "CC\\C=C/C\\C=C/C\\C=C/CCCCCC=C",
+        "isMarkush": false,
+        "searchName": "InChIKey",
+        "searchValue": "JXRNMQDTJAQLAQ-UTZXOHNXSA-N",
+        "rank": 13
+      }
+    ],
+    "suggestions": []
+  }
+}
