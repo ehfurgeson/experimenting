@@ -5,7 +5,7 @@ adds external identity checks and a critical Li 7b hold. The 47 conditional
 actives below describe the preserved historical package, not its effective current status.
 
 Reviewed **2026-11-05**. Source package:
-[`notes/compound_review_deeper_2026-10-29/`](../../notes/compound_review_deeper_2026-10-29/).
+`notes/compound_review_deeper_2026-10-29/` in the historical research archive.
 This assessment preserves that directory unchanged. It reviews the package and
 its lineage; it does not independently approve the original paper tables,
 structure drawings, biological thresholds or labels.

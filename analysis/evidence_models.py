@@ -32,6 +32,11 @@ from oob import oob_permutation
 SEED = 20261112
 
 
+def toxicity_forest():
+    return RandomForestClassifier(n_estimators=200, min_samples_leaf=5, max_features=1.0,
+                                  class_weight='balanced', random_state=SEED, n_jobs=2)
+
+
 def read(path):
     with Path(path).open() as stream:
         return list(csv.DictReader(stream))
@@ -120,9 +125,7 @@ def evaluate(rows, pathway):
             'majority': DummyClassifier(strategy = 'most_frequent'),
             'logistic': make_pipeline(StandardScaler(), LogisticRegression(
                 C = 1, class_weight = 'balanced', max_iter = 2000, random_state = SEED)),
-            'forest': RandomForestClassifier(n_estimators = 200, min_samples_leaf = 5,
-                                              max_features = 1.0, class_weight = 'balanced',
-                                              random_state = SEED, n_jobs = 2),
+            'forest': toxicity_forest(),
         }
         for name, model in classifiers.items():
             model.fit(x[train], labels[train])

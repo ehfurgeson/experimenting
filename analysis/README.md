@@ -18,12 +18,17 @@ Requires Python 3.12+ and `uv`. All commands here run from the repository root:
 
 ```bash
 uv sync --project analysis --locked
-uv run --project analysis pytest analysis/tests -q
+uv run --directory analysis --locked python -X utf8 -m pytest tests -q
 uv run --project analysis ruff check analysis
 ```
 
 The locked environment installs sibling `pipeline/` as an editable dependency.
 Setup may download dependencies; tests use synthetic inputs without research caches.
+
+For the current catalog-wide plant and toxicity results, start with the
+[joint-screen notebook](docs/joint-catalog-notebook.md). Its rebuild driver
+downloads pinned public releases and reads the supplied local imports. The
+commands below cover the earlier curated-panel workflows.
 
 For a local research bundle (absent from a fresh clone):
 
@@ -190,3 +195,87 @@ scores, class-specific logistic weights and forest OOB permutation importance.
 It distinguishes stability from statistical significance. The maintained
 [same-target OOB command](docs/modeled-evidence.md#same-target-forest-oob-exploration)
 rebuilds the additional diagnostic bundle; the notebook itself stays untracked.
+
+## Local import inventory
+
+Run `python analysis/import_inventory.py data_imports <fresh-output.jsonl>`
+from the repository root. It records each file's SHA-256 and size, profiles
+delimited tables including nested archives, and counts populated workbook
+rows by sheet. The [import audit](docs/import-coverage-2026-11-18.md) maps
+the sources to prior workflows.
+
+From `analysis/`, run `uv run --locked python -m pytest tests/test_import_inventory.py -q`.
+
+## Public toxicity cohort reconstruction
+
+From the repository root, run:
+
+```bash
+uv run --project analysis --locked python analysis/public_toxicity.py \
+  --ice data_imports/NICE/acute_oral.xlsx --opera <pinned-OPERA_Data.zip> \
+  --output experiments/import-expansion/public-cohorts
+```
+
+Use the pinned OPERA archive in [modeled evidence](docs/modeled-evidence.md).
+The command uses the established A/B filters and aggregation, preserves source
+observations, and emits a hash-verified cohort membership table for catalog
+overlays. Its manifest identifies this as a public-only reconstruction. It can
+feed `evidence_models.py` and the existing sprint overlays when reviewed
+selection files and the historical cache are unavailable.
+
+From `analysis/`, run `uv run --locked python -m pytest tests/test_public_toxicity.py -q`.
+
+## NICE workbook context
+
+`nice_context.py --nice data_imports/NICE --release <public-cohorts> --output <fresh-dir>`
+profiles the other NICE workbooks against the measured ICE cohort. Its
+compressed JSON Lines export retains native contexts and locators. The manifest
+reports all scanned rows and coverage by identity tier per sheet.
+
+From `analysis/`, run `uv run --locked python -m pytest tests/test_nice_context.py -q`.
+
+## NICE archive coverage
+
+`nice_archive_coverage.py --nice data_imports/NICE --release <public-cohorts> --output <fresh-dir>`
+retains matched ClassyFire records and counts NICE cHTS endpoint rows per
+unambiguous measured-cohort DTXSID. It reads the nested archive without
+expanding it into the workspace. The exported cHTS counts show availability.
+
+From `analysis/`, run `uv run --locked python -m pytest tests/test_nice_archive_coverage.py -q`.
+
+## Public reference panel
+
+`public_panel.py --release <public-cohorts> --models <evaluated-models> --hrac <master-list.xlsx>
+--literature resources/annona_primary_review_2026-11-18.csv --output <fresh-dir>`
+checks cohort and model hashes and emits per-record forest probabilities plus
+observed ICE and CATMoS teacher evidence when available. Use the
+`analysis/resources/` path for the literature input from the repository root.
+Pass `--selection <original-structural_features.parquet>` to include an
+original reviewed panel. Missing and held structures remain as output rows.
+Repeat `--extra-literature <panel.csv>` to score evidence from named plant
+studies separately. A study row needs a panel, compound name, SMILES,
+identity status, DOI and source locator.
+
+From `analysis/`, run `uv run --locked python -m pytest tests/test_public_panel.py -q`.
+
+## Public evidence intersection
+
+`import_screen.py --root <public-run> --panel <public-panel> --output <fresh-dir>`
+verifies the public cohort, ECOTOX, NPASS, COCONUT and ToxValDB bundles. It writes
+dose-point plant responses, catalog-linked EPA leads, group descriptors and
+LD50 bins, and analogues to source-supported plant structures. A second EPA
+audit can be passed with `--toxval-extra`.
+The analogue output includes a sensitivity ranking restricted to structures
+whose exact ICE reports all fall in the high LD50 bin.
+
+From `analysis/`, run `uv run --locked python -m pytest tests/test_import_screen.py -q`.
+
+See the [18 November import results](docs/import-results-2026-11-18.md)
+for the completed public reruns, evidence counts and original-panel dependency.
+The [Parthenium evidence workflow](docs/parthenium-evidence.md) extracts
+controlled literature dose points and reconciles printed and recalculated
+inhibition.
+The [low-LD50 catalog review](docs/catalog-hazard-review.md) traces the
+underlying ICE reports and separates NPASS links from reviewed origin evidence.
+The [OOB randomization check](docs/oob-null-test.md) compares the binary
+forests with a whole-block label permutation null.

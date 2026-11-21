@@ -1,9 +1,10 @@
 # Data, provenance and reproduction
 
-A clone supplies code, environments, policies, synthetic tests and reference
-exports. It does **not** supply the research input bundle. `notes/`,
-`experiments/`, `analysis/data/`, `analysis/outputs/` and pipeline live-check
-artifacts are intentionally ignored. Keep each environment's lockfile.
+A clone supplies code, lockfiles, policies, synthetic tests, and compact
+research inputs. The current catalog rebuild needs the local NICE, NPASS,
+and restored plant-v5 files in `data_imports/`. Its public sources have pinned
+URLs and checksums. The larger local research archives and generated outputs
+live in ignored directories. [Catalog rebuild and data layout](../analysis/docs/joint-catalog-notebook.md)
 
 ## Categories and preservation
 

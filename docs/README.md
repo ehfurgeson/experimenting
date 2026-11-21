@@ -9,7 +9,10 @@ their test counts and results are historical observations.
 | Pipeline developer | [Setup and minimal example](../pipeline/README.md), [inputs/identity](../pipeline/docs/inputs-identity.md), [retrieval/cache](../pipeline/docs/retrieval-cache.md) |
 | Evidence analyst | [Normalization](../pipeline/docs/normalization.md), [endpoint comparisons](../pipeline/docs/endpoints-comparisons.md), [EPA/ChEMBL](../pipeline/docs/epa-chembl.md) |
 | Research analyst / presenter | [Analysis quickstart](../analysis/README.md), [cached analysis](../analysis/docs/cached-analysis.md) |
+| Catalog screening and model review | [Joint screen](../analysis/docs/joint-catalog-screen.md), [notebook and full rebuild](../analysis/docs/joint-catalog-notebook.md) |
 | Separate measured / modeled toxicity | [A/B protocol and release workflow](../analysis/docs/modeled-evidence.md) |
+| New source evidence and natural-product overlap | [Data-first sprint](../analysis/docs/data-sprint.md) |
+| Accepted-data experimental continuation | [Accepted sprint cohorts and experiments](../analysis/docs/accepted-sprint.md) |
 | Structure analyst | [Screening and labels](../analysis/docs/structural-screening.md), [stress/ablations/review](../analysis/docs/diagnostics-review.md) |
 | Protein-interaction analyst | [Experimental structural-evidence pilot](../analysis/docs/binding-evidence.md): exact ligand/form and deposited protein checks; no affinity inference |
 | Toxicity source reviewer | [Experimental rat-source checkpoint](../analysis/docs/rat-source-review-2026-11-12.md): primary result mapping, dose basis, overlap decisions and unresolved source contradictions |
@@ -35,8 +38,6 @@ their test counts and results are historical observations.
 
 ## Historical and local material
 
-The [prototype status](../prototype/README.md) identifies the earlier retrieval
-implementation. Local `notes/README.md` indexes current research context, dated scientific reports,
-provenance and utilities. Local agent instructions live in `notes/AGENTS/README.md`;
-the root `AGENTS.md` explains discovery and clean-clone guidance. See [data](data.md)
-for acquisition dependencies and ignored input requirements.
+The [prototype status](../prototype/README.md) describes the earlier retrieval
+implementation. The [data guide](data.md) lists inputs for current and
+historical workflows.

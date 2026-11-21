@@ -39,8 +39,8 @@ def write_csv(path, rows, fields = None):
         writer.writerows(rows)
 
 
-def workbook_rows(path, sheet):
-    """Read source cells without evaluating formulas; reject duplicate/blank headers."""
+def workbook_rows(path, sheet, *, descriptive=False):
+    """Read source cells, preserving formulas and unheaded cells in descriptive mode."""
     with zipfile.ZipFile(path) as archive:
         book = ET.fromstring(archive.read('xl/workbook.xml'))
         rels = ET.fromstring(archive.read('xl/_rels/workbook.xml.rels'))
@@ -61,7 +61,8 @@ def workbook_rows(path, sheet):
                     continue
                 cells = {}
                 for cell in row.findall('m:c', NS):
-                    if cell.find('m:f', NS) is not None:
+                    formula = cell.find('m:f', NS)
+                    if formula is not None and not descriptive:
                         raise ValueError('Source formulas require separate review')
                     col = re.match(r'[A-Z]+', cell.attrib['r'])[0]
                     index = 0
@@ -69,19 +70,30 @@ def workbook_rows(path, sheet):
                         index = index * 26 + ord(char) - 64
                     value = cell.find('m:v', NS)
                     value = value.text if value is not None else None
-                    if cell.attrib.get('t') == 's' and value is not None:
+                    if formula is not None:
+                        value = {'formula': formula.text, 'formula_attributes': formula.attrib,
+                                 'cached_value': value}
+                    elif cell.attrib.get('t') == 's' and value is not None:
                         value = strings[int(value)]
                     elif cell.attrib.get('t') == 'inlineStr':
                         value = ''.join(cell.find('m:is', NS).itertext())
                     cells[index - 1] = value
                 if header is None:
                     header = [cells.get(i) for i in range(max(cells, default = -1) + 1)]
-                    if not header or None in header or len(set(header)) != len(header):
+                    if (not header or any(not isinstance(h, str) for h in header)
+                            or len(set(header)) != len(header)):
                         raise ValueError('Unique populated headers required')
                 else:
+                    record = {h: cells.get(i) for i, h in enumerate(header)}
                     if cells and max(cells) >= len(header):
-                        raise ValueError('Source cell exceeds header width')
-                    yield int(row.attrib['r']), {h: cells.get(i) for i, h in enumerate(header)}
+                        if not descriptive:
+                            raise ValueError('Source cell exceeds header width')
+                        extra = {i + 1: value for i, value in cells.items()
+                                 if i >= len(header) and value is not None}
+                        if extra:
+                            record['__unheaded_cells__'] = extra
+                    if not descriptive or any(value is not None for value in record.values()):
+                        yield int(row.attrib['r']), record
                 row.clear()
 
 
@@ -195,6 +207,45 @@ def ld50_bin(log_value):
     return 0 if log_value <= math.log10(1080) else 1 if log_value <= math.log10(3400) else 2
 
 
+def ice_compounds(a, bykey):
+    seen, values, support = set(), defaultdict(list), defaultdict(list)
+    for r in a:
+        if r['status'] != 'exact':
+            continue
+        sig = (r['full_key'], r['reference'], r['sex'], r['value_mg_kg'])
+        if sig not in seen:
+            values[r['full_key']].append(r['value_mg_kg'])
+            seen.add(sig)
+        support[r['full_key']].append(r['source_record_id'])
+    return [{**{k: bykey[key][k] for k in ['full_key', 'connectivity', 'smiles', 'scaffold',
+                                       *FEATURES]},
+           'target_log10_mg_kg': math.log10(median(vals)),
+           'ld50_bin': ld50_bin(math.log10(median(vals))), 'deduplicated_values': len(vals),
+           'source_record_ids': json.dumps(support[key]), 'source_cohort': 'ICE'}
+          for key, vals in sorted(values.items())]
+
+
+def catmos_compounds(b, bykey):
+    bkeys = defaultdict(list)
+    for r in b:
+        if r['status'] == 'eligible':
+            bkeys[r['full_key']].append(r)
+    bc = []
+    for key, rs in sorted(bkeys.items()):
+        # Conflicting provider outputs must not be silently averaged.
+        vals = {r['value_log10_mg_kg'] for r in rs}
+        if len(vals) != 1:
+            continue
+        value = next(iter(vals))
+        bc.append({**{k: bykey[key][k] for k in ['full_key', 'connectivity', 'smiles',
+                                               'scaffold', *FEATURES]},
+                   'target_log10_mg_kg': value, 'ld50_bin': ld50_bin(value),
+                   'source_record_ids': json.dumps([r['source_record_id'] for r in rs]),
+                   'training_membership': ';'.join(sorted({r['training_membership'] for r in rs})),
+                   'ad_conclusion': 'Inside', 'source_cohort': 'OPERA_CATMoS_bulk'})
+    return bc
+
+
 def freeze(sources, data, output):
     sources, data, output = map(Path, (sources, data, output))
     if output.exists():
@@ -253,39 +304,13 @@ def freeze(sources, data, output):
     write_csv(output / 'A_observations.csv', a)
     write_csv(output / 'B_predictions.csv', b)
     write_csv(output / 'held_zenodo_aggregation.csv', zenodo)
-    seen, values, support = set(), defaultdict(list), defaultdict(list)
-    for r in a:
-        if r['status'] != 'exact':
-            continue
-        sig = (r['full_key'], r['reference'], r['sex'], r['value_mg_kg'])
-        if sig not in seen:
-            values[r['full_key']].append(r['value_mg_kg'])
-            seen.add(sig)
-        support[r['full_key']].append(r['source_record_id'])
     bykey = {r['full_key']: r for r in identities.values() if r.get('full_key')}
-    ac = [{**{k: bykey[key][k] for k in ['full_key', 'connectivity', 'smiles', 'scaffold',
-                                       *FEATURES]},
-           'target_log10_mg_kg': math.log10(median(vals)),
-           'ld50_bin': ld50_bin(math.log10(median(vals))), 'deduplicated_values': len(vals),
-           'source_record_ids': json.dumps(support[key]), 'source_cohort': 'ICE'}
-          for key, vals in sorted(values.items())]
+    ac = ice_compounds(a, bykey)
     bkeys = defaultdict(list)
     for r in b:
         if r['status'] == 'eligible':
             bkeys[r['full_key']].append(r)
-    bc = []
-    for key, rs in sorted(bkeys.items()):
-        # Conflicting provider outputs must not be silently averaged.
-        vals = {r['value_log10_mg_kg'] for r in rs}
-        if len(vals) != 1:
-            continue
-        value = next(iter(vals))
-        bc.append({**{k: bykey[key][k] for k in ['full_key', 'connectivity', 'smiles',
-                                               'scaffold', *FEATURES]},
-                   'target_log10_mg_kg': value, 'ld50_bin': ld50_bin(value),
-                   'source_record_ids': json.dumps([r['source_record_id'] for r in rs]),
-                   'training_membership': ';'.join(sorted({r['training_membership'] for r in rs})),
-                   'ad_conclusion': 'Inside', 'source_cohort': 'OPERA_CATMoS_bulk'})
+    bc = catmos_compounds(b, bykey)
     write_csv(output / 'A_compounds.csv', ac)
     write_csv(output / 'B_compounds.csv', bc)
     write_csv(output / 'chemical_identity.csv', identities.values())

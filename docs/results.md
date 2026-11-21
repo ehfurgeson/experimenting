@@ -1,5 +1,39 @@
 # Frozen result and export inventory
 
+The current full catalog release joins 768,439 structures. The reviewed joint
+screen has 415 exact high-oral aggregates, including 166 with a high pooled
+plant score. The original count included a known lower bound. Use
+`catalog-joint-screen-v2` and `catalog-joint-diagnostics-v2` for the current
+notebook. [Joint results](../analysis/docs/joint-catalog-screen.md) ·
+[Clean rebuild](../analysis/docs/joint-catalog-notebook.md)
+
+The [plant evidence feasibility pass](../analysis/docs/plant-evidence-experiments-2026-11-17.md)
+owns the complete-series recovery, context/continuous-response experiments and
+diagnostic selection queue under `experiments/plant-evidence-2026-11-17/`
+(`experiments-v3`, `validation-queue-v2`, `report-v4`; `experiments-v2` used plant-v3 labels).
+
+The [17 November research follow-up](../analysis/docs/research-followup-2026-11-17.md)
+adds a LOTUS occurrence overlay, fixed representation pilots and selection/analogue
+screens. Local products are under
+`experiments/data_acquisition/2026-11-17-review-followup/pilot-v2/` and `report-v3/`;
+the linked report records scope, uncertainty and reproduction commands.
+
+The [17 November accepted-data continuation](../analysis/docs/accepted-sprint-2026-11-17.md)
+evaluates expanded toxicity and pooled plant models under the user's acceptance
+assumptions. The current release is `plant-v5`, `plant-models-v5`,
+`integrated-screen-v5`, `toxicity-v2`, `toxicity-models-v2`, `uncertainty-v2`,
+and `results-v5`. It links **49 structures**
+that have a catalog hit, an exact LD50, and a plant label; **10** are selected
+herbicides and **4** are selected natural products. Plant labels are 733
+observations / 211 structures / 76 references, with 207 high and 526 low.
+The screen has 2,890 candidates and an 11-member mathematical prediction front.
+The original 120-structure count, `plant-v1`, and `results-v2` are retracted.
+`plant-v4` scored every percent-of-control value at or below 100 with direction
+INC as low unless the comment recorded a decrease. Stimulation is now used only
+when the comment documents an increase or stimulation. A comment that only names
+percent of control keeps inhibition = 100 − response.
+See the [corrected candidate audit](../analysis/docs/candidate-audit-2026-11-17.md).
+
 Inventory inspected **2026-11-02**. Paths below `analysis/outputs/` are local,
 ignored and absent from a clone. Dates in folder names are run identifiers;
 only manifest timestamps establish actual generation times. Exact inputs/settings,
@@ -339,3 +373,10 @@ splits or binary OOB sensitivity. The gitignored local experimental Marimo
 notebook at `notes/notebooks/evidence_experiments.py` begins with Track 1/2
 compound/group counts, then explores F1, logistic coefficients, forest importance
 and publication-transfer failure. See the checkpoint for its scientific scope.
+# Data-first evidence sprint, 17 November 2026
+
+The [source-yield checkpoint](../analysis/docs/data-sprint-2026-11-17.md) records
+exact natural-catalog overlays for frozen A/B, bounded NPASS/ToxValDB eligibility
+audits, non-algal ECOTOX plant leads and the distinct occurrence/plant/LD50 overlap
+tiers. COCONUT matches 1,478/4,234 A structures; 445 candidate new exact-value
+ToxValDB structures retain form/lineage holds. Zero new labels are admitted.

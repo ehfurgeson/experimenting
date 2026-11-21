@@ -72,7 +72,7 @@ def test_offline_hazard_tables_preserve_context_and_selected_denominators(hazard
     ]
     paths = analysis["measurements"]["raw_file"].unique().to_list()
     assert paths == [str(epa_hazard_path(hazard_cache, "DTXSID1"))]
-    assert len([p for p in analysis.dependencies if "/hazard/" in p]) == 2
+    assert len([p for p in analysis.dependencies if "hazard" in Path(p).parts]) == 2
     assert str(hazard_cache / "epa_identity_crosswalk.parquet") in analysis.dependencies
 
 

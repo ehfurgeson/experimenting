@@ -26,12 +26,20 @@ through its own locked environment. It is currently a flat script collection:
 | Evidence and presentation | `rebuild`, `build_traits`, `endpoint_analysis`, `endpoint_coverage`, `distributions`, `compare`, `classifiers`, `stats`, `presentation`, `professor_notebook` |
 | Chemistry and labels | `formula`, `structure`, `labels`, `structure_models`, `screen` |
 | Review and diagnostics | `review_assays`, `stress`, `ablations` |
+| Catalog screening | `rebuild_joint_catalog`, `catalog_screen_inventory`, `catalog_bulk_screen`, `plant_catalog_screen`, `joint_catalog_screen` |
+| Catalog interpretation | `joint_catalog_diagnostics`, `joint_catalog_notebook` |
 
 `analysis/rebuild.py` reads prepared local source caches and writes separate
 products. It is not a complete acquisition/bootstrap process. Bare sibling imports,
 `runpy` invocation and `analysis/*.py` code hashing depend on this layout.
 `pipeline/examples/endpoints.yaml` is shared research configuration. Preserve these
 paths until a separately tested packaging or portability change is justified.
+
+`analysis/rebuild_joint_catalog.py` is a separate entry point for the current
+catalog workflow. It verifies pinned public downloads, consumes the supplied
+imports and tracked compact observations, then rebuilds exact-structure
+features, models, the combined screen, and the notebook diagnostics. See the
+[joint catalog rebuild](../analysis/docs/joint-catalog-notebook.md).
 
 ## Local preparation and earlier analysis
 
@@ -59,8 +67,8 @@ retrieval into the offline rebuild.
 Run from the repository root:
 
 ```bash
-uv run --project pipeline pytest pipeline/tests -q
-uv run --project analysis pytest analysis/tests -q
+uv run --directory pipeline --locked python -m pytest tests -q
+uv run --directory analysis --locked python -X utf8 -m pytest tests -q
 uv run --project pipeline ruff check pipeline
 uv run --project analysis ruff check analysis
 ```

@@ -70,8 +70,12 @@ def expand(features, output, client = None):
     (output / 'reproduction').mkdir()
     code = [Path(__file__), Path('pipeline/src/agrotox/epa_identity.py'),
             Path('pipeline/src/agrotox/epa_test.py'), Path('pipeline/src/agrotox/sources/comptox.py')]
+    root = Path(__file__).resolve().parents[1]
     for p in code:
-        (output / 'reproduction' / str(p).replace('/', '__')).write_bytes(p.read_bytes())
+        relative = p.resolve().relative_to(root) if p.is_absolute() else p
+        name = relative.as_posix().replace('/', '__')
+        (output / 'reproduction' / name).write_bytes((root / relative).read_bytes())
+    code = [root / p for p in code]
     manifest = {'status': 'stored_external_predictions_not_new_structure_inference',
                 'input': {str(features): sha(features)}, 'code': {str(p): sha(p) for p in code},
                 'states': dict(Counter(r['state'] for r in ledger)),

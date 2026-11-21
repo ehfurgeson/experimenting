@@ -1,6 +1,7 @@
 """Deterministic offline composition of every analysis table."""
 
 import hashlib
+from pathlib import Path
 
 import polars as pl
 import pytest
@@ -67,11 +68,11 @@ def test_raw_evidence_is_not_modified(snapshot_cache, curated_queries):
 
 def test_dependencies_cover_the_selected_evidence(snapshot_cache, curated_queries):
     analysis = build_offline(snapshot_cache, curated_queries, DEFINITIONS)
-    names = {path.rsplit("/", 1)[-1] for path in analysis.dependencies}
+    names = {Path(path).name for path in analysis.dependencies}
     assert "properties.json" in names
     assert "metadata.json" in names
     assert "toxicity.json" in names
-    aliases = [path for path in analysis.dependencies if "/queries/" in path]
+    aliases = [path for path in analysis.dependencies if "queries" in Path(path).parts]
     assert len(aliases) == 3
     # The unresolved query has no alias and therefore no consumed file.
     assert len(analysis.dependencies) == 12

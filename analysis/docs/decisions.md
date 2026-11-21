@@ -1,5 +1,18 @@
 # Structural analysis policies
 
+## Accepted-data experiments
+
+The user's 17 November 2026 continuation explicitly accepts all acquired data and
+authorizes full experimental freedom. The [accepted-sprint workflow](accepted-sprint.md)
+implements a separate experimental scope rather than rewriting prior evidence.
+Within that scope, source-form, context and independent-review holds no longer
+block experiments. Accepted assumptions remain machine-readable alongside original
+source fields. Unknown numerical outcomes are not invented, censoring remains
+explicit and measured versus teacher-derived targets remain distinguishable.
+Exploratory pooled plant models and alternative split sensitivities are authorized;
+their evaluation must report actual study/chemical overlap and endpoint context.
+The earlier workflow policies below continue to describe their original releases.
+
 Topic index (policy rationale; workflow commands live in the component guides):
 
 - [Source-identity holds](#source-identity-holds)
@@ -288,3 +301,86 @@ validation. The first release uses structure-derived features; a both-X-and-y
 measured cohort remains unsupported. Combined pathway C requires a later design
 decision after separate evaluation, and no combined fit is authorized by this
 workflow.
+
+## Import inventory counts
+
+Delimited-table counts exclude the header and report blank records and
+nonblank records with unexpected widths separately. Workbook counts include
+headings and metadata rows and exclude cells containing only formatting.
+An archive member name includes its container chain for traceability.
+Recorded use is assessed from repository evidence, with version differences
+and direct use of local bytes assessed independently.
+
+## Public toxicity reconstruction
+
+The public-only reconstruction uses the same exact-dose and CATMoS aggregation
+as the frozen release. It preserves source qualifiers and separates the
+provisional measured A targets from the CATMoS teacher B targets. No modeled
+values enter the A targets. The reconstruction has no original selection,
+manually reviewed identity decisions, or CTX TEST cache.
+
+## NICE context linkage
+
+Exact linkage uses a valid single-component full key and holds conflicts with
+ICE identifiers. An unambiguous DTXSID can supply an identifier-only lead when
+the source omits structure. Mixtures and unreadable or conflicting source
+structures stay on hold. The descriptive reader preserves unevaluated
+expressions, cached cells and populated unheaded cells as tokens. The original
+acute-oral parser retains its stricter admission rules. These workbook matches
+are descriptive evidence and preserve the source-specific endpoints and units.
+
+## Standalone ECOTOX discovery
+
+The ecological source inventory can run without a local adopted-label bundle.
+In archive-only mode all observations retain their review status and refer
+back to the native test, species, result and reference. No adopted policy
+or training label is reconstructed from the archive.
+
+## NPASS production context
+
+The four production tables keep producer, inducer, elicitor, engineering and
+symbiont fields under their original source definitions. A successful join
+requires an eligible NPASS full structure in the requested cohort. The result
+retains the provenance and association type and leaves natural occurrence,
+independent corroboration and activity for separate review.
+
+## COCONUT cohort-indexed validation
+
+The optional cohort-only scan limits recomputation to the provider connectivity
+blocks under consideration. Any eligible full-key match requires agreement
+between the provider key and recomputed key. Skipping other provider blocks
+preserves eligible matches while leaving those records unqualified.
+
+## ToxValDB source subsets
+
+Endpoint screening accepts an explicit, unique subset of version-pinned
+ToxValDB workbooks. Each workbook keeps its native evidence and table locator.
+Adding source tables leaves the endpoint and study-lineage gates in place.
+
+## NICE archive evidence roles
+
+ClassyFire supplies predicted structural taxonomy for matched identities.
+cHTS counts are coverage indexed by DTXSID and endpoint. A count says
+nothing about response direction or assay quality. Interpreting activity
+requires reviewing the assay, flags, cytotoxicity and chemical QC together.
+
+## Public panel identity and scoring
+
+The public HRAC workbook provides herbicide-use groups. Literal names
+and explicitly separated aliases link to source structures, retaining
+ambiguities and original tested-form review status. For CATMoS name links
+the input structure precedes the standardized QSAR parent. Reviewed panel
+rows additionally require agreement between the recorded and recomputed
+full key. Forest outputs use group-held-out predictions for training-cohort
+members and clearly labeled exploratory full-fit estimates for other rows.
+
+## Public evidence intersection
+
+The plant subset uses an unambiguous source DTXSID link, a positive scalar
+concentration, an available control context and an explicit response scale.
+It assigns the existing high and low response bands to eligible ECOTOX points
+with endpoint NR. Threshold-derived endpoints such as NOEC, censored responses
+and bounds on exposure remain available in the source inventory. The bins on
+EPA leads describe qualifying exact source reports with conflicts retained.
+Catalog, taxon/reference association and herbicide use remain separate evidence.
+Structural profiles are descriptive and use each full key once within a group.

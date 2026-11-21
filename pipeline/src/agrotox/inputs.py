@@ -85,7 +85,7 @@ def load_queries(path: Path) -> list[Query]:
     if path.suffix.lower() not in {".csv", ".txt"}:
         raise ValueError(f"Expected a .csv or .txt input file: {path}")
     try:
-        with path.open(encoding = "utf-8-sig", newline = "") as stream:
+        with path.open(encoding = "utf-8-sig", newline = None) as stream:
             if path.suffix.lower() == ".txt":
                 rows = (
                     {"query": line.strip()}

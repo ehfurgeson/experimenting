@@ -1,4 +1,42 @@
-# Seven-endpoint analysis checkpoint
+# Analysis checkpoints
+
+The current catalog analysis joins plant and toxicity scores for **768,439**
+unique structures. The measured-oral comparison has **166** high-LD50 and
+high-plant-score overlaps after treating the butyl stearate limit as a lower
+bound. The separate model-score comparison has **11,557** overlaps. Explore
+the experimental evidence, held-out model metrics, and out-of-bag importance
+for all 20 screening forests in the [joint catalog notebook](docs/joint-catalog-notebook.md).
+The [joint screen report](docs/joint-catalog-screen.md) records thresholds and
+why high oral LD50 alone leaves other hazards unresolved.
+
+## Earlier seven-endpoint and accepted-data checkpoints
+
+The [plant evidence experiments](docs/plant-evidence-experiments-2026-11-17.md)
+recover complete primary series, evaluate context and assay-specific models,
+reconstruct dose responses and stress-test experimental selection. Read their
+feasibility decisions and evidence limitations before using the new working tables.
+
+For the earlier LOTUS overlay, protected model pilots, selection
+screens and analogue queue, read the
+[17 November research follow-up](docs/research-followup-2026-11-17.md).
+
+Current accepted-sprint bundles are `plant-v5`, `plant-models-v5`,
+`integrated-screen-v5`, `toxicity-v2`, `toxicity-models-v2`, `uncertainty-v2`,
+and `results-v5`. The 120-structure `results-v2` run is retracted. A
+percent-of-control value above 100 has inhibition = 100 − value (120% of control
+is −20, low). At or below 100, stimulation (−value, low) is used only when the
+comment documents an increase or stimulation. A comment that only names percent
+of control keeps inhibition = 100 − response, even if direction is INC. The
+toxicity forests were refit on the log10-median targets. Read the
+[dated checkpoint](docs/accepted-sprint-2026-11-17.md) and the
+[candidate audit](docs/candidate-audit-2026-11-17.md).
+
+For the user-accepted experimental continuation, including expanded toxicity,
+plant models and three-axis candidates, see
+[accepted-data experiments](docs/accepted-sprint-2026-11-17.md).
+
+For the latest natural-catalog and new-source yield audit, see the
+[data-first sprint checkpoint](docs/data-sprint-2026-11-17.md).
 
 Navigation updated 2026-11-02; the dated checkpoint results below are preserved.
 For the separate local-only permissive activity experiment, see
@@ -863,3 +901,19 @@ See the [checkpoint](docs/modeled-evidence-2026-11-12.md#same-target-oob-explora
 for feature drops, exact biological group intersections, provenance and the local
 experimental notebook. Earlier binary OOB and frozen validation results remain
 preserved.
+# Data-first source yield — 17 November 2026
+
+The [dated sprint checkpoint](docs/data-sprint-2026-11-17.md) records an AI
+experimental, provenance-linked source audit against unchanged A/B and selection
+memberships. COCONUT matches 1,478/4,234 A structures (34.9%), NPASS 793, and either
+catalog 1,617. NPASS taxon/publication links cover 476 A structures, pending primary
+review. Catalog membership does not establish independently verified occurrence.
+
+NPASS toxicity lacks route/acute/experimental-status fields. Bounded ToxValDB source
+screening finds 445 candidate new exact-value structures and 884 additional
+censored-only structures through local identifier links; form/independence holds
+prevent admission. Confirmed net-new eligible structures remain zero, independent
+study novelty unknown. ECOTOX adds a review inventory of 73,317 non-algal plant
+growth/germination/biomass results, with no new labels. All four accepted plant
+policies still fail existing class/scaffold support. Only one A structure has
+already adopted occurrence and plant-response evidence. No new model was fitted.

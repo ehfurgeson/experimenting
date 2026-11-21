@@ -18,6 +18,7 @@ establish safety.
 | Understand the project and code | [Documentation index](docs/README.md), [architecture](docs/architecture.md) |
 | Use retrieval/normalization APIs | [Pipeline quickstart](pipeline/README.md) |
 | Rebuild cached analysis or open the notebook | [Analysis quickstart](analysis/README.md) |
+| Recreate the catalog-wide plant and toxicity screen | [Joint screen and notebook quickstart](analysis/docs/joint-catalog-notebook.md) |
 | Read current research checkpoints | [Dated findings](analysis/FINDINGS.md), [result inventory](docs/results.md) |
 | Review compound activity/origin | [Researcher label guide](analysis/docs/label_review_guide.md) |
 | Obtain or prepare inputs | [Data and provenance guide](docs/data.md) |
@@ -27,9 +28,9 @@ environment separately and run the offline suites:
 
 ```bash
 uv sync --project pipeline --locked
-uv run --project pipeline pytest pipeline/tests -q
+uv run --directory pipeline --locked python -m pytest tests -q
 uv sync --project analysis --locked
-uv run --project analysis pytest analysis/tests -q
+uv run --directory analysis --locked python -X utf8 -m pytest tests -q
 ```
 
 Environment setup may download dependencies. Offline tests need neither research
@@ -47,9 +48,9 @@ bundles and makes no retrieval requests.
 | `prototype/` | [Historical standalone retrieval prototype](prototype/README.md) |
 | `experiments/`, `notes/` | Ignored local preparation, provenance and research history |
 
-**A fresh clone does not include real-data inputs or frozen results.**
-`experiments/`, `notes/`, `analysis/data/` and `analysis/outputs/` are intentionally
-ignored. The local `notes/GOALS.md` is the unmodified research compass, not a
-clean-clone prerequisite. Read the [data guide](docs/data.md) before running
-real-data examples. Raw snapshots and reviewed research inputs are distinct from
-disposable tooling caches.
+**Recreate the current catalog analysis** with the tracked rebuild driver, the
+supplied `data_imports/` folder and checksum-pinned public downloads. Compact
+research inputs are tracked under `analysis/resources/`. Historical runs can
+require their own archived inputs. Generated runs and local data stay outside
+Git. [Rebuild the catalog analysis](analysis/docs/joint-catalog-notebook.md) ·
+[Historical data guide](docs/data.md)

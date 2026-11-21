@@ -1,7 +1,18 @@
-analysis/outputs/ecotox-selected-approved-2026-11-11/native_observations.csv
-analysis/outputs/expansion-ecotox-2026-11-11/native_observations.csv
-analysis/outputs/expansion-ecotox-2026-11-11-context-verified/native_observations.csv
-experiments/backups/pre-main-2026-11-12/research-preservation.tar.gz
-experiments/data/raw/ecotox/2026-09-15/source.zip
+reconstruction/
+notes/
+experiments/
+todo.md
 .DS_Store
+.venv/
+results/
+complete/
+.vscode
 .env
+# Local presentation inputs, computed products, and rendered exports
+analysis/data/
+analysis/outputs/
+analysis/.uv-cache/
+__pycache__/
+analysis/__marimo__/
+# User-supplied source imports
+data_imports/

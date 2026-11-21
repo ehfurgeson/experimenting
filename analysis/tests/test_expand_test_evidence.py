@@ -43,6 +43,7 @@ def test_empty_prediction_is_logged_as_absence_not_zero(tmp_path):
     result = expand(inputs(tmp_path), output, Client())
     assert result['states'] == {'no_stored_output': 1}
     assert pl.read_parquet(output / 'B_TEST_predictions.parquet').is_empty()
+    assert (output / 'reproduction' / 'pipeline__src__agrotox__epa_identity.py').is_file()
     assert json.loads((output / 'manifest.json').read_text())['prediction_rows'] == 0
     with pytest.raises(FileExistsError):
         expand(tmp_path / 'features.parquet', output, Client())
